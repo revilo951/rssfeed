@@ -1,8 +1,8 @@
 cacheUrl: https://revilo951.github.io/rssfeed/cache.json
 sources:
+  - href: https://www.reddit.com/r/selfhosted/.rss
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
   - href: http://feeds.arstechnica.com/arstechnica/index/
-  - href: https://www.reddit.com/r/selfhosted/.rss
