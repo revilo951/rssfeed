@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T02:20:30.760Z</updated>
+    <updated>2021-05-28T02:27:08.323Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Looking for a TTRSS app that allows oauth]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmn8kk/looking_for_a_ttrss_app_that_allows_oauth/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmn8kk/looking_for_a_ttrss_app_that_allows_oauth/"/>
+        <updated>2021-05-28T02:00:49.000Z</updated>
+        <summary type="html"><![CDATA[So i have decided to re-setup my self hosted services. Runs under docker with traefik(1.7) as a reverse proxy/ssl provider (lets encrypt). traefik has a middle ware thing called traefik-forward-auth that allows you to tap into an oauth provider to secure your services. One of the services I was hoping to run is ttrss, which works almost perfectly. Thing is, none of the android applications seem to be able to deal with the oauth redirection going on. As a middle ground i have disabled oauth for that subdomain, enabled basic http auth and then the authentication provided by the ttrss app.
+ I don't like not having a unified auth system but i also really need to use an app instead of the web browser on my phone (pre-caching/better formatting). Can anyone point me in the right direction? Only thing i can think of is finding a custom theme that has great mobile support? Maybe I'm being too paranoid (probably) and ill be fine with the two layers of basic auth.
+ I'm curious how other people have this set up?
+ Does anyone have any suggestions?
+ Thanks for reading.
+    submitted by    /u/SluggishDog  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ohio lawmakers want to abolish vaccine requirements—all vaccine requirements]]></title>
         <id>https://arstechnica.com/?p=1768349</id>
@@ -14,6 +30,18 @@
         <summary type="html"><![CDATA[Someone would only have to verbally decline vaccination and cite "reasons of conscience."]]></summary>
         <author>
             <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dedicated Ipv6 to each container]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmkrd0/dedicated_ipv6_to_each_container/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmkrd0/dedicated_ipv6_to_each_container/"/>
+        <updated>2021-05-27T23:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Hello, I have gotten my hand on a /112 IPv6 subnet so I really wanted to ask this, Is it possible to make a docker network where each container on the network gets it's own dedicated IPv6 and an Internal IPv4, If this is possible then how would I do it?
+    submitted by    /u/typicalGta  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
         </author>
     </entry>
     <entry>
@@ -37,6 +65,34 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I wrote a Guide for self hosting security camera's securely on a Raspberry Pi!]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmgy7x/i_wrote_a_guide_for_self_hosting_security_cameras/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmgy7x/i_wrote_a_guide_for_self_hosting_security_cameras/"/>
+        <updated>2021-05-27T20:35:09.000Z</updated>
+        <summary type="html"><![CDATA[This is all my setup I went through over a few days of trial and error to get myself a proper sandbox'd environment for my cameras.
+ I have multiple Reolink cameras connected by a PoE switch to my Raspberry pi, which acts as a DHCP server for them and runs Shinobi as the cam software.
+ All camera viewing then has to be performed through the Shinobi software, which is hosted instead off my local subnet.
+ The trick is utilizing the Raspberry Pi's wifi module + its ethernet port, allowing you to sandbox off the cameras to the Ethernet subnet (and thus requires a direct physical connection to access their data), and then view the camera footage over the wifi subnet (through your home router)
+ I also have a NGINX configured reverse proxy server I use, as I have a website domain I host my stuff off of, which lets me access shinobi from anywhere (but requires login of course)
+ Result: DIY Reverse Proxied Sandbox'd DVR
+ Let me know if you have any questions!
+ Step by Step Guide Link: https://gist.github.com/SteffenBlake/93d442c0413425112e17de8e13642215
+ Software:
+  
+PuTTY to SSH into the Raspbery Pi from Windows
+ Raspbian Lite OS on the Pi
+ UFW Firewall
+ NGINX Reverse Proxy
+ isc-dhcp-server for DHCP serving IPs to the sandbox'd cameras
+ Shinobi for the Camera Dashboard
+  
+   submitted by    /u/lionhart280  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Charter charges more money for slower Internet on streets with no competition]]></title>
         <id>https://arstechnica.com/?p=1768175</id>
         <link href="https://arstechnica.com/?p=1768175"/>
@@ -57,6 +113,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What type of app have you been searching for and just doesn't exist?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmfqas/what_type_of_app_have_you_been_searching_for_and/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmfqas/what_type_of_app_have_you_been_searching_for_and/"/>
+        <updated>2021-05-27T19:42:01.000Z</updated>
+        <summary type="html"><![CDATA[I am a software engineer who self hosts a bunch of things and has some free time. I would like to start a project and wondered if people had something missing in their self-hosting lives to get me started on ideas. So what have you always wanted to be able to self host and not been able to?
+    submitted by    /u/anonjx0  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PlayStation users left out of Borderlands 3 cross-platform features]]></title>
         <id>https://arstechnica.com/?p=1768176</id>
         <link href="https://arstechnica.com/?p=1768176"/>
@@ -64,6 +132,17 @@
         <summary type="html"><![CDATA[Sony's recently revealed cross-platform revenue-sharing plan may be to blame.]]></summary>
         <author>
             <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NocoDB - Selfhosted Airtable]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmendk/nocodb_selfhosted_airtable/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmendk/nocodb_selfhosted_airtable/"/>
+        <updated>2021-05-27T18:55:11.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/shayishere  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
         </author>
     </entry>
     <entry>
@@ -79,6 +158,18 @@ The post To $ or Not to $: Displaying Terminal Code Snippets appeared first on C
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self Hosted CRM Software]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmdtdi/self_hosted_crm_software/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmdtdi/self_hosted_crm_software/"/>
+        <updated>2021-05-27T18:18:34.000Z</updated>
+        <summary type="html"><![CDATA[Which companies provide self hosted CRM Software?
+    submitted by    /u/supportcrm  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
         </author>
     </entry>
     <entry>
@@ -102,6 +193,42 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hi, I got directed here with this question !]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmd38g/hi_i_got_directed_here_with_this_question/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmd38g/hi_i_got_directed_here_with_this_question/"/>
+        <updated>2021-05-27T17:47:01.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/amolakjoshi  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help Authelia - How to setup OTP / DUO ?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmcp4k/help_authelia_how_to_setup_otp_duo/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmcp4k/help_authelia_how_to_setup_otp_duo/"/>
+        <updated>2021-05-27T17:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Hi guys,
+ I thought I would only remain a spectator of this community but today, I need your help ! 
+ I've setup a NGinx Proxy Manager (Click here if you're interested about it)
+ With this reddit post : i've added authelia to NGinx (with the help of this post ) and it works fine with user/pass 
+ but now, i'm planning to add DUO / OTP, but .. i don't know why it just doesn't work ! I can't find where to activate it for my user
+ here is my users_database.yml and configuration.yml
+ https://pastebin.com/raw/iMXEyuPf
+ ​
+ i've tried to modify "one_factor" with "two_factor" but when it asks me DUO/OTP and I registering myself, i got this error : 
+ https://i.imgur.com/KJK3Rrn.png
+ https://pastebin.com/raw/njAKss7E
+ ​
+ Thanks a lot ! 
+ and sorry for my bad english, i'm a baguette-man :)
+    submitted by    /u/TheBidouilleur  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google’s 80-acre megacampus will take over a chunk of San Jose]]></title>
         <id>https://arstechnica.com/?p=1768069</id>
         <link href="https://arstechnica.com/?p=1768069"/>
@@ -109,6 +236,84 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Google does not yet know the cost of the 10- to 30-year construction project.]]></summary>
         <author>
             <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Application to help me move home/buy new furniture]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmca09/application_to_help_me_move_homebuy_new_furniture/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmca09/application_to_help_me_move_homebuy_new_furniture/"/>
+        <updated>2021-05-27T17:11:49.000Z</updated>
+        <summary type="html"><![CDATA[I'm looking for suggestions on software, or even ideas on how to plan this out.
+ We're moving house and we need new furniture for everything since our current place has it all provided.
+ I was thinking of a Kanban board of some kind. Maybe one board for each room and each big item could be a "ticket" (sofa/fridge etc). Then I could have To Buy/Bought/Delivered for each column and drag each item as needed. Suggestions for each item could be added as comments.
+ Does this seem like a good idea? Or is there any other way people could think to organise something like this? I would love it if there were metadata that could be assigned to each item, so I could have a cost associated to a ticket then for each room I could see how much has been spent etc.
+ Whatever solution has to be able to support images on tickets. Ideally I have to get my fiance to use and if the UI is not somewhat pretty/modern I know for a fact she won't use it, no matter how good it is. I’m not sure on Kanban because I need mobile for this and from what I’ve seen a lot of them aren’t responsive on an iPhone.
+    submitted by    /u/Adhesiveduck  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing a ssh reverse tunnel (like localhost.run)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmc9xe/securing_a_ssh_reverse_tunnel_like_localhostrun/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmc9xe/securing_a_ssh_reverse_tunnel_like_localhostrun/"/>
+        <updated>2021-05-27T17:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Hi there - I'm pretty new to things like this but I was wondering if anyone may be able to help me.
+ Say I have a webapp and I'm using something like localhost.run to expose this app that's running on my local port 5000.
+ I run something like:
+ ssh -R 80:localhost:5000 localhost.run 
+ and now have a nice little link like:
+ https://081e35c0012dd4.localhost.run 
+ that I can share with the world. This seems nice, but also very insecure. Is it possible to secure this a bit more - namely without needing to self host my own server. In this case localhost.run is taking a lot of the work out of maintaining my own server and things are quite easy.
+ One of my use cases is testing webhooks. For example, say the webhooks I'm testing publish which IP addresses you can expect the requests to be coming from. How would I go about allowlisting only these IP addresses to access my newly exposed app, if at all possible?
+ Thanks!
+    submitted by    /u/bix_box  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write-up on installing Guacamole in Docker]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmc7wa/writeup_on_installing_guacamole_in_docker/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmc7wa/writeup_on_installing_guacamole_in_docker/"/>
+        <updated>2021-05-27T17:09:12.000Z</updated>
+        <summary type="html"><![CDATA[I did a write up (mostly for my own records) on how I installed Gacamole (remote desktop gateway) with Portainer behind Traefik if anybody is interested. Would love any feedback.
+ https://linuxgeek.ca/install-guacamole-in-docker/
+    submitted by    /u/mister_clark  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do you have auto update for your containers ? (with watchtower for example)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmbnxm/do_you_have_auto_update_for_your_containers_with/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmbnxm/do_you_have_auto_update_for_your_containers_with/"/>
+        <updated>2021-05-27T16:44:31.000Z</updated>
+        <summary type="html"><![CDATA[Hey, I am wondering how many of you opt-in for auto-updating your containers. I can't decide myself if I want to have an auto-update process and risking breaking some app or update my app by hand.
+ View Poll
+    submitted by    /u/aarenas99  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse Proxy with Split-DNS Best Practice]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nmbbtq/reverse_proxy_with_splitdns_best_practice/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nmbbtq/reverse_proxy_with_splitdns_best_practice/"/>
+        <updated>2021-05-27T16:29:35.000Z</updated>
+        <summary type="html"><![CDATA[I am planing to create a network with multiple webservices. A reverse proxy should take care of redirecting external incoming request to the appropriate webserver. But I am unsure about the internal clients. Should they also use the reverse proxy (Variant 1) or connect directly to the webservers (Variant 2)?
+ What is your best practice?
+ How do you handle certificates?
+ I am fan of having the same url for external and internal clients and using offical CAs (like LetsEncrypt) for internal FQDNs. Thanks anyone for your feedback.
+ https://preview.redd.it/6z6xz7dkvo171.png?width=1633&format=png&auto=webp&s=043adfee6624e5350cc7f4ff5425ee0fef20db94
+    submitted by    /u/Marioheld  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
         </author>
     </entry>
     <entry>
@@ -152,6 +357,17 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CrowdSec is a free, modern & collaborative behavior detection engine, coupled with a global IP reputation network. It stacks on fail2ban's philosophy but is IPV6 compatible and 60x faster (Go vs Python), uses Grok patterns to parse logs and YAML scenario to identify behaviors.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nm9j4b/crowdsec_is_a_free_modern_collaborative_behavior/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nm9j4b/crowdsec_is_a_free_modern_collaborative_behavior/"/>
+        <updated>2021-05-27T15:08:09.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/2ViagaraPillsInTheAm  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Show Images on Click]]></title>
         <id>https://css-tricks.com/?p=341020</id>
         <link href="https://css-tricks.com/how-to-show-images-on-click/"/>
@@ -176,6 +392,24 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Infrastructure as Code]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nm7moz/infrastructure_as_code/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nm7moz/infrastructure_as_code/"/>
+        <updated>2021-05-27T13:37:01.000Z</updated>
+        <summary type="html"><![CDATA[I've been happily running all my selfhosted stuff on a headless Ubuntu Server using VirtualBox for almost a decade now. While I've got a few services running in containers/snaps, but most are installed manually on a VM. This system works, but it seems that there's newer tech that is far more convenient. I'm super interested in Infrastructure as Code (making config more accessible) & allowing more modularity (eg: swarm style systems), and probably other features I'm not even aware of! I'm less thrilled about the weaker isolation a container offers over a VM, but I could always run a container INSIDE of a VM.
+ ​
+ While this has been on my back burner for a while now, I have recently acquired a 2nd server, so both the opportunity to start fresh & the opportunity to make my own cloud/cluster/whatever are now much more real!
+ ​
+ I suppose the question here is--what resources do you know about for moving from VM based infrastructure to IaC based. Eg: I'm under the impression that the default used to be K8 & Docker & Ansible, but now it seems that K8 & Docker don't play nice anymore--so what are you all using now?
+ ​
+ Edit:It came up that the fact that I run ~35 VMs is of importance for scale/management. I also run LDAP (not whole home) & 3 node Galera Cluster (HA MariaDB).
+    submitted by    /u/Psychological_Try559  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
         <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
         <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
@@ -183,6 +417,17 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nearly 50,000 IPs compromised in Kubernetes clusters by TeamTNT]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nm687n/nearly_50000_ips_compromised_in_kubernetes/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nm687n/nearly_50000_ips_compromised_in_kubernetes/"/>
+        <updated>2021-05-27T12:22:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/tyguy609  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
         </author>
     </entry>
     <entry>
@@ -196,6 +441,47 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Groupware webmail solution with multibox imap and unified inbox]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nm5ehe/groupware_webmail_solution_with_multibox_imap_and/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nm5ehe/groupware_webmail_solution_with_multibox_imap_and/"/>
+        <updated>2021-05-27T11:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+ We are using OnlyOffice self hosted but only as groupware email solution - we have around 100 users, and every user has 2-5 external mailboxes connected via imap to external mail server. OnlyOffice mail app is very nice with pre-fetching all new mails to database, with index/search and unified inbox. But we are looking forward to move to any other software. We tried:
+  
+Nextcloud - great app, but with very slow any buggy mail app (without pre-fetch/search).
+ Groupoffice - nice, but no pre-fetch too.
+ Railloop / Roundcube / Sogo / etc - not an option, because we need to create a users first, and then connect external imap accounts.
+ Cypth - is good php project but also without pre-fetch / search index. 
+ Zimbra / all other full stack mail solution - not an option, because we are using existing external mail server and don't want to move mx'es to our new self hosted.
+  
+So, we are looking for any webmail groupware which is able to:
+  
+Create users to login into we system (not into the mailbox) using any 2FA.
+ Connect external imap mailboxes to users accounts.
+ Pre-fetch all new mail via imap from external server with indexing / search.
+ It's ok to have a paid solution, but it must be self hosted and (easily) customisable.
+  
+Many thanks for any suggestions!
+    submitted by    /u/omgte  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selfhosting notebook.ai?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nm4myc/selfhosting_notebookai/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nm4myc/selfhosting_notebookai/"/>
+        <updated>2021-05-27T10:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Has anyone tried running a selfhosted instance of notebook.ai? From their readme it seems like you're meant to run it on your machine just for development. They do have a Dockerfile, but it seems to also be just for local dev.
+ Does anyone run it? How is the performance? Did you have to use AWS s3 or does it store files locally?
+    submitted by    /u/killermenpl  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
         <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
         <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
@@ -206,6 +492,46 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Looking for a self hosted chat program with good user permissions.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nm3alp/looking_for_a_self_hosted_chat_program_with_good/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nm3alp/looking_for_a_self_hosted_chat_program_with_good/"/>
+        <updated>2021-05-27T09:03:57.000Z</updated>
+        <summary type="html"><![CDATA[My friends are finally considering moving away from Discord after recent drama, and I've been searching for a suitable program for a few months. I have looked at and rejected Mattermost (doesn't have the permissions I need) and Rocket.Chat (has half the permissions but runs too slow). 
+ What I really need is a chat server that can be used to restrict file uploads to specific rooms or user roles, and, at the very least, has the capability to create an 'arrivals' system, where users show up to a single room before being invited to the chat at large. My friends have servers which have had persistent trolls, and I really don't want to have to clear out Cartel videos from unrelated chats every day. 
+ I'm currently looking at Matrix and Zulip, but it's unclear if either are capable of this, and it might not be possible.
+    submitted by    /u/BaseTurd818  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailscale, a drop-dead easy alternative to VPN and Wireguard]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nm1nab/tailscale_a_dropdead_easy_alternative_to_vpn_and/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nm1nab/tailscale_a_dropdead_easy_alternative_to_vpn_and/"/>
+        <updated>2021-05-27T07:00:17.000Z</updated>
+        <summary type="html"><![CDATA[If you haven't used it, Tailscale solves so many problems with connectivity / port forwarding / security. Run it on all your machines and log in, and they're all connected and their hostnames resolve (i.e. http://mycomputer:8080). It solves One Problem, with absolutely zero config headache. I see a lot of people recommending setting up VPN or Wireguard and, if you don't mind that Tailscale isn't fully selfhosted, it solves that problem in a much easier way
+ It is also great for security because it means that lots of services that you'd want to make a public endpoint for (i.e. Bitwarden) can now be accessed via Tailscale instead, which means that your public surface area for e.g. a VPS can be extremely small or even zero (i.e. no inbound ports)
+ I have no association with the project btw, I'm solely an extremely happy free-tier user
+    submitted by    /u/kitanokikori  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forward multiple ports over SSH [in one command]]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nlzpgt/forward_multiple_ports_over_ssh_in_one_command/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nlzpgt/forward_multiple_ports_over_ssh_in_one_command/"/>
+        <updated>2021-05-27T04:41:58.000Z</updated>
+        <summary type="html"><![CDATA[This is something I wasn't aware of, SSH can set up multiple forwards in a single invocation: https://til.hashrocket.com/posts/xjdjzsrgui-forward-multiple-ports-over-ssh
+    submitted by    /u/codingbrokeme  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sony lists PC version of Uncharted 4 in investor report]]></title>
         <id>https://arstechnica.com/?p=1768029</id>
         <link href="https://arstechnica.com/?p=1768029"/>
@@ -213,6 +539,35 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Listed under "more PC releases planned" amid strong returns for Horizon's port.]]></summary>
         <author>
             <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaultwarden is accessible to the whole world - hosted on this little thing. Doesn’t that amaze you?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nlvuyg/vaultwarden_is_accessible_to_the_whole_world/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nlvuyg/vaultwarden_is_accessible_to_the_whole_world/"/>
+        <updated>2021-05-27T00:45:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/nicnic2001  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fastest file transfer program (parallel connections)?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nlu20d/fastest_file_transfer_program_parallel_connections/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nlu20d/fastest_file_transfer_program_parallel_connections/"/>
+        <updated>2021-05-26T23:09:28.000Z</updated>
+        <summary type="html"><![CDATA[I want to transfer several tar files (each ~ 2 GB) from:
+  
+Ubuntu server => Windows 10 PC
+ 
+Ubuntu server => Ubuntu server
+ 
+ The server does have a 450 Mbits uplink connection and I'm looking for a program that actually uses the full bandwidth of the uplink, with parallel connections automatically. So, if you initiate a transfer, it should really saturate the uplink with as many parallel connections until the 450 Mbits bandwidth is used to the fullest.
+    submitted by    /u/LeastTakenUsername  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
         </author>
     </entry>
     <entry>
@@ -293,6 +648,19 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[The Apple TV 4K itself is surprisingly easy to service. Its remote? Not so much.]]></summary>
         <author>
             <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-hosting an XMPP server as an alternative to WhatsApp or Signal]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nlo4e7/selfhosting_an_xmpp_server_as_an_alternative_to/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nlo4e7/selfhosting_an_xmpp_server_as_an_alternative_to/"/>
+        <updated>2021-05-26T18:37:16.000Z</updated>
+        <summary type="html"><![CDATA[So I decided to setup an XMPP server and was surprised how simple it was. I've tried hosting email, cloud storage etc... before but the XMPP service I used called Prosody was super straight forward. I wrote up the basic steps if anyone was considering getting off private messaging apps.
+ Guide: https://articles.eoincoogan.com/xmpp.html
+    submitted by    /u/esper12345  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
         </author>
     </entry>
     <entry>
@@ -381,6 +749,17 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carie Fisher)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here is my stats dashboard display monitoring my ARM single boards and Docker containers. It's also a desk clock!]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nle53r/here_is_my_stats_dashboard_display_monitoring_my/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nle53r/here_is_my_stats_dashboard_display_monitoring_my/"/>
+        <updated>2021-05-26T10:58:17.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/xpduyson  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
         </author>
     </entry>
     <entry>
