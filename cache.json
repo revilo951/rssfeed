@@ -720,6 +720,193 @@
           "title": "How to Create Portfolio-Worthy Work – Web Design Best Practices for New Developers"
         }
       ]
+    },
+    {
+      "title": "Ars Technica",
+      "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
+      "siteUrl": "https://arstechnica.com",
+      "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1768349",
+          "author": "Beth Mole",
+          "description": "Someone would only have to verbally decline vaccination and cite \"reasons of conscience.\"",
+          "link": "https://arstechnica.com/?p=1768349",
+          "publishedOn": "2021-05-27T23:45:01.000Z",
+          "wordCount": 1152,
+          "title": "Ohio lawmakers want to abolish vaccine requirements—all vaccine requirements"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768268",
+          "author": "Sam Machkovech",
+          "description": "Gorgeous shift to tropical, flooded, future San Fran—but how will it look on PS4?",
+          "link": "https://arstechnica.com/?p=1768268",
+          "publishedOn": "2021-05-27T22:11:29.000Z",
+          "wordCount": 1313,
+          "title": "Horizon Forbidden West gameplay reveal: Swimming with tropical robo-saurs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768213",
+          "author": "Samuel Axon",
+          "description": "But the fastest-growing categories are ones Apple hasn't even touched yet.",
+          "link": "https://arstechnica.com/?p=1768213",
+          "publishedOn": "2021-05-27T20:40:09.000Z",
+          "wordCount": 970,
+          "title": "More people are buying wearables than ever before—and Apple is in the lead"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768175",
+          "author": "Jon Brodkin",
+          "description": "Spectrum costs $30 for 400Mbps on one street, $50 for half the speed on another.",
+          "link": "https://arstechnica.com/?p=1768175",
+          "publishedOn": "2021-05-27T20:32:45.000Z",
+          "wordCount": 1456,
+          "title": "Charter charges more money for slower Internet on streets with no competition"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768059",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has deals on Apple Macs, Dell monitors, and Bluetooth speakers.",
+          "link": "https://arstechnica.com/?p=1768059",
+          "publishedOn": "2021-05-27T20:08:55.000Z",
+          "wordCount": 2671,
+          "title": "Sony’s “Days of Play” sale discounts a bunch of PS4 and PS5 exclusives"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768176",
+          "author": "Kyle Orland",
+          "description": "Sony's recently revealed cross-platform revenue-sharing plan may be to blame.",
+          "link": "https://arstechnica.com/?p=1768176",
+          "publishedOn": "2021-05-27T19:10:51.000Z",
+          "wordCount": 953,
+          "title": "PlayStation users left out of Borderlands 3 cross-platform features"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768091",
+          "author": "Jim Salter",
+          "description": "Put down your pitchforks—it looks like the DMCA warning was bogus.",
+          "link": "https://arstechnica.com/?p=1768091",
+          "publishedOn": "2021-05-27T17:53:26.000Z",
+          "wordCount": 1591,
+          "title": "Downloading Ubuntu via BitTorrent gets Comcast customer a DMCA warning"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768069",
+          "author": "Ron Amadeo",
+          "description": "Google does not yet know the cost of the 10- to 30-year construction project.",
+          "link": "https://arstechnica.com/?p=1768069",
+          "publishedOn": "2021-05-27T17:29:22.000Z",
+          "wordCount": 831,
+          "title": "Google’s 80-acre megacampus will take over a chunk of San Jose"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768090",
+          "author": "Tim De Chant",
+          "description": "Two shareholder votes and one court ruling hint at a sea change for oil and gas.",
+          "link": "https://arstechnica.com/?p=1768090",
+          "publishedOn": "2021-05-27T16:14:45.000Z",
+          "wordCount": 1249,
+          "title": "Big Oil finds it hard to ignore pollution amid investor, court pressure"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767963",
+          "author": "Eric Bangeman",
+          "description": "We are seeking reporters of a most intelligent nature!",
+          "link": "https://arstechnica.com/?p=1767963",
+          "publishedOn": "2021-05-27T16:12:31.000Z",
+          "wordCount": 876,
+          "title": "Announcement: Ars is hiring two reporters"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768012",
+          "author": "Doug Johnson",
+          "description": "Wolves scare deer away from highways, a marked economic and ecological benefit.",
+          "link": "https://arstechnica.com/?p=1768012",
+          "publishedOn": "2021-05-27T15:47:03.000Z",
+          "wordCount": 1310,
+          "title": "Wolves create a “landscape of fear,” slowing deer-car collisions"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768044",
+          "author": "Jonathan M. Gitlin",
+          "description": "The stylish and spacious electric sedan goes into production later this year.",
+          "link": "https://arstechnica.com/?p=1768044",
+          "publishedOn": "2021-05-27T12:10:07.000Z",
+          "wordCount": 1461,
+          "title": "We got our first ride in the electric Lucid Air sedan"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768029",
+          "author": "Kyle Orland",
+          "description": "Listed under \"more PC releases planned\" amid strong returns for Horizon's port.",
+          "link": "https://arstechnica.com/?p=1768029",
+          "publishedOn": "2021-05-27T03:20:23.000Z",
+          "wordCount": 1185,
+          "title": "Sony lists PC version of Uncharted 4 in investor report"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1762625",
+          "author": "Jennifer Ouellette",
+          "description": "Study uncovered a surprising link between how human and mouse minds malfunction.",
+          "link": "https://arstechnica.com/?p=1762625",
+          "publishedOn": "2021-05-26T23:02:37.000Z",
+          "wordCount": 1430,
+          "title": "Scientists induced hallucinations in mice to learn more about human psychosis"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767945",
+          "author": "Jim Salter",
+          "description": "The changes in 21H1 are mostly minor—much bigger things are coming in October.",
+          "link": "https://arstechnica.com/?p=1767945",
+          "publishedOn": "2021-05-26T21:56:21.000Z",
+          "wordCount": 1002,
+          "title": "Windows 10 21H1 available now, improves document load times"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767928",
+          "author": "Kyle Orland",
+          "description": "One-time connection required for configuration on Xbox One and Smart Delivery discs.",
+          "link": "https://arstechnica.com/?p=1767928",
+          "publishedOn": "2021-05-26T21:23:02.000Z",
+          "wordCount": 1797,
+          "title": "These offline, disc-based games require an online check-in on Xbox Series X"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767876",
+          "author": "Dan Goodin",
+          "description": "WebKit bug that was fixed upstream has yet to find its way into Apple products.",
+          "link": "https://arstechnica.com/?p=1767876",
+          "publishedOn": "2021-05-26T20:04:35.000Z",
+          "wordCount": 959,
+          "title": "No, it doesn’t just crash Safari. Apple has yet to fix exploitable flaw"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767742",
+          "author": "Ron Amadeo",
+          "description": "Arm is also floating a laptop chip design with eight Cortex X2 cores.",
+          "link": "https://arstechnica.com/?p=1767742",
+          "publishedOn": "2021-05-26T19:36:50.000Z",
+          "wordCount": 1091,
+          "title": "Arm’s Cortex X2-based CPUs are 30 percent faster and more efficient"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767847",
+          "author": "Beth Mole",
+          "description": "French officials likened the lies to campaigns run by Russia's Internet Research Agency.",
+          "link": "https://arstechnica.com/?p=1767847",
+          "publishedOn": "2021-05-26T19:20:40.000Z",
+          "wordCount": 1060,
+          "title": "Russia tried to spread dangerous lies about Pfizer vaccine, France suspects"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767833",
+          "author": "Samuel Axon",
+          "description": "The Apple TV 4K itself is surprisingly easy to service. Its remote? Not so much.",
+          "link": "https://arstechnica.com/?p=1767833",
+          "publishedOn": "2021-05-26T19:03:43.000Z",
+          "wordCount": 824,
+          "title": "Apple TV 4K gets 8 out of 10 repairability score in iFixit’s latest teardown"
+        }
+      ]
     }
   ],
   "cliVersion": "1.9.0"

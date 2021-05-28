@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-28T02:16:54.173Z</id>
+    <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-28T02:16:54.173Z</updated>
+    <updated>2021-05-28T02:20:30.760Z</updated>
     <generator>osmosfeed 1.9.0</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
+    <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ohio lawmakers want to abolish vaccine requirements—all vaccine requirements]]></title>
+        <id>https://arstechnica.com/?p=1768349</id>
+        <link href="https://arstechnica.com/?p=1768349"/>
+        <updated>2021-05-27T23:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Someone would only have to verbally decline vaccination and cite "reasons of conscience."]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horizon Forbidden West gameplay reveal: Swimming with tropical robo-saurs]]></title>
+        <id>https://arstechnica.com/?p=1768268</id>
+        <link href="https://arstechnica.com/?p=1768268"/>
+        <updated>2021-05-27T22:11:29.000Z</updated>
+        <summary type="html"><![CDATA[Gorgeous shift to tropical, flooded, future San Fran—but how will it look on PS4?]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More people are buying wearables than ever before—and Apple is in the lead]]></title>
+        <id>https://arstechnica.com/?p=1768213</id>
+        <link href="https://arstechnica.com/?p=1768213"/>
+        <updated>2021-05-27T20:40:09.000Z</updated>
+        <summary type="html"><![CDATA[But the fastest-growing categories are ones Apple hasn't even touched yet.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charter charges more money for slower Internet on streets with no competition]]></title>
+        <id>https://arstechnica.com/?p=1768175</id>
+        <link href="https://arstechnica.com/?p=1768175"/>
+        <updated>2021-05-27T20:32:45.000Z</updated>
+        <summary type="html"><![CDATA[Spectrum costs $30 for 400Mbps on one street, $50 for half the speed on another.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony’s “Days of Play” sale discounts a bunch of PS4 and PS5 exclusives]]></title>
+        <id>https://arstechnica.com/?p=1768059</id>
+        <link href="https://arstechnica.com/?p=1768059"/>
+        <updated>2021-05-27T20:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Dealmaster also has deals on Apple Macs, Dell monitors, and Bluetooth speakers.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation users left out of Borderlands 3 cross-platform features]]></title>
+        <id>https://arstechnica.com/?p=1768176</id>
+        <link href="https://arstechnica.com/?p=1768176"/>
+        <updated>2021-05-27T19:10:51.000Z</updated>
+        <summary type="html"><![CDATA[Sony's recently revealed cross-platform revenue-sharing plan may be to blame.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[To $ or Not to $: Displaying Terminal Code Snippets]]></title>
         <id>https://css-tricks.com/?p=341298</id>
@@ -28,6 +89,56 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[When you're training a machine learning model, you can have some features in your dataset that represent categorical values. Categorical features are types of data that you can divide into groups. There are three common categorical data types: Ordinal – a set of values in ascending or descending order. Example: rating]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Downloading Ubuntu via BitTorrent gets Comcast customer a DMCA warning]]></title>
+        <id>https://arstechnica.com/?p=1768091</id>
+        <link href="https://arstechnica.com/?p=1768091"/>
+        <updated>2021-05-27T17:53:26.000Z</updated>
+        <summary type="html"><![CDATA[Put down your pitchforks—it looks like the DMCA warning was bogus.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s 80-acre megacampus will take over a chunk of San Jose]]></title>
+        <id>https://arstechnica.com/?p=1768069</id>
+        <link href="https://arstechnica.com/?p=1768069"/>
+        <updated>2021-05-27T17:29:22.000Z</updated>
+        <summary type="html"><![CDATA[Google does not yet know the cost of the 10- to 30-year construction project.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Oil finds it hard to ignore pollution amid investor, court pressure]]></title>
+        <id>https://arstechnica.com/?p=1768090</id>
+        <link href="https://arstechnica.com/?p=1768090"/>
+        <updated>2021-05-27T16:14:45.000Z</updated>
+        <summary type="html"><![CDATA[Two shareholder votes and one court ruling hint at a sea change for oil and gas.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcement: Ars is hiring two reporters]]></title>
+        <id>https://arstechnica.com/?p=1767963</id>
+        <link href="https://arstechnica.com/?p=1767963"/>
+        <updated>2021-05-27T16:12:31.000Z</updated>
+        <summary type="html"><![CDATA[We are seeking reporters of a most intelligent nature!]]></summary>
+        <author>
+            <name>Eric Bangeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wolves create a “landscape of fear,” slowing deer-car collisions]]></title>
+        <id>https://arstechnica.com/?p=1768012</id>
+        <link href="https://arstechnica.com/?p=1768012"/>
+        <updated>2021-05-27T15:47:03.000Z</updated>
+        <summary type="html"><![CDATA[Wolves scare deer away from highways, a marked economic and ecological benefit.]]></summary>
+        <author>
+            <name>Doug Johnson</name>
         </author>
     </entry>
     <entry>
@@ -75,6 +186,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[We got our first ride in the electric Lucid Air sedan]]></title>
+        <id>https://arstechnica.com/?p=1768044</id>
+        <link href="https://arstechnica.com/?p=1768044"/>
+        <updated>2021-05-27T12:10:07.000Z</updated>
+        <summary type="html"><![CDATA[The stylish and spacious electric sedan goes into production later this year.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
         <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
         <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
@@ -85,6 +206,36 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sony lists PC version of Uncharted 4 in investor report]]></title>
+        <id>https://arstechnica.com/?p=1768029</id>
+        <link href="https://arstechnica.com/?p=1768029"/>
+        <updated>2021-05-27T03:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Listed under "more PC releases planned" amid strong returns for Horizon's port.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists induced hallucinations in mice to learn more about human psychosis]]></title>
+        <id>https://arstechnica.com/?p=1762625</id>
+        <link href="https://arstechnica.com/?p=1762625"/>
+        <updated>2021-05-26T23:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Study uncovered a surprising link between how human and mouse minds malfunction.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 21H1 available now, improves document load times]]></title>
+        <id>https://arstechnica.com/?p=1767945</id>
+        <link href="https://arstechnica.com/?p=1767945"/>
+        <updated>2021-05-26T21:56:21.000Z</updated>
+        <summary type="html"><![CDATA[The changes in 21H1 are mostly minor—much bigger things are coming in October.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
         <id>60a44b9f906c5207e3a7e098</id>
         <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
@@ -92,6 +243,56 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These offline, disc-based games require an online check-in on Xbox Series X]]></title>
+        <id>https://arstechnica.com/?p=1767928</id>
+        <link href="https://arstechnica.com/?p=1767928"/>
+        <updated>2021-05-26T21:23:02.000Z</updated>
+        <summary type="html"><![CDATA[One-time connection required for configuration on Xbox One and Smart Delivery discs.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No, it doesn’t just crash Safari. Apple has yet to fix exploitable flaw]]></title>
+        <id>https://arstechnica.com/?p=1767876</id>
+        <link href="https://arstechnica.com/?p=1767876"/>
+        <updated>2021-05-26T20:04:35.000Z</updated>
+        <summary type="html"><![CDATA[WebKit bug that was fixed upstream has yet to find its way into Apple products.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm’s Cortex X2-based CPUs are 30 percent faster and more efficient]]></title>
+        <id>https://arstechnica.com/?p=1767742</id>
+        <link href="https://arstechnica.com/?p=1767742"/>
+        <updated>2021-05-26T19:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Arm is also floating a laptop chip design with eight Cortex X2 cores.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia tried to spread dangerous lies about Pfizer vaccine, France suspects]]></title>
+        <id>https://arstechnica.com/?p=1767847</id>
+        <link href="https://arstechnica.com/?p=1767847"/>
+        <updated>2021-05-26T19:20:40.000Z</updated>
+        <summary type="html"><![CDATA[French officials likened the lies to campaigns run by Russia's Internet Research Agency.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple TV 4K gets 8 out of 10 repairability score in iFixit’s latest teardown]]></title>
+        <id>https://arstechnica.com/?p=1767833</id>
+        <link href="https://arstechnica.com/?p=1767833"/>
+        <updated>2021-05-26T19:03:43.000Z</updated>
+        <summary type="html"><![CDATA[The Apple TV 4K itself is surprisingly easy to service. Its remote? Not so much.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
         </author>
     </entry>
     <entry>
