@@ -6,6 +6,195 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nnbr5j/huge_collection_of_cvs_files_to_search_database/",
+          "author": null,
+          "description": "We have a huge collection of CSV files all exactly formatted that i would like to automatically import into a database and have searchable.\n Is there anything self-hosted off the shelf that can do this?\n    submitted by    /u/ithakaa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nnbr5j/huge_collection_of_cvs_files_to_search_database/",
+          "publishedOn": "2021-05-29T00:41:41.000Z",
+          "wordCount": 199,
+          "title": "Huge collection of cvs files to search, database?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nnb6fs/wanted_to_cross_post_this_over_as_i_sometimes_see/",
+          "author": null,
+          "description": "submitted by    /u/NotAnNSASpySatellite  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nnb6fs/wanted_to_cross_post_this_over_as_i_sometimes_see/",
+          "publishedOn": "2021-05-29T00:07:20.000Z",
+          "wordCount": 233,
+          "title": "Wanted to cross post this over as I sometimes see folks wanting to add telemetry to their apps but want to stay away from Google."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nnam1x/my_experienceguide_setting_up_openldap_for/",
+          "author": null,
+          "description": "I've been experimenting with user and account management solutions for my home lab, and I was looking for something that could manage posix users and web users. I wanted something with group management and OU hierarchies that sort of follow what you would use in Active Directory. I found a lot of issues with some of the more well recommended solutions out there:\n  \nSamba: It's basically an AD Domain Controller which was more than I needed; also while being feature-familiar with AD is nice, I'm not looking to implement AD, I'm looking to really stick closer to just LDAP.\n GLAuth: Interesting project, but is somewhat limited in the attributes it can handle, how group management works, how the OU structure is reflected in group membership, and usability. GLauth-ui is an interesting component …",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nnam1x/my_experienceguide_setting_up_openldap_for/",
+          "publishedOn": "2021-05-28T23:34:17.000Z",
+          "wordCount": 2283,
+          "title": "My experience/guide setting up OpenLDAP for PC/webapp authentication on Ubuntu 20.04."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nn9v99/linux_troubleshooting_question/",
+          "author": null,
+          "description": "Hey, not sure if this is the right place, but Im not sure how to google this without getting noise. I'm currently running Ubuntu as a VM on a mac mini. On that VM, i have about 20 docker containers running, including (but not limited too) Home assistant, Node Red, Pihole, Heimdal, Grocy, Organizr, Portainer, Grafana, InfluxDB, Zwave2Mqtt, ESPHome and some others.\n ​\n This afternoon, Im no longer able to access any of the web addresses, the folders shared via samba, or even SSH into the virtual machine. I can still access it on my virtual box when connecting to the mac mini. I've tried restarting and shutting down the VM, and even restarting services. Any idea what other options exist to try and get these functioning?\n I should mention that the docker containers are definitely running. And i can access home assistant through nabucasa. And automations and alexa integrations still work. I just can't access any services using the VM IP or Samab or SSH\n Never had to troubleshoot linux like this before. Any ideas or suggestions? Thanks for any ideas and help.\n ​\n M\n    submitted by    /u/mew0717  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nn9v99/linux_troubleshooting_question/",
+          "publishedOn": "2021-05-28T22:53:38.000Z",
+          "wordCount": 343,
+          "title": "Linux Troubleshooting question"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nn9srh/self_hosted_asset_inventory_manager/",
+          "author": null,
+          "description": "Hello fellow self-hosters,One of my hobbies is model railroading, and I was thinking how nice it would be if I had some kind of application / database where I could track all the different models, track pieces, etc. that are in my collection. This way I could keep track things like the buy date, price, information / description and age of the various models and accessories.\n Does anyone know of self-hosted software that would achieve this?\n I figured a finances manager, like firefly iii can be used to track the items as assets, but it would be nice if there's something more specific for this use case.\n    submitted by    /u/Veliks  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nn9srh/self_hosted_asset_inventory_manager/",
+          "publishedOn": "2021-05-28T22:50:01.000Z",
+          "wordCount": 225,
+          "title": "Self hosted asset / inventory manager"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nn7egx/photo_upload_and_sync_workflow_help/",
+          "author": null,
+          "description": "I need some help working through my workflow, or some ideas that might work better. \n Have multiple ios devices using photo sync to send files to local computer. \n Android devices are using nextcloud to send to nas. \n Wife goes through her ios photos and moves them to her folders and then those are synced to nas with syncthing.\n Nextcloud files are synced to local computer using syncthing.\n Everything is then backed up weekly to backup drives. \n I would like an easier way of doing all this, but not sure if there is one?\n Looking to keep orginal quality and all the Metadata.\n    submitted by    /u/VodoBaas  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nn7egx/photo_upload_and_sync_workflow_help/",
+          "publishedOn": "2021-05-28T20:54:26.000Z",
+          "wordCount": 339,
+          "title": "Photo upload and sync workflow help."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nn78l2/i_think_i_finally_achieved_a_decent_playlist/",
+          "author": null,
+          "description": "Hi everyone !\n I'm very exited to share with you how how I managed to fill one of the biggest gaps left by the death of google play music : the lack of possibility to synchronize playlists in an efficient way\n As google play music user my main usage was to upload my music and use it to download albums, artists or playlistson my mobile. Despite all my research I have not found anything that allows to do this with self-hosted services.\n The solution I'm presenting to you today is very simple but took me several months of reflection (without exaggerating (even if I didn't put all my brain cells into it)).\n What my solution allows me to now : - Extract all my jellyfin playlists (probably works with emby) - Make all the files available for syncing with an app on my smartphone (FolderSync) - Make all the file on my smartphone easily usable with my default music player (PlayerAmp)\n You can find my script and the explanations on the github repository : https://github.com/Totonyus/jellyfin_playlists_sync\n I'm really proud of what I achieved today with this solution. It totally fulfil my needs and fills something I missed a lot since the end of google play music (I still hate google for that)\n I hope it will be useful to some people. Whether it's using the solution I propose or a solution based on the same principle but better suited to your own needs.\n I am of course open to all discussions and suggestions.\n PS : I'm not a native english speaker, I do my best.\n    submitted by    /u/Toutanus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nn78l2/i_think_i_finally_achieved_a_decent_playlist/",
+          "publishedOn": "2021-05-28T20:47:14.000Z",
+          "wordCount": 406,
+          "title": "I think I finally achieved a decent playlist offline synchronization system (as permitted by google play music)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nn4l9z/i_am_running_pihole_and_openmediavault_on_a/",
+          "author": null,
+          "description": "submitted by    /u/a_cuppa_java  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nn4l9z/i_am_running_pihole_and_openmediavault_on_a/",
+          "publishedOn": "2021-05-28T18:42:44.000Z",
+          "wordCount": 287,
+          "title": "I am running PiHole and OpenMediaVault on a single raspberrypi and would like to manage both from their respective web portals. How do I access both from a web browser? I can only access OpenMediaVault by typing in the Pi's local ip address, so I don't know what the solution here is."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nn4l7c/what_are_the_downsides_of_moving_from_digital/",
+          "author": null,
+          "description": "We are currently on DO but thinking of moving to Hetzner. \n Ping tests shows around 280ms latency (we are in South East Asia). For most of our usecase, latency is not an issue. \n Are there any other downsides of moving to Hetzner?\n    submitted by    /u/curious_practice  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nn4l7c/what_are_the_downsides_of_moving_from_digital/",
+          "publishedOn": "2021-05-28T18:42:38.000Z",
+          "wordCount": 225,
+          "title": "What are the downsides of moving from Digital Ocean to Hetzner bare metal?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nn3dgl/nonselfhosted_reccomendation/",
+          "author": null,
+          "description": "What are some email marketing platforms that let you hook up your own SMTP server to send mail.\n Not self hosted.\n So basically you get the benefit of selfhosted without all the technical stuff.\n    submitted by    /u/hypeforeal  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nn3dgl/nonselfhosted_reccomendation/",
+          "publishedOn": "2021-05-28T17:47:32.000Z",
+          "wordCount": 237,
+          "title": "NON-selfhosted reccomendation"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nn1zkt/is_it_safe_to_host_a_personal_nas_server_and_a/",
+          "author": null,
+          "description": "I know exposing a computer to the internet is risky, so should I run the website with all my other selfhosted services on the raspberry pi, or purchase a dedicated pi for the website?\n ​\n Also, do you have any advice for keeping my network secure while hosting the website? I will make sure all passwords are strong and not repeated, but other than that, I'm not sure if there any other necessary steps :)\n    submitted by    /u/a_cuppa_java  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nn1zkt/is_it_safe_to_host_a_personal_nas_server_and_a/",
+          "publishedOn": "2021-05-28T16:45:20.000Z",
+          "wordCount": 484,
+          "title": "Is it safe to host a personal NAS server and a website on the same raspberry pi? Specifically, I'd like to host a Gemini capsule."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nn1bjg/pornvault_selfhosted_nsfw_organizer_ive_been/",
+          "author": null,
+          "description": "title, I've been working on this on-off the last 2 years, but most progress was made the last year (lockdown amiright).\n The point is to scan your local NSFW videos & images and provide a way to organize all of that stuff. Makes it easy to search for specific content (unwatched scenes, bookmarks, ratings etc) (like: \"show me all videos I've never watched featuring blondes\" or whatever). Media can then be accessed by any device with a web browser.\n The app supports videos (scenes), actors/actresses, movies, studios (including substudios, networks), images and scene chapters (markers). Future versions will also support image albums.\n It scales very nicely, doesn't matter if you just have a couple of files or 10s of TB of data.\n Demo images (SFW): https://github.com/porn-vault/porn-vault#demo-images\n Repo: https://github.com/porn-vault/porn-vault\n Releases DL: https://github.com/porn-vault/porn-vault/releases\n Website: https://porn-vault.github.io/porn-vault\n Discord: https://discord.gg/t499hxK\n Patreon: https://www.patreon.com/pornvault\n Docker: https://porn-vault.github.io/porn-vault/guides/docker.html\n    submitted by    /u/boiii123212321  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nn1bjg/pornvault_selfhosted_nsfw_organizer_ive_been/",
+          "publishedOn": "2021-05-28T16:14:18.000Z",
+          "wordCount": 102,
+          "title": "Porn-Vault: self-hosted NSFW organizer I've been working on for the past 2 years (cross-platform, 100% open-source & free)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nn0jym/gallery_with_random_photos_random_picture_wall/",
+          "author": null,
+          "description": "Hi\n I am lookign for a self-hosted app that has good random photo features like creating clickable random gallery / picture wall from the root folder or from the current gallery. \n  \nIt can create random gallery on demand\n It can create random gallery based on the currently open gallery\n It can access to the local files (so no database import)\n  \nI use Piwigo for this but the random stuff is very limited, and it pulls from the root albums so %95 of the the time that is not what I need. Also it does not look like there is a way to number of photo shown, it is a fixed number.\n I do not want to use static page generators since I need this stuff to be generated on demand, static page gens are useless in this case.\n thanks\n    submitted by    /u/lenjioereh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nn0jym/gallery_with_random_photos_random_picture_wall/",
+          "publishedOn": "2021-05-28T15:39:19.000Z",
+          "wordCount": 279,
+          "title": "Gallery with random photos / random picture wall"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nmyuf0/can_selfhost_help_me_to_be_an_architectdevops/",
+          "author": null,
+          "description": "I mainly do backend engineering involving few languages (but mostly Go).\n Right now i am trying to learn svelte as my FE framework. \n My end goal is to become a good architect/devops and i have read it requires me to have full understanding of the whole architecture frontend/backend/cicd/server, etc. \n So i was wondering if running selfhost apps allows me to sharpen my skill in the cicd and mnaging server part or even other than that.\n If someone has experience with this and how it affects their career and skills on this department, please do share with me\n    submitted by    /u/cheezuzfries  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nmyuf0/can_selfhost_help_me_to_be_an_architectdevops/",
+          "publishedOn": "2021-05-28T14:18:48.000Z",
+          "wordCount": 1578,
+          "title": "Can selfhost help me to be an architect/devops?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nmxz13/ssh_timeout_only_with_one_client_host_combo_a_bit/",
+          "author": null,
+          "description": "I'm setting up a new home server and before I can get anything done I need to solve a unknown ssh issue.\n Heres the issue.\n ssh PC ---> New Server : ssh: connection to host 192.168.0.155 port 22: Connection timed out\n ssh PC ----> Old server: works\n ssh Old Server ----> New Server: works\n ssh Mobile phone ----> New Server: works\n ssh New Server----> Old Server: works\n ssh Old Server---> PC: ssh: connection to host 192.168.0.155 port 22: Refused This makes sense\n ssh New Server ---> PC: ssh: connection to host 192.168.0.150 port 22: Connection timed out\n ssh Mobile ---->PC: ssh: connection to host 192.168.0.150 port 22: Connection timed out\n Things I've tried:\n  \nRestarting all the machines involved\n Restarting the ssh client on the new server\n Turning off all the firewalls (PC and New Server)\n Enabling ssh on UFW\n Tried Reinstalling the ssh client on the new server (This changed the fingerprint, but the old server could still connect to get the changed host error)\n Pinging the New Server from the PC works. Same ping as to the old one.\n  \nThings I've done to the new server:\n  \nApt update && apt upgrade\n apt install nvidia-headless-460-server\n echo \"blacklist floppy\" | sudo tee /etc/modprobe.d/blacklist-floppy.conf Do to an I/O error I dont't have a floppy\n  \nThat's it. That is all I've done since a clean install on bare metal. The whole thing is running on a btrfs file system if that matters. I haven't enabled any encryption or anything else yet.\n This ssh service on the new server logs events for the clients that work but nothing at all coming from the PC. \n Any help would be greatly appreciated. I have no idea why it isn't working. I didn't test the ssh prior to the three changes above so I do not know if this was an issue previously.\n Both the old and the new server are running off the same installation image of Ubuntu server 20.04\n I would really like to get this working since I almost exclusively interact with the server using VScode on the PC.\n    submitted by    /u/ToManyHobby  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nmxz13/ssh_timeout_only_with_one_client_host_combo_a_bit/",
+          "publishedOn": "2021-05-28T13:34:50.000Z",
+          "wordCount": 498,
+          "title": "ssh Timeout Only with one client host combo (A bit off topic but for a self hosted server)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nmxxef/fpm_vs_fpmalpine/",
+          "author": null,
+          "description": "Hey always been wondering this, and google doesn't yield an answer.\n For fpm docker images, what's the difference between images that use alpine and those that don't?\n I'm aware that alpine is one of the leanest containers out there, but is there any drawback from using alpine in production?\n If not, then why don't all apps just skip fpm and go straight for fpm-alpine instead of giving the option for non alpine?\n    submitted by    /u/ApocalypseAce  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nmxxef/fpm_vs_fpmalpine/",
+          "publishedOn": "2021-05-28T13:32:32.000Z",
+          "wordCount": 492,
+          "title": "fpm vs fpm-alpine"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nmwxad/looking_for_a_dashboard_that_can_send_post/",
+          "author": null,
+          "description": "Hi ! \n I am looking for a simple web dashboard where I can add buttons and configure each of them to send a custom HTTP request.\n Is there such a thing available ?\n (Preferably big buttons kinda like the shortcut app on iOS)\n    submitted by    /u/SirSirae  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nmwxad/looking_for_a_dashboard_that_can_send_post/",
+          "publishedOn": "2021-05-28T12:37:38.000Z",
+          "wordCount": 332,
+          "title": "Looking for a dashboard that can send POST requests"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nmwusz/need_help_to_choose_real_time_database_and_file/",
+          "author": null,
+          "description": "I am developing an private project that need an real time database and an way to store and access files easy. But I am confused in which platforms to choose. It needs to be easy to use, self hosted and free. Is an private project, only for me to use.\n    submitted by    /u/Gabriellcreiss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nmwusz/need_help_to_choose_real_time_database_and_file/",
+          "publishedOn": "2021-05-28T12:33:31.000Z",
+          "wordCount": 307,
+          "title": "Need help to choose Real Time Database and File Object Storage - Self Hosted"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nmtr6c/mail_system_with_oauthsaml_login/",
+          "author": null,
+          "description": "hi all, I am looking for a self-hosted webmail system as fire-and-forget as possible. I would love to use mailcow, but unfortunately I need a web mail frontend where users can authenticate using OAuth or SAML.\n Does anybody know such a system?\n Thanks in advance for any tips!\n    submitted by    /u/the-me  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nmtr6c/mail_system_with_oauthsaml_login/",
+          "publishedOn": "2021-05-28T09:13:47.000Z",
+          "wordCount": 301,
+          "title": "Mail system with OAuth/SAML login?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nmtja6/how_plausible_are_our_website_analytics/",
+          "author": null,
+          "description": "submitted by    /u/TimDaub  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nmtja6/how_plausible_are_our_website_analytics/",
+          "publishedOn": "2021-05-28T08:57:36.000Z",
+          "wordCount": 133,
+          "title": "How \"Plausible\" are Our Website Analytics?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nmt58a/machinations_web_app_for_game_design/",
+          "author": null,
+          "description": "Does anyone know of a web app similar to Machinations, web app for game design?\n Or anything similar like: https://www.articy.com/en/ and https://arcweave.com/ ideally self hosted.\n    submitted by    /u/Alien8472  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nmt58a/machinations_web_app_for_game_design/",
+          "publishedOn": "2021-05-28T08:27:35.000Z",
+          "wordCount": 183,
+          "title": "Machinations, web app for game design?"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/nmn8kk/looking_for_a_ttrss_app_that_allows_oauth/",
           "author": null,
           "description": "So i have decided to re-setup my self hosted services. Runs under docker with traefik(1.7) as a reverse proxy/ssl provider (lets encrypt). traefik has a middle ware thing called traefik-forward-auth that allows you to tap into an oauth provider to secure your services. One of the services I was hoping to run is ttrss, which works almost perfectly. Thing is, none of the android applications seem to be able to deal with the oauth redirection going on. As a middle ground i have disabled oauth for that subdomain, enabled basic http auth and then the authentication provided by the ttrss app.\n I don't like not having a unified auth system but i also really need to use an app instead of the web browser on my phone (pre-caching/better formatting). Can anyone point me in the right direction? Only thing i can think of is finding a custom theme that has great mobile support? Maybe I'm being too paranoid (probably) and ill be fine with the two layers of basic auth.\n I'm curious how other people have this set up?\n Does anyone have any suggestions?\n Thanks for reading.\n    submitted by    /u/SluggishDog  \n [link]   [comments]",
@@ -335,6 +524,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341163",
+          "author": "Thomas Park",
+          "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/dynamic-favicons-for-wordpress/",
+          "publishedOn": "2021-05-28T14:36:47.000Z",
+          "wordCount": 1844,
+          "title": "Dynamic Favicons for WordPress"
+        },
+        {
           "id": "https://css-tricks.com/?p=341298",
           "author": "Chris Coyier",
           "description": "It’s very popular to put a $ on lines that are intended to be a command in code documentation that involves the terminal (i.e. the command line).\nLike this:\n$ brew install somepackage\nThe point of that is that it …\nThe post To $ or Not to $: Displaying Terminal Code Snippets appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -476,6 +674,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
+          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
+          "description": "In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!",
+          "link": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
+          "publishedOn": "2021-05-28T11:00:00.000Z",
+          "wordCount": 10214,
+          "title": "Adding A Commenting System To A WYSIWYG Editor",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ec39e154-d3d3-4a12-91fd-f0c068cd5247/commenting-system-wysiwyg-editor.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -839,20 +1051,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "author": "hello@smashingmagazine.com (Addy Osmani)",
-          "description": "Images have also been a key part of the web. They communicate ideas instantly, but they are also a lot heavier than text to load. This means that it’s essential to get loading and displaying them right, if you want to give your users a fantastic first impression. An excerpt from [Addy's new book](https://www.smashingmagazine.com/2021/04/image-optimization-pre-release/) (also, check a [free PDF preview](http://provide.smashingmagazine.com/eBooks/image-optimization-sample-chapter.pdf)).",
-          "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-          "publishedOn": "2021-04-29T12:15:00.000Z",
-          "wordCount": 5367,
-          "title": "The Humble `<img>` Element And Core Web Vitals",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a7ec5e4a-099e-4a1a-a1a3-b7545835520f/26-humble-img-element-and-core-web-vitals.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -861,6 +1059,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60acf28e11ffb70827ef6dd9",
+          "author": null,
+          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up making $100,000 a year as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary,",
+          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-went-from-1000-a-year-to-100000-as-a-dev/",
+          "publishedOn": "2021-05-28T22:58:18.000Z",
+          "wordCount": 2775,
+          "title": "My Developer Journey – How I Went from Making $1,000 to $100,000 a Year"
+        },
+        {
+          "id": "60b08d8811ffb70827ef8c7b",
+          "author": null,
+          "description": "If you've been following the news lately, you may have noticed a worrisome tech trend. The frequency and severity of cybersecurity attacks are exploding.  We've seen news of a sprawling hack involving the SolarWinds management platform. That attack may have compromised the systems of over 18,000 SolarWinds customers.  Then,",
+          "link": "https://www.freecodecamp.org/news/how-to-secure-your-android-app/",
+          "publishedOn": "2021-05-28T16:01:05.000Z",
+          "wordCount": 1568,
+          "title": "How to Secure Your Android App – Four Security Best Practices Every Android Dev Should Know"
+        },
+        {
+          "id": "60b0de2211ffb70827ef8d7c",
+          "author": null,
+          "description": "More and more applications are using computer vision these days. We just published a full course on the freeCodeCamp.org YouTube channel that will help you learn advanced computer vision using Python. You will learn state of the art computer vision techniques by building five projects with libraries such as",
+          "link": "https://www.freecodecamp.org/news/advanced-computer-vision-with-python/",
+          "publishedOn": "2021-05-28T12:26:38.000Z",
+          "wordCount": 368,
+          "title": "Advanced Computer Vision with Python"
+        },
         {
           "id": "60af931811ffb70827ef85d3",
           "author": null,
@@ -958,6 +1183,141 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1768626",
+          "author": "Eric Berger",
+          "description": "\"The goal is 2024, but I think we have to be brutally realistic.\"",
+          "link": "https://arstechnica.com/?p=1768626",
+          "publishedOn": "2021-05-28T21:42:01.000Z",
+          "wordCount": 1025,
+          "title": "NASA budget goes all-in on science, stays the course on Moon lander"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768607",
+          "author": "Jon Brodkin",
+          "description": "USTelecom's \"Broadband Pricing Index\" doesn't measure what the average user pays.",
+          "link": "https://arstechnica.com/?p=1768607",
+          "publishedOn": "2021-05-28T20:55:45.000Z",
+          "wordCount": 1670,
+          "title": "AT&T/Verizon lobby keeps claiming that home-Internet prices are dropping"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768580",
+          "author": "Beth Mole",
+          "description": "FDA approval and paid time off would make people more likely to get a shot, poll finds.",
+          "link": "https://arstechnica.com/?p=1768580",
+          "publishedOn": "2021-05-28T20:07:43.000Z",
+          "wordCount": 1497,
+          "title": "CDC loosened mask guidance to encourage vaccination—it failed spectacularly"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768319",
+          "author": "Jennifer Ouellette",
+          "description": "Paramount, director John Krasinski opted to shelve the movie until theaters reopened",
+          "link": "https://arstechnica.com/?p=1768319",
+          "publishedOn": "2021-05-28T19:40:20.000Z",
+          "wordCount": 1796,
+          "title": "Review: A Quiet Place Part 2 is a worthy sequel that was worth the wait"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768530",
+          "author": "Sam Machkovech",
+          "description": "Gunplay in wide-open Pseudo-Cuba: \"F___ed up situations call for f___ed up solutions.\"",
+          "link": "https://arstechnica.com/?p=1768530",
+          "publishedOn": "2021-05-28T19:13:19.000Z",
+          "wordCount": 1374,
+          "title": "Far Cry 6 gameplay reveal: Ride a horse, pet a dog, set lots of things on fire"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768482",
+          "author": "Samuel Axon",
+          "description": "AirPods would have shorter stems, and AirPods Pro might have no stems at all.",
+          "link": "https://arstechnica.com/?p=1768482",
+          "publishedOn": "2021-05-28T18:48:10.000Z",
+          "wordCount": 862,
+          "title": "Redesigned AirPods are coming soon, report claims"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768474",
+          "author": "Kyle Orland",
+          "description": "Preview: Kids can learn to make Switch games without a single line of code.",
+          "link": "https://arstechnica.com/?p=1768474",
+          "publishedOn": "2021-05-28T18:03:45.000Z",
+          "wordCount": 1758,
+          "title": "Game Builder Garage hides powerful programming tools behind a cute interface"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768431",
+          "author": "Ron Amadeo",
+          "description": "All new photos will start counting against the 15GB storage limit on June 1.",
+          "link": "https://arstechnica.com/?p=1768431",
+          "publishedOn": "2021-05-28T17:12:22.000Z",
+          "wordCount": 954,
+          "title": "Google Photos wants money: Stricter storage limitations kick in next week"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768455",
+          "author": "Tim De Chant",
+          "description": "Black start generators—and their backups—failed en masse during deep freeze.",
+          "link": "https://arstechnica.com/?p=1768455",
+          "publishedOn": "2021-05-28T16:50:10.000Z",
+          "wordCount": 1428,
+          "title": "Texas’ “failsafe” generators failed, risking weeks-long catastrophe"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768443",
+          "author": "John Timmer",
+          "description": "What started out as an experimental tool has evolved into a treatment.",
+          "link": "https://arstechnica.com/?p=1768443",
+          "publishedOn": "2021-05-28T16:26:42.000Z",
+          "wordCount": 1188,
+          "title": "Engineered virus and goggles restore object recognition in a blind man"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768407",
+          "author": "Jonathan M. Gitlin",
+          "description": "The 105th running of the Indianapolis 500 takes place on Sunday, May 30.",
+          "link": "https://arstechnica.com/?p=1768407",
+          "publishedOn": "2021-05-28T14:34:14.000Z",
+          "wordCount": 1560,
+          "title": "How I learned to love the Indianapolis 500, America’s greatest race"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768316",
+          "author": "Dan Goodin",
+          "description": "Technically, it's a vulnerability, but there's not much an attacker can do with it.",
+          "link": "https://arstechnica.com/?p=1768316",
+          "publishedOn": "2021-05-28T12:15:31.000Z",
+          "wordCount": 1383,
+          "title": "Covert channel in Apple’s M1 is mostly harmless, but it sure is interesting"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1767514",
+          "author": "Lee Hutchinson",
+          "description": "A deep dive into xenolinguistics, pragmatics, the cooperative principle, and Noam Chomsky!",
+          "link": "https://arstechnica.com/?p=1767514",
+          "publishedOn": "2021-05-28T11:30:11.000Z",
+          "wordCount": 3166,
+          "title": "Andy Weir’s Project Hail Mary and the soft, squishy science of language"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768283",
+          "author": "Eric Berger",
+          "description": "\"Europe really needs to build infrastructure to get to space.\"",
+          "link": "https://arstechnica.com/?p=1768283",
+          "publishedOn": "2021-05-28T11:00:45.000Z",
+          "wordCount": 2420,
+          "title": "Rocket Report: Russia plans nuclear space tug, Falcon Heavy launch delays"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768370",
+          "author": "Dan Goodin",
+          "description": "Kremlin-backed group uses hacked account to impersonate US aid agency.",
+          "link": "https://arstechnica.com/?p=1768370",
+          "publishedOn": "2021-05-28T08:15:41.000Z",
+          "wordCount": 1595,
+          "title": "SolarWinds hackers are back with a new mass campaign, Microsoft says"
+        },
         {
           "id": "https://arstechnica.com/?p=1768349",
           "author": "Beth Mole",
