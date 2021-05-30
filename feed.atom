@@ -2,10 +2,374 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-29T01:33:20.224Z</updated>
+    <updated>2021-05-30T01:42:47.187Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TiddlyWiki, a non-linear personal web notebook that anyone can use and keep forever, independently of any corporation.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnzh9x/tiddlywiki_a_nonlinear_personal_web_notebook_that/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnzh9x/tiddlywiki_a_nonlinear_personal_web_notebook_that/"/>
+        <updated>2021-05-30T00:09:27.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/beleeee_dat  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beat lightweight file server for Raspberry pi 3B+]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnyiwk/beat_lightweight_file_server_for_raspberry_pi_3b/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnyiwk/beat_lightweight_file_server_for_raspberry_pi_3b/"/>
+        <updated>2021-05-29T23:10:24.000Z</updated>
+        <summary type="html"><![CDATA[So as the title suggests, I'm looking for a lightweight nextcloud alternative, I used nextcloud but it's not for me. It's just too slow and I just need to access my files and don't need any other knicks and knacks. 
+ I have a smb server established but it only works on my network and not outside it, if somehow it works outside that'd be great
+ Any suggestions ?
+    submitted by    /u/intechm0  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VM services]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nny5pu/vm_services/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nny5pu/vm_services/"/>
+        <updated>2021-05-29T22:49:49.000Z</updated>
+        <summary type="html"><![CDATA[So I just switched my NVR which now just leaves my VM with all my Docker stuff and unraid. I'm now debating on just doing bare metal Ubuntu on my r720 and then hosting everything on there. Wondering if any one has done a similar setup, not sure how i can do unraid beside Ubuntu or if it's possible. Also open to an advice on not doing this and keeping esxi.
+    submitted by    /u/killahb33  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What can I do better with my docker configuration?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnx86w/what_can_i_do_better_with_my_docker_configuration/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnx86w/what_can_i_do_better_with_my_docker_configuration/"/>
+        <updated>2021-05-29T21:57:34.000Z</updated>
+        <summary type="html"><![CDATA[Hello: right now I've got two containers that are running. A seafile container, and a gitlab container. I use nginx on the host system to proxy these, one of these containers (seafile) I installed using docker-compose, the others I have not (gitlab had a longish string for installation you needed to use). I didn't publish the ports, but left them default. When I look at posts I see people using lots of other docker containers to monitor/manage/configure their docker containers, and I'm a bit confused. I will be adding more containers for sure, so I'm trying to figure out the best way to do this. These are services I'm using just for myself. What is the best unified way to manage these that isn't going to get me super far into the weeds learning a ton of new technologies?
+ I also have various other questions: Is there a way to somehow have a reverse proxy that publishes itself that the docker containers register themselves with? Will this support letsencrypt/etc? Right now, I have a subdomain per docker container because that was the easiest way to configure nginx reverse proxying, but if there's a service that I can use to do this that would be helpful. I'm not opposed to swapping nameservers.
+ I'm sorry this post is super scrambled and all over the place, I've spent a day trying to learn this and find myself more and more confused as I go along. Any tips/ideas would be welcome. Thanks,
+    submitted by    /u/sorressean  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Step-by-step tutorial to self-host Matrix/Element]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnv4t0/stepbystep_tutorial_to_selfhost_matrixelement/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnv4t0/stepbystep_tutorial_to_selfhost_matrixelement/"/>
+        <updated>2021-05-29T20:00:15.000Z</updated>
+        <summary type="html"><![CDATA[I know someone already posted about this here but it seemed like the only response that was given was either "please sign up for my hosting service" or just how to install matrix. I was wondering if anyone had a tutorial to self host both matrix and element on the same machine not using docker?
+    submitted by    /u/TotallyShayshon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon devices will soon automatically share your Internet with neighbors]]></title>
+        <id>https://arstechnica.com/?p=1768704</id>
+        <link href="https://arstechnica.com/?p=1768704"/>
+        <updated>2021-05-29T19:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon's experiment wireless mesh networking turns users into guinea pigs.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How would I go about exposing selfhosted services, using VPS, Raspi & WireGurad?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnt7zk/how_would_i_go_about_exposing_selfhosted_services/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnt7zk/how_would_i_go_about_exposing_selfhosted_services/"/>
+        <updated>2021-05-29T18:20:05.000Z</updated>
+        <summary type="html"><![CDATA[First of all, sorry it this isn't the right sub for this kind of question, feel free to direct me to a better suited sub. 
+ So, I've tried a few tutorials in the past that go about it, but I've never managed to get it fully working, most that I got is making a apparently working wg tunel between my RPi & the VPS. Then I let it go... 
+ Now, about a year later however, I've decided to give it another shot, and I'm hoping I'll find someone willing to help me, if some unexpected trouble arise, that quick googling couldn't easily solve. 
+ So, my current "setup":
+ I'm behind cg NAT, so no public IP, obviously.
+ ​
+ I wanted to start off clean, so:
+ I have RPI4 available, I can install any supported os that you'd recommend, tho I'm pretty much counting on Raspbian lite (just that the last time I had to compile the wg for it from scratch, so, I hope i won't need to do that again...). 
+ I have my lite VPS running CentOS 7, also in a completely clean state, so far only purpose would be hosting the wg server. 
+ I'd normally just go with the "first" tutorial that google would find, but given that it pretty much didn't work out last time(s) I've been trying it, here I am, writing this post... 
+ So, if somebody has got a "tried & true, verified working and not 3 years old" tutorial working, for exactly this purpose, (exposing services from LAN) I'm down to just following it. 
+ But since I want to get it finally fully working this time, I figured I'll make a post, since honestly, I know a bit of Linux, and stuff, but god damn, sometimes I feel like I'm dense af... 
+ So... anybody with a bit of spare time to help this noobish fool, set this up?
+    submitted by    /u/Msprg  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help wanted for getting started]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnr5g2/help_wanted_for_getting_started/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnr5g2/help_wanted_for_getting_started/"/>
+        <updated>2021-05-29T16:36:07.000Z</updated>
+        <summary type="html"><![CDATA[I really, really want to learn more about servers, server infrastructure, virtualization, security etc. I'm a noob for now—I can mainly follow the discussions here but the only self-hosting I've done is a local instance of Searx (a meta-search engine) through Docker. I'm also somewhat versed in Linux and somewhat comfortable around a command-line interface. I'm a student in an area unrelated to computer science, but in the future I would really like to be a cloud engineer (and maybe even more in the future a DevOps!). 
+ The reason I'm explaining my background is to show why I would want to self-host services in the first place. I believe it would be a great way of learning things in practice PLUS it would give me the means to completely de-google and have privacy-respecting tools at my dis…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple servers : Yunohost, Nextcloud and reverse proxy]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnqgzc/multiple_servers_yunohost_nextcloud_and_reverse/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnqgzc/multiple_servers_yunohost_nextcloud_and_reverse/"/>
+        <updated>2021-05-29T16:02:50.000Z</updated>
+        <summary type="html"><![CDATA[Hello !
+ I'm pretty new to the self-hosted world and I'm learning pretty slowly but steadily.
+ I'm trying several options and one I'd like is hosting yunohost on my RPi3B and a dedicated RPi4B for NextcloudPi only (I know I can host NC with YNH but I find it slower).
+ My YNH instance is accessible from outside, everything works fine. I tried installing the redirect app to use it as a reverse proxy to access my NCPi from outside, but I guess I don't know how to configure it as it forwards to my local address (192.168.1.x) and I can only access it from home.
+ I have a dedicated domain name for my NCPi instance.
+ Can anyone guide me ? I don't know where to look...
+    submitted by    /u/Tiritibambix  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need help with security.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnqgqz/need_help_with_security/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnqgqz/need_help_with_security/"/>
+        <updated>2021-05-29T16:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Using unraid now and want to allow access to a torrent clients gui over the internet and also allow file transfer over the net. As I understand I can port forward the web GUI. How can I secure against attacks?
+ Also want to be able to transfer files from the unraid box over the net.
+ I have read that a reverse proxy is the way to go. Is there an easy solution for non techies?
+ Any help appreciated.
+    submitted by    /u/jayyywhattt  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would like to know suggestions on planning a Bitwarden setup]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnqajw/would_like_to_know_suggestions_on_planning_a/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnqajw/would_like_to_know_suggestions_on_planning_a/"/>
+        <updated>2021-05-29T15:53:58.000Z</updated>
+        <summary type="html"><![CDATA[I'm planning on making a self hosted Bitwarden setup on possibly a RPi Zero (which I would like to know if it's capable of running the server on its own without any other program running), but I want to minimize all the situations in which I might get locked out of it or my house / I get robbed and the passwords get leaked, for example, using a UPS to keep the RPi on when the power goes out for up to two weeks, making encrypted backups every 14 days or hiding the system inside a wall. I'm also looking for it to be accessible by the devices I set it to be and outside of my network.
+    submitted by    /u/optimixta5  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancient cemetery tells a tale of constant, low-level warfare]]></title>
+        <id>https://arstechnica.com/?p=1768575</id>
+        <link href="https://arstechnica.com/?p=1768575"/>
+        <updated>2021-05-29T15:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Men, women, and children were repeatedly wounded in skirmishes along the Upper Nile.]]></summary>
+        <author>
+            <name>Kiona N. Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best Memorial Day sales we can find on laptops, video games, and more tech]]></title>
+        <id>https://arstechnica.com/?p=1768406</id>
+        <link href="https://arstechnica.com/?p=1768406"/>
+        <updated>2021-05-29T15:16:23.000Z</updated>
+        <summary type="html"><![CDATA[Including deals on the MacBook Air, wireless headphones, and PlayStation games.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stardew Valley: The Board Game—a loving production but a mixed review from Grandpa]]></title>
+        <id>https://arstechnica.com/?p=1768636</id>
+        <link href="https://arstechnica.com/?p=1768636"/>
+        <updated>2021-05-29T15:00:19.000Z</updated>
+        <summary type="html"><![CDATA[The beloved video game is relaxing. The board game? Not as much.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What should I host?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnoixu/what_should_i_host/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnoixu/what_should_i_host/"/>
+        <updated>2021-05-29T14:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Hello, recently I have acquired a couple of old servers. I'm plan on setting them up to be a docker swarm or kubernetes cluster since those are two things I'd like to learn. Beyond that however I have no clue on what to actually host. I already have a Cloudbox instance running on some other servers, so please don't suggest anything that that has bundled with it.
+    submitted by    /u/burner_lIo7qlaoCy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[selfhosted dailyrotation]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnn6x2/selfhosted_dailyrotation/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnn6x2/selfhosted_dailyrotation/"/>
+        <updated>2021-05-29T13:10:53.000Z</updated>
+        <summary type="html"><![CDATA[Does anyone know of something simliar to https://www.dailyrotation.com/
+    submitted by    /u/biftekau  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trinitite: The radioactive rock buried in New Mexico before the Atari games]]></title>
+        <id>http://arstechnica.com/?p=527545</id>
+        <link href="https://arstechnica.com/?p=527545"/>
+        <updated>2021-05-29T12:35:34.000Z</updated>
+        <summary type="html"><![CDATA[From the archives: A short story about a strange glass.]]></summary>
+        <author>
+            <name>Megan Geuss</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A free solution for hosting videos?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnm6z9/a_free_solution_for_hosting_videos/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnm6z9/a_free_solution_for_hosting_videos/"/>
+        <updated>2021-05-29T12:11:56.000Z</updated>
+        <summary type="html"><![CDATA[I have a platform where users publish their content.
+ Now I want to allow the user to upload a video. But due to the high cost of video hosting, I am looking for a free solution for hosting videos.
+ A solution comes to my mind:
+ Publish video uploaded to my YouTube channel via API. But the problem is that if the content is illegal, YouTube will ban my channel. Isn't true?
+ ​
+ My question is:
+  
+Is there a solution to this YouTube problem?
+ Is there an even more complex free solution other than using YouTube?
+  
+(I am a programmer. So you can suggest programming solutions)
+    submitted by    /u/henry_2009  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewilding: Four tips to let nature thrive]]></title>
+        <id>https://arstechnica.com/?p=1768632</id>
+        <link href="https://arstechnica.com/?p=1768632"/>
+        <updated>2021-05-29T11:45:33.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive international study on rewilding has practical tips to re-establish nature.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dockered rocket.chat: it starts but it does not work! somebody has faced and solved this issue? help required as usual :D]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnk2ec/dockered_rocketchat_it_starts_but_it_does_not/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnk2ec/dockered_rocketchat_it_starts_but_it_does_not/"/>
+        <updated>2021-05-29T09:48:53.000Z</updated>
+        <summary type="html"><![CDATA[Hi selfhosters, hope this is the right place to post.
+ has someone successfully installed rocket.chat via docker using official docker compose file, as is?
+ I'm enough noob on docker, so I have not understood all parameters... by the way, the stack starts but when I access the first time, it propose my the account admin creation process (some steps...) but even if I fill in the form it doesn't continue. If I restart, it open directly the login page, such as the admin creation has been completed... but putting the admin user and password of course it does not work.
+ Looking at the log of the container I just see some error when try to connect to mongodb container but then they seems solved (I think the rocket.chat try several time until mongodb is up); I see also error on another container that create a bot user to chat with as a test... but I do not think it is critical.
+ Suggestions?
+    submitted by    /u/wireless82  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combining Ethernet ports to increase bandwidth?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnju7l/combining_ethernet_ports_to_increase_bandwidth/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnju7l/combining_ethernet_ports_to_increase_bandwidth/"/>
+        <updated>2021-05-29T09:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I currently have my home smarties running on a single raspberry pi 4 and it's lately struggling with performance, so I thought that while I am upgrading the Pi 4, I would also make myself NAS-like (seafile) and buy myself some cheap celeron mini pc (j4125 should be good upgrade) with dual gigabit Ethernet ports and 2.5gbit switch and run these two 1 gbit ports from the mini pc to a switch (also with other devices like pc's, router, wifi) to increase it's bandwidth for the NAS.
+ Does that make sense? 
+ What should I be looking for and are there any "buts" or downsides?
+    submitted by    /u/FluffyDiscord  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need help on deciding hardware for self hosting at home]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnjrqq/need_help_on_deciding_hardware_for_self_hosting/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnjrqq/need_help_on_deciding_hardware_for_self_hosting/"/>
+        <updated>2021-05-29T09:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Hi, throwaway account, non-native English speaker and a newbie to self hosting.
+ I am currently experimenting with Nextcloud on a Pi4 4GB + 512 GB SSD as a docker image integration on Open Media Vault on Raspberry Pi OS.
+ I have decided i want to host the following for around 5 users (decreasing order of importance):
+  
+Next cloud - ideally not facing the internet
+ VPN to home network (facing internet)
+ Pi Hole for whole network (facing internet)
+ Matrix (for family only with federation turned off)
+ Jitsi (facing internet)
+ Email
+ Wallabang
+ Kodi - ideally not facing the internet and
+ SearX
+  
+Is it ideal I use multiple Pis to achieve this or do I set it up on a single Ryzen 5/7 machine. (If the latter, docker (Should I consider something like YunoHost?) vs VMs which would be better?, I won't need to scale anything except for storage in the future as the number of users is gonna be fixed)
+    submitted by    /u/i_am_confusedd  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for free server/tier providers that let you selfhost]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nniky3/looking_for_free_servertier_providers_that_let/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nniky3/looking_for_free_servertier_providers_that_let/"/>
+        <updated>2021-05-29T08:02:28.000Z</updated>
+        <summary type="html"><![CDATA[I am a student and i want to try self hosting for my projects, like my personal website and other projects
+ but unfortunately i don't have a raspberry pi or something
+ i wanted to know are there any "always free" hosting providers that let you self host and learn selfhosting and server management?( just like the "google's always free tier")
+ i am looking for always free because i don't have money to spare at the moment and my course requires me to deal with server & website related stuff for almost 4 years, but i really want to learn & try out in practical rather than just seeing online videos
+ ​
+ Are there any decent options for me?
+    submitted by    /u/shivanshx365  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protonmail-like self-hosted webmail & mobile app]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnel0f/protonmaillike_selfhosted_webmail_mobile_app/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnel0f/protonmaillike_selfhosted_webmail_mobile_app/"/>
+        <updated>2021-05-29T03:32:44.000Z</updated>
+        <summary type="html"><![CDATA[I'm looking for something similar to Protonmail with encryption and preferably a mail app that is secure to go along with it for both Apple and Android rather than having to go to the browser on your phone to access it. I already have a dovecot/postfix server running and Protonmail is quite pricey if you have a lot of domains unless you just forward your mail through it to Protonmail but I want to be able to send as the e-mail address like you can when you link your account with Gmail and can select your from address and SMTP server to relay through. What do you guys suggest?
+    submitted by    /u/chownsauce  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can DNS take the place of port-forwarding?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnej7z/can_dns_take_the_place_of_portforwarding/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnej7z/can_dns_take_the_place_of_portforwarding/"/>
+        <updated>2021-05-29T03:29:41.000Z</updated>
+        <summary type="html"><![CDATA[First, I wasn't to clarify -- I'm not wanting DNS to add a specific port. I know that's not supported in the wild.
+ If I have multiple devices that utilize the same ports, can a DNS record be used to direct the traffic to the proper device?
+ As an example: a service runs on port 123. Three internal LAN devices all use port 123. Can I setup my DNS such that I can route to a specific device and avoid port forwarding?
+ foo A 192.168.1.10 bar B 192.168.1.51 yop C 192.168.5.20 
+ Thus by requesting foo.example.com:123, it would automatically route to 192.168.1.10:123?and yop.example.com:123 would give 192.168.5.20:123?
+ This seems like it should work, but I've been unable to implement it successfully on my DNS Server. Incoming traffic from the internet does not seem to utilize the internal DNS server. Is there a way to make incoming traffic get direction from my internal DNS?
+ In fact, it seems like my DNS records do nothing for redirecting incoming traffic.
+    submitted by    /u/schnautz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where do you selfhost?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nnd2uf/where_do_you_selfhost/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nnd2uf/where_do_you_selfhost/"/>
+        <updated>2021-05-29T02:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Wondering whats the most popular selfhosting method around here :) i wish i could add more to the poll
+ View Poll
+    submitted by    /u/SuperMiguel  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Huge collection of cvs files to search, database?]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/nnbr5j/huge_collection_of_cvs_files_to_search_database/</id>
@@ -1796,16 +2160,6 @@ Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
         <summary type="html"><![CDATA[Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Mathias Biilmann)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
-        <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
-        <updated>2021-04-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
