@@ -2,10 +2,393 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-30T01:42:47.187Z</updated>
+    <updated>2021-05-31T01:53:30.573Z</updated>
     <generator>osmosfeed 1.9.0</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Personal capital/mint alternative?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nonedh/personal_capitalmint_alternative/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nonedh/personal_capitalmint_alternative/"/>
+        <updated>2021-05-30T23:32:16.000Z</updated>
+        <summary type="html"><![CDATA[I don’t need a mobile app, desktop or web interface would be enough.
+    submitted by    /u/Some-Random-Chick  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSL Management]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nom055/ssl_management/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nom055/ssl_management/"/>
+        <updated>2021-05-30T22:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Short version: I have a wildcard cert from LetsEncrypt that handles most of my needs.
+ But there is the oddball exception.
+ I was curious to see if anybody here had come across a simple internal service that lets one sign CSRs using an internal CA (more realistically a chained cert that has been signed by an airgapped CA). Or even "pre-generate" a signed cert and key combo for future use. (Getting the trusted certificate loaded onto the devices would be an exercise left to the admin.)
+ Essentially, I had been planning on hacking this together using Python and Flask, but I also don't want to reinvent the wheel. Especially if the wheel is already polished, feature complete, and tested.
+    submitted by    /u/archaeolinuxgeek  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAE: self-hosting vpn for family abroad, now google thinks IP is foreign & blocks services for US resident owner]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nolzvb/dae_selfhosting_vpn_for_family_abroad_now_google/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nolzvb/dae_selfhosting_vpn_for_family_abroad_now_google/"/>
+        <updated>2021-05-30T22:15:05.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR: Google thinks some people in US are not in the US, because they also have a personal VPN server at home for their family abroad. Now their home IP addresses are somewhat blocked and considered as from another country. Have you had this issue?
+ ​
+ DR:
+ We maintain an open source software running on Raspberry Pi that allows people to self-host a shadowsocks+outline VPN server at home (https://src.we-pn.com). It's very similar to PiVPN.
+ About a month ago we started hearing from different people (all living in the United States) that Google is blocking them from paid services *for themselves in US - not their relatives abroad*. 
+ For example, YouTube music says "this service is not available in your country" on the person's phone, who is definitely in California (no GPS glitch, they checked). Google Pay gives a 403 forbidden response. We don't think their families were using any of these services, but can't be sure.
+ We realized why this is happening once one user was logging into Google, and got 2FA notification on their phone saying they are logging in from another country. This is the country their family lives in. To eliminate the possibility of legit hack/..., they checked multiple times and it's always the same. Seems like their IP (from Comcast) is marked as being in a different country. Renewing their IP solved it, but might be temporary until Google flags them again.
+ Does Anyone Else face this issue?
+    submitted by    /u/getwepn  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-hosted Documentation]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nokzp2/selfhosted_documentation/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nokzp2/selfhosted_documentation/"/>
+        <updated>2021-05-30T21:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys, I have seen setups like this around the Internet, but here's one from Tauri Project ( https://tauri.studio/en/docs/usage/guides/cli )
+ I like the accordion style menu on the left, the code highlighting in the posts, and the highlight of the section being scrolled to on the right.
+ Are there any self-hosted solutions where I can create my own docs site like this?
+    submitted by    /u/BolteWasTaken  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rewriting Request and Response URL with NGINX]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nok5gp/rewriting_request_and_response_url_with_nginx/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nok5gp/rewriting_request_and_response_url_with_nginx/"/>
+        <updated>2021-05-30T20:44:57.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/initialgyw  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What cloud server to choose, for stock photo/icon svg site?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nok35l/what_cloud_server_to_choose_for_stock_photoicon/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nok35l/what_cloud_server_to_choose_for_stock_photoicon/"/>
+        <updated>2021-05-30T20:41:54.000Z</updated>
+        <summary type="html"><![CDATA[I'm working on a freemium stock image/svg/icon site, frontend app is almost done. But not sure what cloud provider I should go for - I'm fairly new to backend.
+ Would Firebase/Vercel along with Fastly CDN be a good choice? My budget is $100-$150/month
+ Traffic may be 100k-200k/m (I don't know how much traffic I'd get - just telling this number for context)
+ Please suggest me the best options.
+ P.S. I'd love to go for AWS/Google cloud but seems like it's only for pros :(
+    submitted by    /u/AngelinaSchultzl  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just found this website, it is awesome]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nojxgj/just_found_this_website_it_is_awesome/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nojxgj/just_found_this_website_it_is_awesome/"/>
+        <updated>2021-05-30T20:34:32.000Z</updated>
+        <summary type="html"><![CDATA[selfhosted, all details and compare different projects.
+    submitted by    /u/kobemtl  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some direction on "the best" way to run multiple applications in a single VPS]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nojrow/some_direction_on_the_best_way_to_run_multiple/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nojrow/some_direction_on_the_best_way_to_run_multiple/"/>
+        <updated>2021-05-30T20:26:55.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys, I finally took the courage to move one more step away from the data hungry Google and alike by renting my very first VPS. 
+ It's a very basic VPS in digitalocean running Ubuntu and in which I was able to self-host my own Nextcloud server via Snap (automatic updates :] ) by following this tutorial.
+ Now that I'm already paying every month for the VPS and I've built some momentum around researching about it, I would like to use my single VPS with ubuntu to run other services, such as Wallabag and maybe a personal Wiki, but so far I've been puzzled by the amount of options available to achieve what I intend.
+ I heard multiple times terms such as Nginx, Traefik, Docker-Compose, ... and I wonder what would be my best bet.
+ All I'm looking is for some privacy, security and ease of use so I can put all my focus on the process and not the tools :)
+ I would appreciate if I could get some direction from some you that may have much more experience in self-hosting than I am.
+ Thank you!!
+    submitted by    /u/uxK86wCiuWq11av  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whistleblower platform]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nojo4k/whistleblower_platform/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nojo4k/whistleblower_platform/"/>
+        <updated>2021-05-30T20:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Hi, Im would like to host a website or app that allows to open a public case. And people can anonymously share evidence of that case (pictures, videos, audio, text, etc.) Also that anyone can view but not delete the evidence.
+ Example some drunk folk hits and runs killing a child. The case gets to the media but justice isnt served because of corruption or slow process. This way maybe someone has a little piece of evidence that can help (example: some local business has a camera that allows to identify make, model and color of the car, etc.).
+ And how can I host it anonymously to keep myself safe.
+    submitted by    /u/Jame2ft  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Selfhosted Services]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nojava/decentralized_selfhosted_services/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nojava/decentralized_selfhosted_services/"/>
+        <updated>2021-05-30T20:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Due to the fact that I use syncthing for work and home, I started to wonder if it would be possible to integrate syncthing with the calendar (android + three linux device). This is an issue that bothers me terribly, because I would not be in such a situation depends on one main server, and on a network of several computers. I was already thinking about Nextcloud / Owncloud / Radicale but unfortunately they are based on one main hardware and not syncthing on several devices. Personally, I think a decentralized network has more advantages than a centralized computer network structure. That is why I am looking for solutions involving network decentralization, because then I have control over everything working on any computer / laptop. I hope that you will help me find interesting solutions based on a decentralized network. Thanks!
+    submitted by    /u/by_speece  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Created docker compose files to easily run nextcloud and a nginx webpage behind traefik reverse proxy]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/noi503/created_docker_compose_files_to_easily_run/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/noi503/created_docker_compose_files_to_easily_run/"/>
+        <updated>2021-05-30T19:10:17.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/chefkoch111  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nginx Proxy Manager and Portainer - expose ports only to localhost]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nohyh3/nginx_proxy_manager_and_portainer_expose_ports/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nohyh3/nginx_proxy_manager_and_portainer_expose_ports/"/>
+        <updated>2021-05-30T19:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Hey there,
+ I'm trying to figure this out for a while and I seem to be out of luck. I am running NPM with Portainer and MailCow mail server. There are lots of exposed ports to the outside (portainer 9000, mailcow UI on ports 83, etc.) and I don't think these need to be published to the outside. Isn't the whole idea of having the proxy manager to have only 80 and 443 ports open and the rest to be accessible only from localhost?
+ Anyone has any idea how do I achieve this? 
+ I've tried editing the mailcow nginx container and remove the published ports, but the IP won't get assigned and it's not working at all. Any workaround?
+ Thanks in advance for any help!
+    submitted by    /u/XerxesAhasuerus  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What web UI framework/library can I use for my python self hosted app?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nohbqh/what_web_ui_frameworklibrary_can_i_use_for_my/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nohbqh/what_web_ui_frameworklibrary_can_i_use_for_my/"/>
+        <updated>2021-05-30T18:32:06.000Z</updated>
+        <summary type="html"><![CDATA[I am writing a python self hosted app (that I hope to share and others will use). I need a frontend for the user to interact with it. I am not very good with css/html or UI design in general so I am looking for something that has a lot of that already done and I just need to tell it where to put things and tie my python app in to it. Being a programmer I can figure out the JS/api to the library/coponents. Can anyone offer suggestions of web UI frontend with a library of components that can be used out of the box from a design perspective? 
+ I think my layout will be kind of similar to VS code (or other IDEs) with a list of files on the left, tabs and code editor. Some status icons at the top(or bottom). I want to use Ace or code mirror for the editor.
+    submitted by    /u/eye_can_do_that  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-hosted version of NordVPN's "obfuscated server"?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nog8bd/selfhosted_version_of_nordvpns_obfuscated_server/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nog8bd/selfhosted_version_of_nordvpns_obfuscated_server/"/>
+        <updated>2021-05-30T17:40:34.000Z</updated>
+        <summary type="html"><![CDATA[In the NordVPN apps there is a type of connection called Obfuscated Server which is meant to conceal the fact that you're using a VPN from endpoints that you visit. This is the relevant bit from the link:
+  
+Obfuscated servers are used to bypass VPN-blocking firewalls. To do that, a VPN provider must remove all information related to a VPN from your data so that it looks like regular data packets. 
+ VPN providers can obfuscate data in a few different ways. For example, data packets can be hidden using additional SSL/SSH encryption so that all the VPN metadata is out of sight. Think of it as encryption to conceal your encryption. 
+ Data can also be scrambled, hiding the metadata from the packet header. This way, it looks like regular HTTPS traffic filled with meaningless information. Firewalls can’t recognize it, so they let it pass.
+  
+Question is: How can I implement this from my home server?
+    submitted by    /u/Teenager69420  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does anyone know a good podcast talking about self hosted stuff ?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/noejby/does_anyone_know_a_good_podcast_talking_about/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/noejby/does_anyone_know_a_good_podcast_talking_about/"/>
+        <updated>2021-05-30T16:18:25.000Z</updated>
+        <summary type="html"><![CDATA[Hello I’m looking for a nice podcast talking about new project and self hosted things in general, does anyone know a good one ? Thanks
+    submitted by    /u/Profanel0l  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movie written by algorithm turns out to be hilarious and intense]]></title>
+        <id>http://arstechnica.com/?p=896589</id>
+        <link href="https://arstechnica.com/?p=896589"/>
+        <updated>2021-05-30T15:55:36.000Z</updated>
+        <summary type="html"><![CDATA[From the archives: Ars talks to the filmmakers who collaborated with an AI for Sunspring.]]></summary>
+        <author>
+            <name>Annalee Newitz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does anyone know of any self hosted weather prediction software?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nobtyt/does_anyone_know_of_any_self_hosted_weather/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nobtyt/does_anyone_know_of_any_self_hosted_weather/"/>
+        <updated>2021-05-30T14:02:45.000Z</updated>
+        <summary type="html"><![CDATA[There are a lot of dashboards and magic mirror applications that are awesome and beautiful, but I have not seen any applications that do the number crunching and predict what the weather at your location will be given current weather data. Does anyone know of any software that does this? I know commerical solutions currently do a good job at this, but I am looking to get a hold of some software I can dabble with and change. Thank you!
+    submitted by    /u/Thewball  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backing up docker volumes]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nobqv1/backing_up_docker_volumes/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nobqv1/backing_up_docker_volumes/"/>
+        <updated>2021-05-30T13:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Are there any open source solutions for backing up docker volumes, preferably with a nice GUI that lets me schedule backups? I've searched around but all I've found are scripts that simplifies the process. Sure I could set up a script and run it with cron but I prefer using a GUI. 
+ Thanks
+    submitted by    /u/jaxupaxu  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrate "searchbar" in Homer]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nobe49/integrate_searchbar_in_homer/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nobe49/integrate_searchbar_in_homer/"/>
+        <updated>2021-05-30T13:38:01.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ i am interested in using Homer Dashboard, but i wonder if i could use a search like duckduckgo or google like in Heimdall... so i can use it as a startpage in the browser.
+    submitted by    /u/raul_schneider  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wireguard between two VPS with one exposing outside services]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nob4wv/wireguard_between_two_vps_with_one_exposing/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nob4wv/wireguard_between_two_vps_with_one_exposing/"/>
+        <updated>2021-05-30T13:24:14.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ I am currently trying to tunnel docker containers via wireguard.
+ VPSA:
+ Location: Germany
+ Hosts Matrix and other services
+ Wireguard Client
+ ​
+ VPSB:
+ Location: America
+ Hosts NGINX
+ Wireguard Server
+ ​
+ The Wireguard containers are both running and connecting with any issues. 
+ I connected the Matrix container to the wireguard clients network and the matrix container has a working internet connection.
+ Now for the NGINX portion I am using the jwilder container. The NGINX container is connected to the wireguard servers network. 
+ The problem here is that the NGINX does not recognize the Matrix instance and I am wondering where the issue is.
+    submitted by    /u/Dergreiss  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First time self hosting. Hardware suggestions.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/noaxze/first_time_self_hosting_hardware_suggestions/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/noaxze/first_time_self_hosting_hardware_suggestions/"/>
+        <updated>2021-05-30T13:13:13.000Z</updated>
+        <summary type="html"><![CDATA[Hey there. I'm new to self hosting and have spent the last few days doing some research, however I still have a lot of stuff I couldn't figure out. I figured it's best I mention my use case so here goes:
+  
+Plex server: I haven't decided on plex as such but seeing as it's the most common, I might start with it. I'm okay with using Kodi/Emby/Jellyfin as well. My main issue with this is that I'm only going to be storing 4k media. Ideally transcoding wouldn't be required, but I've read that plex transcodes for a variety of reasons (like picture based subtitles). Ideally I would only direct play but just to be safe, I'd like to be able to do 1-2 4k transcodes.
+ Smarthome: This is the part that I haven't done any research on so excuse me if something doesn't make sense. From my understanding I'll need a server to act make everything play nice with each other. I'd like to be able to do this.
+ Seedbox: I'm currently seeding about 60TB of "linux iso's". This is spread across 20k torrents. I'd want to move all this to the new server.
+ File transfer: Simple way to share stuff between all my devices.
+ Security system: Camera's would output and store locally in this server.
+  
+This is all I can think of for now but I'm pretty sure I'd need to expand in the future. Now my main question is what kind of server would I require for this?
+ I'm pretty sure points 2, 4 and 5 would barely take any resources. 1 and 3 would be the main focus. Would you recommend buying 1 beefy server or multiple smaller ones? I'd ideally want to run all this off a single synology nas but I don't know if that's possible.
+ Oh and it's also worth mentioning that I live in a studio apartment so I wouldn't want a noisy server. That pretty much eliminates most Xeons.
+    submitted by    /u/Lumpy-Hedgehog-1479  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 home internet lines. How to route private vs public services?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/noakye/2_home_internet_lines_how_to_route_private_vs/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/noakye/2_home_internet_lines_how_to_route_private_vs/"/>
+        <updated>2021-05-30T12:52:36.000Z</updated>
+        <summary type="html"><![CDATA[A new ISP has installed a free 100mbit ethernet line alongside 1000mbit fibre. I wasn't expecting this. I could now easily run a public server on the 100mbit line completely separately if I wanted to without even a reverse proxy. 
+ What network topology would help insulate the private from the public but, if you think it's appropriate, keep services accessible from both networks?
+    submitted by    /u/Reasonable-Delay4740  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The SolarWinds hackers aren’t back—they never went away]]></title>
+        <id>https://arstechnica.com/?p=1768723</id>
+        <link href="https://arstechnica.com/?p=1768723"/>
+        <updated>2021-05-30T12:45:24.000Z</updated>
+        <summary type="html"><![CDATA[A new phishing campaign is less an escalation than a regression to the mean.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepfake maps could really mess with your sense of the world]]></title>
+        <id>https://arstechnica.com/?p=1768676</id>
+        <link href="https://arstechnica.com/?p=1768676"/>
+        <updated>2021-05-30T12:15:13.000Z</updated>
+        <summary type="html"><![CDATA[Researchers applied AI techniques to make portions of Seattle look more like Beijing]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heads up! The cardiovascular secrets of giraffes]]></title>
+        <id>https://arstechnica.com/?p=1768662</id>
+        <link href="https://arstechnica.com/?p=1768662"/>
+        <updated>2021-05-30T11:45:09.000Z</updated>
+        <summary type="html"><![CDATA[Giraffes: Scary high blood pressure, yet few of the issues plaguing people with hypertension.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto V3.20 released (final release)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/no979o/chevereto_v320_released_final_release/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/no979o/chevereto_v320_released_final_release/"/>
+        <updated>2021-05-30T11:26:55.000Z</updated>
+        <summary type="html"><![CDATA[Dear reddit,
+ I'm Rodolfo Berrios, creator of Chevereto which is a self-hosted image sharing solution.
+ Chevereto V3.20 has been released, which is the final release in V3.X as Chevereto V4 will be released on September 2021! This release closes the cycle started in 2014 and brings massive user interface improvements, deprecates JS based effects, brings container support (real deal), improves performance, fixes tons of bugs and introduces a new testing standard. Check the Release announcement for a more granular description of the changes implemented in this one and the feedback that we got.
+ 💖 Chevereto is very small 2-person team from Chile and for about a while we have been building our next-gen stuff which we will start to unwrap very soon.
+ Feel free to ask me your questions, also suggest me stuff you will like to see in Chevereto 😉
+ Bonus: Chevereto-Free users will be happy to know that there are Future plans for Chevereto-Free
+    submitted by    /u/chevereto  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Novell Netware type screensaver for Linux?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/no3k3t/novell_netware_type_screensaver_for_linux/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/no3k3t/novell_netware_type_screensaver_for_linux/"/>
+        <updated>2021-05-30T04:38:18.000Z</updated>
+        <summary type="html"><![CDATA[I know I am dating myself here, but does anybody here remember the old Novell Netware screensavers? It has a red snake that runs around, and depending on CPU and IO load, the length of the snake changes. It's great being able to just briefly glance at a montior from far away, to see how much load my system is going through. Also, if you have more than one CPU core, you can have a different colored snake for the other core. 
+ My question is, does such a similar screensaver exist for Linux shells? I remember back in the late 90s, there was a Windows type screensaver for it, but it was really blurry and nowhere as authentic as the original.
+    submitted by    /u/monsterbrz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TiddlyWiki, a non-linear personal web notebook that anyone can use and keep forever, independently of any corporation.]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/nnzh9x/tiddlywiki_a_nonlinear_personal_web_notebook_that/</id>
