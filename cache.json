@@ -6,6 +6,150 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npfbem/plex_for_google_photos_alternative_or_are_there/",
+          "author": null,
+          "description": "Now that google is going to charge I'm going to move to a self hosted solution. I'm wondering if anyone here has used Plex for photos and knows how it compares with other self hosted options. I have Plex pass and use it for my movies and shows. I read that the photo libraries come with some nice features like the timeline view as well as automated tagging. Wondering if the alternatives do this as well or have other features I'm not considering.\n    submitted by    /u/drmeador  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npfbem/plex_for_google_photos_alternative_or_are_there/",
+          "publishedOn": "2021-05-31T22:39:56.000Z",
+          "wordCount": 669,
+          "title": "Plex for Google Photos alternative or are there better options?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npeozn/photostructure_your_new_home_for_all_your_photos/",
+          "author": null,
+          "description": "submitted by    /u/2ViagaraPillsInTheAm  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npeozn/photostructure_your_new_home_for_all_your_photos/",
+          "publishedOn": "2021-05-31T22:08:56.000Z",
+          "wordCount": 158,
+          "title": "PhotoStructure - Your new home for all your photos & videos"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npe8cg/recommendation_on_permissions_for_docker/",
+          "author": null,
+          "description": "submitted by    /u/norsemanGrey  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npe8cg/recommendation_on_permissions_for_docker/",
+          "publishedOn": "2021-05-31T21:46:52.000Z",
+          "wordCount": 317,
+          "title": "Recommendation on Permissions for Docker Directories"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npccfd/selfhosted_rmm_software/",
+          "author": null,
+          "description": "I am looking for a self hosted service similar to what Pulseway PC Monitor provides. I find their pricing much too high to monitor all my home and family PCs and would like to find something that I can host myself with no or low monthly cost. Anyone know of anything?\n    submitted by    /u/tekNZ  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npccfd/selfhosted_rmm_software/",
+          "publishedOn": "2021-05-31T20:17:21.000Z",
+          "wordCount": 339,
+          "title": "Selfhosted RMM software"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npcb2n/alternative_to_cloudflare/",
+          "author": null,
+          "description": "Is there an alternative to Cloudflare that offers a similar service with a free tier?\n Ideally, a service that can serve a cached version of my website when it is down. As well as acting as a CDN for CSS, Javascript, Images.\n    submitted by    /u/matthewfelgate  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npcb2n/alternative_to_cloudflare/",
+          "publishedOn": "2021-05-31T20:15:37.000Z",
+          "wordCount": 184,
+          "title": "Alternative To CloudFlare"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npaoxc/i_just_tested_positive_im_in_need_of_all_of_your/",
+          "author": null,
+          "description": "Major bummer vibes, tested positive after a routine check before travelling abroad. So it is quarantaine o'clock instead of holiday vibes. Fuck everything, but at least i have some time to get back into homelabbing. It's been a little stuck while i'm trying to setup a proper network with VLANs and an actual firewall. But i just wanna get the homelab up and running again to try out new projects.\n Y'all got any good ones i should definitely try out?\n    submitted by    /u/Harry_Butz  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npaoxc/i_just_tested_positive_im_in_need_of_all_of_your/",
+          "publishedOn": "2021-05-31T19:01:34.000Z",
+          "wordCount": 622,
+          "title": "I just tested positive, I'M IN NEED OF ALL OF YOUR PROJECT IDEAS"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npai6a/how_to_get_ssl_certificate/",
+          "author": null,
+          "description": "Hi, I'm really new to self hosting and I don't own a domain. I'm just port forwarding my Raspberry Pi in my router. I'm trying to host vaultwarden, but it requires me to have a valid (non-self-signed) certificate for me to use the mobile app. What is the best way to get one? Should I buy a domain?\n    submitted by    /u/catLover144  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npai6a/how_to_get_ssl_certificate/",
+          "publishedOn": "2021-05-31T18:52:59.000Z",
+          "wordCount": 351,
+          "title": "How to get SSL certificate?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npacy9/connecting_to_my_selfhosted_stuff_outside_my/",
+          "author": null,
+          "description": "So I'm setting up Nextcloud for RSS feeds, CalDAV and some other minor applications. At home it should all work well, but what is the standard method for connecting to my Nextcloud instance when outside of my home? Set up a Wireguard tunnel? Or opening some ports and my router and exposing my network on the internet? I really don't know what is best practice. I would like my phone to stay connected 24/7 when at work/elsewhere on my 4G connection. \n Also, does anyone know any good books that could get me wiser on this networking stuff?\n    submitted by    /u/HealthyDoggos4Life  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npacy9/connecting_to_my_selfhosted_stuff_outside_my/",
+          "publishedOn": "2021-05-31T18:46:24.000Z",
+          "wordCount": 461,
+          "title": "Connecting to my selfhosted stuff outside my network"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npa98m/photoprism_on_docker_using_external_storage/",
+          "author": null,
+          "description": "I just installed Photoprism with Docker-compose. \n If I write this path to an external storage, when I index all files that are now on the external HDD, will they be duplicated on the container path on the internal HDD?\n volumes: # Your photo and video files ([local path]:[container path]): - \"/media/externaldisk/photoprism/myphotos/originals:/photoprism/originals\" \n I have 500GB of photos that I don't want to be on my internal disk, only on external.\n How could I be sure that all files are always on the external disk?\n    submitted by    /u/dockuser  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npa98m/photoprism_on_docker_using_external_storage/",
+          "publishedOn": "2021-05-31T18:41:35.000Z",
+          "wordCount": 431,
+          "title": "Photoprism on Docker using external storage?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/np836y/facebook_page_monitoring_tools/",
+          "author": null,
+          "description": "I need to track information of about 20 Facebook pages such as likes and engagement. It'd be cool if it comes with some nice dashboard and reporting.\n Any self-hosted solution for above requirements? \n TIA.\n    submitted by    /u/holammst  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/np836y/facebook_page_monitoring_tools/",
+          "publishedOn": "2021-05-31T17:02:41.000Z",
+          "wordCount": 149,
+          "title": "Facebook Page Monitoring Tools"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/np4axg/regional_servers_or_storage_speed/",
+          "author": null,
+          "description": "Hello, \n I'm about to launch a WordPress website that is specific to a growing community in Austin, TX. I want this website to be as fast as possible for users who will be contributing and revising articles.\n I'm torn between using Digital Ocean's NVME droplet which the closest servers are in San Francisco, or Linode which only has SSD, but it's closest location is in Dallas. I also feel that since this is for a specific location in TX, having a TX-based location would be appreciated by users.\n So the question is: Is storage speed faster than server location? \n I currently have several DO $5 droplets, one of which is running my personal websites. I'm happy with the service which, but that's just for me as I'm the lone admin.\n This new website is a separate venture. I expect several dozen users to be editing the site at the same time, and would like it to be very interactive and as instantaneous as possible. I plan on starting with the lowest tier options and upgrading as needed.\n Both companies offer a $100 credit for the first two months. I've considered launching both to test, but I really don't want to spend that time testing the speed, and would rather spend time with more developing and getting the site ready for it's initial launch.\n Any thoughts on this would be super helpful.\n    submitted by    /u/cinemafunk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/np4axg/regional_servers_or_storage_speed/",
+          "publishedOn": "2021-05-31T14:11:15.000Z",
+          "wordCount": 736,
+          "title": "Regional Servers or Storage Speed?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/np36qs/exception_on_backup_borg/",
+          "author": null,
+          "description": "I am running a automated borg backup script on my Debian 10 server. It worked fine for some time but recently i get an errors on execution:\n https://preview.redd.it/inyk51ushg271.png?width=1610&format=png&auto=webp&s=0ec37feb02b9b5b1d2868b8da196d7b167464fc1\n Backups are still listed in borg -list but the repo is not pruned.\n Also on borg -check Repo i get errors:\n ​\n https://preview.redd.it/6q23h4f2jg271.png?width=1863&format=png&auto=webp&s=c799726c7cc2c8d170d074fa784da58c3069e46c\n Anyone has an idea what can cause this problem?\n    submitted by    /u/Warglblarglthefirst  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/np36qs/exception_on_backup_borg/",
+          "publishedOn": "2021-05-31T13:16:43.000Z",
+          "wordCount": 180,
+          "title": "Exception on Backup (Borg)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/noz1by/nettu_meet_video_conferencing_app_for_tutors/",
+          "author": null,
+          "description": "submitted by    /u/fmeringdal  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/noz1by/nettu_meet_video_conferencing_app_for_tutors/",
+          "publishedOn": "2021-05-31T09:08:37.000Z",
+          "wordCount": 273,
+          "title": "Nettu Meet: video conferencing app for tutors."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/noyzfl/looking_for_a_note_taking_app/",
+          "author": null,
+          "description": "Hi! I'm looking for a good note taking app with these requisites:\n - Self hosted (obviously).\n - Have a nice iOS app that is not just a web frontend.\n - Can search both in all notes and inside a note.\n - Support categories.\n - It's not for Nextcloud (after some years running it decided I just don't like it).\n Nice to have:\n - Good Android app (I sometimes switch to/from Android to iPhone).\n - Open source.\n - Markdown.\n I see there are a lot of options on the awesome self-hosted list but I'm a lazy bastard and before starting to try them all I just ask here in case somebody knows some app matching these requisites.\n    submitted by    /u/juanjux  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/noyzfl/looking_for_a_note_taking_app/",
+          "publishedOn": "2021-05-31T09:05:10.000Z",
+          "wordCount": 353,
+          "title": "Looking for a note taking app"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/noufxp/hammond_selfhosted_vehicle_and_expense_management/",
+          "author": null,
+          "description": "Hi All\n My last OS self hosted project Podgrab was received very well by this community. That project has really matured since I last posted here so I recommend that you give it a look again.\n Today I am announcing my next OS project release - Hammond\n https://github.com/akhilrex/hammond\n It is the logical successor to Clarkson, which is not being developed any more. Here is what all Hammond does\n  \nMultiple Vehicle management\n Multiple Users support\n Share vehicles across multiple support\n Supports different fuel types, units of measurements and currencies.\n Ability to create quick entries at the gas station/pump which can be entered properly later.\n Mobile Friendly\n Docker support\n No external database required\n  \nI plan to built this tool with many more features in the future so all kinds of Bug reports and Feature requests are appreciated.\n    submitted by    /u/trexreturns  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/noufxp/hammond_selfhosted_vehicle_and_expense_management/",
+          "publishedOn": "2021-05-31T04:56:30.000Z",
+          "wordCount": 827,
+          "title": "Hammond - Self-hosted vehicle and expense management. Like Clarkson, but better."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/noqqo5/nginx_proxy_manager/",
+          "author": null,
+          "description": "Has anyone recently installed Nginx proxy manager on a RPi using the docker compose file on their website? No matter how many different methods of install, I can never get it working. I’m using a fresh install of Debian with OMV as the base. The last install I got “bad gateway” when logging in for first time. Have never been more frustrated when installing a docker container. \n Also, any other comparable programs? I would like to manage a reverse proxy via a GUI, as I am really a noob at Linux, docker, MySQL, etc.\n    submitted by    /u/SirChesterMcWhipple  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/noqqo5/nginx_proxy_manager/",
+          "publishedOn": "2021-05-31T02:39:20.000Z",
+          "wordCount": 655,
+          "title": "Nginx Proxy Manager"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/nonedh/personal_capitalmint_alternative/",
           "author": null,
           "description": "I don’t need a mobile app, desktop or web interface would be enough.\n    submitted by    /u/Some-Random-Chick  \n [link]   [comments]",
@@ -911,6 +1055,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=340465",
+          "author": "Jason Lengstorf",
+          "description": "Modern apps place high demands on front-end developers. Web apps require complex functionality, and the lion’s share of that work is falling to front-end devs:\nbuilding modern, accessible user interfaces\ncreating interactive elements and complex animations\nmanaging complex application state\n…\nThe post Serverless Functions: The Secret to Ultra-Productive Front-End Teams appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/serverless-functions-the-secret-to-ultra-productive-front-end-teams/",
+          "publishedOn": "2021-05-31T17:16:22.000Z",
+          "wordCount": 1796,
+          "title": "Serverless Functions: The Secret to Ultra-Productive Front-End Teams"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341482",
+          "author": "Chris Coyier",
+          "description": "I’ve been using Local for ages. Four years ago, I wrote about how I got all my WordPress sites running locally on it. I just wanted to give it another high five because it’s still here and still great. In …\nThe post Local: Always Getting Better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/local-always-getting-better/",
+          "publishedOn": "2021-05-31T17:13:02.000Z",
+          "wordCount": 981,
+          "title": "Local: Always Getting Better"
+        },
+        {
           "id": "https://css-tricks.com/?p=341163",
           "author": "Thomas Park",
           "description": "Typically, a single favicon is used across a whole domain. But there are times you wanna step it up with different favicons depending on context. A website might change the favicon to match the content being viewed. Or a site …\nThe post Dynamic Favicons for WordPress appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -1061,6 +1223,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.",
+          "link": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
+          "publishedOn": "2021-05-31T11:30:00.000Z",
+          "wordCount": 2484,
+          "title": "Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/374464b5-093e-4ca2-9397-6f26c83756d4/june-20-summer-coziness-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/",
           "author": "hello@smashingmagazine.com (Shalabh Vyas)",
@@ -1556,6 +1732,33 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1768449",
+          "author": "Diana Gitig",
+          "description": "Human variability is great—except when it gets in the way of consistent guidance.",
+          "link": "https://arstechnica.com/?p=1768449",
+          "publishedOn": "2021-05-31T13:00:48.000Z",
+          "wordCount": 1439,
+          "title": "Can we keep human inconsistency from confusing expert advice?"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768728",
+          "author": "Ars Staff",
+          "description": "By studying long-living animals, researchers hope to pinpoint factors affecting human longevity.",
+          "link": "https://arstechnica.com/?p=1768728",
+          "publishedOn": "2021-05-31T12:45:51.000Z",
+          "wordCount": 1420,
+          "title": "Genetic tricks of the longest-lived animals"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768684",
+          "author": "Ars Staff",
+          "description": "Scientists are scouring existing studies and research to learn how edibles interact with the body.",
+          "link": "https://arstechnica.com/?p=1768684",
+          "publishedOn": "2021-05-31T10:30:17.000Z",
+          "wordCount": 2716,
+          "title": "Building a better edible"
+        },
         {
           "id": "http://arstechnica.com/?p=896589",
           "author": "Annalee Newitz",
