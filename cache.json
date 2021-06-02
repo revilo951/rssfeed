@@ -6,6 +6,213 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nqakz6/app_controlled_video_jukebox_player_on_raspberry/",
+          "author": null,
+          "description": "submitted by    /u/jjlolo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nqakz6/app_controlled_video_jukebox_player_on_raspberry/",
+          "publishedOn": "2021-06-02T01:57:43.000Z",
+          "wordCount": 226,
+          "title": "App controlled Video Jukebox player on raspberry Pi that autostart and randomly plays videos from a directory? READ FIRST POST"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nqa68l/which_firewallrouter_do_you_use/",
+          "author": null,
+          "description": "Did a pool few days ago about where people were hosting their selfhosted, now lets see how you all deal with your network =) \n View Poll\n    submitted by    /u/SuperMiguel  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nqa68l/which_firewallrouter_do_you_use/",
+          "publishedOn": "2021-06-02T01:36:13.000Z",
+          "wordCount": 175,
+          "title": "Which firewall/router do you use??"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nq8rko/how_to_use_traefik_v2x_with_a_docker_swarm/",
+          "author": null,
+          "description": "Good day.\n I have 5 servers inside a 10.0.0.0/16 private network. And I have Docker Swarm initialized with --advertise-addr 10.0.0.4.\n My main goal here is to configure Traefik v2 within that private network. So, in traefikv2.yml I have this:\n networks: public: driver: overlay attachable: true ipam: config: - subnet: 10.0.0.0/24 \n It's ok to put my private subnet there? Which configuration do I need so Traefik works with that network inside my Swarm, and also listen to any user traffic comming from outside (let's say a website)?\n Thanks in advance.\n    submitted by    /u/FoundationOk304  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nq8rko/how_to_use_traefik_v2x_with_a_docker_swarm/",
+          "publishedOn": "2021-06-02T00:22:58.000Z",
+          "wordCount": 223,
+          "title": "How to use Traefik v2.x with a Docker Swarm private network?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nq6zh3/whats_your_experience_with_duplicati_other/",
+          "author": null,
+          "description": "I need a way to backup all my Docker containers/volumes (really only the volumes, but the containers as well incase of compatibility issues) to the cloud. They're hosted across three different devices (2x RPi and 1x VPS). Now I'm thinking about it, would probably be useful if I could backup the commands used to start all my various docker containers.\n Duplicati stuck out to me because it looks easy but I've read that restoring a backup is a pain. What's your experience? If it's not been the best, what have you used/do you use instead?\n For some insight, my docker containers have volumes attached to them (/var/lib/docker/volumes/{code-server_data, portainer_data, etc}). All I could do is backup the volumes directory and that can be done with rsync, etc. But, I'd like it to be in a nice GUI which is another reason Duplicati stuck out to me, and the fact that it integrates with Cloud, which is probably where I'd backup to.\n ​\n I could care less about the OS itself - all I'd need to do is reinstall the OS and restore the docker volume backup and off I go.\n    submitted by    /u/nicnic2001  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nq6zh3/whats_your_experience_with_duplicati_other/",
+          "publishedOn": "2021-06-01T22:53:58.000Z",
+          "wordCount": 442,
+          "title": "What's your experience with Duplicati? Other solutions you recommend?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nq5ssw/surveillance_privacyfocused_build_with_2_cameras/",
+          "author": null,
+          "description": "Hi,\n I'm new to the surveillance env, but I know about the privacy issues related to most of the commercial IP cameras and their softwares.\n I'd like to build a small surveillance system for my house, just a couple of cameras that I can control remotely from an Android phone (and locally from my Linux PC to easily configure and keep an eye on my cameras when I'm home).\n I normally use Docker on my PC and have got a small remote Linux server that I use for small personal projects. Unfortunately I don't have a Raspberry Pi, but I might consider to buy one. \n What are my options, mainly privacy aware and what cameras should I buy?\n Thanks\n    submitted by    /u/Kioru12  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nq5ssw/surveillance_privacyfocused_build_with_2_cameras/",
+          "publishedOn": "2021-06-01T21:58:15.000Z",
+          "wordCount": 467,
+          "title": "Surveillance privacy-focused build with 2 cameras for small home"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nq4xo7/simple_install_guides/",
+          "author": null,
+          "description": "I'm confused with all the different methods to install Nextcloud and don't know where to begin. I have an Intel NUC running Linux Mint with 8GB RAM. I'm looking for a method to install Nextcloud and have it be accessible outside my home network using a VPN. What do I need to do? There are guides that mention Docker, SQL, apache, Nginx, etc. but I just end up even more lost.\n    submitted by    /u/Ayouby  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nq4xo7/simple_install_guides/",
+          "publishedOn": "2021-06-01T21:20:01.000Z",
+          "wordCount": 307,
+          "title": "Simple install guides"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nq4bc3/taskbud_11_release_introduces_api_support/",
+          "author": null,
+          "description": "Hey folks, I wanted to spend a few months doing some personal testing to make sure everything was running stable. I'm happy to say my household has been using TaskBud for a few months now and it seems to be mostly bug free!\n Link to my project: https://github.com/SteffenBlake/TaskBud/\n What is TaskBud?\n Simply speaking its just a To-Do list app, but meant for multiple users, free to use, open source, and self hosted with support for features like:\n  \nCRON based repeating tasks\n \"Wait Until\" functionality\n Mobile First design\n Real Time App with SignalR, so when someone changes something you see the change asap on your screen as well.\n Markdown support\n And now with v1.1.0, basic API hooks for creating tasks! Which means you can use IFTTT or etc to bind your home assistant commands to push Tasks to the To-Do list pretty easily\n And a fair bit more!\n  \nI might add more API endpoints in the future if there is a demand for it, its not a lot of work but I just wanted to get what is needed for folks to be able to use their home assistants with Taskbud.\n Feel free to try it out!\n Found a bug?\n Report it here! https://github.com/SteffenBlake/TaskBud/issues\n    submitted by    /u/lionhart280  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nq4bc3/taskbud_11_release_introduces_api_support/",
+          "publishedOn": "2021-06-01T20:53:01.000Z",
+          "wordCount": 314,
+          "title": "Taskbud 1.1 Release Introduces API support!"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nq491e/what_do_you_selfhost_that_no_ones_heard_of/",
+          "author": null,
+          "description": "Like the title says, what's that one thing that you self-host that's useful/interesting/fun to do, that isn't as popular as most? Something some of us have never heard of?\n    submitted by    /u/LordPickels  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nq491e/what_do_you_selfhost_that_no_ones_heard_of/",
+          "publishedOn": "2021-06-01T20:50:19.000Z",
+          "wordCount": 645,
+          "title": "What do you self-host that no one's heard of?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nq44ru/music_streaming_docker/",
+          "author": null,
+          "description": "does anyone know if there is a music streaming app/website that I can host myself with docker? I want to be able to play my own music (locally), but also Spotify for example (if thats possible). So that I only have 1 app to find and play all of my music. thank you in advance\n    submitted by    /u/jboesh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nq44ru/music_streaming_docker/",
+          "publishedOn": "2021-06-01T20:45:15.000Z",
+          "wordCount": 299,
+          "title": "Music streaming docker"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nq2iun/hardware_recommendations/",
+          "author": null,
+          "description": "Hi, everyone!\n I'm currently using a frankensteined Office PC for my server with an Intel i3-8100, 1 stick of 8GB DDR4-2666, and it's mounted to an Xpeneology running Dell Optiplex 320.\n I'm looking into consolidating into one PC and using Unraid because y'all have definitely kickstarted my addiction to self-hosting (thanks! :) ), but this chip shortage is driving me mad when finding parts to build my PC.\n But, having the capability of running Plex transcoded streams, and many other services in unraid, while also being able to use hot-swap hard drive bays, and have a rack-mount server form factor.\n Any reccomendations? I've been considering getting a used prebuilt and case swapping to a 2u case, but I'm worried that it would cause incompatibility issues when upgrading hardware.\n Any advice would be helpful :)\n    submitted by    /u/dj_raidar_vip  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nq2iun/hardware_recommendations/",
+          "publishedOn": "2021-06-01T19:36:42.000Z",
+          "wordCount": 337,
+          "title": "Hardware Recommendations?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nq10mq/as_a_beginner_where_should_i_start/",
+          "author": null,
+          "description": "I looked into the wiki but I couldn't understand a lot of stuff, do you guys have any guide?\n Edit : sorry for this question to be vague, from what I see and heard about Big Tech and them spying on our data and stuff, so I am looking for google alternatives and privacy friendly apps to host my data.\n    submitted by    /u/RushilTheWeaboo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nq10mq/as_a_beginner_where_should_i_start/",
+          "publishedOn": "2021-06-01T18:33:06.000Z",
+          "wordCount": 896,
+          "title": "As a beginner , where should I start ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nq0k10/looking_for_a_web_interface_for_different/",
+          "author": null,
+          "description": "Hey\n Short: I need somthing like buggys scriptserver. \n Long:\n I used his scriptserver for a while now. I just want to know if anybody knew about a similar self hosting software. Maybe with more settings or which is more customizable. I need that software mostly for executing self made scripts. I hate web development ( smth. like Angular or React) I am just not creative.\n    submitted by    /u/Melodon-mann  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nq0k10/looking_for_a_web_interface_for_different/",
+          "publishedOn": "2021-06-01T18:14:03.000Z",
+          "wordCount": 260,
+          "title": "looking for a web interface for different services on Ubuntu"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npzyzk/are_there_any_tools_to_aggregate_content_across/",
+          "author": null,
+          "description": "I was doing some research on this and couldn't find an IndieWeb solution to help merge and filter content that's coming from many sources.\n I have content that's being added in multiple places in this form:\n  \nURL\n Title\n Description (optional)\n Tags (optional)\n  \nIt's very unlikely that I'll ever get to 100% self-hosted, but I want all of this content to be aggregated in a self-service solution of some kind. Then I'll be able to do more interesting filtering, reminders, automatic posting, etc.\n It becomes a little bit clearer when you look at the sources:\n  \nBookmarks in pinboard.in.\n Instapaper articles.\n Notes to self as Slack messages.\n Chrome bookmarks on work machines.\n Saved Reddit posts.\n Favorites on Hacker News.\n Saved threads on Lobsters (a Reddit-like site)\n Faves on Twitter.\n  \nA potential solution would be to choose one of the options above, like Pinboard, and push all of the content there. That's fine in theory, but I'd need a tool, or collection of tools to push the content to that location. Pinboard is great, but I'd still have to build some additional functionality for handling automatic posting of specific content.\n It would be much better to have all of this data in the database of a self-hosted app that I can access, or hack on the app itself. It would ideally maintain connectors for all of the sources above and add more. I have yet to find such a tool and wanted to ask here. Ultimately, I think I'll have to just build something for myself.\n    submitted by    /u/brianly  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npzyzk/are_there_any_tools_to_aggregate_content_across/",
+          "publishedOn": "2021-06-01T17:50:11.000Z",
+          "wordCount": 387,
+          "title": "Are there any tools to aggregate content across multiple bookmarking tools? (detailed example provided)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npy8ih/good_working_dns_leak_detection_scripts_that_can/",
+          "author": null,
+          "description": "Hello Is there any script that can i self host it to see dns leaks (what is my dns servers) and also good webrtc ones and also header and timezone detection are also very welcome if available.\n And it is no problem if they be several scripts.\n Although i like to know everything possible (every one that is available) \n I mainly prefer those who can installed on free hostings that mostly support php.\n But i like to know others also.\n Thank you very much.\n Also if you know any way to mirror well knows websites to my own domain or cloudflare (i don't know any technical names but something like cname cloaking or better ways)\n for this leak detection websites (like ipleak, dnsleaktest, whoer and others) say that mirroring way please.\n Why i ask this is because most of these services are blocked by our idiot ISPs to prevent knowing their vulnerabilities.\n Thanks in advance.\n    submitted by    /u/YebjPHFrUgNJAEIOwuRk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npy8ih/good_working_dns_leak_detection_scripts_that_can/",
+          "publishedOn": "2021-06-01T16:38:00.000Z",
+          "wordCount": 281,
+          "title": "Good working dns leak detection scripts that can self hosted"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npx16u/from_zero_to_code_automating_hashicorp_vault_with/",
+          "author": null,
+          "description": "submitted by    /u/mightywomble  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npx16u/from_zero_to_code_automating_hashicorp_vault_with/",
+          "publishedOn": "2021-06-01T15:46:31.000Z",
+          "wordCount": 177,
+          "title": "From Zero to Code: Automating Hashicorp Vault with Ansible to create a CA Server"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npuw9p/best_way_to_organize_a_repository_with_tons_of/",
+          "author": null,
+          "description": "Hello!\n I am currently managing a small company's infrastructure and we basically have a bunch of docker containers we have to run for each application. This runs out of a single physical machine, and all configuration is done with environment variables when possible.\n The final goal is to save these configurations on a git repository to track any changes, but, how should I organize this?\n My first idea was to create a single docker-compose file, but that quickly became huge to manage. An alternative would be to create smaller docker-compose files for each application, then create a batch script to launch each of them.\n Is there a third option that I am missing? What (and why) do you do in your case?\n    submitted by    /u/hectorcastelli  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npuw9p/best_way_to_organize_a_repository_with_tons_of/",
+          "publishedOn": "2021-06-01T14:09:36.000Z",
+          "wordCount": 860,
+          "title": "Best way to organize a repository with tons of docker-compose files?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npu9gu/alternative_to_nextcloud_calendar_with_a_web/",
+          "author": null,
+          "description": "Hello,\n I'm currently using Nextcloud for a bunch of things (some files but not many, contacts, notes, calendar, etc) and while it works fine for this, the calendar web interface in particular is way too slow (I'm using Nginx + PHP-FPM on amd64).\n I saw this other thread that mentioned Radicale as an alternative, but Radicale doesn't have a web interface, which is important if I'm on a machine that I don't have a client installed on yet.\n Does anyone know of an alternative to Nextcloud calendar that:\n  \nHas a fast and responsive web interface\n Supports Caldav for syncing to client devices\n Has an import function so I can import my Nextcloud calendar\n  \nI don't care about any other features such as contacts or notes, because I'm happy with using Nextcloud for those for now.\n    submitted by    /u/Starbeamrainbowlabs  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npu9gu/alternative_to_nextcloud_calendar_with_a_web/",
+          "publishedOn": "2021-06-01T13:38:25.000Z",
+          "wordCount": 341,
+          "title": "Alternative to Nextcloud calendar with a web interface & import?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npu1y9/suggestions_for_simple_documentation_system/",
+          "author": null,
+          "description": "Hey everyone,\n I've been looking into creating a simple documentation site for my team members since my team has grown in size recently. I have tens of dozens of documents, instructions and step-by-step configurations for reference.\n The basic functionality that I'm looking for are for people to login and search for topics, view the documentation, check they've read them. Do you guys know of any such system that I can self-host in my system and share with them? I've been looking at sites like https://docusaurus.io and https://www.bookstackapp.com. \n Am I in the right track? Or are there better ones for my needs?\n Thank you very much for your time reading this and for any responses.\n    submitted by    /u/creamyflir  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npu1y9/suggestions_for_simple_documentation_system/",
+          "publishedOn": "2021-06-01T13:28:17.000Z",
+          "wordCount": 660,
+          "title": "Suggestions for simple Documentation system"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npryk7/live_streaming_an_event/",
+          "author": null,
+          "description": "Hi everyone, I'm hoping to live stream a civil ceremony just to family + friends. Any suggestions of how I could go about doing this? I'm a complete beginner when it comes to this! I was thinking of just sending out links on zoom, but would appreciate if there was anything extra I could do to make video quality/ audio quality better without breaking the bank.\n    submitted by    /u/vixen5678  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npryk7/live_streaming_an_event/",
+          "publishedOn": "2021-06-01T11:40:42.000Z",
+          "wordCount": 393,
+          "title": "Live streaming an event"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npqzkk/heimdall/",
+          "author": null,
+          "description": "Hello Guys,\n i have installed my first self-hosted, i have chosen the Heimdall.\n Right now everything works ok and perfectly, but i want to ask if it's possible to change the theme.\n Thank you all\n    submitted by    /u/fakesoul420  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npqzkk/heimdall/",
+          "publishedOn": "2021-06-01T10:39:27.000Z",
+          "wordCount": 241,
+          "title": "Heimdall"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npq8e4/letsencrypt_shows_incorrect_txt_record_even_when/",
+          "author": null,
+          "description": "I am trying to generate a wildcard cert for my domain, and I am using dns-01 challenge for verification which asks to create a txt record and then verifies the domain by matching the txt record\n I have been trying from sometime, even though the txt record is correct LE does errors out saying that its not matching.\n Please deploy a DNS TXT record under the name _acme-challenge.xxxxxx.tk with the following value: nqQ2DN8qvVhzSvbhLr6qqSw3IuYHP5jD66ZeDWCrKoA Before continuing, verify the record is deployed. (This must be set up in addition to the previous challenges; do not remove, replace, or undo the previous challenge tasks yet. Note that you might be asked to create multiple distinct TXT records with the same name. This is permitted by DNS standards.) - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Press Enter to Continue Waiting for verification... Cleaning up challenges Failed authorization procedure. xxxxxx.tk (dns-01): urn:ietf:params:acme:error:unauthorized :: The client lacks sufficient authorization :: Incorrect TXT record \"nqQ2DN8qvVhzSvbhLr6qqSw3IuYHP5jD66ZeDWCrKoA\" found at _acme-challenge.xxxxxx.tk IMPORTANT NOTES: - The following errors were reported by the server: Domain: xxxxxx.tk Type: unauthorized Detail: Incorrect TXT record \"nqQ2DN8qvVhzSvbhLr6qqSw3IuYHP5jD66ZeDWCrKoA\" found at _acme-challenge.xxxxxx.tk To fix these errors, please make sure that your domain name was entered correctly and the DNS A/AAAA record(s) for that domain contain(s) the right IP address. \n Anybody else saw this issue?\n    submitted by    /u/us3rnam3_not_found  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npq8e4/letsencrypt_shows_incorrect_txt_record_even_when/",
+          "publishedOn": "2021-06-01T09:47:44.000Z",
+          "wordCount": 633,
+          "title": "Letsencrypt shows incorrect txt record even when the txt record is correct"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npoxm4/librephotos_a_fork_of_ownphotos_with_video_support/",
+          "author": null,
+          "description": "If you haven't heard about LibrePhotos, it is a self-hosted open source photo management service. It does not alter your photo library, it has support for multiple users, face recognition, geolocation, a timeline view and scene detection. \n Five months ago a thread was posted about LibrePhotos and I got a lot of feature requests. I have been working on LibrePhotos since then. This is a quick update about features that got added since then:\n  \nSupport for videos\n Basic support for RAW images\n It is now possible to find and delete missing photos\n You can now install LibrePhotos locally on Linux\n It is now possible to scan with multiple threads at once\n There is now a \"Download selected photos\" button\n Images for ARM64 are in testing\n You can view the REST API under /api/swagger\n  \nMore info on GitHub and Discord:\n https://github.com/LibrePhotos/librephotos\n https://discord.gg/xwRvtSDGWb\n    submitted by    /u/DerNeuere  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npoxm4/librephotos_a_fork_of_ownphotos_with_video_support/",
+          "publishedOn": "2021-06-01T08:13:16.000Z",
+          "wordCount": 741,
+          "title": "LibrePhotos - A fork of OwnPhotos with video support"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/npjxwo/google_photos_alternative_open_source/",
+          "author": null,
+          "description": "We are working on a project to provide a complete Google Photos alternative. There are 3 main advantages Google Photos provide:\n 1- Safe and resilient to data loss\n 2- Simple application interface\n 3- Flexible storage\n We are working on a decentralized solution, which is indeed opensource. Solution is based on IPFS, IPLS and proxy re-encryption. Files are stored on an IPFS node, which can be synchronized with as many other nodes as user chooses to keep data safe and resilient to loss. Also data can be encrypted and saved safely on filecoin network or any normal cloud server. The node provides file management and database API through IPLD/IPFS. Developers can develop for end-users using simple-to-use APIs that are provided for each node. User can either install the open-source software on a machine manually to create a \"BOX\" node or purchase a \"BOX\" node.\n ​\n First application we made is a Google Photo replacement, which you can find here:\n functionland/photos (github.com)\n ​\n you can also read more at our website:\n https://fx.land\n I would appreciate any constructive feedback and stay tuned! \n ​\n https://preview.redd.it/a9yxrb9vik271.png?width=512&format=png&auto=webp&s=9d0b8e43af3c2c500c2566c297eff53398336d5c\n    submitted by    /u/Ok-Jackfruit5814  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/npjxwo/google_photos_alternative_open_source/",
+          "publishedOn": "2021-06-01T02:48:43.000Z",
+          "wordCount": 1939,
+          "title": "Google Photos alternative [Open Source]"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/npfbem/plex_for_google_photos_alternative_or_are_there/",
           "author": null,
           "description": "Now that google is going to charge I'm going to move to a self hosted solution. I'm wondering if anyone here has used Plex for photos and knows how it compares with other self hosted options. I have Plex pass and use it for my movies and shows. I read that the photo libraries come with some nice features like the timeline view as well as automated tagging. Wondering if the alternatives do this as well or have other features I'm not considering.\n    submitted by    /u/drmeador  \n [link]   [comments]",
@@ -958,6 +1165,15 @@
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": [
         {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "author": null,
+          "description": "Added: testing and CI/CD workflows",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2",
+          "publishedOn": "2021-06-01T04:39:30.000Z",
+          "wordCount": 268,
+          "title": "v1.10.2"
+        },
+        {
           "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0",
           "author": null,
           "description": "Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is \"experimental\" due to these caveats:\n\nThis feature is currently only available through custom template.\niTunes has no strict format requirement for duration. The unit is most likely seconds but can be \"hh:mm:ss\" or \"mm:ss\" for some sources. A future version may expose a human readable string to the template.\nNo image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.\nYou can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.\nFixed: the articles in template data were not sorted.\nThank you @Zenigata",
@@ -1054,6 +1270,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=341720",
+          "author": "Chris Coyier",
+          "description": "Pedro Duarte made a wishlist for styled code blocks in blog posts and documentation, then hand-rolls a perfect solution for that wishlist. For example, a feature to be able to highlight certain lines or words within the code block. The …\nThe post Code blocks, but better appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ped.ro/blog/code-blocks-but-better",
+          "publishedOn": "2021-06-01T22:08:48.000Z",
+          "wordCount": 3202,
+          "title": "Code blocks, but better"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341342",
+          "author": "Evgeny Klimenchenko",
+          "description": "Testing is one of those things that you either get super excited about or kinda close your eyes and walk away. Whichever camp you fall into, I’m here to tell you that front-end testing is for everyone. In fact, …\nThe post Front-End Testing is For Everyone appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/front-end-testing-is-for-everyone/",
+          "publishedOn": "2021-06-01T14:17:43.000Z",
+          "wordCount": 3850,
+          "title": "Front-End Testing is For Everyone"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341296",
+          "author": "Geoff Graham",
+          "description": "Critical CSS is one of those things I see in my performance reports but always seem to ignore. I know what it means. It means to put only the CSS required to render things immediately visible in a <style>…\nThe post Jetpack Boost Handles Critical CSS For You appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/jetpack-boost-handles-critical-css-for-you/",
+          "publishedOn": "2021-06-01T14:16:55.000Z",
+          "wordCount": 926,
+          "title": "Jetpack Boost Handles Critical CSS For You"
+        },
         {
           "id": "https://css-tricks.com/?p=340465",
           "author": "Jason Lengstorf",
@@ -1223,6 +1466,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/",
+          "publishedOn": "2021-06-01T14:00:00.000Z",
+          "wordCount": 7115,
+          "title": "Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6db8029d-7039-4beb-b787-f3a0df852f12/smashing-podcast-episode-38.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.",
+          "link": "https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/",
+          "publishedOn": "2021-06-01T09:00:00.000Z",
+          "wordCount": 1362,
+          "title": "Setting Up A Currency Convertor With ExchangeRatesApi.io",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ce4b3b1-3ae6-4371-8aaf-d72da3b69fc5/4-exchange-rate-api-bsa.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -1586,20 +1857,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "author": "hello@smashingmagazine.com (Mathias Biilmann)",
-          "description": "Web-oriented databases, frameworks like Nuxt and Next.js, and even frameworkless approaches are evolving the Jamstack, but the core principles are more powerful than ever.",
-          "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
-          "publishedOn": "2021-05-03T07:00:00.000Z",
-          "wordCount": 2180,
-          "title": "The Evolution Of Jamstack",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/77ef8e71-94e8-49bb-9c9b-dc5b68902149/evolution-jamstack.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -1608,6 +1865,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b5025111ffb70827ef9ebe",
+          "author": null,
+          "description": "Let's build an AI model that speaks just like your favorite character and deploy that model as a Discord chatbot. All the coding and deployment happen in the cloud (for free!), so you don't even need a local IDE to follow along.",
+          "link": "https://www.freecodecamp.org/news/discord-ai-chatbot/",
+          "publishedOn": "2021-06-01T23:47:33.000Z",
+          "wordCount": 1861,
+          "title": "How to Build a Discord AI Chatbot that Talks Like Your Favorite Character"
+        },
+        {
+          "id": "60b1eed311ffb70827ef9504",
+          "author": null,
+          "description": "A Pandas dataframe is a two dimensional data structure which allows you to store data in rows and columns. It's very useful when you're analyzing data.  When you have a list of data records in a dataframe, you may need to drop a specific list of rows depending on the",
+          "link": "https://www.freecodecamp.org/news/drop-list-of-rows-from-pandas-dataframe/",
+          "publishedOn": "2021-06-01T20:47:43.000Z",
+          "wordCount": 1416,
+          "title": "Data Analytics with Pandas – How to Drop a List of Rows from a Pandas Dataframe"
+        },
+        {
+          "id": "60b668c0acb62507dd1d710b",
+          "author": null,
+          "description": "Next.js makes developing React applications simpler. It provides a common structure that allows you to build frontend React applications, and transparently handles server-side rendering for you. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you the basics of Next.js.  Kapehe developed",
+          "link": "https://www.freecodecamp.org/news/learn-next-js/",
+          "publishedOn": "2021-06-01T17:43:56.000Z",
+          "wordCount": 407,
+          "title": "Learn Next.js and Make React Development Simpler"
+        },
+        {
+          "id": "60acf28e11ffb70827ef6dd9",
+          "author": null,
+          "description": "Hey everyone, my name is Santosh. In this article, I will tell you how I ramped up my career and ended up increasing my salary as a developer.  I'll share what I learned from each job along the way, how you can stand out, tips for negotiating salary, and how",
+          "link": "https://www.freecodecamp.org/news/my-developer-journey-how-i-increased-my-salary-and-got-a-remote-job/",
+          "publishedOn": "2021-06-01T16:35:00.000Z",
+          "wordCount": 2823,
+          "title": "My Developer Journey – How I Got a Remote Job and Increased My Salary While Contributing to Open Source"
+        },
+        {
+          "id": "60aff2d711ffb70827ef8829",
+          "author": null,
+          "description": "This informative tutorial goes deep into how to get a cybersecurity job, with insights from senior leaders and hiring managers in the field.",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-cybersecurity-job/",
+          "publishedOn": "2021-06-01T16:34:00.000Z",
+          "wordCount": 2137,
+          "title": "How to Get a Cybersecurity Job in 2021"
+        },
+        {
+          "id": "607f5fafdd38b9088c2bd0c9",
+          "author": null,
+          "description": "When you're debating someone, you want to use all the resources at your disposal to convince them you're right. But you should be careful that you don't end up using a logical fallacy to help you make your point. What is a Logical Fallacy?A logical fallacy is an error",
+          "link": "https://www.freecodecamp.org/news/logical-fallacies-definition-fallacy-examples/",
+          "publishedOn": "2021-06-01T04:19:48.000Z",
+          "wordCount": 6197,
+          "title": "Logical Fallacies – Definition and Fallacy Examples"
+        },
         {
           "id": "60acf28e11ffb70827ef6dd9",
           "author": null,
@@ -1732,6 +2043,105 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1769062",
+          "author": "Jim Salter",
+          "description": "Not a pipe dream—CEO Lisa Su demonstrated a working 3D-stacked 5900X prototype.",
+          "link": "https://arstechnica.com/?p=1769062",
+          "publishedOn": "2021-06-01T22:35:20.000Z",
+          "wordCount": 920,
+          "title": "AMD triples Zen 3 CPU cache using 3D stacking technology"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1758208",
+          "author": "Jennifer Ouellette",
+          "description": "A combination of gyro effect and Magnus effect influences the deflection of trajectory",
+          "link": "https://arstechnica.com/?p=1758208",
+          "publishedOn": "2021-06-01T22:09:00.000Z",
+          "wordCount": 1702,
+          "title": "What the physics of skipping stones can tell us about aircraft water landings"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768988",
+          "author": "Samuel Axon",
+          "description": "Lynch, who disowned the film, won't be recording a commentary track.",
+          "link": "https://arstechnica.com/?p=1768988",
+          "publishedOn": "2021-06-01T21:43:15.000Z",
+          "wordCount": 866,
+          "title": "Months from the release of Dune 2021, the 1984 version gets a 4K release"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1769039",
+          "author": "Dan Goodin",
+          "description": "Add meat to the list of critical supply chains disrupted by the malware scourge.",
+          "link": "https://arstechnica.com/?p=1769039",
+          "publishedOn": "2021-06-01T20:39:16.000Z",
+          "wordCount": 887,
+          "title": "Shortages loom as ransomware hamstrings the world’s biggest meat producer"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768965",
+          "author": "Jon Brodkin",
+          "description": "Facebook/Twitter lobby sues over law that protects politicians from \"censorship.\"",
+          "link": "https://arstechnica.com/?p=1768965",
+          "publishedOn": "2021-06-01T19:08:01.000Z",
+          "wordCount": 1238,
+          "title": "Big Tech sues Florida, saying social media law violates First Amendment"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768896",
+          "author": "Ron Amadeo",
+          "description": "Charge a phone as quickly as gassing up a car.",
+          "link": "https://arstechnica.com/?p=1768896",
+          "publishedOn": "2021-06-01T18:10:50.000Z",
+          "wordCount": 724,
+          "title": "Xiaomi’s 200 W phone charger goes from 0-100% in 8 minutes"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768895",
+          "author": "Jonathan M. Gitlin",
+          "description": "We ask Pirelli to explain its thinking behind the Cyber Tire.",
+          "link": "https://arstechnica.com/?p=1768895",
+          "publishedOn": "2021-06-01T17:30:59.000Z",
+          "wordCount": 1178,
+          "title": "Pirelli puts a wireless sensor in its new tire for the McLaren Artura"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768911",
+          "author": "Tim De Chant",
+          "description": "IT-savvy law firms have swamped retailer with arbitration cases.",
+          "link": "https://arstechnica.com/?p=1768911",
+          "publishedOn": "2021-06-01T16:58:16.000Z",
+          "wordCount": 1356,
+          "title": "After 75,000 Echo arbitration demands, Amazon now lets you sue it"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768886",
+          "author": "Kyle Orland",
+          "description": "The DMCA's \"safe harbor\" isn't so safe when you upload the files.",
+          "link": "https://arstechnica.com/?p=1768886",
+          "publishedOn": "2021-06-01T16:14:30.000Z",
+          "wordCount": 1066,
+          "title": "ROM site owner made $30,000 a year—now owes Nintendo $2.1M"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768877",
+          "author": "Eric Berger",
+          "description": "We \"don't have a lot of reserve\" left.",
+          "link": "https://arstechnica.com/?p=1768877",
+          "publishedOn": "2021-06-01T15:45:16.000Z",
+          "wordCount": 966,
+          "title": "Webb telescope launch date slips again"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1768781",
+          "author": "Eric Berger",
+          "description": "\"The Air Force seeks to leverage the current multi-billion dollar commercial investment.\"",
+          "link": "https://arstechnica.com/?p=1768781",
+          "publishedOn": "2021-06-01T12:50:07.000Z",
+          "wordCount": 942,
+          "title": "The US military is starting to get really interested in Starship"
+        },
         {
           "id": "https://arstechnica.com/?p=1768449",
           "author": "Diana Gitig",
@@ -2167,5 +2577,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
