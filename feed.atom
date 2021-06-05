@@ -2,10 +2,489 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-04T01:38:50.606Z</updated>
+    <updated>2021-06-05T01:14:48.316Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Forum, Wiki, and Site, for a small community]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nsjhpr/forum_wiki_and_site_for_a_small_community/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nsjhpr/forum_wiki_and_site_for_a_small_community/"/>
+        <updated>2021-06-05T00:27:13.000Z</updated>
+        <summary type="html"><![CDATA[I want to set up a site for a community conservation group. 
+ We need :
+  
+Forums for discussing what we want to do
+ A Wiki for documenting locations, tools, and techniques
+ A small public facing website so that people can find out about what we're doing
+ Single sign on
+ A mobile phone app. At least for the forum.
+  
+Is this doable? If so what's the easiest way to do it?
+    submitted by    /u/aboy021  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to setup a VPN to access a web server behind a CGNAT?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nsiowe/how_to_setup_a_vpn_to_access_a_web_server_behind/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nsiowe/how_to_setup_a_vpn_to_access_a_web_server_behind/"/>
+        <updated>2021-06-04T23:43:24.000Z</updated>
+        <summary type="html"><![CDATA[I have a raspberry pi 4 running in my home which I use for selfhosting tools I use. Sadly my ISP sucks and I'm behind a CGNAT. My rpi4 doesn't have a public ip and is not directly accessible from the internet.
+ Some time ago I read on this sub that its possible to make your server accessible using a VPN forward your requests.
+ I'm still noob at this so can you tell how do I do this?
+    submitted by    /u/HarambeTownley  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone build their own home dashboard?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nsifez/anyone_build_their_own_home_dashboard/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nsifez/anyone_build_their_own_home_dashboard/"/>
+        <updated>2021-06-04T23:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Anyone out there build something like a dashboard or magicmirror for their home themselves?
+ If you did, tell me about and link your source code if you got some.
+    submitted by    /u/AnUncreativeName10  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early adopters of Chinese vaccines see case surges; China plows ahead anyway]]></title>
+        <id>https://arstechnica.com/?p=1770201</id>
+        <link href="https://arstechnica.com/?p=1770201"/>
+        <updated>2021-06-04T23:05:12.000Z</updated>
+        <summary type="html"><![CDATA[China is now giving 20 million doses a day despite low efficacy.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puppies’ ability to communicate with people is present almost from birth]]></title>
+        <id>https://arstechnica.com/?p=1769901</id>
+        <link href="https://arstechnica.com/?p=1769901"/>
+        <updated>2021-06-04T23:03:44.000Z</updated>
+        <summary type="html"><![CDATA[We might one day be able to predict which puppies will make the best service dogs.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liveblog: All the news from Apple’s WWDC 2021 keynote on 6/7 at 10 a.m.]]></title>
+        <id>https://arstechnica.com/?p=1770163</id>
+        <link href="https://arstechnica.com/?p=1770163"/>
+        <updated>2021-06-04T22:01:30.000Z</updated>
+        <summary type="html"><![CDATA[Get your updates about iOS, macOS, and more here on June 7 at 10am Pacific.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Search and Filter Components in React]]></title>
+        <id>60b3480c11ffb70827ef9a88</id>
+        <link href="https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/"/>
+        <updated>2021-06-04T21:34:33.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know]]></title>
+        <id>60ba33d7acb62507dd1d9050</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/"/>
+        <updated>2021-06-04T20:58:07.000Z</updated>
+        <summary type="html"><![CDATA[Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server]]></title>
+        <id>60b8f5c7acb62507dd1d8500</id>
+        <link href="https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/"/>
+        <updated>2021-06-04T20:41:29.000Z</updated>
+        <summary type="html"><![CDATA[I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Principles for user-centered front-end development]]></title>
+        <id>https://css-tricks.com/?p=341793</id>
+        <link href="https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b"/>
+        <updated>2021-06-04T20:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Colin Oakley:
+• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)
+• Agnostic — Build 
+…
+The post Principles for user-centered front-end development appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Initial server use/application help]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nseicg/initial_server_useapplication_help/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nseicg/initial_server_useapplication_help/"/>
+        <updated>2021-06-04T20:20:50.000Z</updated>
+        <summary type="html"><![CDATA[I am inheriting a PowerEdge R420 with Windows Server 2019 Standard from a client who had an infrastructure refresh. I am not sure of the specs on it but wanted to know if I could get recommendations on whether or not it is worth keeping and what I could use it for in a residential setting. Thanks for all recommendations - I am very new to server-based use cases and applications.
+    submitted by    /u/beretsandberettas  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This is not a drill: VMware vuln with 9.8 severity rating is under attack]]></title>
+        <id>https://arstechnica.com/?p=1770063</id>
+        <link href="https://arstechnica.com/?p=1770063"/>
+        <updated>2021-06-04T20:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Code execution flaw in vCenter is exploited to install web shell on unpatched machines.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for Homeserver (Virtualisation & maybe cloud Gaming) under 700€ (WITHOUT GPU and Storage)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nscynj/looking_for_homeserver_virtualisation_maybe_cloud/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nscynj/looking_for_homeserver_virtualisation_maybe_cloud/"/>
+        <updated>2021-06-04T19:14:17.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+ so currently i am looking for parts for a new homeserver build for my VMs.
+ So my plan for 24/7 running VMs is:
+  
+2-3x Win 10 VMs with light workloads (1-2 core, 4-6gb Ram each)
+ 2x Linux VMs (Plex and Nextcloud) (1 core, 2-4gb Ram each)
+ as well as some Linux VMs for testing Stuff (1 core, 1-2gb Ram each)
+  
+As Os i was planing to go with ProxMox, budget is around 800€ without any Storage or GPUs but adjustable. Further i had the idea to maybe convert the server to a cloud gaming host later on (2 gaming VMs with a GPU passed through each) bc of that the server should have plenty of PCiE Slots. Pls also consider the long therm costs (power usage), also i dont care if normal pc case or rack. 
+ My first Idea was to build the server:
+ CPU: AMD Ryzen 3700x (268€)
+ Ram: Corsair Vengeance …]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yes, the military is serious about rocketing supplies around the planet]]></title>
+        <id>https://arstechnica.com/?p=1769904</id>
+        <link href="https://arstechnica.com/?p=1769904"/>
+        <updated>2021-06-04T19:00:34.000Z</updated>
+        <summary type="html"><![CDATA["A rocket can get around the world in 90 minutes, and an airplane cannot."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Deleted” Nintendo floppy recovered 26 years later, full of Earthbound secrets]]></title>
+        <id>https://arstechnica.com/?p=1769900</id>
+        <link href="https://arstechnica.com/?p=1769900"/>
+        <updated>2021-06-04T18:40:47.000Z</updated>
+        <summary type="html"><![CDATA[Oil massages, mantras, zombie kidnappings, and more—with ROM-hacked footage to prove it.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers perform magic tricks for birds, who are not amused]]></title>
+        <id>https://arstechnica.com/?p=1769919</id>
+        <link href="https://arstechnica.com/?p=1769919"/>
+        <updated>2021-06-04T18:18:30.000Z</updated>
+        <summary type="html"><![CDATA[Can an animal without hands recognize when humans are using sleight-of-hand tricks?]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto-tagging porn videos/clips]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nsbfzq/autotagging_porn_videosclips/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nsbfzq/autotagging_porn_videosclips/"/>
+        <updated>2021-06-04T18:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Hi selfhosted, I’m looking for something that can take a bucket of videos or photos and do some sort of image recognition on them and tag them accordingly. Specifically, porn clips and photos. I have a bucket of video clips from various tube sites that I’ve saved with almost no tagging and metadata, and with fairly generic titles that don’t include any details on the performer/actress/etc. 
+ I also have a lot of properly named full videos from torrents, etc, that have performers/dates/company/etc. Those should be easy to organize in something like Stash, etc. 
+ This may be harder for videos, I understand. But for photos, is there something like this, but self-hosted? Like will it recognize things like blonde, brunette, etc?
+ I have a newer Synology along with a few Linux boxes (i5 4th Gen, etc) and I’m familiar enough with Docker. Does what I’m looking for exist?
+    submitted by    /u/rcocuban  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript Basics in this Beginner&#x27;s Guide]]></title>
+        <id>60b2a4c611ffb70827ef9842</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-basics/"/>
+        <updated>2021-06-04T18:01:00.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google makes small Android advertising concession in wake of iOS 14.5]]></title>
+        <id>https://arstechnica.com/?p=1769883</id>
+        <link href="https://arstechnica.com/?p=1769883"/>
+        <updated>2021-06-04T17:49:45.000Z</updated>
+        <summary type="html"><![CDATA[Android ad tracking still isn't opt-in, though, so not much will change.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IAM Policy and Credentials - how secure are they?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nsarvj/iam_policy_and_credentials_how_secure_are_they/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nsarvj/iam_policy_and_credentials_how_secure_are_they/"/>
+        <updated>2021-06-04T17:36:35.000Z</updated>
+        <summary type="html"><![CDATA[For a while I've had a nextcloud server running at home, but I am moving it to a self managed cloud server with an S3 Bucket mounted as external storage. I think this is much more secure in the long term , or in the event of a disaster or move.
+ However I am very concerned with the security of my bucket. It isn't public, I am using an IAM policy to control access to the data on it. However I am aware that a few years ago there were several major data breaches at companies which relied on S3 Buckets. Reading up on this they seem to have been caused by user misconfiguration, but there was at least one instance where hackers were able to access the IAM credentials thru Server Side Request Forgery. 
+ My set up isn't nearly as complex as it was for these large corporations - should I be concerned? Is an IAM policy enough or is there something else I can do to secure my data? I know that nextcloud already has a feature that lets you encrypt data , is that enough?
+ Also, what storage provider do you guys prefer?
+    submitted by    /u/Xopher001  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[stupid question about PKI and CA selfhosted: if I had one, I would have to import my root CA certificates on all devices...?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ns86xf/stupid_question_about_pki_and_ca_selfhosted_if_i/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ns86xf/stupid_question_about_pki_and_ca_selfhosted_if_i/"/>
+        <updated>2021-06-04T15:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Otherwise, how can they consider my CA valid?
+    submitted by    /u/wireless82  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook extends Trump ban, ends exemptions for politicians’ posts [Updated]]]></title>
+        <id>https://arstechnica.com/?p=1769852</id>
+        <link href="https://arstechnica.com/?p=1769852"/>
+        <updated>2021-06-04T14:53:22.000Z</updated>
+        <summary type="html"><![CDATA[“Newsworthiness allowance” would allow some controversial posts through.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can I :has()]]></title>
+        <id>https://css-tricks.com/?p=341968</id>
+        <link href="https://bkardell.com/blog/canihas.html"/>
+        <updated>2021-06-04T14:37:59.000Z</updated>
+        <summary type="html"><![CDATA[I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …
+The post Can I :has() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to start Photoprism with Windows Docker]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ns5ubn/how_to_start_photoprism_with_windows_docker/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ns5ubn/how_to_start_photoprism_with_windows_docker/"/>
+        <updated>2021-06-04T14:01:53.000Z</updated>
+        <summary type="html"><![CDATA[I'm having trouble making Photoprism automatically start with windows. I know the command is docker run --restart=always however I cant figure out what to put after that. Simply putting photoprism afterwards said the container could not be found. I tried docker run --restart=always photoprism/photoprism which seemed to work, but then started something called flamboyant_neumann with the name photoprism, not the actual photoprism docker (see photo)
+ What command should I use? I have the container ID number but Idk what the name would be.
+ P.S. I'm using Windows because I am trained in Batch and Powershell. I know its worse, but Im more comfortable with it for my own home server.
+    submitted by    /u/LinuxIsFree  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basic questions: how do you get your self-hosted apps deployed and always running?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ns5m77/basic_questions_how_do_you_get_your_selfhosted/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ns5m77/basic_questions_how_do_you_get_your_selfhosted/"/>
+        <updated>2021-06-04T13:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+ I have an Intel NUC. I'd like to use it to deploy a lot of self-hosted apps, both from open source as well as my own server application. For example, I'd like to set up a sourcegraph server so I can search over some of my repositories easily, and other kinds of servers and databases too (elasticsearch, kibana, redis, influxdb, prometheus, postgresql, maybe a docker registry or something) to get more experience and exposure.
+ I'm struggling with some of the basics about starting, running, and deploying self-hosted apps. For example:
+  
+How do I keep my apps running all the time, even if 
+ If my Intel NUC gets shut down (like, after a reboot), how do I get all the applications I was running back up again, ideally with zero fuss?
+ How do I make sure all the apps I want keep running?
+ How do I deploy changes to the apps? Ideally I could do this from my macbook which I use for development, and again with as little fuss as possible. In the best case, I can push a change to my GitHub repo, have a jenkins server running on my NUC run CI/CD tests, then deploy to the NUC.
+ Do y'all run Docker or Kubernetes or something to run lots of apps at once?
+ Also, is there a chat room or something where I can ask questions in low-latency? Like a slack or discord room you would suggest? (I haven't used IRC yet, so I'd prefer to stick to Slack or Discord).
+  
+Thank you.
+    submitted by    /u/gollyned  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Borgbackup repository providers]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ns5for/borgbackup_repository_providers/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ns5for/borgbackup_repository_providers/"/>
+        <updated>2021-06-04T13:42:51.000Z</updated>
+        <summary type="html"><![CDATA[I know, the point of self-hosting is to self-host. I just don't really wanna spin up a server with 1TB of storage. Anyway, looking for some storage providers which support Borg repositories. BorgBase and Hetzner look attractive. Rsync.net is cheap and Hetzner is who hosts my VPS, so, it would make sense to spin up a Storage Box in the same place as my VPS (free internal traffic). Problem with these storage providers is that I'd need it to be on my VPN (WireGuard). I know they give a public IPv4 address so I could forward that in my DNS, but, I'd prefer it if it were on my VPN and private. I can't decide between Rsync.net and Hetzner; what's your experience with either one?
+ ​
+ Further on from that, I'm sure there are some other providers which no one knows about, those ones are usually the best. Any alternative providers you know?
+    submitted by    /u/nicnic2001  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is anyone hosting a non docker installation of hackershare?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ns3fy2/is_anyone_hosting_a_non_docker_installation_of/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ns3fy2/is_anyone_hosting_a_non_docker_installation_of/"/>
+        <updated>2021-06-04T12:01:45.000Z</updated>
+        <summary type="html"><![CDATA[I'm running LXCs exclusively so hit me up if you're the guy.
+    submitted by    /u/ithakaa  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware will now get priority treatment at the Justice Department]]></title>
+        <id>https://arstechnica.com/?p=1769834</id>
+        <link href="https://arstechnica.com/?p=1769834"/>
+        <updated>2021-06-04T11:55:35.000Z</updated>
+        <summary type="html"><![CDATA[Directive comes as ransomware is exposing the fragility of critical supply chains.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket Report: SpaceX breaks streak of used launches, FAA clears Electron]]></title>
+        <id>https://arstechnica.com/?p=1769761</id>
+        <link href="https://arstechnica.com/?p=1769761"/>
+        <updated>2021-06-04T11:00:34.000Z</updated>
+        <summary type="html"><![CDATA["Listen to customers, don't listen to pundits and market analysts."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Webpack]]></title>
+        <id>https://smashingmagazine.com/2021/06/getting-started-webpack/</id>
+        <link href="https://smashingmagazine.com/2021/06/getting-started-webpack/"/>
+        <updated>2021-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nwani Victory)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advice for wireguard setup]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ns1big/advice_for_wireguard_setup/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ns1big/advice_for_wireguard_setup/"/>
+        <updated>2021-06-04T09:51:05.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I have previously deployed wireguard using the linuxserver/wireguard docker image, and it was easy to set up with the objective of reaching my home server while away.
+ Now, I'm looking to set up a vpn to connect some servers in the cloud into a subnet, without actually using the main wg server as a gateway (to avoid pinging traffic back and forth) - what I'm looking to achieve is to have different server computers accessible via a VPN network only, without proxying the traffic (ie clients use their respective gateways). Is this possible with wg? How should I set this up?
+ I'm unsure as to how to set this up using docker. Nor do I have much experience with the 'ip' or networking packages. How would one set this up using docker? What prerequisite knowledge is important for a successful implementation here?
+ I have read the official docs but was not able to see how to achieve the gateway criteria, and also did not have full understanding of the underlying 'ip' commands. Happy to get pointed to the right resources to achieve this.
+    submitted by    /u/ApocalypseAce  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any Self-Hosted Web Analytics that don't get you banned on Google Ads?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ns14uk/any_selfhosted_web_analytics_that_dont_get_you/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ns14uk/any_selfhosted_web_analytics_that_dont_get_you/"/>
+        <updated>2021-06-04T09:38:48.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/phpadam  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self hosting a very light weight forum(software recommendations)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ns0pbd/self_hosting_a_very_light_weight_forumsoftware/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ns0pbd/self_hosting_a_very_light_weight_forumsoftware/"/>
+        <updated>2021-06-04T09:10:19.000Z</updated>
+        <summary type="html"><![CDATA[What is a very light weight forum software? As in light for the consumer/user.
+ There's a somewhat popular forum I'm on that is sorta at the point where it will fly apart(and managment has taken the "I can do what I want with my 100k user forum, even if that means changing what its based on and about, go build your own"stance) but a decent chunk of the users have dial up like internet speeds. As a result, we are looking for something very light.
+ Why not use the same software that that forum is using? Because it hasn't recieved any updates since 2011 and its recommended OS Windows server 2003.
+ I have the internet capabilities, along with a pile of hardware sitting around and the others have knowledge in running and self hosting sites, but we can't seem to find something light to run, or something that light.
+ Please let me know if this is the wrong place to ask, but it seemed like it was worth a shot to ask here.
+    submitted by    /u/TheGleanerBaldwin  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Piwigo | Lychee | PhotoPrism | librephotos | ... : your final evaluations, experiences and choices (while looking for google photo replacement)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nrzum3/piwigo_lychee_photoprism_librephotos_your_final/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nrzum3/piwigo_lychee_photoprism_librephotos_your_final/"/>
+        <updated>2021-06-04T08:12:10.000Z</updated>
+        <summary type="html"><![CDATA[[POST is updating when having news, do not know how to underline what added :(]
+ Hi everybody,
+ I know that lot of discussions are around about this subjects, but here I would like to collect real esperiences: your requirements, what have you tested, positive and negative aspects and what (and why) finally you have chosen and are using. So, not just short suggestions, but "evidences". I think this could be more useful for people like me that are starting to face the problem. In the title I named the most famous tools in my opinions.
+ As I will do, you may also post a work-in-progress situation.
+ First, my one.
+ REQUIREMENTS
+ I'm looking for a stable, lightweight, easy-to-install solution with a related, eventually third parties, app (just browsing features, but it has should be an app... I…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Keep Alternative?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nrx37z/google_keep_alternative/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nrx37z/google_keep_alternative/"/>
+        <updated>2021-06-04T05:03:56.000Z</updated>
+        <summary type="html"><![CDATA[So, I've been using Google Keep for the better part of 3 years, and I've been trying to Self Host basically anything as a learning experience.
+ I currently use Paperwork, which is great, but that's more of an Evernote clone, not exactly the post it note, quick jotdown style of Google Keep. 
+ Thought I'd ask the great people on this sub c:
+    submitted by    /u/dj_raidar_vip  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft Server Hosting]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nrvo31/minecraft_server_hosting/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nrvo31/minecraft_server_hosting/"/>
+        <updated>2021-06-04T03:37:34.000Z</updated>
+        <summary type="html"><![CDATA[I’ve been playing Minecraft for well over 10 years now, me and my buddies got into it when you were kids and it’s always stuck with us even into adulthood. Back when I was younger I would host servers on my dad‘s computer for the 5 to 10 of us that there were I wouldn’t run into any issues.
+ Today, and on several other occasions in the recent college years, I have had the desire to create a server for a larger friend group around 30 players. However I would always run into an issue of “server overloaded, can’t keep up.” 
+ I have a fairly decent sized home lab and in my head it should be able to handle anything I threw at it. I’ve got two R720s in an R620 each server filled with 8 GB modules to the brim in a Proxmox cluster. But even if I threw 128GB of RAM and 32 cores, it would chug when …]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare tunnels]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nrvkdu/cloudflare_tunnels/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nrvkdu/cloudflare_tunnels/"/>
+        <updated>2021-06-04T03:31:27.000Z</updated>
+        <summary type="html"><![CDATA[Would I be able to host a exchange server behind a CGNAT with cloudflare tunnels. Opening all port 25,443,576 and getting DKIM to work. Is this possible to do or would I need a VPS with a VPN?
+    submitted by    /u/CoolGaM3r215  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery]]></title>
+        <id>60b98ebfacb62507dd1d8ec4</id>
+        <link href="https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/"/>
+        <updated>2021-06-04T02:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SMTP server for forwarding mail to other notification channels (Discord, telegram, etc.)]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/nrskub/smtp_server_for_forwarding_mail_to_other/</id>
@@ -4576,16 +5055,6 @@ Chore: Excluded testing files from repo.]]></summary>
         <summary type="html"><![CDATA[How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Valeriia Panina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Performance Of Shopify Themes (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/"/>
-        <updated>2021-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When dealing with themes for large platforms and CMS, legacy issues often become a bottleneck. In this article, Carson Shold discusses how his team improved the performance and organization of their Shopify themes, and improved maintainability along the way.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carson Shold)</name>
         </author>
     </entry>
 </feed>
