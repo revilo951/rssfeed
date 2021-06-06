@@ -6,6 +6,213 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nt9d95/video_wirehole_wireguard_pihole_and_unbound_in/",
+          "author": null,
+          "description": "submitted by    /u/PhroznGaming  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nt9d95/video_wirehole_wireguard_pihole_and_unbound_in/",
+          "publishedOn": "2021-06-06T00:27:44.000Z",
+          "wordCount": 130,
+          "title": "[VIDEO] WireHole: WireGuard, Pi-Hole and Unbound in Docker"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nt7lmz/self_hosted_tool_to_remplace_tallyfy_saas/",
+          "author": null,
+          "description": "Hello ! \n We are currently using Tallyfy which is a great tool but it’s too expensive for our usage. \n https://tallyfy.com\n We use it when we need to onboard or offboard employees to make sure everyone in the team is doing their part of the job. \n It’s a really nice tool, far from the scary workflow management tools I have seen elsewhere. \n Do you have any idea about something similar which could be self hosted ? \n Thanks !\n    submitted by    /u/SassanoM  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nt7lmz/self_hosted_tool_to_remplace_tallyfy_saas/",
+          "publishedOn": "2021-06-05T22:52:50.000Z",
+          "wordCount": 209,
+          "title": "Self hosted tool to remplace Tallyfy ? (SaaS workflow management app)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nt6vn7/speech_to_text_from_the_commandline_any_os_is_fine/",
+          "author": null,
+          "description": "I've been looking all over the internet for something that runs from the console and does local speech recognition, and so far I haven't found anything. Windows and Mac both have speech recognition built-in; surely there is something out there that lets me take an audio file and get the resulting text from it without going through Google cloud or something else?\n ​\n Use case: Podcasts and videos with information in them, lectures, etc. I don't need it to be 100% accurate.\n    submitted by    /u/SLJ7  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nt6vn7/speech_to_text_from_the_commandline_any_os_is_fine/",
+          "publishedOn": "2021-06-05T22:15:58.000Z",
+          "wordCount": 349,
+          "title": "Speech to Text from the command-line (any OS is fine)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nt4r8w/basic_server_hardening_steps/",
+          "author": null,
+          "description": "I recently leased a VPS to host a few services, and took the first steps towards locking down the server (Ubuntu Server 20.04).\n What I have done so far:\n  \nUpdate & Upgrade the system\n Install / enable unattended-upgrades & apt-listchanges (automatically install important updates daily, and monitor/list changes automatically)\n Create a non-root user, add to sudoers\n Lock down SSH \n Change to a nonstandard port\n Create & configure key based SSH login (key protected with password)\n Disable root login via SSH\n Disable password login via SSH\n \n Configure Firewall \n Create rule to allow but limit SSH in on new port\n Create rules to allow in, on other necessary ports (for me just 80 and 443)\n Set default deny for everything else.\n Rule to drop ping requests\n Enable firewall\n \n Setup fail2ban for SSH \n Rather relaxed 15/15/15 rule (15 failed logins, in 15 minutes = 15 minute ban)\n \n Check to make sure apparmor is enabled and in enforcement mode\n  \n​\n On the to-do / research list are (1) setting up mail so important system mail is sent (or forwarded from 'root') to my actual e-mail address (2) figuring out backups of some sort\n ​\n What additional steps would you take?\n What have I left out / forgotten / got wrong?\n    submitted by    /u/Xeon-T  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nt4r8w/basic_server_hardening_steps/",
+          "publishedOn": "2021-06-05T20:36:11.000Z",
+          "wordCount": 1169,
+          "title": "Basic Server Hardening Steps"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nt496d/my_backup_setup_restic_systemd_prometheus_export/",
+          "author": null,
+          "description": "submitted by    /u/JacksGT  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nt496d/my_backup_setup_restic_systemd_prometheus_export/",
+          "publishedOn": "2021-06-05T20:11:07.000Z",
+          "wordCount": 133,
+          "title": "My backup setup: restic + systemd + prometheus export"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nt3zdm/running_taiga_on_docker_with_jwilders_nginxproxy/",
+          "author": null,
+          "description": "I got a couple of services running as containers already including them sharing postgres and nginx-proxy, but I can't for the life of me figure out how I can reuse those for Taiga. Or rather, I got postgres working, but not the nginx-proxy.\n Has anyone done this? Can I take a peek at your config? I'm totally at loss here. I've been googling for days :D\n I'm suspecting I have to do some custom nginx config for Taiga, but none of the stuff I have tried so far has worked. I'm not all that sure how I should get those VIRTUAL_HOST and LETSENCRYPT_HOST environment variables across to nginx-proxy either.\n    submitted by    /u/bronlund  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nt3zdm/running_taiga_on_docker_with_jwilders_nginxproxy/",
+          "publishedOn": "2021-06-05T19:58:04.000Z",
+          "wordCount": 312,
+          "title": "Running Taiga on Docker with jwilder's nginx-proxy?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nt3wj6/nextcloud_how_do_i_change_the_default_folder/",
+          "author": null,
+          "description": "Default folder is var/snap/nextcloud/common/nextcloud/data, right? I'd like to change this to somewhere else, I have another folder ~/temp I want use this directory. Could you help me? Rookie :D\n    submitted by    /u/mishab_mizzunet  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nt3wj6/nextcloud_how_do_i_change_the_default_folder/",
+          "publishedOn": "2021-06-05T19:54:18.000Z",
+          "wordCount": 172,
+          "title": "Nextcloud: How do I change the default folder where it is hosting?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nt3wa7/what_is_the_best_self_hosted_basic_chat_service/",
+          "author": null,
+          "description": "I am looking to host a basic chat website on my home server so I can keep in contact with my wife while I am away for work. It needs to be very very very low bandwidth, something that just sends text and is secure. I need it to be web based so that I can access it from a work computers web browser. What direction do I need to look into for this? Thanks!\n    submitted by    /u/IskanderEXC  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nt3wa7/what_is_the_best_self_hosted_basic_chat_service/",
+          "publishedOn": "2021-06-05T19:53:56.000Z",
+          "wordCount": 315,
+          "title": "What is the best self hosted basic chat service?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nt3qru/fixing_hp_proliant_dl180_g6_not_booting/",
+          "author": null,
+          "description": "I have a HP Proliant DL180 G6. I have two dilemmas. One being I shut my power off to do some electrical work is adding outlets to my house. I forgot to unplug/shutdown server. But all SAS drives are functional I checked the bays lights and all the drives show up in the Smart array manager. But one of the drive says rebuilding 0.19%. while rebooted from Windows server 2019, appreciation of the power again while I was rebuilding. Here's the real dilemma. I transferred a couple terabytes worth of data over to the server. It had my entire movie and DVD collection and TV shows, over 400 movies and over 50 full tv shows s1-end. Two questions.\n  \nIs there a way to recover or rebuild the drive cuz every time I try just it will send my screen no black screen or just not recover.\n I've looked in the…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nt3qru/fixing_hp_proliant_dl180_g6_not_booting/",
+          "publishedOn": "2021-06-05T19:46:36.000Z",
+          "wordCount": 557,
+          "title": "Fixing HP Proliant DL180 G6 (Not Booting)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nt23nq/git_wiki/",
+          "author": null,
+          "description": "Does anyone know if any Wiki style software exists for Github, or some other revision control system. I like the use a github system for my code, but I also need a wiki for random notes and things related to sysadmin and security; I figured they are quite similar that something might exist which faciliates both.\n Any suggestions?\n    submitted by    /u/meowman3000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nt23nq/git_wiki/",
+          "publishedOn": "2021-06-05T18:28:51.000Z",
+          "wordCount": 216,
+          "title": "Git Wiki"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nt16qg/pm2_self_host_alternative/",
+          "author": null,
+          "description": "Hello\n Is there any alternative to pm2 that also has a dashboard to monitor the processes and doesn't have a free process limit?\n Can either be Self-Host, Open-Source or hosted but unlimited processes.\n Thank you\n    submitted by    /u/Karbust  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nt16qg/pm2_self_host_alternative/",
+          "publishedOn": "2021-06-05T17:46:34.000Z",
+          "wordCount": 163,
+          "title": "PM2 Self Host Alternative"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nszygt/should_i_be_using_a_socket_proxy_to_improve/",
+          "author": null,
+          "description": "submitted by    /u/norsemanGrey  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nszygt/should_i_be_using_a_socket_proxy_to_improve/",
+          "publishedOn": "2021-06-05T16:49:18.000Z",
+          "wordCount": 254,
+          "title": "Should I be Using a Socket Proxy to Improve Security"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nszfa7/self_host_nextcloud_without_domain/",
+          "author": null,
+          "description": "I have this server and I want to self-host Nextxloud in it. I tried and tested running publicly by ngrok, it's working, great. However, is there any tunneling sites like ngrok that I can use this Nextcloud publicly for free maybe? Thanks Rookie here :D\n    submitted by    /u/mishab_mizzunet  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nszfa7/self_host_nextcloud_without_domain/",
+          "publishedOn": "2021-06-05T16:24:14.000Z",
+          "wordCount": 272,
+          "title": "Self host nextcloud without domain?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nsz0jh/advice_before_buying_xposted_plexhomenas/",
+          "author": null,
+          "description": "I'd like to get some feedback before pulling the trigger on a build. I'm essentially following JDM_WAAAT's NAS killer 5.0 guide and just want to know how it still holds up, or if there are better options since it is a year old. Usage will be primarily Plex/Sonarr/Radarr/Jackett/qBittorrent with one local client and possibly ~2 remote streams. I plan on getting into unRaid/Docker and exploring additional projects. I've never built a computer before so any feedback/resources/advice would be appreciated.\n CPU: i7-5775C or i7-4790 (whichever I can get for <$150/$200)\n Motherboard: Asus z97-A\n Ram: 4x8gb whatever is compatible/cheap\n Cache: 1tb ssd\n Array: 7x6tb WD Reds\n Case: CoolerMaster n400\n Miscellaneous: power supply, fans, cpu cooler, SATA cables, SATA power cables, thermal paste\n This is the general idea, but is there anything I'm forgetting overlooking? Any concerns/bottleneck/connection issues I should be aware of? I want to spend under $2k all in.\n    submitted by    /u/easylightsmooth  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nsz0jh/advice_before_buying_xposted_plexhomenas/",
+          "publishedOn": "2021-06-05T16:05:24.000Z",
+          "wordCount": 617,
+          "title": "Advice before buying (xposted plex/homeNAS)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nsyl1s/any_ngrok_alternative_that_provides_free_subdomain/",
+          "author": null,
+          "description": "Edit: Agro Tunnel and freenom domain seems nice\n    submitted by    /u/mishab_mizzunet  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nsyl1s/any_ngrok_alternative_that_provides_free_subdomain/",
+          "publishedOn": "2021-06-05T15:46:04.000Z",
+          "wordCount": 251,
+          "title": "Any ngrok alternative that provides free subdomain?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nsyjvy/online_gui_torrent_manager_for_server/",
+          "author": null,
+          "description": "Hello all, ATM I'm planning out to use my old laptop as a plex server, Some of the content will be brang via Torrent. Is there a good torrent downloader with a web GUI for ubuntu server?\n    submitted by    /u/Adaptos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nsyjvy/online_gui_torrent_manager_for_server/",
+          "publishedOn": "2021-06-05T15:44:36.000Z",
+          "wordCount": 599,
+          "title": "Online GUI torrent manager for server?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nsxiwo/linux_server_and_windows_game_vm_on_one_machine/",
+          "author": null,
+          "description": "Hi, what is best for having one machine with a ubuntu server and windows game vm:\n - esxi then both os as vms \n or \n - ubuntu server with windows vm on it\n ​\n Thanks\n the server -> seciond hand tower with 10 core xeon 16g ram and p4000 gpu\n    submitted by    /u/asht1075  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nsxiwo/linux_server_and_windows_game_vm_on_one_machine/",
+          "publishedOn": "2021-06-05T14:56:59.000Z",
+          "wordCount": 327,
+          "title": "Linux server and windows game vm on one machine"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nsx5yu/containerized_email_solution/",
+          "author": null,
+          "description": "I can’t decide between mailcow, docker-mailserver and mailu. All look good. I currently use modoboa, it’s great but I need a solution which lives in Docker. A database-less or SQLite deployment is preferred because the VPS I use doesn’t have a lot of resources. I also hate databases. Autoconfig is preferable but there’s a separate docker image that can provide this functionality. \n So what’s your experience with the three above?\n    submitted by    /u/nicnic2001  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nsx5yu/containerized_email_solution/",
+          "publishedOn": "2021-06-05T14:39:49.000Z",
+          "wordCount": 312,
+          "title": "Containerized email solution?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nswlff/another_randos_critique_of_google_photo/",
+          "author": null,
+          "description": "RSo for months I've been preparing for this. Scoped out hardware upgrades to my personal server, purchasing storage space to prepare for \"The Great TakeOut\"ing. See my wife and I have relied on Google Photo backups to keep copies of our marriage and family journey for the past 10+ years. Obviously they're not High-Res 4k images or videos, but as a family photo album, using our daily driver devices, it's been perfect. \n As Google started showing signs of dropping this feature, I played with other incorporated & pre-existing replacements which I had access. \n Always back burner projects due to a busy life. \n I used Amazon Photos as a Prime Member. It was fine, but UI was garbage. I bought in to Plex as a lifetime member while it was in Beta for totally legal media server uses, and was pleasa…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nswlff/another_randos_critique_of_google_photo/",
+          "publishedOn": "2021-06-05T14:11:59.000Z",
+          "wordCount": 1231,
+          "title": "Another randos critique of Google Photo replacement options"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nss1jd/document_management_who_does_what_best/",
+          "author": null,
+          "description": "First, this sub is great and I find that people are helpful and not snobby. I even started listening to the podcast and enjoy it. So to everyone here: thank you. \n I've got Paperless-ng up and running in Docker and even though there were some bumps, the experience really helped me to learn about how Docker works. Before Paperless-ng, I created a bash script to do the scanning and OCR for me (props to OCRmyPDF, it works great), but I didn't have any learning or tagging system. So far it seems to work well, but I wanted to hear about other document management systems and their various strengths and weaknesses. Does one work better at invoices or does another seem to hang up on certain languages?\n    submitted by    /u/zebutron  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nss1jd/document_management_who_does_what_best/",
+          "publishedOn": "2021-06-05T09:34:27.000Z",
+          "wordCount": 661,
+          "title": "Document Management: who does what best?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nsouqd/nextcloud_docker_on_pi/",
+          "author": null,
+          "description": "I have installed nextcloud in several ways on raspberry pi4 4gb ram using nextcloud pi , custom install and docker . Docker end setup was awesome and simple but the ip it uses cant be accessed on another device under same network . It timesout any way to access it , I am noobie in this but note that my router ip and public ip are different as I believe its from router within router so I know portforwarding doesnt work . Is there anyway to portforward in secure and private way as I know there are sites like portmap.io but need best privacy respecting now ? Also is it just different issue that I cant access outside pi on same network\n    submitted by    /u/DesperateEmphasis340  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nsouqd/nextcloud_docker_on_pi/",
+          "publishedOn": "2021-06-05T05:48:44.000Z",
+          "wordCount": 438,
+          "title": "Nextcloud docker on pi"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nsncul/question_regarding_selfhosted_webscraping_projects/",
+          "author": null,
+          "description": "Hey there,\n I am in the process of building a home server, and wanted to know if anyone knew any cool webscraping projects they've deployed.\n For some reason, the idea to reach out and ping different internet servers for information or to gather data, etc, sounds like a ton of fun. Its just an ocean of servers, and there's gotta be some cool stuff to find (FTP, directories, etc).\n Any projects involving Archive.org , Wayback Machine, etc would be super cool too.\n Or if you guys have any previous webscraper or webcrawler projects you'd like to share for reference, I'm all ears. I ask because I used to be super into this to make Twitter bots that did this, and wanted to get back into this but more so for my personal website, and for my home server too.\n ​\n Thanks as always!\n    submitted by    /u/BackToPlebbit69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nsncul/question_regarding_selfhosted_webscraping_projects/",
+          "publishedOn": "2021-06-05T04:12:38.000Z",
+          "wordCount": 400,
+          "title": "Question Regarding Self-Hosted Webscraping Projects"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nsna5y/question_regarding_bird_watching_selfhosted/",
+          "author": null,
+          "description": "Hey everyone,\n I've gone the gambit of trying to debate how to go about this, but wanted your take on this to see if there is anything decent to do some bird watching.\n Are there any decent, easily deployable, bird watching projects to do secure streams of an outside bird feeder?\n This sounds really dumb, but the one great thing about working from home sometimes is that one of the bird feeders gets swarmed with some really cool looking birds (we're talking cardinals, blue jays, etc) and I would love it if I could deploy a decent webcam that could do motion capture for this kind of thing.\n I would deploy it on a site too if its secure as well, but wanted it to be a bit hacker proof in that I don't want anyone to be able to just control the camera. \n I kind of was thinking to have something that would be able to just record previously recorded video which I could then dump onto a video file on my site later, so it would stream initially on LAN, and then be dumped to a file on my site for public viewing later.\n Any ideas?\n ​\n I'm open to getting a Pi (Zero, 3, 4, etc) with related power banks. Its just the idea of how to power it over a whole week is what has kept me from actually doing it.\n ​\n Thanks as always!\n    submitted by    /u/BackToPlebbit69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nsna5y/question_regarding_bird_watching_selfhosted/",
+          "publishedOn": "2021-06-05T04:08:11.000Z",
+          "wordCount": 542,
+          "title": "Question Regarding Bird Watching Self-Hosted Projects"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/nsjhpr/forum_wiki_and_site_for_a_small_community/",
           "author": null,
           "description": "I want to set up a site for a community conservation group. \n We need :\n  \nForums for discussing what we want to do\n A Wiki for documenting locations, tools, and techniques\n A small public facing website so that people can find out about what we're doing\n Single sign on\n A mobile phone app. At least for the forum.\n  \nIs this doable? If so what's the easiest way to do it?\n    submitted by    /u/aboy021  \n [link]   [comments]",
@@ -2455,20 +2662,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "author": "hello@smashingmagazine.com (Valeriia Panina)",
-          "description": "How do you organize your Google Drive assets? How do you name your Dropbox Paper documents? How do you deal with comments? Let’s get it right.",
-          "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
-          "publishedOn": "2021-05-07T10:00:00.000Z",
-          "wordCount": 4166,
-          "title": "How To Organize Product-Related Assets And Collaborate Better",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2bd6b075-9b54-4fa6-a709-1a8248435c17/product-records-organization-collaboration.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -2817,6 +3010,42 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1769854",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has deals on Audible, Resident Evil, and PlayStation Plus.",
+          "link": "https://arstechnica.com/?p=1769854",
+          "publishedOn": "2021-06-05T15:03:05.000Z",
+          "wordCount": 2870,
+          "title": "The best early Prime Day deal gives $10 Amazon credit with a $40 gift card"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1770116",
+          "author": "Ars Staff",
+          "description": "Turns out human development is a matter of economic justice and climate justice.",
+          "link": "https://arstechnica.com/?p=1770116",
+          "publishedOn": "2021-06-05T13:00:31.000Z",
+          "wordCount": 1215,
+          "title": "Reducing poverty can actually lower energy demand, finds research"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1770108",
+          "author": "Financial Times",
+          "description": "Supply constraints and soaring demand have made vehicle prices a key number for the Fed.",
+          "link": "https://arstechnica.com/?p=1770108",
+          "publishedOn": "2021-06-05T12:15:39.000Z",
+          "wordCount": 1227,
+          "title": "“Kind of crazy”—how the booming US used car market is driving inflation"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1770060",
+          "author": "WIRED",
+          "description": "COVID-19 crushed movie chains—A Quiet Place Part II’s box office shows a potential way out.",
+          "link": "https://arstechnica.com/?p=1770060",
+          "publishedOn": "2021-06-05T11:30:42.000Z",
+          "wordCount": 967,
+          "title": "There’s hope for American movie theaters after all"
+        },
         {
           "id": "https://arstechnica.com/?p=1770201",
           "author": "Beth Mole",
