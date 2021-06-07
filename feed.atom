@@ -2,10 +2,410 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T01:08:39.046Z</updated>
+    <updated>2021-06-07T01:10:07.885Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Help Reviewing My New Home Server PC]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntzp7x/help_reviewing_my_new_home_server_pc/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntzp7x/help_reviewing_my_new_home_server_pc/"/>
+        <updated>2021-06-07T00:28:42.000Z</updated>
+        <summary type="html"><![CDATA[So I’m thinking of building a new server for my increasing needs, below are the services I’m hoping to host on the new server. This server does not need to fit into a rack but will be on 24/7.
+  
+Nextcloud (Family use so under 5 users, but used for file backups and sync)
+ PhotoPrism (Family use so under 5 users, but used for image backups and sync)
+ Jellyfin (Family use so under 5 users, but almost never streaming at the same time)
+ Custom apps (Apps that I make, almost no resource use, just things that need to be run on an always on server)
+ Plus a little room to expand in case I want to host something new
+  
+Here is a link to what I’m thinking of getting on PC part picker: https://pcpartpicker.com/list/CcY3p2
+ Nextcloud says it needs ~ 8 GB of ram and ~ 6 cores for 25 users so I expect to be using ~ 4 GB ram and ~ 3 cores. PhotoPrism says it needs ~ 4 GB of ram and ~ 2 cores but also says “Beyond these minimum requirements, the amount of RAM should match the number of cores. ” Jellyfin has people saying it works fine with ~2 GB of ram and I expect it to use less than 2 cores And my custom apps should use way less than 2 GB of ram and less than 2 cores
+ I didn’t think I needed a graphics card as 1) they are incredibly high in price rn and 2) I didn’t think any of my hosted apps would take advantage of it. Do you see a problem with this?
+ Also, I’m having a problem choosing my storage. I want fast storage but with my budget (Preferably less than $700) and my internet connection (Around 100 Mbps down and 5 Mbps up), I’m not sure that I would see a difference between an HDD vs M.2 SSD. Do you have any recommendations on this?
+ As a side note, I have a monitor, keyboard, and mouse laying around that I can use for this build, and am planning on putting a Linux distro on it.
+ Do you see any problems with my build? Thanks for all of the help in advance!
+    submitted by    /u/Webkin332  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This hard drive is a little out of your league. It’s advanced AF.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntz5kc/this_hard_drive_is_a_little_out_of_your_league/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntz5kc/this_hard_drive_is_a_little_out_of_your_league/"/>
+        <updated>2021-06-06T23:58:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/ZemDregon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop docker services -> Backup -> Restart?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntyocp/stop_docker_services_backup_restart/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntyocp/stop_docker_services_backup_restart/"/>
+        <updated>2021-06-06T23:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys,
+ I'm currently writing a backup script. I have several services which are run via docker-compose. My basic idea was to stop all of them -> backing up the compose files, config + volumes and then restart. But how can I do that? 
+ The idea was to use labels for the containers to know which should be backed up. I can get them without a problem via bash. After that I just wanted to start them again. But how do I do that? A simple docker start "container" is not enough because this would not start other containers which are the base for some services. So I have to use docker-compose up -d to start them again. But for this I need to get the path to the docker-compose file. But I only have the id of the container.
+ Any ideas?
+    submitted by    /u/st01x  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[trying to avoid aws]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntxrkj/trying_to_avoid_aws/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntxrkj/trying_to_avoid_aws/"/>
+        <updated>2021-06-06T22:46:13.000Z</updated>
+        <summary type="html"><![CDATA[I heard good things about min.io and was wondering the best route to go to get it to work inside my dart/flutter application. I know there are some plugins, anyone has any experience connecting the two or using min.io with express/node.js? thanks!
+    submitted by    /u/HallPersonal  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woman in Motion tells story of how Star Trek’s Uhura changed NASA forever]]></title>
+        <id>https://arstechnica.com/?p=1770220</id>
+        <link href="https://arstechnica.com/?p=1770220"/>
+        <updated>2021-06-06T21:32:40.000Z</updated>
+        <summary type="html"><![CDATA["If they let me in the door, I will open it so wide that they will see the world."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pandora’s box has been opened]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntw439/pandoras_box_has_been_opened/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntw439/pandoras_box_has_been_opened/"/>
+        <updated>2021-06-06T21:27:40.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone,
+ I’ve been bit with the privacy bug and decided to self host my business files. So I went ahead and acquired a NUC so that I can run Nextcloud and connect to it via VPN when I’m not at home. 
+ The thing is I’m reasonably tech savvy but completely useless when it comes to command line and Linux. I intended for this to be a quick operation to setup so I can get back to work- but man was I wrong. I have no clue what’s going on to the point where following the wikis I get lost. (I.e. ignition file for CoreOS). 
+ Can someone just point me in the right direction?
+    submitted by    /u/Ayouby  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hosting multiple platforms]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntvcy4/hosting_multiple_platforms/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntvcy4/hosting_multiple_platforms/"/>
+        <updated>2021-06-06T20:53:37.000Z</updated>
+        <summary type="html"><![CDATA[I have been using command line and messing for servers for a good while now and I have just recently seen how people are hosting multiple platforms on one singular machine and I am confused on how. 
+ I have vaguely heard of virtual host with nginx or Apache whatever it was but I am still unsure on how to host a (for example) jellyfin server with a pi-hole server.
+ Does it have something to do with assigning ports?
+    submitted by    /u/Mainstay_Mist  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for web analyzer tool that relies on logs - similar to Awstats]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntv191/looking_for_web_analyzer_tool_that_relies_on_logs/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntv191/looking_for_web_analyzer_tool_that_relies_on_logs/"/>
+        <updated>2021-06-06T20:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone,
+ I’m a fairly new VPS owner and this sub gave me so much ideas! I’m looking for a web analytics solution that doesn’t rely on a tracker (the code snippet you have to embed everywhere), but instead gets information from the system logs, similar to Awstats. 
+ Awstats is great but I’m looking for something with more features and that is more visually appealing 
+ Thanks!
+    submitted by    /u/MetallicAchu  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Currently using an Nginx web server as a reverse proxy, should I just switch to NPM?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntufc7/currently_using_an_nginx_web_server_as_a_reverse/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntufc7/currently_using_an_nginx_web_server_as_a_reverse/"/>
+        <updated>2021-06-06T20:10:36.000Z</updated>
+        <summary type="html"><![CDATA[Title basically. I managed my reverse proxy configuration like any other web server. When I deploy a new service, I add the subdomain to my configuration file in nginx and restart the server afterwards. I also apply my SSL cert through this. 
+ NPM seems easier to manage and it looks like I can basically re-use my entries for each subdomain in the advanced settings that lets you apply your own settings instead of ticking checkboxes. Thoughts? Send it? Don't do it?
+    submitted by    /u/OG_potato_gangsta  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Network and App Diagrams]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nttn30/network_and_app_diagrams/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nttn30/network_and_app_diagrams/"/>
+        <updated>2021-06-06T19:35:53.000Z</updated>
+        <summary type="html"><![CDATA[What do you use to make your network topology and apps Diagrams? And is it selfhosted?
+    submitted by    /u/SuccessRich  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring suggestion? Docker]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntt57j/monitoring_suggestion_docker/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntt57j/monitoring_suggestion_docker/"/>
+        <updated>2021-06-06T19:13:31.000Z</updated>
+        <summary type="html"><![CDATA[hi, do you have any suggestion for me? I am currently using grafana in combination with prometheus and google/cadvisor to monitor my containers and nas. However, it eats up a lot of memory so I'm looking for an alternative.. for docker
+    submitted by    /u/jboesh  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone here have experience with PVM (Parallel Virtual Machine)¿]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntre45/anyone_here_have_experience_with_pvm_parallel/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntre45/anyone_here_have_experience_with_pvm_parallel/"/>
+        <updated>2021-06-06T17:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Ive been workin on a Beowulf cluster computer made out of some raspberry pis. Currently it is running Kubernetes (K3s) and MPI, but I'm wondering if anyone has any experience with PVM as a clustering solution. In theory, it seems like it'd be easier to manage than mpiexec'ing every command, but I'm quite new to all this, so it may not be. Once I get K3s fully up n runnin it may prove things to be simpler than I'm expecting.
+ So yeah, whataya think¿ I've done a wee bit of research on PVM and there's not a ton out there, am I just lookin in the wrong place¿ Is PVM horribly outdated (the website certainly was lmao)¿ Thanks¡
+    submitted by    /u/Dinowlsaur  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Photos alternative]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntr7rt/google_photos_alternative/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntr7rt/google_photos_alternative/"/>
+        <updated>2021-06-06T17:46:16.000Z</updated>
+        <summary type="html"><![CDATA[Hey! Long time lurking on this sub and now I have a question I hope someone can answer. I am in need of an alternative to google photos that can run on a PC that I have running that I also use for Plex. My main purpose of this is mainly to share photos with family and friends. My girlfriend is an amateur photographer and needs something similar to google photos for sharing to clients. I am hopeful to find a program that can run in windows 10 similar to Plex as it would be easiest in my current setup. Thanks!!
+    submitted by    /u/Yamahaboy-22  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancient electric cars meet modern EVs at Amelia Island show]]></title>
+        <id>https://arstechnica.com/?p=1770326</id>
+        <link href="https://arstechnica.com/?p=1770326"/>
+        <updated>2021-06-06T17:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Where else can you see a 1.5 hp 1895 Electrobat next to a 1,000 hp Hummer EV?]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreshRSS | Help with feed.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntps2p/freshrss_help_with_feed/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntps2p/freshrss_help_with_feed/"/>
+        <updated>2021-06-06T16:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Is it possible to load automatically the web version of a feed?
+    submitted by    /u/el_buhito  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wireguard container to container, but need host to host]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntpm8m/wireguard_container_to_container_but_need_host_to/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntpm8m/wireguard_container_to_container_but_need_host_to/"/>
+        <updated>2021-06-06T16:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I'm running wireguard using the linuxserver/wireguard docker image.
+ I managed to get the connection working between containers on two different host.
+ Here's what's going on:
+ Host A > container A > Network < container B < Host B
+ I got the bold areas to connect (i.e. wg container on host A can ping wg container on host B, but cannot reach the host)
+ `docker exec` into the container and ping the other host: ok
+ ssh into host and ping the other host: not reachable
+ What can we do with the docker container config or wg config to allows host A to ping host B?
+ I would like to keep all changes made within the computer instead of on the host itself it at all possible. Perhaps some volume mounts or something?
+ Only if there is really really no way to do this without modifying host files, will I consider doing so.
+ Any help appreciated!
+    submitted by    /u/ApocalypseAce  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hi this is Servito🛎, the dashboard I made for my raspberrry pi]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntpgv8/hi_this_is_servito_the_dashboard_i_made_for_my/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntpgv8/hi_this_is_servito_the_dashboard_i_made_for_my/"/>
+        <updated>2021-06-06T16:24:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/gnlcndrt  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Allow users to upload content on my server via browser/WebUI]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntp7to/allow_users_to_upload_content_on_my_server_via/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntp7to/allow_users_to_upload_content_on_my_server_via/"/>
+        <updated>2021-06-06T16:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Hey,
+ I want to create multiple "sections" and allow users to upload content (PDF, images etc) in a section, via their browser.
+ The user should not register or be required to create a new account. I should password protect each section and anybody who has the credentials should be able to upload in that section. 
+ The end result would be me giving a link+credentials to a person/group. Everybody who has the link+credentials should be able to upload anything on my server, in that specific section, via that URL.
+ S3 integration would be highly appreciated. 
+ Any hints?
+ Thank you!
+    submitted by    /u/RazvanRosca  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I am currently trying to add custom code to Nocodb but getting issue while starting through git code. When I install through box and heroku it works fine. Just getting error while starting though git code. If anyone resolved this let me know]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntovhg/i_am_currently_trying_to_add_custom_code_to/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntovhg/i_am_currently_trying_to_add_custom_code_to/"/>
+        <updated>2021-06-06T15:57:45.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Zash_Redd  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustpad: An online collaborative code editor that looks like VS Code - self-hosted, powered by Rust, TypeScript, & WebAssembly]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nto6sl/rustpad_an_online_collaborative_code_editor_that/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nto6sl/rustpad_an_online_collaborative_code_editor_that/"/>
+        <updated>2021-06-06T15:26:10.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/fz0718  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s why TSMC and Intel keep building foundries in the Arizona desert]]></title>
+        <id>https://arstechnica.com/?p=1770161</id>
+        <link href="https://arstechnica.com/?p=1770161"/>
+        <updated>2021-06-06T14:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Fresh water supply isn't the only consideration for chip fabrication.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I need advice in mc server tunneling]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntmd39/i_need_advice_in_mc_server_tunneling/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntmd39/i_need_advice_in_mc_server_tunneling/"/>
+        <updated>2021-06-06T13:59:12.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I am looking for tunneling software that meets these requirements :
+ - TCP tunneling
+ - free 
+ - stable url that does not change after restart
+ - ngrok/playit.gg/etc. alternative 
+ any advice will be appreciated
+ (I CAN'T PORT FORWARD (ISP BLOCK))
+    submitted by    /u/Szalikko  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Email Archive/Indexer?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntm8jo/email_archiveindexer/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntm8jo/email_archiveindexer/"/>
+        <updated>2021-06-06T13:52:41.000Z</updated>
+        <summary type="html"><![CDATA[Any good solutions for self hosted email archive and indexer? It’s time to move my hordes of email off the cloud.
+ How is the search in roundcube or rainloop? Any better solutions?
+    submitted by    /u/datanut  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24-inch iMac review: There’s still no step three]]></title>
+        <id>https://arstechnica.com/?p=1768133</id>
+        <link href="https://arstechnica.com/?p=1768133"/>
+        <updated>2021-06-06T13:30:44.000Z</updated>
+        <summary type="html"><![CDATA[It's not Apple's best for power users, but it's a nice fit for everyone else.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When the bison come back, will the ecosystem follow?]]></title>
+        <id>https://arstechnica.com/?p=1770130</id>
+        <link href="https://arstechnica.com/?p=1770130"/>
+        <updated>2021-06-06T12:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Bring wild bison to the Great Plains, restore one of the world’s most endangered ecosystems.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nginx on Docker reverse proxy to devices on a WireGuard VPN]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntkjvw/nginx_on_docker_reverse_proxy_to_devices_on_a/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntkjvw/nginx_on_docker_reverse_proxy_to_devices_on_a/"/>
+        <updated>2021-06-06T12:21:43.000Z</updated>
+        <summary type="html"><![CDATA[Hello, I’d like to move my nginx configurations from an apt installation to Docker (probably nginx proxy manager). Let’s say I’ve set it up, I’ll have WireGuard and nginx_pm in separate containers. WireGuard is setup so that it uses my host network because that’s what I found was the easiest. How would I keep nginx_pm on its own network (and possibly move WireGuard to its own network) but have directives to proxy traffic to the WireGuard container?
+    submitted by    /u/nicnic2001  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacker lexicon: What is a supply chain attack?]]></title>
+        <id>https://arstechnica.com/?p=1770126</id>
+        <link href="https://arstechnica.com/?p=1770126"/>
+        <updated>2021-06-06T11:30:45.000Z</updated>
+        <summary type="html"><![CDATA[From NotPetya to SolarWinds, it’s a problem that’s not going away any time soon.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selfhosted VisualPing.io alternative]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntjhea/selfhosted_visualpingio_alternative/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntjhea/selfhosted_visualpingio_alternative/"/>
+        <updated>2021-06-06T11:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I'm looking for a selfhosted https://visualping.io/ alternative.
+ I had a look at https://github.com/dgtlmoon/changedetection.io but doesn't quite do what I need as I would like to have something that takes a 'screenshot' of the page I want to monitor then compare the image then highlight the changed area and notify me.
+    submitted by    /u/Gaz_95  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thanks to this subreddit, I got into self-hosting over the last few months and am slowly adding more and more stuff. This is my current dashboard with all the services I run on a Raspberry Pi 4.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntjfoi/thanks_to_this_subreddit_i_got_into_selfhosting/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntjfoi/thanks_to_this_subreddit_i_got_into_selfhosting/"/>
+        <updated>2021-06-06T11:12:09.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TheGreatestCapybara  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Portainer App Template List]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ntc4xa/best_portainer_app_template_list/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ntc4xa/best_portainer_app_template_list/"/>
+        <updated>2021-06-06T03:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Hey All! 
+ What would you say is the best Portainer App Template list currently? I'm just wondering if I'm missing any from a list I keep, noted below. 
+ https://raw.githubusercontent.com/dnburgess/self-hosted-template/master/template.json
+ https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
+ https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/portainer-2.0/Template/template.json
+ https://raw.githubusercontent.com/technorabilia/portainer-templates/main/lsio/templates/templates-2.0.json
+ https://raw.githubusercontent.com/mikestraney/portainer-templates/master/templates.json
+ Cheers, All
+    submitted by    /u/mywilde  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[VIDEO] WireHole: WireGuard, Pi-Hole and Unbound in Docker]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/nt9d95/video_wirehole_wireguard_pihole_and_unbound_in/</id>
@@ -5418,20 +5818,6 @@ Added: Semantic API for theming the default template. Demo | Source | Docs
 Changed: Moved feed metadata from article level to feed level in cache.
 Fixed: Any html-like text was stripped from title. Fixed with encoded text.
 Removed: href for each source in cache. The value was never used so it's not a breaking change.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>
