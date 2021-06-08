@@ -6,6 +6,168 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nurv3g/how_to_use_docker_and_migrate_your_existing_apps/",
+          "author": null,
+          "description": "submitted by    /u/DiHannay  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nurv3g/how_to_use_docker_and_migrate_your_existing_apps/",
+          "publishedOn": "2021-06-08T00:27:34.000Z",
+          "wordCount": 210,
+          "title": "How to use Docker and migrate your existing Apps to your Linux Server"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nur7bs/selfhost_minecraft_server_for_my_kids/",
+          "author": null,
+          "description": "Hey folks,\n I'm a Minecraft noob - like, literally, never played the game. I'm gifting it to my 6 year old for their birthday and am curious if I should set up a server for them from the start, or if that's something that can wait?\n They'll start off playing on Android tablets (Bedrock Edition), and possibly also on the Nintendo Switch.\n I'm running unraid and have plenty of headroom to add a docker for it... just wondering what the pros and cons are? What are the benefits? What are the downsides?\n Thanks!\n    submitted by    /u/rollinghunger  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nur7bs/selfhost_minecraft_server_for_my_kids/",
+          "publishedOn": "2021-06-07T23:53:24.000Z",
+          "wordCount": 281,
+          "title": "selfhost minecraft server for my kids?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nun996/selfhosted_retroshare_alternative/",
+          "author": null,
+          "description": "Hi all,\n hope it fits this sub.\n I'm looking for an alternative to retroshare, actually what i'm trying to achieve - is friend-to-friend network with options for chat/forum/minimal file storage. The main focus is privacy (not anonymity).\n Some people are not tech-savvy, so i'm looking more simple solution (client side).\n    submitted by    /u/baaadtrippp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nun996/selfhosted_retroshare_alternative/",
+          "publishedOn": "2021-06-07T20:52:10.000Z",
+          "wordCount": 162,
+          "title": "selfhosted RetroShare alternative"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nul6ic/text_editor_with_templating/",
+          "author": null,
+          "description": "Hi,\n My current job requires repetitive typing with small variations (e.g. \"car door: undamaged vs damaged\").\n I am looking for some sort of (ideally web-based) self-hosted/open-source free text editor that can handle custom templating, that then exports to plain text.\n Does this exist, or am I going to have to make it myself (e.g. using React with one of the text editing libraries)?\n Thanks!\n    submitted by    /u/Personability  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nul6ic/text_editor_with_templating/",
+          "publishedOn": "2021-06-07T19:27:02.000Z",
+          "wordCount": 202,
+          "title": "Text editor with templating"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nuj3zh/mail_alias/",
+          "author": null,
+          "description": "Hello togehter,\n I saw an Docker Container for Mail alias a while ago, but I could not find it again and I cannot remember the name.\n It just let you create alias to forward them to your mail address.\n ​\n Apple keynote remembered me of this and I thought some of you will probably know one.\n    submitted by    /u/DreiPunktVier  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nuj3zh/mail_alias/",
+          "publishedOn": "2021-06-07T18:05:06.000Z",
+          "wordCount": 239,
+          "title": "Mail Alias"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nuhp7i/accessing_local_network_remotely_from_mobile/",
+          "author": null,
+          "description": "I found myself using more and more my Android device lately and was thinking to access my NextCloud, Plex and pihole services through openvpn from it. Then I realized Android API doesn't support TAP mode for Openvpn.\n What would be the best alternative:\n  \nA reverse proxy on the Internet.\n A reverse proxy on the openvpn server.\n Wireguard perhaps?\n Complaining to the Android development team x)\n  \nAny idea?\n    submitted by    /u/Vovochik43  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nuhp7i/accessing_local_network_remotely_from_mobile/",
+          "publishedOn": "2021-06-07T17:06:18.000Z",
+          "wordCount": 440,
+          "title": "Accessing local network remotely from mobile devices"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nuhlre/realistic_caldav_expectations/",
+          "author": null,
+          "description": "tldr; I hadn't quite realized how utterly spoiled I was by Google Calendar until I moved off it and would love some help having better expectations for self-hosted solutions.\n I've tried NextCloud and just finished setting up Baikal, but I'm struggling with understanding what I should expect from these systems. I use a few different calendar clients personally, depending on the platform I'm working on.\n Something pretty critical to me is smooth handling of email invites. I send and receive invites to folks who are using Exchange, Gmail, and whatever else on their phones. (None of them are using my CalDAV server.) Nextcloud proved super confusing on that front: invites received from NC don't integrate nicely into Outlook, for instance, so the recipient still has to open an attached ics file…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nuhlre/realistic_caldav_expectations/",
+          "publishedOn": "2021-06-07T17:02:37.000Z",
+          "wordCount": 650,
+          "title": "Realistic CalDAV expectations?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nuh0im/need_help_to_find_an_coding_documentation_software/",
+          "author": null,
+          "description": "Hey, I am trying to create an personal coding documentation, but I have troubles finding an good software for this. I an platform that I can search for content in a organized way and if it's possible in topics.\n    submitted by    /u/Gabriellcreiss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nuh0im/need_help_to_find_an_coding_documentation_software/",
+          "publishedOn": "2021-06-07T16:38:41.000Z",
+          "wordCount": 247,
+          "title": "Need help to find an coding documentation software"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nug4l4/self_hosting_apps_behind_reverse_proxy/",
+          "author": null,
+          "description": "Hi selfhosted- somewhat new hoster here with docker running and NPM for my reverse proxy. \n What are the methods people have used to secure external facing services, but still allowing access via apps? One scenario I’m trying to figure out is sharing emby with friends/family who’d use a Smart tv app. Is it possible to secure emby behind proxy authentication or a SSO and still be accessible via a typical TV app? Or is the only option to have end users log in on a laptop?\n    submitted by    /u/SelfH0st  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nug4l4/self_hosting_apps_behind_reverse_proxy/",
+          "publishedOn": "2021-06-07T16:02:39.000Z",
+          "wordCount": 212,
+          "title": "Self hosting apps behind reverse proxy"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nug2zg/google_photo_takeout_gets_me_so_pissed_off_that/",
+          "author": null,
+          "description": "Hi,\n i've been a google photo user for years.... i've also pay in the past for more storage! Now i just wanted a copy of my data... with all the information... i discovered that every photo and video has they own .json file with metadata separated!!!! Which crazy dumb has even imaged a shame like that? I'll take everything away right now. and i'll never upload anything on a cloud service like that. :( very very crazy time consuming fixing 20k photo with exiftools.... angry...very angry... more than anything...angry with myself... letting other control everything\n    submitted by    /u/ManuJapan89  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nug2zg/google_photo_takeout_gets_me_so_pissed_off_that/",
+          "publishedOn": "2021-06-07T16:00:59.000Z",
+          "wordCount": 371,
+          "title": "Google Photo Takeout gets me so pissed off that i'm moving away!!!"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nufb5o/how_to_organize_storage_of_photos/",
+          "author": null,
+          "description": "Hey,\n I am using Syncthing for all my files management across my devices and I am currently using my big-fat-old computer in order to store big files, using an old 1 terrabyte HDD in order to store medias I rarely use but want to keep (ig photos and some music).\n Is it a good idea to zip the files ? How do you access your datas and is there more elegant ways to navigate my photos over the file manager ? And finally, what are the alternatives to google photos for A.I. ? \n If there is a good one that works locally it would be super nice :D\n ​\n Sorry if the questions are too much 'trivial'.\n Have a pleasant day :)\n    submitted by    /u/Grumby__  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nufb5o/how_to_organize_storage_of_photos/",
+          "publishedOn": "2021-06-07T15:29:09.000Z",
+          "wordCount": 429,
+          "title": "How to organize storage of photos"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nudv3g/from_zero_to_a_docker_app_using_jenkins_proget/",
+          "author": null,
+          "description": "How do you start from nothing, build a base docker image, then update that image and use that image to build an app (N8N in this case) all self-hosted and with your own Private ProGet Docker repo. Part of a Zero to Code for non Devs to follow.\n What I love about this is it's all hosted on my tiny dev environment, Jenkins, Proget, Gitlab, docker etc.. \n This post is long, very long, however, I wanted to get everything I needed into one place as there are few places on the internet that document such a test in all its glory.. this might help someone\n https://tech.davidfield.co.uk/zero-to-code-building-a-docker-image-using-jenkins-and-proget/\n    submitted by    /u/mightywomble  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nudv3g/from_zero_to_a_docker_app_using_jenkins_proget/",
+          "publishedOn": "2021-06-07T14:27:35.000Z",
+          "wordCount": 402,
+          "title": "From zero to a Docker app using Jenkins, ProGet, Gitlab-ce and Docker."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nuc5we/is_there_a_self_hosted_alternative_to_workflowy/",
+          "author": null,
+          "description": "I am looking for a self hosted version of https://workflowy.com/.\n It should be able to:\n  \nzoom in/out of task \n edit in browser \n mark task as done \n convert to a kanban\n  \n   submitted by    /u/and0ne  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nuc5we/is_there_a_self_hosted_alternative_to_workflowy/",
+          "publishedOn": "2021-06-07T13:10:07.000Z",
+          "wordCount": 165,
+          "title": "Is there a self hosted alternative to Workflowy?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nu878c/updating_your_homelab_with_ansible/",
+          "author": null,
+          "description": "submitted by    /u/TiZuid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nu878c/updating_your_homelab_with_ansible/",
+          "publishedOn": "2021-06-07T09:26:30.000Z",
+          "wordCount": 215,
+          "title": "Updating your homelab with Ansible"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nu702j/inventory_software/",
+          "author": null,
+          "description": "Best inventory software for a dedicated server company, Which sells dedicated server\n    submitted by    /u/vinothdev  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nu702j/inventory_software/",
+          "publishedOn": "2021-06-07T07:54:59.000Z",
+          "wordCount": 187,
+          "title": "Inventory software"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nu3td4/advice_on_my_first_server_build/",
+          "author": null,
+          "description": "Hello, I've been running unraid on a pretty standard 8 bay mini itx case for a few years now, and I've started to outgrow it.\n So, to dip my toes into the proper server waters, I picked up one of these, for what I was pretty sure was a steal at $200.\n I wanted to wait until I had it in person to figure out just what else I'd need to get it up and running, and now that I do, I've ordered the following:\n CPUs: https://www.ebay.com/itm/254916366162?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649\n RAM: https://www.ebay.com/itm/124567030786?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649\n Extra PSU (mine came with 1): https://www.ebay.com/itm/283257853305?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649\n Extra PCIE riser (I think this is the right one? We'll see.…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nu3td4/advice_on_my_first_server_build/",
+          "publishedOn": "2021-06-07T04:25:52.000Z",
+          "wordCount": 642,
+          "title": "Advice on my first server build?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nu2iwo/webmail_client_with_caldav_and_carddav_support/",
+          "author": null,
+          "description": "Anyone know of a selfhosted webmail ui client that supports multiple mail accounts with caldav and carddav support?\n Closest I could come to that does what I want is afterlogic, but its a paid service and I don't think its open source.\n Edit: afterlogic is open source, so that is good. And they do have a free lite version, but no calendar/carddav support in the lite version. The paid version would be okay, but updates are only supported on a per year basis, so after a year you need to buy it again for any updates.\n    submitted by    /u/0mnica  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nu2iwo/webmail_client_with_caldav_and_carddav_support/",
+          "publishedOn": "2021-06-07T03:08:48.000Z",
+          "wordCount": 343,
+          "title": "Webmail Client with Caldav and Carddav support"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nu0m6c/dynamodb_and_paramstore_password_management/",
+          "author": null,
+          "description": "Hey everybody, personally I use Bitwarden for my passwords, but I've been doing a little bit of research recently and I haven't been able to find a password manager that supports this, that being storing secrets / passwords in AWS. So I'm coming to you guys to see if this is something you've seen before or would be interested in. It would be self-hosted, I would not provide any hosting whatsoever since I would have access to the access key and the secret key the AWS provides, so there'd be no trust that I would be able to provide on my side. However, if somebody has already done this, I would be interested in reviewing the code for it. Thank you\n    submitted by    /u/DevOverlord  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nu0m6c/dynamodb_and_paramstore_password_management/",
+          "publishedOn": "2021-06-07T01:20:33.000Z",
+          "wordCount": 245,
+          "title": "DynamoDB and ParamStore password management solution"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/ntzp7x/help_reviewing_my_new_home_server_pc/",
           "author": null,
           "description": "So I’m thinking of building a new server for my increasing needs, below are the services I’m hoping to host on the new server. This server does not need to fit into a rack but will be on 24/7.\n  \nNextcloud (Family use so under 5 users, but used for file backups and sync)\n PhotoPrism (Family use so under 5 users, but used for image backups and sync)\n Jellyfin (Family use so under 5 users, but almost never streaming at the same time)\n Custom apps (Apps that I make, almost no resource use, just things that need to be run on an always on server)\n Plus a little room to expand in case I want to host something new\n  \nHere is a link to what I’m thinking of getting on PC part picker: https://pcpartpicker.com/list/CcY3p2\n Nextcloud says it needs ~ 8 GB of ram and ~ 6 cores for 25 users so I expect to be using ~ 4 GB ram and ~ 3 cores. PhotoPrism says it needs ~ 4 GB of ram and ~ 2 cores but also says “Beyond these minimum requirements, the amount of RAM should match the number of cores. ” Jellyfin has people saying it works fine with ~2 GB of ram and I expect it to use less than 2 cores And my custom apps should use way less than 2 GB of ram and less than 2 cores\n I didn’t think I needed a graphics card as 1) they are incredibly high in price rn and 2) I didn’t think any of my hosted apps would take advantage of it. Do you see a problem with this?\n Also, I’m having a problem choosing my storage. I want fast storage but with my budget (Preferably less than $700) and my internet connection (Around 100 Mbps down and 5 Mbps up), I’m not sure that I would see a difference between an HDD vs M.2 SSD. Do you have any recommendations on this?\n As a side note, I have a monitor, keyboard, and mouse laying around that I can use for this build, and am planning on putting a Linux distro on it.\n Do you see any problems with my build? Thanks for all of the help in advance!\n    submitted by    /u/Webkin332  \n [link]   [comments]",
@@ -2234,6 +2396,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341805",
+          "author": "Chris Coyier",
+          "description": "Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type=\"password\"> accessibility. For one thing, being able to toggle it to type=\"text\" should be possible, while announcing, politely, the change. But also, put the password hints \n…\nThe post Links on Accessibility appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-accessibility/",
+          "publishedOn": "2021-06-07T19:52:26.000Z",
+          "wordCount": 599,
+          "title": "Links on Accessibility"
+        },
+        {
+          "id": "https://css-tricks.com/?p=340390",
+          "author": "Chris Coyier",
+          "description": "Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …\nThe post VS Code Extensions for HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/vs-code-extensions-for-html/",
+          "publishedOn": "2021-06-07T14:13:50.000Z",
+          "wordCount": 1453,
+          "title": "VS Code Extensions for HTML"
+        },
+        {
           "id": "https://css-tricks.com/?p=341793",
           "author": "Chris Coyier",
           "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -2492,6 +2672,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
+          "author": "hello@smashingmagazine.com (Prince Chukwudire)",
+          "description": "In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.",
+          "link": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
+          "publishedOn": "2021-06-07T11:00:00.000Z",
+          "wordCount": 2218,
+          "title": "How To Build A Geocoding App In Vue.js Using Mapbox",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
           "author": "hello@smashingmagazine.com (Nwani Victory)",
@@ -2878,6 +3072,42 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "60bbd28eacb62507dd1d99fb",
+          "author": null,
+          "description": "Learn how to build full stack serverless apps with Supabase and Next.js.",
+          "link": "https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/",
+          "publishedOn": "2021-06-07T23:33:30.000Z",
+          "wordCount": 3567,
+          "title": "How to Build a Full Stack App with Supabase and Next.js"
+        },
+        {
+          "id": "60be863cd3126007592d4c36",
+          "author": null,
+          "description": "OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and",
+          "link": "https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/",
+          "publishedOn": "2021-06-07T20:54:41.000Z",
+          "wordCount": 439,
+          "title": "How to Use OpenCV and Python for Computer Vision and AI"
+        },
+        {
+          "id": "5ff625967af2371468bb8645",
+          "author": null,
+          "description": "Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the",
+          "link": "https://www.freecodecamp.org/news/closures-in-javascript/",
+          "publishedOn": "2021-06-07T18:18:01.000Z",
+          "wordCount": 1597,
+          "title": "How to Use Closures in JavaScript – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60b136d911ffb70827ef912b",
+          "author": null,
+          "description": "ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in",
+          "link": "https://www.freecodecamp.org/news/angular-ngclass-example/",
+          "publishedOn": "2021-06-07T15:01:26.000Z",
+          "wordCount": 1547,
+          "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
+        },
+        {
           "id": "60b3480c11ffb70827ef9a88",
           "author": null,
           "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
@@ -3217,6 +3447,96 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1771195",
+          "author": "Beth Mole",
+          "description": "Biden aimed to have 70% of adults immunized by July 4. The country may fall short.",
+          "link": "https://arstechnica.com/?p=1771195",
+          "publishedOn": "2021-06-07T22:56:00.000Z",
+          "wordCount": 1226,
+          "title": "US may miss July 4 vaccination target as number of daily doses plummet"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771171",
+          "author": "Dan Goodin",
+          "description": "Funds seized after Justice Department IDs Bitcoin wallet and obtains its private key.",
+          "link": "https://arstechnica.com/?p=1771171",
+          "publishedOn": "2021-06-07T22:25:41.000Z",
+          "wordCount": 1541,
+          "title": "US seizes $2.3 million Colonial Pipeline paid to ransomware attackers"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771074",
+          "author": "Ron Amadeo",
+          "description": "Google's video game service finally works on Google's TV platform.",
+          "link": "https://arstechnica.com/?p=1771074",
+          "publishedOn": "2021-06-07T22:04:08.000Z",
+          "wordCount": 883,
+          "title": "18 months after launch, Google Stadia now supports Android TV"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771091",
+          "author": "Jon Brodkin",
+          "description": "Increased account terminations would punish \"innocent\" users, groups tell court.",
+          "link": "https://arstechnica.com/?p=1771091",
+          "publishedOn": "2021-06-07T20:43:58.000Z",
+          "wordCount": 1509,
+          "title": "$1 billion piracy ruling could force ISPs to disconnect more Internet users"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1770191",
+          "author": "Corey Gaskin",
+          "description": "Apple walks through what to expect from the Watch's next major software update.",
+          "link": "https://arstechnica.com/?p=1770191",
+          "publishedOn": "2021-06-07T18:24:33.000Z",
+          "wordCount": 649,
+          "title": "watchOS 8 brings new health and messaging features to the Apple Watch this year"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1770188",
+          "author": "Samuel Axon",
+          "description": "Latest macOS release follows on the heels of Big Sur redesign last year.",
+          "link": "https://arstechnica.com/?p=1770188",
+          "publishedOn": "2021-06-07T18:23:46.000Z",
+          "wordCount": 949,
+          "title": "Apple announces macOS Monterey, the next Mac desktop operating system"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1770202",
+          "author": "Samuel Axon",
+          "description": "The iPad will get the same home screen features the iPhone received last year.",
+          "link": "https://arstechnica.com/?p=1770202",
+          "publishedOn": "2021-06-07T17:14:30.000Z",
+          "wordCount": 1441,
+          "title": "Apple announces iOS 15 and iPadOS 15"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1770450",
+          "author": "Jonathan M. Gitlin",
+          "description": "We interviewed franchise director Lee Mather about this year's installment.",
+          "link": "https://arstechnica.com/?p=1770450",
+          "publishedOn": "2021-06-07T16:40:04.000Z",
+          "wordCount": 1205,
+          "title": "Schumacher, Senna, and co-op multiplayer are new additions for F1 2021"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1770440",
+          "author": "Tim De Chant",
+          "description": "“Google took advantage of its vertical integration,” French regulator says.",
+          "link": "https://arstechnica.com/?p=1770440",
+          "publishedOn": "2021-06-07T15:36:11.000Z",
+          "wordCount": 1045,
+          "title": "Antitrust settlement forces Google to revamp ad platform"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1770426",
+          "author": "Eric Berger",
+          "description": "\"You can buy Soyuz seats; it’s not what drives me.\"",
+          "link": "https://arstechnica.com/?p=1770426",
+          "publishedOn": "2021-06-07T13:03:46.000Z",
+          "wordCount": 923,
+          "title": "Jeff Bezos says he will fly into space next month"
+        },
         {
           "id": "https://arstechnica.com/?p=1770220",
           "author": "Jennifer Ouellette",

@@ -2,10 +2,446 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T01:10:07.885Z</updated>
+    <updated>2021-06-08T01:08:31.333Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to use Docker and migrate your existing Apps to your Linux Server]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nurv3g/how_to_use_docker_and_migrate_your_existing_apps/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nurv3g/how_to_use_docker_and_migrate_your_existing_apps/"/>
+        <updated>2021-06-08T00:27:34.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/DiHannay  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[selfhost minecraft server for my kids?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nur7bs/selfhost_minecraft_server_for_my_kids/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nur7bs/selfhost_minecraft_server_for_my_kids/"/>
+        <updated>2021-06-07T23:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Hey folks,
+ I'm a Minecraft noob - like, literally, never played the game. I'm gifting it to my 6 year old for their birthday and am curious if I should set up a server for them from the start, or if that's something that can wait?
+ They'll start off playing on Android tablets (Bedrock Edition), and possibly also on the Nintendo Switch.
+ I'm running unraid and have plenty of headroom to add a docker for it... just wondering what the pros and cons are? What are the benefits? What are the downsides?
+ Thanks!
+    submitted by    /u/rollinghunger  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full Stack App with Supabase and Next.js]]></title>
+        <id>60bbd28eacb62507dd1d99fb</id>
+        <link href="https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/"/>
+        <updated>2021-06-07T23:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build full stack serverless apps with Supabase and Next.js.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US may miss July 4 vaccination target as number of daily doses plummet]]></title>
+        <id>https://arstechnica.com/?p=1771195</id>
+        <link href="https://arstechnica.com/?p=1771195"/>
+        <updated>2021-06-07T22:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Biden aimed to have 70% of adults immunized by July 4. The country may fall short.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US seizes $2.3 million Colonial Pipeline paid to ransomware attackers]]></title>
+        <id>https://arstechnica.com/?p=1771171</id>
+        <link href="https://arstechnica.com/?p=1771171"/>
+        <updated>2021-06-07T22:25:41.000Z</updated>
+        <summary type="html"><![CDATA[Funds seized after Justice Department IDs Bitcoin wallet and obtains its private key.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18 months after launch, Google Stadia now supports Android TV]]></title>
+        <id>https://arstechnica.com/?p=1771074</id>
+        <link href="https://arstechnica.com/?p=1771074"/>
+        <updated>2021-06-07T22:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Google's video game service finally works on Google's TV platform.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenCV and Python for Computer Vision and AI]]></title>
+        <id>60be863cd3126007592d4c36</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/"/>
+        <updated>2021-06-07T20:54:41.000Z</updated>
+        <summary type="html"><![CDATA[OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[selfhosted RetroShare alternative]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nun996/selfhosted_retroshare_alternative/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nun996/selfhosted_retroshare_alternative/"/>
+        <updated>2021-06-07T20:52:10.000Z</updated>
+        <summary type="html"><![CDATA[Hi all,
+ hope it fits this sub.
+ I'm looking for an alternative to retroshare, actually what i'm trying to achieve - is friend-to-friend network with options for chat/forum/minimal file storage. The main focus is privacy (not anonymity).
+ Some people are not tech-savvy, so i'm looking more simple solution (client side).
+    submitted by    /u/baaadtrippp  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$1 billion piracy ruling could force ISPs to disconnect more Internet users]]></title>
+        <id>https://arstechnica.com/?p=1771091</id>
+        <link href="https://arstechnica.com/?p=1771091"/>
+        <updated>2021-06-07T20:43:58.000Z</updated>
+        <summary type="html"><![CDATA[Increased account terminations would punish "innocent" users, groups tell court.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Accessibility]]></title>
+        <id>https://css-tricks.com/?p=341805</id>
+        <link href="https://css-tricks.com/links-on-accessibility/"/>
+        <updated>2021-06-07T19:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type="password"> accessibility. For one thing, being able to toggle it to type="text" should be possible, while announcing, politely, the change. But also, put the password hints 
+…
+The post Links on Accessibility appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Text editor with templating]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nul6ic/text_editor_with_templating/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nul6ic/text_editor_with_templating/"/>
+        <updated>2021-06-07T19:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+ My current job requires repetitive typing with small variations (e.g. "car door: undamaged vs damaged").
+ I am looking for some sort of (ideally web-based) self-hosted/open-source free text editor that can handle custom templating, that then exports to plain text.
+ Does this exist, or am I going to have to make it myself (e.g. using React with one of the text editing libraries)?
+ Thanks!
+    submitted by    /u/Personability  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[watchOS 8 brings new health and messaging features to the Apple Watch this year]]></title>
+        <id>https://arstechnica.com/?p=1770191</id>
+        <link href="https://arstechnica.com/?p=1770191"/>
+        <updated>2021-06-07T18:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Apple walks through what to expect from the Watch's next major software update.]]></summary>
+        <author>
+            <name>Corey Gaskin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple announces macOS Monterey, the next Mac desktop operating system]]></title>
+        <id>https://arstechnica.com/?p=1770188</id>
+        <link href="https://arstechnica.com/?p=1770188"/>
+        <updated>2021-06-07T18:23:46.000Z</updated>
+        <summary type="html"><![CDATA[Latest macOS release follows on the heels of Big Sur redesign last year.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Closures in JavaScript – A Beginner&#x27;s Guide]]></title>
+        <id>5ff625967af2371468bb8645</id>
+        <link href="https://www.freecodecamp.org/news/closures-in-javascript/"/>
+        <updated>2021-06-07T18:18:01.000Z</updated>
+        <summary type="html"><![CDATA[Closures are a confusing JavaScript concept to learn, because it's hard to see how they're actually used.  Unlike other concepts such as functions, variables, and objects, you don't always use closures conscientiously and directly. You don't say: Oh! Here I will use a closure as a solution. But at the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mail Alias]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nuj3zh/mail_alias/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nuj3zh/mail_alias/"/>
+        <updated>2021-06-07T18:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Hello togehter,
+ I saw an Docker Container for Mail alias a while ago, but I could not find it again and I cannot remember the name.
+ It just let you create alias to forward them to your mail address.
+ ​
+ Apple keynote remembered me of this and I thought some of you will probably know one.
+    submitted by    /u/DreiPunktVier  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple announces iOS 15 and iPadOS 15]]></title>
+        <id>https://arstechnica.com/?p=1770202</id>
+        <link href="https://arstechnica.com/?p=1770202"/>
+        <updated>2021-06-07T17:14:30.000Z</updated>
+        <summary type="html"><![CDATA[The iPad will get the same home screen features the iPhone received last year.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessing local network remotely from mobile devices]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nuhp7i/accessing_local_network_remotely_from_mobile/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nuhp7i/accessing_local_network_remotely_from_mobile/"/>
+        <updated>2021-06-07T17:06:18.000Z</updated>
+        <summary type="html"><![CDATA[I found myself using more and more my Android device lately and was thinking to access my NextCloud, Plex and pihole services through openvpn from it. Then I realized Android API doesn't support TAP mode for Openvpn.
+ What would be the best alternative:
+  
+A reverse proxy on the Internet.
+ A reverse proxy on the openvpn server.
+ Wireguard perhaps?
+ Complaining to the Android development team x)
+  
+Any idea?
+    submitted by    /u/Vovochik43  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Realistic CalDAV expectations?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nuhlre/realistic_caldav_expectations/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nuhlre/realistic_caldav_expectations/"/>
+        <updated>2021-06-07T17:02:37.000Z</updated>
+        <summary type="html"><![CDATA[tldr; I hadn't quite realized how utterly spoiled I was by Google Calendar until I moved off it and would love some help having better expectations for self-hosted solutions.
+ I've tried NextCloud and just finished setting up Baikal, but I'm struggling with understanding what I should expect from these systems. I use a few different calendar clients personally, depending on the platform I'm working on.
+ Something pretty critical to me is smooth handling of email invites. I send and receive invites to folks who are using Exchange, Gmail, and whatever else on their phones. (None of them are using my CalDAV server.) Nextcloud proved super confusing on that front: invites received from NC don't integrate nicely into Outlook, for instance, so the recipient still has to open an attached ics file…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schumacher, Senna, and co-op multiplayer are new additions for F1 2021]]></title>
+        <id>https://arstechnica.com/?p=1770450</id>
+        <link href="https://arstechnica.com/?p=1770450"/>
+        <updated>2021-06-07T16:40:04.000Z</updated>
+        <summary type="html"><![CDATA[We interviewed franchise director Lee Mather about this year's installment.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need help to find an coding documentation software]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nuh0im/need_help_to_find_an_coding_documentation_software/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nuh0im/need_help_to_find_an_coding_documentation_software/"/>
+        <updated>2021-06-07T16:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Hey, I am trying to create an personal coding documentation, but I have troubles finding an good software for this. I an platform that I can search for content in a organized way and if it's possible in topics.
+    submitted by    /u/Gabriellcreiss  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self hosting apps behind reverse proxy]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nug4l4/self_hosting_apps_behind_reverse_proxy/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nug4l4/self_hosting_apps_behind_reverse_proxy/"/>
+        <updated>2021-06-07T16:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Hi selfhosted- somewhat new hoster here with docker running and NPM for my reverse proxy. 
+ What are the methods people have used to secure external facing services, but still allowing access via apps? One scenario I’m trying to figure out is sharing emby with friends/family who’d use a Smart tv app. Is it possible to secure emby behind proxy authentication or a SSO and still be accessible via a typical TV app? Or is the only option to have end users log in on a laptop?
+    submitted by    /u/SelfH0st  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Photo Takeout gets me so pissed off that i'm moving away!!!]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nug2zg/google_photo_takeout_gets_me_so_pissed_off_that/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nug2zg/google_photo_takeout_gets_me_so_pissed_off_that/"/>
+        <updated>2021-06-07T16:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+ i've been a google photo user for years.... i've also pay in the past for more storage! Now i just wanted a copy of my data... with all the information... i discovered that every photo and video has they own .json file with metadata separated!!!! Which crazy dumb has even imaged a shame like that? I'll take everything away right now. and i'll never upload anything on a cloud service like that. :( very very crazy time consuming fixing 20k photo with exiftools.... angry...very angry... more than anything...angry with myself... letting other control everything
+    submitted by    /u/ManuJapan89  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antitrust settlement forces Google to revamp ad platform]]></title>
+        <id>https://arstechnica.com/?p=1770440</id>
+        <link href="https://arstechnica.com/?p=1770440"/>
+        <updated>2021-06-07T15:36:11.000Z</updated>
+        <summary type="html"><![CDATA[“Google took advantage of its vertical integration,” French regulator says.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to organize storage of photos]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nufb5o/how_to_organize_storage_of_photos/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nufb5o/how_to_organize_storage_of_photos/"/>
+        <updated>2021-06-07T15:29:09.000Z</updated>
+        <summary type="html"><![CDATA[Hey,
+ I am using Syncthing for all my files management across my devices and I am currently using my big-fat-old computer in order to store big files, using an old 1 terrabyte HDD in order to store medias I rarely use but want to keep (ig photos and some music).
+ Is it a good idea to zip the files ? How do you access your datas and is there more elegant ways to navigate my photos over the file manager ? And finally, what are the alternatives to google photos for A.I. ? 
+ If there is a good one that works locally it would be super nice :D
+ ​
+ Sorry if the questions are too much 'trivial'.
+ Have a pleasant day :)
+    submitted by    /u/Grumby__  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angular NgClass Example – How to Add Conditional CSS Classes]]></title>
+        <id>60b136d911ffb70827ef912b</id>
+        <link href="https://www.freecodecamp.org/news/angular-ngclass-example/"/>
+        <updated>2021-06-07T15:01:26.000Z</updated>
+        <summary type="html"><![CDATA[ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js. Prerequisites – What is Property Binding?Two things we have to understand first are property binding and interpolation in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From zero to a Docker app using Jenkins, ProGet, Gitlab-ce and Docker.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nudv3g/from_zero_to_a_docker_app_using_jenkins_proget/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nudv3g/from_zero_to_a_docker_app_using_jenkins_proget/"/>
+        <updated>2021-06-07T14:27:35.000Z</updated>
+        <summary type="html"><![CDATA[How do you start from nothing, build a base docker image, then update that image and use that image to build an app (N8N in this case) all self-hosted and with your own Private ProGet Docker repo. Part of a Zero to Code for non Devs to follow.
+ What I love about this is it's all hosted on my tiny dev environment, Jenkins, Proget, Gitlab, docker etc.. 
+ This post is long, very long, however, I wanted to get everything I needed into one place as there are few places on the internet that document such a test in all its glory.. this might help someone
+ https://tech.davidfield.co.uk/zero-to-code-building-a-docker-image-using-jenkins-and-proget/
+    submitted by    /u/mightywomble  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS Code Extensions for HTML]]></title>
+        <id>https://css-tricks.com/?p=340390</id>
+        <link href="https://css-tricks.com/vs-code-extensions-for-html/"/>
+        <updated>2021-06-07T14:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …
+The post VS Code Extensions for HTML appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is there a self hosted alternative to Workflowy?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nuc5we/is_there_a_self_hosted_alternative_to_workflowy/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nuc5we/is_there_a_self_hosted_alternative_to_workflowy/"/>
+        <updated>2021-06-07T13:10:07.000Z</updated>
+        <summary type="html"><![CDATA[I am looking for a self hosted version of https://workflowy.com/.
+ It should be able to:
+  
+zoom in/out of task 
+ edit in browser 
+ mark task as done 
+ convert to a kanban
+  
+   submitted by    /u/and0ne  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jeff Bezos says he will fly into space next month]]></title>
+        <id>https://arstechnica.com/?p=1770426</id>
+        <link href="https://arstechnica.com/?p=1770426"/>
+        <updated>2021-06-07T13:03:46.000Z</updated>
+        <summary type="html"><![CDATA["You can buy Soyuz seats; it’s not what drives me."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Geocoding App In Vue.js Using Mapbox]]></title>
+        <id>https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</id>
+        <link href="https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/"/>
+        <updated>2021-06-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updating your homelab with Ansible]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nu878c/updating_your_homelab_with_ansible/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nu878c/updating_your_homelab_with_ansible/"/>
+        <updated>2021-06-07T09:26:30.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TiZuid  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inventory software]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nu702j/inventory_software/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nu702j/inventory_software/"/>
+        <updated>2021-06-07T07:54:59.000Z</updated>
+        <summary type="html"><![CDATA[Best inventory software for a dedicated server company, Which sells dedicated server
+    submitted by    /u/vinothdev  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advice on my first server build?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nu3td4/advice_on_my_first_server_build/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nu3td4/advice_on_my_first_server_build/"/>
+        <updated>2021-06-07T04:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Hello, I've been running unraid on a pretty standard 8 bay mini itx case for a few years now, and I've started to outgrow it.
+ So, to dip my toes into the proper server waters, I picked up one of these, for what I was pretty sure was a steal at $200.
+ I wanted to wait until I had it in person to figure out just what else I'd need to get it up and running, and now that I do, I've ordered the following:
+ CPUs: https://www.ebay.com/itm/254916366162?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649
+ RAM: https://www.ebay.com/itm/124567030786?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649
+ Extra PSU (mine came with 1): https://www.ebay.com/itm/283257853305?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649
+ Extra PCIE riser (I think this is the right one? We'll see.…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webmail Client with Caldav and Carddav support]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nu2iwo/webmail_client_with_caldav_and_carddav_support/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nu2iwo/webmail_client_with_caldav_and_carddav_support/"/>
+        <updated>2021-06-07T03:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Anyone know of a selfhosted webmail ui client that supports multiple mail accounts with caldav and carddav support?
+ Closest I could come to that does what I want is afterlogic, but its a paid service and I don't think its open source.
+ Edit: afterlogic is open source, so that is good. And they do have a free lite version, but no calendar/carddav support in the lite version. The paid version would be okay, but updates are only supported on a per year basis, so after a year you need to buy it again for any updates.
+    submitted by    /u/0mnica  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DynamoDB and ParamStore password management solution]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nu0m6c/dynamodb_and_paramstore_password_management/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nu0m6c/dynamodb_and_paramstore_password_management/"/>
+        <updated>2021-06-07T01:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Hey everybody, personally I use Bitwarden for my passwords, but I've been doing a little bit of research recently and I haven't been able to find a password manager that supports this, that being storing secrets / passwords in AWS. So I'm coming to you guys to see if this is something you've seen before or would be interested in. It would be self-hosted, I would not provide any hosting whatsoever since I would have access to the access key and the secret key the AWS provides, so there'd be no trust that I would be able to provide on my side. However, if somebody has already done this, I would be interested in reviewing the code for it. Thank you
+    submitted by    /u/DevOverlord  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Help Reviewing My New Home Server PC]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/ntzp7x/help_reviewing_my_new_home_server_pc/</id>
