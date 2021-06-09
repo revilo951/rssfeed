@@ -6,6 +6,204 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nviwze/pihole_and_wireguard/",
+          "author": null,
+          "description": "I'm not usually the tinfoil hat type but targeted ads are really starting to rub me the wrong way. This post (instagram link FYI) in particular rang alarm bells in my head this morning.\n Ive been meaning to trial hosting a PiHole instance on my Unraid server at home for the last few months and I think I just got the push I needed to take the plunge and give it a shot. From what I understand (I've done 0 reading of documentation so far) you host it, set up your preferences and then point all your devices to it as a DNS. I assume I could just set that on my Router and it would auto push that setting to all my devices inside my LAN through DHCP at the point of next timeout, or just clear the table and let it do its thing.\n My question is that assuming all the above is correct, if not a little oversimplified, I could probably also tunnel all my devices that are outside of my LAN through Wireguard and route them through my home internet connection as well, thereby benefiting from PiHole while outside of my LAN, right? Has anyone else attempted a similar thing? My home internet connection isn't blazing fast but it doesn't have a data cap. If this is something thats doable I would seriously consider upgrading my connection if it required it.\n Side note: I also realize that PiHole isn't some magic bullet that stops all this tracking garbage in its tracks but it can significantly reduce how many ads make it to my screens which is a step forwards for me.\n    submitted by    /u/sutekhxaos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nviwze/pihole_and_wireguard/",
+          "publishedOn": "2021-06-09T00:30:08.000Z",
+          "wordCount": 390,
+          "title": "pihole and wireguard"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nvh802/self_hosted_dev_toolsutilities/",
+          "author": null,
+          "description": "Hey guys! I'm a self-hoster and a software dev (junior DevOps, just got my first job) and i have a question for the developers in this group. What dev tools do you self-host? For example, i self host a private gitlab server and some runners as well as Hopscotch.\n    submitted by    /u/MikeAnth  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nvh802/self_hosted_dev_toolsutilities/",
+          "publishedOn": "2021-06-08T23:05:06.000Z",
+          "wordCount": 250,
+          "title": "Self hosted dev tools/utilities"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nvfapc/tinyhome_a_tiny_static_homepage_generator/",
+          "author": null,
+          "description": "After tinystatus, I have created a tiny static personal dashboard generator:\n https://github.com/bderenzo/tinyhome\n It use font awesome icons and requires no dependency at all.\n Screenshot: https://imgur.com/a/0PX52IB\n    submitted by    /u/bderenzo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nvfapc/tinyhome_a_tiny_static_homepage_generator/",
+          "publishedOn": "2021-06-08T21:39:33.000Z",
+          "wordCount": 148,
+          "title": "Tinyhome: a tiny static homepage generator"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nvf4nw/ventinghelp_paperlessng_docker_causing_headaches/",
+          "author": null,
+          "description": "Hi all-\n I'm at a loss at what to do here. I genuinely try to figure this out on my own but for some reason paperless is being difficult. I'm running several apps already (bitwarden, nextcloud, snipe-it, a health server, peertube, to name a few). I struggled with all of them at some point in time but managed to google-fu my way through to get what i need. Now more and more its becoming easier to set things up and get them running. If it helps - I also work in software. I'm not a developer, but I do have a basic understanding of how things are supposed to work.\n Having said all that, after some googling - it sounded like paperless-ng is exactly what i needed next for my solutions i'm doing. One of the biggest factors is that it was super simple to stand up and get running. However, reading …",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nvf4nw/ventinghelp_paperlessng_docker_causing_headaches/",
+          "publishedOn": "2021-06-08T21:32:36.000Z",
+          "wordCount": 667,
+          "title": "[Venting/help] Paperless-NG docker causing headaches"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nvdx3s/help_with_installing_taigaio_on_ubuntu_2004/",
+          "author": null,
+          "description": "Hey, I am hosting my own Ubuntu 20.04 server and wanted to use taiga.io as a self-hosted alternative for Trello and Asana. I followed the instructions on https://resources.taiga.io/30min-setup/ and got as far as starting the application with \n ./launch-all.sh \n The output is this:\n + exec docker-compose -f docker-compose.yml -f docker-compose.penpot.yml up -d Starting taiga-docker_penpot-postgres_1 ... done Starting taiga-docker_penpot-redis_1 ... done Starting taiga-docker_taiga-front_1 ... done Starting taiga-docker_taiga-protected_1 ... done Starting taiga-docker_taiga-db_1 ... done Starting taiga-docker_taiga-async-rabbitmq_1 ... done Starting taiga-docker_penpot-exporter_1 ... done Starting taiga-docker_taiga-events-rabbitmq_1 ... done Creating taiga-docker_taiga-events_1 ... Creating…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nvdx3s/help_with_installing_taigaio_on_ubuntu_2004/",
+          "publishedOn": "2021-06-08T20:42:56.000Z",
+          "wordCount": 398,
+          "title": "Help with installing taiga.io on Ubuntu 20.04"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nvch09/webdav_management_control_panel/",
+          "author": null,
+          "description": "I have a storage server and I want to create different WebDAV user accounts with read-only access for different folders.\n Does anyone know of a WebDAV management software or script, preferably with a web ui? Which would make it dead simple to create and remove WebDAV users and folder access - just with simple checkboxes.\n    submitted by    /u/LeastTakenUsername  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nvch09/webdav_management_control_panel/",
+          "publishedOn": "2021-06-08T19:40:45.000Z",
+          "wordCount": 182,
+          "title": "WebDAV management / control panel?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nvc17t/looking_for_a_self_hosted_email_forwarder/",
+          "author": null,
+          "description": "Hi.\n I'm looking for a self-hosted email forwarder, that would allow me to redirect all emails sent to addresses ending with a specific suite of characters to an other email address. For example, it would forward all emails sent (To, Cc, Bcc) to any email ending with [user@example.com](mailto:user@example.com) (anything.user@example.com and [anythinguser@example.com](mailto:anythinguser@example.com)) to user@gmail.com ; [user2@example.com](mailto:user2@example.com) (anythinguser2@example.com and anything.user2@example.com) to [user2@gmail.com](mailto:user2@gmail.com) ; etc.\n Any idea where I could find something like that, preferably that I can install using docker ?\n Thank you in advance\n    submitted by    /u/AffairesDePiasses  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nvc17t/looking_for_a_self_hosted_email_forwarder/",
+          "publishedOn": "2021-06-08T19:21:10.000Z",
+          "wordCount": 415,
+          "title": "Looking for a self hosted email forwarder"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nvaxbv/cloudfare_api_server_not_working/",
+          "author": null,
+          "description": "I’m trying to set up Cloudfare using DDClient to host from my Raspberry Pi. When I run \n  \nSudo ddclient-daemon=0 -verbose -noquiet\n  \nI receive back “HTTP/1.1 400 Bad Request” as part of the Receive after attempting the connection to cloudfare server. My conf file has the server listed as-\n  \nserver=api.cloudfare.com/client/v4\n  \nWhich from what I can tell, should be the current working server to use. When I go to that URL, it displays the same JSON message of “No route for that URI” and “code:7000”.\n As far as I can tell there is no issue logging in or anything, since I’m pretty sure it can’t even establish a connection to login into.\n    submitted by    /u/Thifty  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nvaxbv/cloudfare_api_server_not_working/",
+          "publishedOn": "2021-06-08T18:31:37.000Z",
+          "wordCount": 198,
+          "title": "Cloudfare API server not working"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nva2sk/docker_discontinuing_auto_builds_on_the_free_tier/",
+          "author": null,
+          "description": "submitted by    /u/GrumpyPidgeon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nva2sk/docker_discontinuing_auto_builds_on_the_free_tier/",
+          "publishedOn": "2021-06-08T17:53:25.000Z",
+          "wordCount": 509,
+          "title": "Docker discontinuing auto builds on the free tier in only 10 days. Now is a good time to move any of yours to your own CI/CD if you haven’t already!"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nv9gjo/nas_or_external_hd_enclosure/",
+          "author": null,
+          "description": "Hello! Long time lurker, first time poster. \n I currently have an 8GB Raspberry Pi running OpenMediaVault and an 8TB external hard drive set up with most of my data on it (mostly just random files). I initially started this as a hobby, but I've found myself getting more into it, and using OMV on a practical level. I have some docker containers set up (nextcloud, nginx, home assistant, adguard, and a few others). I run regular backups of my phone and PC, and am looking into the possibility of backup up all of my photos there too (thanks Google).\n I want to add more storage and at least one other drive for backup/redundancy. Before I start spending money and building out, I wanted some thoughts opinions on how to go about this...\n I'm currently satisfied with the Raspberry Pi running OMV, is there any need to buy a full NAS? What are your thoughts about just buying a 4-bay external hard drive enclosure and adding drives? The 8TB I currently have is an external drive from Costco. Can I just get away with buying another one of those? If I get a multi-bay external enclosure, could upgrade to a more powerful server in the future?\n I'm stuck at the moment, as I don't know which way is the best to go. I'm looking for best bang for the buck while keep some flexibility to upgrade (storage and performance) in the future. \n Sorry for my scattered thoughts. Any help, feedback, suggestions, etc would be extremely helpful. Thank you!\n    submitted by    /u/tbuchsss  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nv9gjo/nas_or_external_hd_enclosure/",
+          "publishedOn": "2021-06-08T17:25:53.000Z",
+          "wordCount": 564,
+          "title": "NAS or External HD Enclosure?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nv883o/help_with_godaddycloudfareddclient_server_hosted/",
+          "author": null,
+          "description": "I'm completely new to this and was following along an online book \"Obey the Testing Goat\" setting up a server using Nginx, Gunicorn, and Django to host on the Pi. I got it working well using my domain name I purchased from GoDaddy for a buck, but I wanted to try and make it so it's accessible more than locally.\n I learned a tiny bit about Dynamic DNS and heard DDclient + CloudFare is a good option to go with. If I understand this right, which I probably don't, then I need to add a CNAME record on GoDaddy which routes to CloudFare. From CloudFare, I need a couple A records which point to my Pi's public IP, which is not static, so DDclient updates it continually.\n How do I set this up? How do I know what CNAME record I need to add to GoDaddy, or am I doing it wrong altogether?\n Currently, going to my domain gives me an error -\n  \n\"Error 1002: DNS points to local or disallowed IP\" \n  \nWhich according to Google, a DNS record points to CloudFares servers and I need to update my A-records. Not entirely sure what to make of this. I'm fairly certain I need to update my CName on GoDaddy but I really don't know what to update it to.\n On a sidenote, I'm not entirely sure my DDclient is working properly either and need to update the conf file, but unfortunately I do not have access to it at the moment or the logs it gives me.\n    submitted by    /u/Thifty  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nv883o/help_with_godaddycloudfareddclient_server_hosted/",
+          "publishedOn": "2021-06-08T16:32:19.000Z",
+          "wordCount": 447,
+          "title": "Help with GoDaddy+Cloudfare+DDClient server hosted on Raspberry Pi"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nv80kr/media_server_for_coon_and_friends/",
+          "author": null,
+          "description": "I have a media server that I host now on an RPi4. The exposed stuff is jellyfin and seafile. \n This works really well for just home use, but I would like to build a better server to accomodate for more ppl. Specifically my question is, and this is assuming my bandwidth is high enough to do all of this: \n  \nIs there a good way to figure out what specs I need for lets say 4-5 concurrent streams (maybe x265, so hw decoding?) \n If I would build a PC to do this, I would still aim for low idle power usage (4-5 streams is probably peak), and for 80% the server will be quite unused.\n How do I do this raid thing in a normal PC and how do I assert other than having an offsite backup that I have data redundancy for my seafile clients\n  \nAny resource is helpful thanks\n    submitted by    /u/sweatyCameltoe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nv80kr/media_server_for_coon_and_friends/",
+          "publishedOn": "2021-06-08T16:23:15.000Z",
+          "wordCount": 518,
+          "title": "Media server for coon and friends?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nv70z6/vnc_recommandation/",
+          "author": null,
+          "description": "Id like to access my home PC via VNC or something similiar. Can you recommand a sfotware that makes it possible to see the screen that is shown to the connected screens instead of a virtual one? Also it would be great if i could toggle between both screens with a hotkey on a one screen device. Ever used such features?\n    submitted by    /u/Pleasant-Art8615  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nv70z6/vnc_recommandation/",
+          "publishedOn": "2021-06-08T15:45:51.000Z",
+          "wordCount": 347,
+          "title": "VNC recommandation"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nv4mv3/i_recently_started_learning_react_and_docker_and/",
+          "author": null,
+          "description": "submitted by    /u/S_E_V_I  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nv4mv3/i_recently_started_learning_react_and_docker_and/",
+          "publishedOn": "2021-06-08T13:58:29.000Z",
+          "wordCount": 964,
+          "title": "I recently started learning React and Docker and due to lack of ideas I've recreated SUI which I've been using for quite some time. I added some functionality like managing apps and bookmarks from GUI level or weather module"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nv44n2/contest_registration_system_or_best_way_to_do_this/",
+          "author": null,
+          "description": "This is probably a weird one, but I'm going to hold a contest for my YouTube channel, and am looking for a Self Hosted system to have the users register on. Trying to make this as easy as possible, vs having to manually move comments or tweets or whatever other method over, then get it all into some randomizer. I will absolutely do that if there's nothing else, but looking for any self hosted, open source options, or ideas you all may have of a good way to automate this. \n It's my first go round with a give away, but I'm excited about doing it. At the same time I'm nervous about it, and want it to be as fair as possible.\n I'm looking to simply get an email address, and whether the person needs the 120 V or 240 V kit I'm giving away. Once winners have been chosen, I'll contact them via the email to get shipping info, etc.\n I figured I could do it on my RocketChat system with a special channel, but wasn't sure how to get the user info into a useable tool to randomly select the person. Maybe there's a plugin for it that I haven't found yet. \n Any ideas or suggestions are much appreciated!\n    submitted by    /u/bmcgonag  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nv44n2/contest_registration_system_or_best_way_to_do_this/",
+          "publishedOn": "2021-06-08T13:33:44.000Z",
+          "wordCount": 376,
+          "title": "Contest Registration System or Best Way to Do This"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nv40va/looking_for_a_simple_free_selfhosted_purchase/",
+          "author": null,
+          "description": "I've been looking around and didnt find anything, so I'm not sure if those exist.\n I want a simple software, just to generate a PO digitally instant of paper.\n  \nNice to have : Generate next PO number.\n Enter the products I buyed, qty, price (Ability to add a comment line would be nice).\n \"check box\" when they are received. (Ability to checkbox if I also got the invoice would be nice).\n Print the PO (PDF?) to join with the invoice (from another system) at the end.\n  \n​\n I've seen many \"ERP\", but I don't want a whole flow, just something simple, but not an Excel Sheet.\n Thanks! :)\n ​\n edit: Found \"SpendMap\". There's a Free Desktop version... not the best, but will do for now.\n    submitted by    /u/excessnet  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nv40va/looking_for_a_simple_free_selfhosted_purchase/",
+          "publishedOn": "2021-06-08T13:28:30.000Z",
+          "wordCount": 346,
+          "title": "Looking for a simple Free, self-hosted Purchase Order software..."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nv2lla/document_search/",
+          "author": null,
+          "description": "I am looking for some sort of way to better organize and search documents. I currently have a Synology NAS that has a directory of documents. This includes PDFs, Word Documents, Excel Documents and other office type documents. I have them sort of organized by folders, but sometimes a document could potentially live in one of several folders and of course I usually forget where I put them. I want some sort of software that can search this. Ideally, I'd want to be able to tag files and possibly have the text searchable. I have looked at a few of the document management apps, but those seem to want to pull the documents into their own storage. I'd rather just point the software at the existing directory and have it process the metadata.\n Any ideas?\n    submitted by    /u/twistymcgee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nv2lla/document_search/",
+          "publishedOn": "2021-06-08T12:09:36.000Z",
+          "wordCount": 386,
+          "title": "Document Search"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nv0uiy/how_do_i_tell_my_mailcow_what_my_public_ip_is/",
+          "author": null,
+          "description": "Hello all. I feel like I am very close to getting things running, but I have a couple of issues. When I go to my domains section of mailcow admin and click DNS, this is the information in the modal:\n https://i.imgur.com/1UJLY5l.png\n So issue #1 is that I think the server is expecting/listening for the the wrong public IP. I have tried to look everywhere to change this setting, but I failed 😞. Does this mismatch matter? If so where do I change/hardcode this?\n Issue #2 is smaller, but I can't figure out how to make the TSLA certificate be \"Connection refused\" instead of the actual hash of the certificate... \n Also ports 80 and 443 for my mail.domain.tld go to a reverse proxy server and then to mailcow, whereas the mail ports go to mailcow directly from the router. My inbound and outbound port 25 is blocked by ISP. With the port checking tool, I am able to verify that all other mail ports on my public IP are listening. \n The TSLA issue I guess is an optional setting, but I think the mismatch in the IPs are not allowing the mail server to listen properly, resulting in bounces: \n https://i.imgur.com/EYx5Usc.png\n Not sure if the PTR record matters all too much either, if it does I can see about getting it modified. For the record, I'll probably be sending out through a relay, but I need to be able to receive on my own. If not, are there good options that can forward all mail to me?\n I also have a VPS which I guess I can tunnel to and set up all my DNS records to go there. If I forward all the mail ports from the VPS to mailcow, would that work? Man, I'm not looking forward to getting the iptables setup for dockerized mailcow to use a wireguard interface for wan. But I guess I saw the iptables config in some file so I could potentially just modify that. I don't know, I rather go through my public IP route... \n If someone can help me out, I'd greatly appreciate it! Thanks!\n    submitted by    /u/numerica  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nv0uiy/how_do_i_tell_my_mailcow_what_my_public_ip_is/",
+          "publishedOn": "2021-06-08T09:32:06.000Z",
+          "wordCount": 671,
+          "title": "How do I tell my mailcow what my public ip is? Also, how to make TLSA record be \"Connection refused\""
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nv0t2j/does_anyone_know_selfhosted_version_of_opera_mini/",
+          "author": null,
+          "description": "effectively a proxy server that resize image/render Javascript server side and send reduced page to mobile client\n    submitted by    /u/Wall_of_Force  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nv0t2j/does_anyone_know_selfhosted_version_of_opera_mini/",
+          "publishedOn": "2021-06-08T09:29:12.000Z",
+          "wordCount": 143,
+          "title": "does anyone know self-hosted version of opera mini?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nuzvqg/gitea_and_jenkins_selfhosted_for_docker_images/",
+          "author": null,
+          "description": "Hi\n I recently started running Gitea in Docker and would like to use it to manage and modify my Wordpress files and Docker-compose yml files. I have around 40 docker images running on my QNAP (NAS).\n is this possible?\n Furthermore, it would be absolutely great if, Jenkins recognizes those changes and releases the docker image with it. to save time\n is this (functionality) possible? Unfortunately I can't find much documentation about it.\n ​\n my situation:\n At the moment I edit my docker-compose files manuelly via Notepad++ and with 'docker-compose up' I bring them up in the air. but then I have no version control and I have to manually deploy the relevant image every time.\n    submitted by    /u/jboesh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nuzvqg/gitea_and_jenkins_selfhosted_for_docker_images/",
+          "publishedOn": "2021-06-08T08:26:03.000Z",
+          "wordCount": 370,
+          "title": "Gitea and Jenkins (selfhosted) for docker images"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nuyu0d/description_explaination_checklist_about_my/",
+          "author": null,
+          "description": "Hi everybody,\n just wanna summerize here my experiences related with the object of the topic. This is a sort of organized recap of my previous thread, read it for more info and details. Really thanks to all of those users that wrote there, helping me a lot and doing the big part of the job.\n So, the question is: you some selfhosted services on your own lan and they or you need to use https protocol, or similar ones, and therefore you have to use some sort of certificates, avoiding the self signed ones because browser do not like them. You also want to reduce the effort in the management of this problem, automating all that is possible.\n SOLUTION 1:\n You can install and configure your own PKI+CA, release certificates etc... but this approach causes you need to import your root CA certificat…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nuyu0d/description_explaination_checklist_about_my/",
+          "publishedOn": "2021-06-08T07:13:27.000Z",
+          "wordCount": 1808,
+          "title": "Description / explaination / check-list about my easiest way on how to manage certificates for your servers and clients, without having to install, config, etc a selfhosted PKI+CA"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nuv6jl/using_photoprism_and_photostructure_simultaneously/",
+          "author": null,
+          "description": "After reading through this sub, PhotoPrism and PhotoStructure sound like the best selfhosted photos solutions for me. Can I use them both at the same time reading and writing to the same photos folder stored on a Synology NAS?\n I'd like to assess them side-by-side but am not sure if they interfere with each other.\n    submitted by    /u/x6q5g3o7  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nuv6jl/using_photoprism_and_photostructure_simultaneously/",
+          "publishedOn": "2021-06-08T03:24:55.000Z",
+          "wordCount": 428,
+          "title": "Using PhotoPrism and PhotoStructure simultaneously"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/nurv3g/how_to_use_docker_and_migrate_your_existing_apps/",
           "author": null,
           "description": "submitted by    /u/DiHannay  \n [link]   [comments]",
@@ -2369,24 +2567,6 @@
           "publishedOn": "2021-05-16T01:42:24.000Z",
           "wordCount": 286,
           "title": "v1.7.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "author": null,
-          "description": "Added: Basic theme customization: Demo | Source | Docs.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0",
-          "publishedOn": "2021-05-10T08:55:42.000Z",
-          "wordCount": 276,
-          "title": "v1.4.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "author": null,
-          "description": "Added: Link from the title of a subscription to its website.\nAdded: Store feedUrl and siteUrl for each source in cache.\nAdded: Semantic element (<time>) for timestamp on the UI.\nAdded: Semantic API for theming the default template. Demo | Source | Docs\nChanged: Moved feed metadata from article level to feed level in cache.\nFixed: Any html-like text was stripped from title. Fixed with encoded text.\nRemoved: href for each source in cache. The value was never used so it's not a breaking change.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.6.0",
-          "publishedOn": "2021-05-10T08:15:20.000Z",
-          "wordCount": 352,
-          "title": "v1.6.0"
         }
       ]
     },
@@ -2395,6 +2575,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=341982",
+          "author": "Todd Libby",
+          "description": "Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …\nThe post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/",
+          "publishedOn": "2021-06-08T18:31:08.000Z",
+          "wordCount": 3036,
+          "title": "Looking at WCAG 2.5.5 for Better Target Sizes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=341884",
+          "author": "Chris Coyier",
+          "description": "WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.\nAt first, the site …\nThe post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/",
+          "publishedOn": "2021-06-08T14:16:07.000Z",
+          "wordCount": 708,
+          "title": "CSS-Trickz: An Experiment with Netlify’s On-Demand Builders"
+        },
         {
           "id": "https://css-tricks.com/?p=341805",
           "author": "Chris Coyier",
@@ -2672,6 +2870,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.",
+          "link": "https://smashingmagazine.com/2021/06/image-optimization-book-release/",
+          "publishedOn": "2021-06-08T12:00:00.000Z",
+          "wordCount": 2102,
+          "title": "From AVIF to WebP: A New Smashing Book By Addy Osmani",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/image-optimization-header.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/",
           "author": "hello@smashingmagazine.com (Prince Chukwudire)",
@@ -3049,20 +3261,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
-          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
-          "publishedOn": "2021-05-10T11:00:00.000Z",
-          "wordCount": 6347,
-          "title": "Get Started With React By Building A Whac-A-Mole Game",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a9db037-1a8d-42ad-b0c3-1c885e456693/get-started-whac-a-mole-react-game.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -3071,6 +3269,33 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60bfd986d3126007592d53a1",
+          "author": null,
+          "description": "Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something",
+          "link": "https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/",
+          "publishedOn": "2021-06-08T21:05:13.000Z",
+          "wordCount": 639,
+          "title": "Create Your Own Electronics With Arduino - Full Course"
+        },
+        {
+          "id": "60b23b8911ffb70827ef954e",
+          "author": null,
+          "description": "If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.",
+          "link": "https://www.freecodecamp.org/news/pass-data-between-components-in-react/",
+          "publishedOn": "2021-06-08T16:17:32.000Z",
+          "wordCount": 1205,
+          "title": "How to Pass Data and Events Between Components in React"
+        },
+        {
+          "id": "60be6a3cd3126007592d4a03",
+          "author": null,
+          "description": "Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent",
+          "link": "https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/",
+          "publishedOn": "2021-06-08T16:02:45.000Z",
+          "wordCount": 2548,
+          "title": "Complete CSS Grid Tutorial with Cheat Sheet 🎖️"
+        },
         {
           "id": "60bbd28eacb62507dd1d99fb",
           "author": null,
@@ -3447,6 +3672,168 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1771616",
+          "author": "Beth Mole",
+          "description": "Even the FDA's own advisors and statisticians didn't think the drug should be approved.",
+          "link": "https://arstechnica.com/?p=1771616",
+          "publishedOn": "2021-06-08T23:26:37.000Z",
+          "wordCount": 1385,
+          "title": "A “disgraceful decision:” Researchers blast FDA for approving Alzheimer’s drug"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771599",
+          "author": "Jon Brodkin",
+          "description": "Ohio lawsuit quotes Justice Thomas' opinion that websites can be common carriers.",
+          "link": "https://arstechnica.com/?p=1771599",
+          "publishedOn": "2021-06-08T22:30:22.000Z",
+          "wordCount": 1554,
+          "title": "Spurred by Clarence Thomas, Ohio AG wants Google declared a public utility"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771582",
+          "author": "Jim Salter",
+          "description": "Every redundant system still has single points of failure—usually human.",
+          "link": "https://arstechnica.com/?p=1771582",
+          "publishedOn": "2021-06-08T22:06:46.000Z",
+          "wordCount": 864,
+          "title": "Fast.ly broke the Internet for an hour this morning"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771368",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has deals on Logitech mice, Razer accessories, and more.",
+          "link": "https://arstechnica.com/?p=1771368",
+          "publishedOn": "2021-06-08T20:35:07.000Z",
+          "wordCount": 2534,
+          "title": "Pick up a recommended pair of Anker noise-canceling headphones for $60"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771475",
+          "author": "Samuel Axon",
+          "description": "Overhauled password management, compatibility, low power, and more.",
+          "link": "https://arstechnica.com/?p=1771475",
+          "publishedOn": "2021-06-08T20:22:50.000Z",
+          "wordCount": 1222,
+          "title": "Buried features: There’s more to macOS Monterey than the keynote let on"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771482",
+          "author": "Jennifer Ouellette",
+          "description": "It's not much, but we'll take it.",
+          "link": "https://arstechnica.com/?p=1771482",
+          "publishedOn": "2021-06-08T19:25:16.000Z",
+          "wordCount": 1288,
+          "title": "Apple TV’s summer preview includes tantalizing glimpses of Foundation series"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771471",
+          "author": "Eric Berger",
+          "description": "\"At this time, we have not determined the date of our next flight.\"",
+          "link": "https://arstechnica.com/?p=1771471",
+          "publishedOn": "2021-06-08T18:39:41.000Z",
+          "wordCount": 1183,
+          "title": "Branson may make a last-ditch effort to beat Bezos into space"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771445",
+          "author": "Jon Brodkin",
+          "description": "Messages were routed to an FBI-owned server and decrypted with master key.",
+          "link": "https://arstechnica.com/?p=1771445",
+          "publishedOn": "2021-06-08T17:36:32.000Z",
+          "wordCount": 1524,
+          "title": "FBI sold phones to organized crime and read 27 million “encrypted” messages"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771366",
+          "author": "Ron Amadeo",
+          "description": "Existing Qualcomm hardware is so obsolete it would probably hold the platform back.",
+          "link": "https://arstechnica.com/?p=1771366",
+          "publishedOn": "2021-06-08T17:27:22.000Z",
+          "wordCount": 1059,
+          "title": "Google’s revamped Wear OS sounds like a clean break from the old version"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771407",
+          "author": "Tim De Chant",
+          "description": "Prescription drug market has proven hard to change.",
+          "link": "https://arstechnica.com/?p=1771407",
+          "publishedOn": "2021-06-08T16:40:12.000Z",
+          "wordCount": 1123,
+          "title": "Amazon and Walmart try—again—to upend prescription drug prices"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771249",
+          "author": "Sam Machkovech",
+          "description": "Today's news: 24 \"season one\" games, optional stereo, free browser-based dev kit.",
+          "link": "https://arstechnica.com/?p=1771249",
+          "publishedOn": "2021-06-08T16:19:33.000Z",
+          "wordCount": 1636,
+          "title": "Playdate, the console with a crank, gets July preorder for $179, game details"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771271",
+          "author": "Jeff Dunn",
+          "description": "Hands-on: $280 earbuds feature new design and promise improved noise canceling.",
+          "link": "https://arstechnica.com/?p=1771271",
+          "publishedOn": "2021-06-08T16:00:16.000Z",
+          "wordCount": 2488,
+          "title": "The WF-1000XM4 is Sony’s noise-canceling answer to the AirPods Pro"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771246",
+          "author": "Doug Johnson",
+          "description": "To fight pollinator decline, 8 states put habitats alongside solar facilities.",
+          "link": "https://arstechnica.com/?p=1771246",
+          "publishedOn": "2021-06-08T15:28:35.000Z",
+          "wordCount": 1308,
+          "title": "Solar farms could double as pollinator food supplies"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1769857",
+          "author": "Kyle Orland",
+          "description": "A solid entry in a solid series, at least when it gets out of its own way.",
+          "link": "https://arstechnica.com/?p=1769857",
+          "publishedOn": "2021-06-08T14:00:26.000Z",
+          "wordCount": 1647,
+          "title": "Review: Ratchet & Clank: Rift Apart doesn’t reinvent the franchise—and that’s OK"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1770521",
+          "author": "Eric Berger",
+          "description": "\"We're trying to ice skate to where the puck is going.\"",
+          "link": "https://arstechnica.com/?p=1770521",
+          "publishedOn": "2021-06-08T13:00:20.000Z",
+          "wordCount": 1331,
+          "title": "Relativity has a bold plan to take on SpaceX, and investors are buying it"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771304",
+          "author": "Jonathan M. Gitlin",
+          "description": "This small hybrid truck gets 40 mpg in the city and starts at $19,995.",
+          "link": "https://arstechnica.com/?p=1771304",
+          "publishedOn": "2021-06-08T12:41:13.000Z",
+          "wordCount": 1129,
+          "title": "Ford builds an affordable, efficient small truck: The new Maverick"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771208",
+          "author": "Jim Salter",
+          "description": "Nice, but we'd prefer significantly greater investment in native driver quality.",
+          "link": "https://arstechnica.com/?p=1771208",
+          "publishedOn": "2021-06-08T10:45:48.000Z",
+          "wordCount": 1208,
+          "title": "Nvidia and Valve are bringing DLSS to Linux gaming… sort of"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1770369",
+          "author": "Jennifer Ouellette",
+          "description": "Penn State musicologist Marica Tacconi discovered the fakes on sabbatical in Venice.",
+          "link": "https://arstechnica.com/?p=1770369",
+          "publishedOn": "2021-06-08T10:15:31.000Z",
+          "wordCount": 1472,
+          "title": "These forged 17th-century music books went undetected for a century"
+        },
         {
           "id": "https://arstechnica.com/?p=1771195",
           "author": "Beth Mole",
