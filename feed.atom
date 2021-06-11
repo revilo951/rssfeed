@@ -2,10 +2,576 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-10T00:47:21.927Z</updated>
+    <updated>2021-06-11T00:42:26.154Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Which windows VPS for streaming Twitch?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nx1lal/which_windows_vps_for_streaming_twitch/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nx1lal/which_windows_vps_for_streaming_twitch/"/>
+        <updated>2021-06-10T23:24:28.000Z</updated>
+        <summary type="html"><![CDATA[So yeah basically i need a windows VPS that i connect to thru a RDC. 
+ Wouldn't stream games or anything, but mostly just a blank screen with a few statistics. What specs would you recommend? I tried with VPS 4GB ram and 2 Intel Xeon CPU Cores and it's not working well. Tried streaming with OBS and it's laggy as hell, stream not even displaying. 
+ Any recommendations? What should the minimum specs be? How much bandwith will i use? Any recommended provider?
+    submitted by    /u/caco3boy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile friendly Google Docs alternative?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nx18ti/mobile_friendly_google_docs_alternative/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nx18ti/mobile_friendly_google_docs_alternative/"/>
+        <updated>2021-06-10T23:07:38.000Z</updated>
+        <summary type="html"><![CDATA[Heyho,
+ I am part of a group organizing a project. Most of the people are non-nerds and we need a tool to share information online. Normally Google Docs/Drive would be fine, but for idealistic reasons that is not desired. So I'm looking for a nice alternative that will allow us to 
+ a) share files (PDF, images and so on) online 
+ and
+ b) be able to edit files via browser and especially
+ smartphone, since most people are mobile users. It is enough to be able to edit text files. 
+ There is no need for collaborative editing and text files are enough - no odt, no doc, plain text is fine.
+ But it needs to be simple and it would be nice if it doesn't require a lot of additional apps on the phone.
+ I skimmed the awesome selfhosted list, so far my best option would be Nextcloud and OnlyOffice pointing to the Nextcloud instance.
+ Any better ideas out there? 
+ Really perfect would be something like Mattermost, but with text editing (like an included Etherpad/Cryptpad feature). There is a Collabora plugin for Mattermost, but unfortunately it doesn't work on mobile/via the Mattermost app.
+    submitted by    /u/MilchreisMann412  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some people can’t get FCC subsidy because “Street” isn’t the same as “St.”]]></title>
+        <id>https://arstechnica.com/?p=1772253</id>
+        <link href="https://arstechnica.com/?p=1772253"/>
+        <updated>2021-06-10T21:25:19.000Z</updated>
+        <summary type="html"><![CDATA[ISPs' data must exactly match FCC's or application is rejected. A fix is on the way.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Our favorite trickster god is charismatic as ever in Loki premiere]]></title>
+        <id>https://arstechnica.com/?p=1771834</id>
+        <link href="https://arstechnica.com/?p=1771834"/>
+        <updated>2021-06-10T21:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Pilot episode did everything it needed to do, with soupçon of whimsical swagger.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any help for this post.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwxzq4/any_help_for_this_post/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwxzq4/any_help_for_this_post/"/>
+        <updated>2021-06-10T20:44:10.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/SirChesterMcWhipple  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self Hosting Server Requirements]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwxmkx/self_hosting_server_requirements/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwxmkx/self_hosting_server_requirements/"/>
+        <updated>2021-06-10T20:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Hi! I hope you won't laugh at me for this question because I'm a total noob at self-hosting and this will be my first try.
+ I created an account on Hetzner and want to self-host these apps (I included what I use right now in brackets):
+  
+Ghost or Wordpress (using static site with 11ty - free)
+ Linkding (using raindrop - free)
+ Wallabag (using pocket - $2.73/year)
+ MiniFlux (using miniflux hosting - $15/year)
+ Nextcloud (using Google One - $6.88/year)
+ Standard Notes (using InkDrop - free with dev license)
+ Plausible (using goatcounter - free)
+  
+Because 1 Euro is equal to 10.26 Turkish Lira, I want to self-host these in smallest €2.49 CX11 server with these specs:
+  
+1 Intel vCPU
+ 2 GB Ram
+ 20 GB Disk Space
+ 20 TB Traffic
+  
+I won't use these apps regularly, I'll use them rarely. It will be mostly for learning purpose. I might even move to my current stack.
+ So is this server specs enough for this purpose, if not what will be?
+    submitted by    /u/taylantatli  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can try but you won't stop me: hosting my services behind CG-NAT thanks to zerotier, caddy Oracle]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwxmjp/you_can_try_but_you_wont_stop_me_hosting_my/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwxmjp/you_can_try_but_you_wont_stop_me_hosting_my/"/>
+        <updated>2021-06-10T20:28:35.000Z</updated>
+        <summary type="html"><![CDATA[Here's a simple solution to being behind a CG-NAT. Check the tldr; at the end
+ ​
+ I've learned a lot about self hosting in the last weeks, after a colleague told me about nextcloud.
+ I bought a fully upgraded mac mini 2012, installed Virtualbox, created an ubuntuVM and set up docker + compose. I installed nextcloud and started experimenting with it.
+ I got rid of my fiber internet access a few years ago because my mobile phone provider offers an additional data sim card for about $5/mo and my traffic is unlimited.
+ But that plan isn't great: I'm behind CG-NAT (Carrier-grade NAT) which means there's no way for me to reach my server when I'm not on the home wifi because my public IP address is shared between several other customers.
+ So I called them to enquire about public ipv4 addresses op…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elden Ring shows off first gameplay footage, confirmed for Jan. 2022]]></title>
+        <id>https://arstechnica.com/?p=1772252</id>
+        <link href="https://arstechnica.com/?p=1772252"/>
+        <updated>2021-06-10T20:21:40.000Z</updated>
+        <summary type="html"><![CDATA[George R.R. Martin, From Software collaboration caps off trailer-filled event.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biggest health insurer plans to deny ER bills if it doubts you had an emergency]]></title>
+        <id>https://arstechnica.com/?p=1772179</id>
+        <link href="https://arstechnica.com/?p=1772179"/>
+        <updated>2021-06-10T19:42:58.000Z</updated>
+        <summary type="html"><![CDATA[UnitedHealthcare delayed the policy's rollout, but experts worry about chilling effect.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need recommendations for file-sync software (long post)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwwe59/need_recommendations_for_filesync_software_long/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwwe59/need_recommendations_for_filesync_software_long/"/>
+        <updated>2021-06-10T19:37:19.000Z</updated>
+        <summary type="html"><![CDATA[I need recommendations for file sync software. This is a long post and I have specific needs, and have also tried several popular file-syncing tools already, so please read the whole thing before commenting.
+ My setup is as follows:
+  
+Desktop with 4 TB HDD space, running Manjaro
+ 
+Laptop with 250 GB SSD space, running Manjaro
+ 
+Phone with ??? limited space, Android
+ 
+Headless mini PC in a cupboard, connected to a 6 TB external HDD, intended as always-on server, running Ubuntu
+  
+What I want to accomplish:
+ I want to be able to synchronize folders within my home folder between my laptop and desktop. This needs to work so that I have local copies of the files, and I'm not always waiting on network latency to do things. That way, I can work on things when I am outside and offline, and then s…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Sky’s API, iOS app, and web app will all stop working next year]]></title>
+        <id>https://arstechnica.com/?p=1772165</id>
+        <link href="https://arstechnica.com/?p=1772165"/>
+        <updated>2021-06-10T19:28:46.000Z</updated>
+        <summary type="html"><![CDATA[Apple already shut down the Android version after acquiring the app last year.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anacrusis: Left 4 Dead + sci-fi + persistent AI, coming to PC, Xbox this fall]]></title>
+        <id>https://arstechnica.com/?p=1772104</id>
+        <link href="https://arstechnica.com/?p=1772104"/>
+        <updated>2021-06-10T18:55:38.000Z</updated>
+        <summary type="html"><![CDATA[After Summer Game Fest reveal, we got co-creator Chet Faliszek (ex-Valve) on the phone.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphHopper Routing Engine - Open Source Route Planning]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwur76/graphhopper_routing_engine_open_source_route/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwur76/graphhopper_routing_engine_open_source_route/"/>
+        <updated>2021-06-10T18:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Just discovered this place and would like to introduce you to our open source routing engine:
+ https://github.com/graphhopper/graphhopper#readme
+ GraphHopper offers you the path finding functionality ("A to B routing") that you probably know from Google Maps and uses data from the incredible OpenStreetMap project (see also /r/openstreetmap).
+ To fully self-host a route planner (e.g. a "Google Maps" equivalent) you need GraphHopper for the routing and two other parts: you also need some visualization aka "maps" (e.g. with OpenMapTiles) and you need the address search (e.g. with Photon).
+ We have a hosted version of this and you can try it: GraphHopper Maps. It is also privacy friendly without any trackers.
+ This web app is not (yet) as polished as Google Maps app but there are many projects that use the routing functionality of GraphHopper and offer "complete" apps like outdoor apps (komoot, trailrouter, ride with GPS, Locus Map, plotaroute, Kurviger) or other services (delivery hero, deutsche bahn, GLS, ...)
+ And GraphHopper can be used for more things beyond routing like for reachability analysis:
+ Reachability analysis across an entire country
+ Make sure you follow our twitter or blog posts. For example we recently released version 3.0.
+    submitted by    /u/graphhopper  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA source code stolen by hacker claiming to sell it online]]></title>
+        <id>https://arstechnica.com/?p=1772133</id>
+        <link href="https://arstechnica.com/?p=1772133"/>
+        <updated>2021-06-10T17:46:17.000Z</updated>
+        <summary type="html"><![CDATA[More organizations feel the pain as the ransomware scourge grows more pernicious.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameStop stock falls sharply amid 5M-share sales plan, SEC investigation]]></title>
+        <id>https://arstechnica.com/?p=1772099</id>
+        <link href="https://arstechnica.com/?p=1772099"/>
+        <updated>2021-06-10T16:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Retailer names Amazon vets to executive team amid e-commerce turnaround plans.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook is a hub of sex trafficking recruitment in the US, report says]]></title>
+        <id>https://arstechnica.com/?p=1772081</id>
+        <link href="https://arstechnica.com/?p=1772081"/>
+        <updated>2021-06-10T16:19:52.000Z</updated>
+        <summary type="html"><![CDATA[“The Internet has become the dominant tool traffickers use to recruit victims."]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google to stop treating EU antitrust remedy as a “promotional opportunity”]]></title>
+        <id>https://arstechnica.com/?p=1772054</id>
+        <link href="https://arstechnica.com/?p=1772054"/>
+        <updated>2021-06-10T15:59:21.000Z</updated>
+        <summary type="html"><![CDATA[The EU made Google show a search engine picker, which Google turned into an ad.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install Searx on a Rpi4 running RpiOS64bits with docker / portainer ?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwq3uh/install_searx_on_a_rpi4_running_rpios64bits_with/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwq3uh/install_searx_on_a_rpi4_running_rpios64bits_with/"/>
+        <updated>2021-06-10T15:15:24.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Tiritibambix  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful Front-End Boilerplates And Starter Kits]]></title>
+        <id>https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/</id>
+        <link href="https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/"/>
+        <updated>2021-06-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keystone XL pipeline canceled after Biden scraps US permit]]></title>
+        <id>https://arstechnica.com/?p=1772065</id>
+        <link href="https://arstechnica.com/?p=1772065"/>
+        <updated>2021-06-10T14:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Victory for environmentalists comes as groups step up campaigns.]]></summary>
+        <author>
+            <name>Financial Times</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equal Columns With Flexbox: It’s More Complicated Than You Might Think]]></title>
+        <id>https://css-tricks.com/?p=341894</id>
+        <link href="https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/"/>
+        <updated>2021-06-10T14:34:22.000Z</updated>
+        <summary type="html"><![CDATA[As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.
+Let’s break those two down and see how they work together.
+The post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Kevin Powell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Headless CMS with Fauna and Vercel Functions]]></title>
+        <id>https://css-tricks.com/?p=342182</id>
+        <link href="https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/"/>
+        <updated>2021-06-10T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.
+The post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ikeh Akinyemi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bookstack Guest Access]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwowg6/bookstack_guest_access/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwowg6/bookstack_guest_access/"/>
+        <updated>2021-06-10T14:24:26.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/the_treeman_working  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-driving Waymo trucks to haul loads between Houston and Fort Worth]]></title>
+        <id>https://arstechnica.com/?p=1772055</id>
+        <link href="https://arstechnica.com/?p=1772055"/>
+        <updated>2021-06-10T14:16:58.000Z</updated>
+        <summary type="html"><![CDATA[The Class 8 trucks will still carry a driver and Waymo technicians for safety.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA doesn’t need to test SLS anymore, but the Senate mandates it anyway]]></title>
+        <id>https://arstechnica.com/?p=1771934</id>
+        <link href="https://arstechnica.com/?p=1771934"/>
+        <updated>2021-06-10T13:11:36.000Z</updated>
+        <summary type="html"><![CDATA[A test article may have been useful five years ago. But five years from now?]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is anyone hosting Homer on a subfolder/base URL?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwn7ur/is_anyone_hosting_homer_on_a_subfolderbase_url/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwn7ur/is_anyone_hosting_homer_on_a_subfolderbase_url/"/>
+        <updated>2021-06-10T13:08:10.000Z</updated>
+        <summary type="html"><![CDATA[I've found traces of conversation around Homer being able to be served on a subfolder rather than a subdomain, but I can't find any documentation on how to do so.
+ I'm using Nginx.
+    submitted by    /u/pedges  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is there a self hosted project management software you can recommend in 2021?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwn58j/is_there_a_self_hosted_project_management/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwn58j/is_there_a_self_hosted_project_management/"/>
+        <updated>2021-06-10T13:04:44.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyboy,
+ I am looking for a self hosted project management software to use for a non-profit hospital. It should support Kanban boards and maybe even some Scrum, Burndown- & Gantt Charts.
+ What I tried:
+ - JIRA Software: Got a free community license but the terminology is too software focused
+ - JIRA Core: Neutral terminology but no Kanban boards
+ - Taiga.io: Looks awesome and our first test server was set up quickly but horrible to set up for configuration with HTTPS and so on. We can't get the mail settings or the LDAP sync to work and the documentation is clearly from coders for coders (a lot of knowledge is assumed).
+    submitted by    /u/suddenlysysdude  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox unveils cloud-centric strategy: New hardware, servers, regional plans]]></title>
+        <id>https://arstechnica.com/?p=1771960</id>
+        <link href="https://arstechnica.com/?p=1771960"/>
+        <updated>2021-06-10T13:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Pre-E3 briefing takes shots at rivals, confirms "new game every quarter" aspirations.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you manage your users (authentication, passwords)?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwmfvr/how_do_you_manage_your_users_authentication/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwmfvr/how_do_you_manage_your_users_authentication/"/>
+        <updated>2021-06-10T12:30:46.000Z</updated>
+        <summary type="html"><![CDATA[For those of you who have a self-hosted server with several users (e.g. family) and several services (e.g. Nextcloud, Airsonic, Jellyfin, ...), how do you manage authentication and various passwords?
+ The canonical solution that seems to be supported by pretty much everyone is to have an LDAP server (OpenLDAP) and plugin everything to that server (Nextcloud users, Authelia for SSO/resource gating, Keycloak if you're feeling fancy and so on).
+ That still leaves some services (e.g. Plex) with their own proprietary accounts (can't really work around that).
+ Unfortunately, setting up and managing OpenLDAP is a pain, and it does way more than necessary.
+ What are your solutions to that?
+    submitted by    /u/nitnelave  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RefreshRSS in Docker on Synology NAS]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwm5kt/refreshrss_in_docker_on_synology_nas/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwm5kt/refreshrss_in_docker_on_synology_nas/"/>
+        <updated>2021-06-10T12:16:30.000Z</updated>
+        <summary type="html"><![CDATA[I recently got myself a Synology NAS and got into selfhosting. So im relatively new to all of this and making use of guides to get it working.
+ One of the things I wanted to selfhost was a RSS feed which I found in FreshRSS. So I searched online for a guide on how to install this on my NAS and found this guide: https://mariushosting.com/how-to-install-freshrss-on-your-synology-nas/
+ This guide explains really well how to install FreshRSS into docker but it ends there.
+ So far so good followed the guide and got everything to work, installed the FeedMe app on my android phone and got my own RSS feed. Only to find out that it does not automatically refresh my feed. I have to push the actualize button myself everytime which is obviously not what I want to do. Ideally I want it to automatically refresh every X minutes.
+ So the beginner I am tried searching for solutions, which I found but got none to work. On the FreshRSS website it self it states I have to do something with the ./app/actualize_script.php but the fun thing is with the guide I used mentioned above I got none of those things. Don't have the app folder nor have I the script they are talking about. The only folders I have are crontabs, keys, log, nginx, php and www. And inside those folders there is also nothing to find they are talking about.
+ So for a summary I have FreshRSS running atm in a docker container on my Synology NAS which is working but only need a solution for how to automatically refresh my feed every X minutes or so.
+ Does some of you have experience with this and can help a starting self hoster out?
+ Thanks in advance!
+ Edit: Not Refresh but FreshRSS thanks!
+    submitted by    /u/Royalshadex91  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physicists find “definitive evidence” of mechanism behind brightest auroras]]></title>
+        <id>https://arstechnica.com/?p=1771437</id>
+        <link href="https://arstechnica.com/?p=1771437"/>
+        <updated>2021-06-10T11:52:07.000Z</updated>
+        <summary type="html"><![CDATA[A resonant transfer of energy accelerates atmospheric electrons to sufficient energies.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
+        <id>60b93afaacb62507dd1d8915</id>
+        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/"/>
+        <updated>2021-06-10T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Front-End Auditing Tools I Discovered Recently]]></title>
+        <id>https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/</id>
+        <link href="https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/"/>
+        <updated>2021-06-10T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stefan Judis)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenVPN Android app w fingerprint]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwk8az/openvpn_android_app_w_fingerprint/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwk8az/openvpn_android_app_w_fingerprint/"/>
+        <updated>2021-06-10T10:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone, I have OpenVPN running on my Diskstation and the OpenVPN app on my phone. However, it is somewhat boring to enter the user password each time I connect. Is there an app that I can simply unlock with my fingerprint? Couldn't find something on the internet...
+ Thanks for your advice!
+    submitted by    /u/grimpeur78  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-hosted software to track monthly income and payments and so on]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwjo7s/selfhosted_software_to_track_monthly_income_and/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwjo7s/selfhosted_software_to_track_monthly_income_and/"/>
+        <updated>2021-06-10T09:49:04.000Z</updated>
+        <summary type="html"><![CDATA[Hey, does someone know sth. to track your Money, with a good overview and so on? 
+ Thanks a lot :)
+    submitted by    /u/-AdmiralThrawn-  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mirotalk: Free Secure Video Calls, Chat & Screen Sharing.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwj9j2/mirotalk_free_secure_video_calls_chat_screen/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwj9j2/mirotalk_free_secure_video_calls_chat_screen/"/>
+        <updated>2021-06-10T09:20:34.000Z</updated>
+        <summary type="html"><![CDATA[GitHub: https://github.com/miroslavpejic85/mirotalk
+ Demo: https://mirotalk.up.railway.app/
+ https://preview.redd.it/guee0nelte471.png?width=897&format=png&auto=webp&s=d69ab184b040d5798d17aafe2d12c42ad2b71224
+    submitted by    /u/mirotalk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone using Pinry?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwhtk1/anyone_using_pinry/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwhtk1/anyone_using_pinry/"/>
+        <updated>2021-06-10T07:37:08.000Z</updated>
+        <summary type="html"><![CDATA[I've installed Pinry, and it looks and functions nicely overall. However, I can't seem to upload videos (tried different formats/codecs) and I don't know how to pin websites. It seems to only do images or gifs. Am I doing something wrong? Are these features not implemented yet?
+ If those are Pinry limitations, what do you fellow self-hosters use that handles at least videos? TBH, I don't really care about websites, but it would be a nice addition.
+    submitted by    /u/osmac  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any recommendations on facility management software are welcome here]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwhkrk/any_recommendations_on_facility_management/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwhkrk/any_recommendations_on_facility_management/"/>
+        <updated>2021-06-10T07:19:54.000Z</updated>
+        <summary type="html"><![CDATA[I am in a need of a better way to manage a few Buildings. As i haven’t found anything it’s time to ask this great community :)
+ The key tasks that i am looking for are: -tenant management -tracking renovations and upgrades -availability to add notes (maybe also upload files) to any object
+ Not necessary but are welcome -Billing Management -integrated mail and calendar viewer
+ The software should be selfhostable and preferably open source. 
+ Thanks ahead guy’s for your recommendations. I hope it it’s going to get rid of some stacks of post-it‘s and excel spreadsheets.
+    submitted by    /u/smilebasti  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recommendations for a pill management system?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwhe0n/recommendations_for_a_pill_management_system/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwhe0n/recommendations_for_a_pill_management_system/"/>
+        <updated>2021-06-10T07:06:48.000Z</updated>
+        <summary type="html"><![CDATA[Looking for something simple I can record what pills I’ve taken, when, and maybe set reminders for when to take the next lot?
+ Bonus if it has a mobile app, but not required.
+    submitted by    /u/DaddyDeveloper  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Librephotos or Photoprism?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwh9i0/librephotos_or_photoprism/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwh9i0/librephotos_or_photoprism/"/>
+        <updated>2021-06-10T06:58:36.000Z</updated>
+        <summary type="html"><![CDATA[I'm finally thinking to replace Google Photos with a self-hosted alternative... I've tried Piwigo but it's not what I was looking for and I gave up, but now I've seen that both Photoprism and Librephotos (which is also available on Yunohost, cool) could fit my needs. Do you use one of them? Which one? And why?
+    submitted by    /u/Elodran  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Docker Swarm Setup]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwgh9l/automated_docker_swarm_setup/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwgh9l/automated_docker_swarm_setup/"/>
+        <updated>2021-06-10T06:04:36.000Z</updated>
+        <summary type="html"><![CDATA[I guess this is as good a place as any to share my automated Docker Swarm deployment.
+ This makes it easy to deploy a web server, complete with Traefik, Portainer and Docker Swarm. Add you own stacks, or deploy mine using the included instructions.
+ I am adding stacks slowly. Currently available are IgnitionSCADA and ERPNext stacks, I mean...I have heaps, but they need to be tidied up for public consumption aha.
+ Happy to answer questions.
+ https://github.com/suodrazah/docker_swarm
+    submitted by    /u/suodrazah  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Connecting Guacamole on VPS to home computer]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nweszq/connecting_guacamole_on_vps_to_home_computer/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nweszq/connecting_guacamole_on_vps_to_home_computer/"/>
+        <updated>2021-06-10T04:18:01.000Z</updated>
+        <summary type="html"><![CDATA[I'm trying to install Guacamole or even trasa inside a docker container on a publicly accessible VPS. 
+ From that publicly accessible VPS, I want to be able to RDP into a home computer behind a NAT. 
+ The solution normally would be to use some sort of VPN (OpenVPN, WireGuard, ZeroTier, etc) to connect the VPS host to the home network. 
+ How is it done from inside a docker container to a home network?
+    submitted by    /u/hardyrekshin  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many services I want to self-host want to utilize the HTTP/HTTPS ports. What's the best way to manage these?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nwd201/many_services_i_want_to_selfhost_want_to_utilize/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nwd201/many_services_i_want_to_selfhost_want_to_utilize/"/>
+        <updated>2021-06-10T02:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Hello there. I am relatively new to the home server scene, but I've quickly begun hosting several services on mine. A personal website via nginx, Pi Hole, Home Assistant, Vaultwarden, etc. - all of these have helpful web interfaces that want to display on ports 80/443 by default. I've been skittish on setting some of these up, for fear of disrupting what I already have working, and I'm curious about what people recommend as the best solution. There are some solutions I've been investigating - having each service use its own arbitrary port, or I think it's possible to manage everything via nginx (I see the word 'reverse proxy' thrown around, but I have no idea if the nginx settings I've been fiddling with is that). I would like to see what people here suggest. Thanks.
+    submitted by    /u/Sigma-Alpha_2  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meraki MR52 and OpenWRT]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/nw9xm6/meraki_mr52_and_openwrt/</id>
@@ -7237,36 +7803,6 @@ Thank you @tianheg, @onnyyonn]]></summary>
         <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Átila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
-        <updated>2021-05-12T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Smashing Stories]]></title>
-        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
-        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
-        <updated>2021-05-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Primer On CSS Container Queries]]></title>
-        <id>https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/</id>
-        <link href="https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/"/>
-        <updated>2021-05-11T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
         </author>
     </entry>
 </feed>

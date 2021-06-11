@@ -6,6 +6,213 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nx1lal/which_windows_vps_for_streaming_twitch/",
+          "author": null,
+          "description": "So yeah basically i need a windows VPS that i connect to thru a RDC. \n Wouldn't stream games or anything, but mostly just a blank screen with a few statistics. What specs would you recommend? I tried with VPS 4GB ram and 2 Intel Xeon CPU Cores and it's not working well. Tried streaming with OBS and it's laggy as hell, stream not even displaying. \n Any recommendations? What should the minimum specs be? How much bandwith will i use? Any recommended provider?\n    submitted by    /u/caco3boy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nx1lal/which_windows_vps_for_streaming_twitch/",
+          "publishedOn": "2021-06-10T23:24:28.000Z",
+          "wordCount": 204,
+          "title": "Which windows VPS for streaming Twitch?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nx18ti/mobile_friendly_google_docs_alternative/",
+          "author": null,
+          "description": "Heyho,\n I am part of a group organizing a project. Most of the people are non-nerds and we need a tool to share information online. Normally Google Docs/Drive would be fine, but for idealistic reasons that is not desired. So I'm looking for a nice alternative that will allow us to \n a) share files (PDF, images and so on) online \n and\n b) be able to edit files via browser and especially\n smartphone, since most people are mobile users. It is enough to be able to edit text files. \n There is no need for collaborative editing and text files are enough - no odt, no doc, plain text is fine.\n But it needs to be simple and it would be nice if it doesn't require a lot of additional apps on the phone.\n I skimmed the awesome selfhosted list, so far my best option would be Nextcloud and OnlyOffice pointing to the Nextcloud instance.\n Any better ideas out there? \n Really perfect would be something like Mattermost, but with text editing (like an included Etherpad/Cryptpad feature). There is a Collabora plugin for Mattermost, but unfortunately it doesn't work on mobile/via the Mattermost app.\n    submitted by    /u/MilchreisMann412  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nx18ti/mobile_friendly_google_docs_alternative/",
+          "publishedOn": "2021-06-10T23:07:38.000Z",
+          "wordCount": 423,
+          "title": "Mobile friendly Google Docs alternative?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwxzq4/any_help_for_this_post/",
+          "author": null,
+          "description": "submitted by    /u/SirChesterMcWhipple  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwxzq4/any_help_for_this_post/",
+          "publishedOn": "2021-06-10T20:44:10.000Z",
+          "wordCount": 289,
+          "title": "Any help for this post."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwxmkx/self_hosting_server_requirements/",
+          "author": null,
+          "description": "Hi! I hope you won't laugh at me for this question because I'm a total noob at self-hosting and this will be my first try.\n I created an account on Hetzner and want to self-host these apps (I included what I use right now in brackets):\n  \nGhost or Wordpress (using static site with 11ty - free)\n Linkding (using raindrop - free)\n Wallabag (using pocket - $2.73/year)\n MiniFlux (using miniflux hosting - $15/year)\n Nextcloud (using Google One - $6.88/year)\n Standard Notes (using InkDrop - free with dev license)\n Plausible (using goatcounter - free)\n  \nBecause 1 Euro is equal to 10.26 Turkish Lira, I want to self-host these in smallest €2.49 CX11 server with these specs:\n  \n1 Intel vCPU\n 2 GB Ram\n 20 GB Disk Space\n 20 TB Traffic\n  \nI won't use these apps regularly, I'll use them rarely. It will be mostly for learning purpose. I might even move to my current stack.\n So is this server specs enough for this purpose, if not what will be?\n    submitted by    /u/taylantatli  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwxmkx/self_hosting_server_requirements/",
+          "publishedOn": "2021-06-10T20:28:38.000Z",
+          "wordCount": 273,
+          "title": "Self Hosting Server Requirements"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwxmjp/you_can_try_but_you_wont_stop_me_hosting_my/",
+          "author": null,
+          "description": "Here's a simple solution to being behind a CG-NAT. Check the tldr; at the end\n ​\n I've learned a lot about self hosting in the last weeks, after a colleague told me about nextcloud.\n I bought a fully upgraded mac mini 2012, installed Virtualbox, created an ubuntuVM and set up docker + compose. I installed nextcloud and started experimenting with it.\n I got rid of my fiber internet access a few years ago because my mobile phone provider offers an additional data sim card for about $5/mo and my traffic is unlimited.\n But that plan isn't great: I'm behind CG-NAT (Carrier-grade NAT) which means there's no way for me to reach my server when I'm not on the home wifi because my public IP address is shared between several other customers.\n So I called them to enquire about public ipv4 addresses op…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwxmjp/you_can_try_but_you_wont_stop_me_hosting_my/",
+          "publishedOn": "2021-06-10T20:28:35.000Z",
+          "wordCount": 747,
+          "title": "You can try but you won't stop me: hosting my services behind CG-NAT thanks to zerotier, caddy Oracle"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwwe59/need_recommendations_for_filesync_software_long/",
+          "author": null,
+          "description": "I need recommendations for file sync software. This is a long post and I have specific needs, and have also tried several popular file-syncing tools already, so please read the whole thing before commenting.\n My setup is as follows:\n  \nDesktop with 4 TB HDD space, running Manjaro\n \nLaptop with 250 GB SSD space, running Manjaro\n \nPhone with ??? limited space, Android\n \nHeadless mini PC in a cupboard, connected to a 6 TB external HDD, intended as always-on server, running Ubuntu\n  \nWhat I want to accomplish:\n I want to be able to synchronize folders within my home folder between my laptop and desktop. This needs to work so that I have local copies of the files, and I'm not always waiting on network latency to do things. That way, I can work on things when I am outside and offline, and then s…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwwe59/need_recommendations_for_filesync_software_long/",
+          "publishedOn": "2021-06-10T19:37:19.000Z",
+          "wordCount": 2787,
+          "title": "Need recommendations for file-sync software (long post)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwur76/graphhopper_routing_engine_open_source_route/",
+          "author": null,
+          "description": "Just discovered this place and would like to introduce you to our open source routing engine:\n https://github.com/graphhopper/graphhopper#readme\n GraphHopper offers you the path finding functionality (\"A to B routing\") that you probably know from Google Maps and uses data from the incredible OpenStreetMap project (see also /r/openstreetmap).\n To fully self-host a route planner (e.g. a \"Google Maps\" equivalent) you need GraphHopper for the routing and two other parts: you also need some visualization aka \"maps\" (e.g. with OpenMapTiles) and you need the address search (e.g. with Photon).\n We have a hosted version of this and you can try it: GraphHopper Maps. It is also privacy friendly without any trackers.\n This web app is not (yet) as polished as Google Maps app but there are many projects that use the routing functionality of GraphHopper and offer \"complete\" apps like outdoor apps (komoot, trailrouter, ride with GPS, Locus Map, plotaroute, Kurviger) or other services (delivery hero, deutsche bahn, GLS, ...)\n And GraphHopper can be used for more things beyond routing like for reachability analysis:\n Reachability analysis across an entire country\n Make sure you follow our twitter or blog posts. For example we recently released version 3.0.\n    submitted by    /u/graphhopper  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwur76/graphhopper_routing_engine_open_source_route/",
+          "publishedOn": "2021-06-10T18:28:58.000Z",
+          "wordCount": 423,
+          "title": "GraphHopper Routing Engine - Open Source Route Planning"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwq3uh/install_searx_on_a_rpi4_running_rpios64bits_with/",
+          "author": null,
+          "description": "submitted by    /u/Tiritibambix  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwq3uh/install_searx_on_a_rpi4_running_rpios64bits_with/",
+          "publishedOn": "2021-06-10T15:15:24.000Z",
+          "wordCount": 292,
+          "title": "Install Searx on a Rpi4 running RpiOS64bits with docker / portainer ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwowg6/bookstack_guest_access/",
+          "author": null,
+          "description": "submitted by    /u/the_treeman_working  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwowg6/bookstack_guest_access/",
+          "publishedOn": "2021-06-10T14:24:26.000Z",
+          "wordCount": 238,
+          "title": "Bookstack Guest Access"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwn7ur/is_anyone_hosting_homer_on_a_subfolderbase_url/",
+          "author": null,
+          "description": "I've found traces of conversation around Homer being able to be served on a subfolder rather than a subdomain, but I can't find any documentation on how to do so.\n I'm using Nginx.\n    submitted by    /u/pedges  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwn7ur/is_anyone_hosting_homer_on_a_subfolderbase_url/",
+          "publishedOn": "2021-06-10T13:08:10.000Z",
+          "wordCount": 188,
+          "title": "Is anyone hosting Homer on a subfolder/base URL?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwn58j/is_there_a_self_hosted_project_management/",
+          "author": null,
+          "description": "Hello everyboy,\n I am looking for a self hosted project management software to use for a non-profit hospital. It should support Kanban boards and maybe even some Scrum, Burndown- & Gantt Charts.\n What I tried:\n - JIRA Software: Got a free community license but the terminology is too software focused\n - JIRA Core: Neutral terminology but no Kanban boards\n - Taiga.io: Looks awesome and our first test server was set up quickly but horrible to set up for configuration with HTTPS and so on. We can't get the mail settings or the LDAP sync to work and the documentation is clearly from coders for coders (a lot of knowledge is assumed).\n    submitted by    /u/suddenlysysdude  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwn58j/is_there_a_self_hosted_project_management/",
+          "publishedOn": "2021-06-10T13:04:44.000Z",
+          "wordCount": 538,
+          "title": "Is there a self hosted project management software you can recommend in 2021?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwmfvr/how_do_you_manage_your_users_authentication/",
+          "author": null,
+          "description": "For those of you who have a self-hosted server with several users (e.g. family) and several services (e.g. Nextcloud, Airsonic, Jellyfin, ...), how do you manage authentication and various passwords?\n The canonical solution that seems to be supported by pretty much everyone is to have an LDAP server (OpenLDAP) and plugin everything to that server (Nextcloud users, Authelia for SSO/resource gating, Keycloak if you're feeling fancy and so on).\n That still leaves some services (e.g. Plex) with their own proprietary accounts (can't really work around that).\n Unfortunately, setting up and managing OpenLDAP is a pain, and it does way more than necessary.\n What are your solutions to that?\n    submitted by    /u/nitnelave  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwmfvr/how_do_you_manage_your_users_authentication/",
+          "publishedOn": "2021-06-10T12:30:46.000Z",
+          "wordCount": 1155,
+          "title": "How do you manage your users (authentication, passwords)?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwm5kt/refreshrss_in_docker_on_synology_nas/",
+          "author": null,
+          "description": "I recently got myself a Synology NAS and got into selfhosting. So im relatively new to all of this and making use of guides to get it working.\n One of the things I wanted to selfhost was a RSS feed which I found in FreshRSS. So I searched online for a guide on how to install this on my NAS and found this guide: https://mariushosting.com/how-to-install-freshrss-on-your-synology-nas/\n This guide explains really well how to install FreshRSS into docker but it ends there.\n So far so good followed the guide and got everything to work, installed the FeedMe app on my android phone and got my own RSS feed. Only to find out that it does not automatically refresh my feed. I have to push the actualize button myself everytime which is obviously not what I want to do. Ideally I want it to automatically refresh every X minutes.\n So the beginner I am tried searching for solutions, which I found but got none to work. On the FreshRSS website it self it states I have to do something with the ./app/actualize_script.php but the fun thing is with the guide I used mentioned above I got none of those things. Don't have the app folder nor have I the script they are talking about. The only folders I have are crontabs, keys, log, nginx, php and www. And inside those folders there is also nothing to find they are talking about.\n So for a summary I have FreshRSS running atm in a docker container on my Synology NAS which is working but only need a solution for how to automatically refresh my feed every X minutes or so.\n Does some of you have experience with this and can help a starting self hoster out?\n Thanks in advance!\n Edit: Not Refresh but FreshRSS thanks!\n    submitted by    /u/Royalshadex91  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwm5kt/refreshrss_in_docker_on_synology_nas/",
+          "publishedOn": "2021-06-10T12:16:30.000Z",
+          "wordCount": 531,
+          "title": "RefreshRSS in Docker on Synology NAS"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwk8az/openvpn_android_app_w_fingerprint/",
+          "author": null,
+          "description": "Hey everyone, I have OpenVPN running on my Diskstation and the OpenVPN app on my phone. However, it is somewhat boring to enter the user password each time I connect. Is there an app that I can simply unlock with my fingerprint? Couldn't find something on the internet...\n Thanks for your advice!\n    submitted by    /u/grimpeur78  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwk8az/openvpn_android_app_w_fingerprint/",
+          "publishedOn": "2021-06-10T10:26:46.000Z",
+          "wordCount": 204,
+          "title": "OpenVPN Android app w fingerprint"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwjo7s/selfhosted_software_to_track_monthly_income_and/",
+          "author": null,
+          "description": "Hey, does someone know sth. to track your Money, with a good overview and so on? \n Thanks a lot :)\n    submitted by    /u/-AdmiralThrawn-  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwjo7s/selfhosted_software_to_track_monthly_income_and/",
+          "publishedOn": "2021-06-10T09:49:04.000Z",
+          "wordCount": 268,
+          "title": "Self-hosted software to track monthly income and payments and so on"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwj9j2/mirotalk_free_secure_video_calls_chat_screen/",
+          "author": null,
+          "description": "GitHub: https://github.com/miroslavpejic85/mirotalk\n Demo: https://mirotalk.up.railway.app/\n https://preview.redd.it/guee0nelte471.png?width=897&format=png&auto=webp&s=d69ab184b040d5798d17aafe2d12c42ad2b71224\n    submitted by    /u/mirotalk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwj9j2/mirotalk_free_secure_video_calls_chat_screen/",
+          "publishedOn": "2021-06-10T09:20:34.000Z",
+          "wordCount": 982,
+          "title": "Mirotalk: Free Secure Video Calls, Chat & Screen Sharing."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwhtk1/anyone_using_pinry/",
+          "author": null,
+          "description": "I've installed Pinry, and it looks and functions nicely overall. However, I can't seem to upload videos (tried different formats/codecs) and I don't know how to pin websites. It seems to only do images or gifs. Am I doing something wrong? Are these features not implemented yet?\n If those are Pinry limitations, what do you fellow self-hosters use that handles at least videos? TBH, I don't really care about websites, but it would be a nice addition.\n    submitted by    /u/osmac  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwhtk1/anyone_using_pinry/",
+          "publishedOn": "2021-06-10T07:37:08.000Z",
+          "wordCount": 240,
+          "title": "Anyone using Pinry?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwhkrk/any_recommendations_on_facility_management/",
+          "author": null,
+          "description": "I am in a need of a better way to manage a few Buildings. As i haven’t found anything it’s time to ask this great community :)\n The key tasks that i am looking for are: -tenant management -tracking renovations and upgrades -availability to add notes (maybe also upload files) to any object\n Not necessary but are welcome -Billing Management -integrated mail and calendar viewer\n The software should be selfhostable and preferably open source. \n Thanks ahead guy’s for your recommendations. I hope it it’s going to get rid of some stacks of post-it‘s and excel spreadsheets.\n    submitted by    /u/smilebasti  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwhkrk/any_recommendations_on_facility_management/",
+          "publishedOn": "2021-06-10T07:19:54.000Z",
+          "wordCount": 637,
+          "title": "Any recommendations on facility management software are welcome here"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwhe0n/recommendations_for_a_pill_management_system/",
+          "author": null,
+          "description": "Looking for something simple I can record what pills I’ve taken, when, and maybe set reminders for when to take the next lot?\n Bonus if it has a mobile app, but not required.\n    submitted by    /u/DaddyDeveloper  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwhe0n/recommendations_for_a_pill_management_system/",
+          "publishedOn": "2021-06-10T07:06:48.000Z",
+          "wordCount": 208,
+          "title": "Recommendations for a pill management system?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwh9i0/librephotos_or_photoprism/",
+          "author": null,
+          "description": "I'm finally thinking to replace Google Photos with a self-hosted alternative... I've tried Piwigo but it's not what I was looking for and I gave up, but now I've seen that both Photoprism and Librephotos (which is also available on Yunohost, cool) could fit my needs. Do you use one of them? Which one? And why?\n    submitted by    /u/Elodran  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwh9i0/librephotos_or_photoprism/",
+          "publishedOn": "2021-06-10T06:58:36.000Z",
+          "wordCount": 353,
+          "title": "Librephotos or Photoprism?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwgh9l/automated_docker_swarm_setup/",
+          "author": null,
+          "description": "I guess this is as good a place as any to share my automated Docker Swarm deployment.\n This makes it easy to deploy a web server, complete with Traefik, Portainer and Docker Swarm. Add you own stacks, or deploy mine using the included instructions.\n I am adding stacks slowly. Currently available are IgnitionSCADA and ERPNext stacks, I mean...I have heaps, but they need to be tidied up for public consumption aha.\n Happy to answer questions.\n https://github.com/suodrazah/docker_swarm\n    submitted by    /u/suodrazah  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwgh9l/automated_docker_swarm_setup/",
+          "publishedOn": "2021-06-10T06:04:36.000Z",
+          "wordCount": 190,
+          "title": "Automated Docker Swarm Setup"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nweszq/connecting_guacamole_on_vps_to_home_computer/",
+          "author": null,
+          "description": "I'm trying to install Guacamole or even trasa inside a docker container on a publicly accessible VPS. \n From that publicly accessible VPS, I want to be able to RDP into a home computer behind a NAT. \n The solution normally would be to use some sort of VPN (OpenVPN, WireGuard, ZeroTier, etc) to connect the VPS host to the home network. \n How is it done from inside a docker container to a home network?\n    submitted by    /u/hardyrekshin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nweszq/connecting_guacamole_on_vps_to_home_computer/",
+          "publishedOn": "2021-06-10T04:18:01.000Z",
+          "wordCount": 326,
+          "title": "Connecting Guacamole on VPS to home computer"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nwd201/many_services_i_want_to_selfhost_want_to_utilize/",
+          "author": null,
+          "description": "Hello there. I am relatively new to the home server scene, but I've quickly begun hosting several services on mine. A personal website via nginx, Pi Hole, Home Assistant, Vaultwarden, etc. - all of these have helpful web interfaces that want to display on ports 80/443 by default. I've been skittish on setting some of these up, for fear of disrupting what I already have working, and I'm curious about what people recommend as the best solution. There are some solutions I've been investigating - having each service use its own arbitrary port, or I think it's possible to manage everything via nginx (I see the word 'reverse proxy' thrown around, but I have no idea if the nginx settings I've been fiddling with is that). I would like to see what people here suggest. Thanks.\n    submitted by    /u/Sigma-Alpha_2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nwd201/many_services_i_want_to_selfhost_want_to_utilize/",
+          "publishedOn": "2021-06-10T02:39:55.000Z",
+          "wordCount": 1318,
+          "title": "Many services I want to self-host want to utilize the HTTP/HTTPS ports. What's the best way to manage these?"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/nw9xm6/meraki_mr52_and_openwrt/",
           "author": null,
           "description": "I have had this unused meraki AP that I got from my previous job that has lost its license. Is openWRT supported on this AP I can’t find a good answer. Or is this just a solid meraki paperweight\n    submitted by    /u/Mostly__Relevant  \n [link]   [comments]",
@@ -2738,6 +2945,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341894",
+          "author": "Kevin Powell",
+          "description": "As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.\nLet’s break those two down and see how they work together.\nThe post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/",
+          "publishedOn": "2021-06-10T14:34:22.000Z",
+          "wordCount": 4303,
+          "title": "Equal Columns With Flexbox: It’s More Complicated Than You Might Think"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342182",
+          "author": "Ikeh Akinyemi",
+          "description": "In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.\nThe post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/",
+          "publishedOn": "2021-06-10T14:26:47.000Z",
+          "wordCount": 2892,
+          "title": "Building a Headless CMS with Fauna and Vercel Functions"
+        },
+        {
           "id": "https://css-tricks.com/?p=340967",
           "author": "Geoff Graham",
           "description": "I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …\nThe post A Cornucopia of Container Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -3050,6 +3275,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
+          "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
+          "publishedOn": "2021-06-10T15:00:00.000Z",
+          "wordCount": 4869,
+          "title": "Useful Front-End Boilerplates And Starter Kits",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
+          "author": "hello@smashingmagazine.com (Stefan Judis)",
+          "description": "Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.",
+          "link": "https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/",
+          "publishedOn": "2021-06-10T11:15:00.000Z",
+          "wordCount": 747,
+          "title": "Three Front-End Auditing Tools I Discovered Recently",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e21066b1-baa0-4a85-90ee-8074029d0a32/three-frontend-auditing-tools.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/has-native-css-parent-selector/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
@@ -3399,48 +3652,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/",
-          "publishedOn": "2021-05-12T12:42:00.000Z",
-          "wordCount": 3485,
-          "title": "Frustrating Design Patterns That Need Fixing: Birthday Picker",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f773d7bb-df56-409f-a3fb-aa1e6e0eea09/4-birthday-picker.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.",
-          "link": "https://smashingmagazine.com/2021/05/little-smashing-stories/",
-          "publishedOn": "2021-05-12T08:00:00.000Z",
-          "wordCount": 1993,
-          "title": "Little Smashing Stories",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b820c735-621c-4e60-8a3f-accb3f66d312/smashing-newsletter-banner.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "A prototype of the long-awaited CSS container queries has landed in Chrome Canary and is available for experimentation. Let’s look at what problem is being solved, learn how container queries work, and see how they compare with and complement existing CSS features for layout.",
-          "link": "https://smashingmagazine.com/2021/05/complete-guide-css-container-queries/",
-          "publishedOn": "2021-05-11T13:30:00.000Z",
-          "wordCount": 4874,
-          "title": "A Primer On CSS Container Queries",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2c88b2c-ef73-44e3-885c-2c5c322fb781/smashing-articles-original.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -3449,6 +3660,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60b93afaacb62507dd1d8915",
+          "author": null,
+          "description": "You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/",
+          "publishedOn": "2021-06-10T11:35:00.000Z",
+          "wordCount": 583,
+          "title": "Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course"
+        },
         {
           "id": "60b357ad11ffb70827ef9a90",
           "author": null,
@@ -3888,6 +4108,141 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1772253",
+          "author": "Jon Brodkin",
+          "description": "ISPs' data must exactly match FCC's or application is rejected. A fix is on the way.",
+          "link": "https://arstechnica.com/?p=1772253",
+          "publishedOn": "2021-06-10T21:25:19.000Z",
+          "wordCount": 1370,
+          "title": "Some people can’t get FCC subsidy because “Street” isn’t the same as “St.”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771834",
+          "author": "Jennifer Ouellette",
+          "description": "Pilot episode did everything it needed to do, with soupçon of whimsical swagger.",
+          "link": "https://arstechnica.com/?p=1771834",
+          "publishedOn": "2021-06-10T21:03:59.000Z",
+          "wordCount": 1491,
+          "title": "Review: Our favorite trickster god is charismatic as ever in Loki premiere"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772252",
+          "author": "Kyle Orland",
+          "description": "George R.R. Martin, From Software collaboration caps off trailer-filled event.",
+          "link": "https://arstechnica.com/?p=1772252",
+          "publishedOn": "2021-06-10T20:21:40.000Z",
+          "wordCount": 1197,
+          "title": "Elden Ring shows off first gameplay footage, confirmed for Jan. 2022"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772179",
+          "author": "Beth Mole",
+          "description": "UnitedHealthcare delayed the policy's rollout, but experts worry about chilling effect.",
+          "link": "https://arstechnica.com/?p=1772179",
+          "publishedOn": "2021-06-10T19:42:58.000Z",
+          "wordCount": 1625,
+          "title": "Biggest health insurer plans to deny ER bills if it doubts you had an emergency"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772165",
+          "author": "Samuel Axon",
+          "description": "Apple already shut down the Android version after acquiring the app last year.",
+          "link": "https://arstechnica.com/?p=1772165",
+          "publishedOn": "2021-06-10T19:28:46.000Z",
+          "wordCount": 757,
+          "title": "Dark Sky’s API, iOS app, and web app will all stop working next year"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772104",
+          "author": "Sam Machkovech",
+          "description": "After Summer Game Fest reveal, we got co-creator Chet Faliszek (ex-Valve) on the phone.",
+          "link": "https://arstechnica.com/?p=1772104",
+          "publishedOn": "2021-06-10T18:55:38.000Z",
+          "wordCount": 1636,
+          "title": "The Anacrusis: Left 4 Dead + sci-fi + persistent AI, coming to PC, Xbox this fall"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772133",
+          "author": "Dan Goodin",
+          "description": "More organizations feel the pain as the ransomware scourge grows more pernicious.",
+          "link": "https://arstechnica.com/?p=1772133",
+          "publishedOn": "2021-06-10T17:46:17.000Z",
+          "wordCount": 829,
+          "title": "EA source code stolen by hacker claiming to sell it online"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772099",
+          "author": "Kyle Orland",
+          "description": "Retailer names Amazon vets to executive team amid e-commerce turnaround plans.",
+          "link": "https://arstechnica.com/?p=1772099",
+          "publishedOn": "2021-06-10T16:38:22.000Z",
+          "wordCount": 1254,
+          "title": "GameStop stock falls sharply amid 5M-share sales plan, SEC investigation"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772081",
+          "author": "Tim De Chant",
+          "description": "“The Internet has become the dominant tool traffickers use to recruit victims.\"",
+          "link": "https://arstechnica.com/?p=1772081",
+          "publishedOn": "2021-06-10T16:19:52.000Z",
+          "wordCount": 1065,
+          "title": "Facebook is a hub of sex trafficking recruitment in the US, report says"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772054",
+          "author": "Ron Amadeo",
+          "description": "The EU made Google show a search engine picker, which Google turned into an ad.",
+          "link": "https://arstechnica.com/?p=1772054",
+          "publishedOn": "2021-06-10T15:59:21.000Z",
+          "wordCount": 1038,
+          "title": "Google to stop treating EU antitrust remedy as a “promotional opportunity”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772065",
+          "author": "Financial Times",
+          "description": "Victory for environmentalists comes as groups step up campaigns.",
+          "link": "https://arstechnica.com/?p=1772065",
+          "publishedOn": "2021-06-10T14:48:22.000Z",
+          "wordCount": 920,
+          "title": "Keystone XL pipeline canceled after Biden scraps US permit"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772055",
+          "author": "Jonathan M. Gitlin",
+          "description": "The Class 8 trucks will still carry a driver and Waymo technicians for safety.",
+          "link": "https://arstechnica.com/?p=1772055",
+          "publishedOn": "2021-06-10T14:16:58.000Z",
+          "wordCount": 690,
+          "title": "Self-driving Waymo trucks to haul loads between Houston and Fort Worth"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771934",
+          "author": "Eric Berger",
+          "description": "A test article may have been useful five years ago. But five years from now?",
+          "link": "https://arstechnica.com/?p=1771934",
+          "publishedOn": "2021-06-10T13:11:36.000Z",
+          "wordCount": 1487,
+          "title": "NASA doesn’t need to test SLS anymore, but the Senate mandates it anyway"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771960",
+          "author": "Sam Machkovech",
+          "description": "Pre-E3 briefing takes shots at rivals, confirms \"new game every quarter\" aspirations.",
+          "link": "https://arstechnica.com/?p=1771960",
+          "publishedOn": "2021-06-10T13:00:45.000Z",
+          "wordCount": 1917,
+          "title": "Xbox unveils cloud-centric strategy: New hardware, servers, regional plans"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1771437",
+          "author": "Jennifer Ouellette",
+          "description": "A resonant transfer of energy accelerates atmospheric electrons to sufficient energies.",
+          "link": "https://arstechnica.com/?p=1771437",
+          "publishedOn": "2021-06-10T11:52:07.000Z",
+          "wordCount": 1585,
+          "title": "Physicists find “definitive evidence” of mechanism behind brightest auroras"
+        },
         {
           "id": "https://arstechnica.com/?p=1771941",
           "author": "Samuel Axon",
