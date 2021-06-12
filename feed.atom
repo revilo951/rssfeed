@@ -2,10 +2,583 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T00:42:26.154Z</updated>
+    <updated>2021-06-12T00:38:13.412Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best sotirngae solution for self hosted on heardware?!]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxsrna/best_sotirngae_solution_for_self_hosted_on/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxsrna/best_sotirngae_solution_for_self_hosted_on/"/>
+        <updated>2021-06-11T23:07:06.000Z</updated>
+        <summary type="html"><![CDATA[/Sorry, for thye spelling im drunk
+ what is the best cheap solution to store many lots of deadta for my friend cloud, that i can use,m on my raszpveryyuy pi
+ i want to have nexrtcloud and whatever that one misskey is
+ thinaky ou
+    submitted by    /u/_potaTARDIS_  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business]]></title>
+        <id>60b72d5facb62507dd1d777b</id>
+        <link href="https://www.freecodecamp.org/news/disaster-recovery-plan-what-are-rto-and-rpo/"/>
+        <updated>2021-06-11T22:56:56.000Z</updated>
+        <summary type="html"><![CDATA[If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three experts resign as FDA advisors over approval of Alzheimer’s drug]]></title>
+        <id>https://arstechnica.com/?p=1772629</id>
+        <link href="https://arstechnica.com/?p=1772629"/>
+        <updated>2021-06-11T22:07:00.000Z</updated>
+        <summary type="html"><![CDATA[One former advisor accused the FDA of presenting “slanted” questions to committee.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!]]></title>
+        <id>https://css-tricks.com/?p=342429</id>
+        <link href="https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/"/>
+        <updated>2021-06-11T21:38:48.000Z</updated>
+        <summary type="html"><![CDATA[There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:
+Perhaps the most noticeable thing there …
+The post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Possibilities of Syndication]]></title>
+        <id>https://css-tricks.com/?p=342237</id>
+        <link href="https://css-tricks.com/the-possibilities-of-syndication/"/>
+        <updated>2021-06-11T21:25:56.000Z</updated>
+        <summary type="html"><![CDATA[That’s the one word that isn’t an adjective in the acronym RSS. 
+Really Simple Syndication.
+RSS isn’t just about RSS readers. Even though, gosh if I don’t love RSS readers. It’s about putting content in a format that is …
+The post The Possibilities of Syndication appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NY can’t force ISPs to offer $15 low-income broadband plans, judge rules]]></title>
+        <id>https://arstechnica.com/?p=1772604</id>
+        <link href="https://arstechnica.com/?p=1772604"/>
+        <updated>2021-06-11T21:19:46.000Z</updated>
+        <summary type="html"><![CDATA[$15 requirement is rate regulation and preempted by federal law, ruling says.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guidance with Authelia as SSO for self-hosted web apps]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxq77f/guidance_with_authelia_as_sso_for_selfhosted_web/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxq77f/guidance_with_authelia_as_sso_for_selfhosted_web/"/>
+        <updated>2021-06-11T21:04:11.000Z</updated>
+        <summary type="html"><![CDATA[I run an unraid server with multiple docker containers. Rather than individual credentials for each app, I've started learning about Authelia and have successfully set up a simple authentication process for a container. Now that I have this first step working, I'm a little confused on next steps to deploy it into action:
+ For example, say I have a container with paperless. I can protect the web UI for that container with authelia without much trouble, but how do I make paperless aware that I am logged in? Do I disable the paperless login mechanism to it auto logs in a user? (this seems dangerous). Do I use the token option to log in via API?
+ Maybe it is different for each container, but a general workflow of how it's supposed to work or where I can read some tutorial would be appreciated.
+    submitted by    /u/mysterbubbles  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating home server]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxq77d/creating_home_server/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxq77d/creating_home_server/"/>
+        <updated>2021-06-11T21:04:11.000Z</updated>
+        <summary type="html"><![CDATA[I don't know if this is the correct subreddit for this so if not then I am sorry
+ so, I really wanted to and now even more so want to create a home server that I could use to host anything I like/test and etc. I got to a technology school so me and a friend did a project with an old cisco server that we put ESXi on, a switch and other stuff and that made me understand how it all works and pushed me to want to set it up for real this time, I got a switch, ap and all the things needed but the actual server. one person at my school told me how he uses an old laptop with ESXi as a server. so I was wondering what would be a good starting point since I searched a bit and found decommissioned servers for about £100 I think and I don't know if that is work or if to just do what that guy did and create a server from a laptop 
+ thank you in advance
+    submitted by    /u/Heydeath360  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building my own media apps for the long term]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxpvhc/building_my_own_media_apps_for_the_long_term/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxpvhc/building_my_own_media_apps_for_the_long_term/"/>
+        <updated>2021-06-11T20:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Please let me know if a post like this is not allowed.
+ I've been working on my own apps for my home media needs throughout covid. I just released the Server and Music apps and posted about it on /r/musichoarders. Even though this subreddit isn't music related, I think the project might be interesting to some of you.
+ It's called Cardinal, and it's an ecosystem of apps for playing your media at home. Right now the Server and Music apps are available for macOS and Windows as early access releases, and soon the mobile Music app will be released. Planned apps are Photos, Books, and TV & Movies, which will all feed from the Server app.
+ There's also a GitHub for technical info, where lots of the code has been open sourced.
+ The apps are free to use and free of all types of advertising, tracking, and marketing. It would be nice to get feedback on whether people are interested in using something like this, because I would love to work on this long term if there's enough interest. Any and all feedback is welcome!
+    submitted by    /u/somebeaver  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Center Anything in CSS Using Flexbox and Grid ✨]]></title>
+        <id>6063b9189618b008528a9d81</id>
+        <link href="https://www.freecodecamp.org/news/how-to-center-objects-using-css/"/>
+        <updated>2021-06-11T20:40:17.000Z</updated>
+        <summary type="html"><![CDATA[Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CD Projekt Red does an about-face, says ransomware crooks are leaking data]]></title>
+        <id>https://arstechnica.com/?p=1772586</id>
+        <link href="https://arstechnica.com/?p=1772586"/>
+        <updated>2021-06-11T20:20:51.000Z</updated>
+        <summary type="html"><![CDATA[Data taken in breach disclosed in February likely related to employees and contractors.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need help with the Nextcloud docker-compose file]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxp8r5/need_help_with_the_nextcloud_dockercompose_file/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxp8r5/need_help_with_the_nextcloud_dockercompose_file/"/>
+        <updated>2021-06-11T20:20:33.000Z</updated>
+        <summary type="html"><![CDATA[This is the docker-compose file that I put together
+ version: '3' services: nc_db: image: mariadb restart: unless-stopped env_file: .env networks: - nc_backend command: --transaction-isolation=READ-COMMITTED --binlog-format=ROW volumes: - ${APPDATADB}:/var/lib/mysql environment: - MYSQL_ROOT_PASSWORD=${PASSROOT} - MYSQL_PASSWORD=${DBPASSUSER} - MYSQL_DATABASE=${DB} - MYSQL_USER=${DBUSER} nc_app: image: nextcloud restart: unless-stopped env_file: .env networks: nc_frontend: ipv4_address: ${IP4} nc_backend: ports: - ${PORT}:80 depends_on: - nc_db volumes: - ${APPDATA}:/var/www/html - ${DATA}:/data environment: - MYSQL_PASSWORD=${DBPASSUSER} - MYSQL_DATABASE=${DB} - MYSQL_USER=${DBUSER} - MYSQL_HOST=nc_db - NEXTCLOUD_ADMIN_USER=${NCADMIN} - NEXTCLOUD_ADMIN_PASSWORD=${NCADMINPASS} - NEXTCLOUD_…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL 101: Installation, care, and feeding on Ubuntu]]></title>
+        <id>https://arstechnica.com/?p=1772445</id>
+        <link href="https://arstechnica.com/?p=1772445"/>
+        <updated>2021-06-11T19:23:34.000Z</updated>
+        <summary type="html"><![CDATA[If you've got 15 minutes, we can show you the ropes of basic MySQL management.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cocktail Bar / Inventory / Ordering?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxnyks/cocktail_bar_inventory_ordering/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxnyks/cocktail_bar_inventory_ordering/"/>
+        <updated>2021-06-11T19:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Hey There, 
+ I am building a cocktail bar in my dining room and I am looking to take it a step further buy giving my guests (friends and neighbors) a tablet with a menu of cocktails. Below are a few things I am looking to accomplish. 
+  
+Keep an inventory of all alcohol / liquor on hand
+ Associate cocktails with ingredients and as each ingredient gets used alert me that we are running low based on inventory. 
+ Allow guests to start a tab, and email them a receipt of cocktails ordered...this would help them remember what they liked last time they ordered. 
+ Front end menu would be a menu with either hand selected cocktails (limit) or all cocktails (based on inventory of ingredients)
+  
+I am 99% confident that this doesn't exist in a self hosted product, but I am ok with hacking something together. Maybe a combination of something like SnipeIT + ? ... I dunno. Any suggestions are welcome!
+    submitted by    /u/guardianfx  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any Docker, Ansible, Hadoop, and MongoDB Based Self Hosting Projects To Consider]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxnwyv/any_docker_ansible_hadoop_and_mongodb_based_self/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxnwyv/any_docker_ansible_hadoop_and_mongodb_based_self/"/>
+        <updated>2021-06-11T19:19:16.000Z</updated>
+        <summary type="html"><![CDATA[Hey there,
+ I need to learn a bit of Docker, Ansible, Hadoop, and MongoDB for a new job I took on recently.
+ ​
+ Anyone have any idea for anything I could self-host, and tweak a bit to learn the basics of these products?
+ ​
+ Thanks.
+    submitted by    /u/BackToPlebbit69  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best way to have 1,000 vCPUs and 1,000 gb of ram on demand, for 1-hour slots or so?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxns9u/best_way_to_have_1000_vcpus_and_1000_gb_of_ram_on/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxns9u/best_way_to_have_1000_vcpus_and_1000_gb_of_ram_on/"/>
+        <updated>2021-06-11T19:13:04.000Z</updated>
+        <summary type="html"><![CDATA[We are currently mass testing our multiplayer game, and we are looking for services that allow us for testing on a scale. Currently using AWS, but worried abour price.
+    submitted by    /u/dananite  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design Keyboard Accessibility for Complex React Experiences]]></title>
+        <id>5f9c97e9740569d1a4ca1768</id>
+        <link href="https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/"/>
+        <updated>2021-06-11T19:10:00.000Z</updated>
+        <summary type="html"><![CDATA[How you can design an inclusive and accessible org chart experience and solutions to common development challenges you will face.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT&T CEO seems confident industry can kill Biden’s municipal broadband plan]]></title>
+        <id>https://arstechnica.com/?p=1772540</id>
+        <link href="https://arstechnica.com/?p=1772540"/>
+        <updated>2021-06-11T19:03:58.000Z</updated>
+        <summary type="html"><![CDATA[CEO thinks US will keep giving billions to private ISPs instead of public networks.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kena: Bridge of Spirits hands-on premiere: As good as “Legend of Pikmin” sounds]]></title>
+        <id>https://arstechnica.com/?p=1772313</id>
+        <link href="https://arstechnica.com/?p=1772313"/>
+        <updated>2021-06-11T18:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Hour-long demo proves this fall game is much more than a pretty face.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Ask Good Technical Questions – the Ultimate Guide]]></title>
+        <id>60bc0444acb62507dd1d9a31</id>
+        <link href="https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/"/>
+        <updated>2021-06-11T17:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[British veterans set a new hypermiling record of 9.14 miles per kWh]]></title>
+        <id>https://arstechnica.com/?p=1772460</id>
+        <link href="https://arstechnica.com/?p=1772460"/>
+        <updated>2021-06-11T17:06:45.000Z</updated>
+        <summary type="html"><![CDATA[A Renault Zoe with a 52 kWh battery covered 475.4 miles in 24 hours.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alternative for sheetdb.io]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxkqkc/alternative_for_sheetdbio/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxkqkc/alternative_for_sheetdbio/"/>
+        <updated>2021-06-11T16:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Looking for a free service that offers the same thing as Sheetdb.io, which is creating a JSON Api from google spreadsheet and displays it as an HTML table through JavaScript.
+    submitted by    /u/darkboy245  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon, eBay fight legislation that would unmask third-party sellers]]></title>
+        <id>https://arstechnica.com/?p=1772441</id>
+        <link href="https://arstechnica.com/?p=1772441"/>
+        <updated>2021-06-11T16:15:15.000Z</updated>
+        <summary type="html"><![CDATA[Federal and state bills come as e-commerce gains ground.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Level Up Your React Conditionals]]></title>
+        <id>60c24cf8d3126007592d61d5</id>
+        <link href="https://www.freecodecamp.org/news/learn-react-conditionals/"/>
+        <updated>2021-06-11T16:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The journey from docker to kubernetes]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxjhir/the_journey_from_docker_to_kubernetes/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxjhir/the_journey_from_docker_to_kubernetes/"/>
+        <updated>2021-06-11T16:04:18.000Z</updated>
+        <summary type="html"><![CDATA[There is a learning curve from Docker to Kubernetes, especially when you feel comfortable with one and not the other, this week has been a hard yet fruitful journey into the world of Kubernetes, using everything self-hosted I was able to deploy my own homespun docker image (N8N) from Proget onto Kubernetes and using MetalLb and Traefik access it from my lan.
+ Some may say "this is well documented already" and that's fine, I personally went down a lot of rabbit holes with incorrect YAML files and commands, so put this together for me to remind me, and it might help someone else.
+ NOTE: Nothing in this post is hosted outside of my home network.
+ https://tech.davidfield.co.uk/from-zero-to-code-moving-from-docker-to-kubernetes/
+    submitted by    /u/mightywomble  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self hosted print / scan server?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxiwti/self_hosted_print_scan_server/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxiwti/self_hosted_print_scan_server/"/>
+        <updated>2021-06-11T15:39:31.000Z</updated>
+        <summary type="html"><![CDATA[Anyone know of a self hosted print and scan server solution? I’m looking at Windows primarily because my scanner only works for windows or Mac.
+    submitted by    /u/nerd4tech  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome ends its war on address bar URLs—for now, at least]]></title>
+        <id>https://arstechnica.com/?p=1772423</id>
+        <link href="https://arstechnica.com/?p=1772423"/>
+        <updated>2021-06-11T15:33:36.000Z</updated>
+        <summary type="html"><![CDATA[As it turns out, hiding URL information does not help security.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla takes aim at upstarts with 390-mile range, 200 mph Model S Plaid]]></title>
+        <id>https://arstechnica.com/?p=1772426</id>
+        <link href="https://arstechnica.com/?p=1772426"/>
+        <updated>2021-06-11T15:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Tesla's longest-serving car gets its long-awaited refresh.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Design Done Well: Making Use Of Audio]]></title>
+        <id>https://smashingmagazine.com/2021/06/web-design-done-well-audio/</id>
+        <link href="https://smashingmagazine.com/2021/06/web-design-done-well-audio/"/>
+        <updated>2021-06-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Shadows to SVG Icons With CSS and SVG Filters]]></title>
+        <id>https://css-tricks.com/?p=342164</id>
+        <link href="https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/"/>
+        <updated>2021-06-11T14:30:29.000Z</updated>
+        <summary type="html"><![CDATA[Why would we need to apply shadows to SVG?
+Shadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) 
+…
+The post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Hosted tool dashboard with Google SSO]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxgvzm/selfhosted_tool_dashboard_with_google_sso/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxgvzm/selfhosted_tool_dashboard_with_google_sso/"/>
+        <updated>2021-06-11T14:10:38.000Z</updated>
+        <summary type="html"><![CDATA[Hey Guys. Love this sub and all the amazing gems you can find on here.
+ I wanted to ask if anyone knew of a dashboard that has Google SSO.
+ I don't need there to be any graphs or anything. Just a simple page with links and icons to all of the resources that we use.
+ I've seen Homer but I don't think its meant to be used in an organisation and doesn't have Google SSO.
+ If anyone knows of anything, Please do let me know!
+    submitted by    /u/techyy25  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help on backing up self hosted VMs/Nextcloud]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxg4p5/help_on_backing_up_self_hosted_vmsnextcloud/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxg4p5/help_on_backing_up_self_hosted_vmsnextcloud/"/>
+        <updated>2021-06-11T13:35:15.000Z</updated>
+        <summary type="html"><![CDATA[Asked this in Proxmox but didnt get any answer, but then may be its not a proxmox solution. Any guidance here please?
+ ​
+ Setup
+ Server A) Proxmox Home server running multiple VMs (jellyfin - its own drive, nextcloud - its own zpool, wordpress and few other dockers in LVM on proxmox)
+ Server B) dedicated Ubuntu mining machine that can double as backup server
+ ----------------
+ Questions
+ Q1) I am not sure the right way to back server A. Do I back everything ideally like LVMs + Zpool data all together as one single thing? How does back up works?
+ Q2) Technically, PBS could be handy to run on B, but Server B will be running chia/mining stuff on Ubuntu 24x7. I can add few more disks to it and automate backup on it from server A. How to do it?
+ Q3) Its not a huge deal for me if I lose proxmox configuration, but definitely want Zpool and Jellyfin and VM (website coding etc) data auto backed up on server B. But then just why not back config anyway if its simple so if I ever drop a hammer on server A by accident, I can get replacement up really quick.
+ Q4) What is better raid on Server A since I will have Server B backing up. Do I need to waste a disc on A for redundancy. Server B is already in a different location and will have Server C as cold backup later.
+    submitted by    /u/jaykavathe  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authelia & Nginx Proxy Manager - Issues with VSCode]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxfymg/authelia_nginx_proxy_manager_issues_with_vscode/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxfymg/authelia_nginx_proxy_manager_issues_with_vscode/"/>
+        <updated>2021-06-11T13:27:05.000Z</updated>
+        <summary type="html"><![CDATA[I am using Authelia together with Nginx Proxy Manager. Both are installed with Docker containers on the same host. I have got the setup working with most of my services, but for some reason when trying to get it to work with VSCode (using linuxserver/code-server) I only get a white/blank screen after login. I am using the same endpoint configuration for all the services just changing out the address and port number . I have no trouble with VSCode when not behind Authelia. Checking F12 on the page shows a bunch of WebSocets error like this: 
+ WebSocket connection to 'wss://vscode.domain.com/?type=Management&reconnectionToken=d0bb10e8-2249-4f90-9da8-2b4358f90451&reconnection=false&skipWebSocketFrames=false' failed: 
+ Anyone have any tip as to what might be wrong?
+    submitted by    /u/norsemanGrey  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drone CI - help please - deployment of static website]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxeq7u/drone_ci_help_please_deployment_of_static_website/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxeq7u/drone_ci_help_please_deployment_of_static_website/"/>
+        <updated>2021-06-11T12:23:38.000Z</updated>
+        <summary type="html"><![CDATA[hi guys
+ Can someone help me with the following please. I'm currently using Gitea and Drone CI (running in Docker on my NAS, so selfhosted!) and I'm trying to roll out my html code, via a pipeline, to my website. I just have no idea how to make this happen.
+ ​
+  
+Can Drone CI somehow put my html code into a web service image and eventually deploy it to my website?
+ Or can I have Drone CI put the code in a certain location on my NAS, so that a docker image that runs, picks it up and shows it on my website?
+ or can Drone CI somehow execute a docker-compose.yml file?
+  
+​
+ what is the easiest/fastest thing i can do to get this done?
+ ​
+ so what Iam trying to achieve:
+ html code -> gitea -> trigger -> Drone CI -> puts my code online (somehow)
+    submitted by    /u/jboesh  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do I connect to Ubuntu Server on the local machine from Ubuntu Desktop?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxdwea/how_do_i_connect_to_ubuntu_server_on_the_local/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxdwea/how_do_i_connect_to_ubuntu_server_on_the_local/"/>
+        <updated>2021-06-11T11:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Currently I am running an Ubuntu Server and Ubuntu Desktop on a virtual machines in Windows. My goal is to install Snipe-IT and for this I need to make some configurations on the server. But it seems that I am not able to connect to the server machine from the desktop machine. I am fairly new to servers and troubleshooted a lot but editing the sshd_config file didn't word. I try using ssh to login into the server with [usernameServer@127.0.0.1](mailto:usernameServer@127.0.0.1) but password authentification returns "permission denied, please try again". And also using [usernameServer@12.0.2.15](mailto:usernameServer@12.0.2.15) returns the same error. How can I establish a connection between the Ubuntu Server and Ubuntu Desktop running on the same local machine?
+    submitted by    /u/Sakazuki27  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trace fossils, the most inconspicuous bite-sized window into ancient worlds]]></title>
+        <id>https://arstechnica.com/?p=1767257</id>
+        <link href="https://arstechnica.com/?p=1767257"/>
+        <updated>2021-06-11T11:30:59.000Z</updated>
+        <summary type="html"><![CDATA[“One animal could have made thousands of traces during its lifetime, but only left one skeleton."]]></summary>
+        <author>
+            <name>Ars Contributors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket Report: Vandals spray-paint Buran; China to launch first crew in 4 years]]></title>
+        <id>https://arstechnica.com/?p=1772183</id>
+        <link href="https://arstechnica.com/?p=1772183"/>
+        <updated>2021-06-11T11:00:29.000Z</updated>
+        <summary type="html"><![CDATA["This idea has been around since the dawn of spaceflight."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 12’s beautiful color-changing UI already lives up to the hype]]></title>
+        <id>https://arstechnica.com/?p=1771930</id>
+        <link href="https://arstechnica.com/?p=1771930"/>
+        <updated>2021-06-11T10:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Android 12's "Material You" UI debuts in Beta 2, and we go hands-on.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GUIDE - Email notification (Send-only/Relay-only MTA) using Postfix & Sendgrid]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxc03e/guide_email_notification_sendonlyrelayonly_mta/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxc03e/guide_email_notification_sendonlyrelayonly_mta/"/>
+        <updated>2021-06-11T09:40:10.000Z</updated>
+        <summary type="html"><![CDATA[I have been self-hosting items for a while but one of the items that I have always shy away from was "email notification". It has always seen scary and black magic to me.
+ Yesterday a HDD died on me and my containers stopped working. I found out about this by a user saying they could not access ownCloud (I missed smartmontools alerting me of issues). So it was high-time that I learnt about the joys of "MTA". I am writing up what I learnt so hopefully it helps others.
+ Setup
+ Machines:
+  
+2x Dedicated machines 
+ 3x VMs
+ 2x LXD
+ 1x VPS
+  
+Nothing huge.
+ Configurations:
+  
+They are all connected via OpenVPN.
+ Nothing is publicly accessible via the Internet (expect for the VPN service). 
+ If you want to access something, you need to be on the VPN.
+ There are no reserve proxies.
+ All machines h…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are you interested in a (free) LDAP alternative to manage users?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxb6id/are_you_interested_in_a_free_ldap_alternative_to/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxb6id/are_you_interested_in_a_free_ldap_alternative_to/"/>
+        <updated>2021-06-11T08:43:46.000Z</updated>
+        <summary type="html"><![CDATA[I've been working on a side project that, according to https://www.reddit.com/r/selfhosted/comments/nwmfvr/how_do_you_manage_your_users_authentication/, the community might find interesting.
+ It's not yet ready to use (some core features are missing), but the idea is:
+ Provide a (restricted) LDAP interface for services to list users and authenticate them, and a friendly web interface to manage the users. It's pretty opinionated (all users in the same OU, all groups in the same OU, limited query-only capabilities and so on) but should be sufficient for 90% of LDAP use cases, and has a *much* simpler deployment and management story than any full LDAP-based system.
+ It's written in Rust to have minimal memory requirements, and the data is stored in SQL for simple backups. It would be absolutely trivial to wrap in a Docker container.
+ If you are interested in contributing, check out https://github.com/nitnelave/lldap! Beginners welcome, I have some simple tasks to give if you're just starting with Rust.
+    submitted by    /u/nitnelave  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selfhosting Mattermost at Home?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nx89yu/selfhosting_mattermost_at_home/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nx89yu/selfhosting_mattermost_at_home/"/>
+        <updated>2021-06-11T05:28:52.000Z</updated>
+        <summary type="html"><![CDATA[I'd like to host Mattermost on a server I own at my home. Is there a guide on how to do this? Do I need to forward ports? If so, which? There doesn't seem to be much info on this. Thanks!
+    submitted by    /u/Fit_Back_1948  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Click a button, runs a command - need help finding this, i know it was posted here once :)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nx56ox/click_a_button_runs_a_command_need_help_finding/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nx56ox/click_a_button_runs_a_command_need_help_finding/"/>
+        <updated>2021-06-11T02:31:41.000Z</updated>
+        <summary type="html"><![CDATA[I need to save post more often...
+ So, awhile back I saw on here someone talk about a dashboard that had buttons you could click that would run a command on the server. I remember them saying, it was great for giving some one access to that that you couldn't trust with SSH. I happen to need this exact thing (a few days after reading it). 
+ Can someone throw me a bone and a link / info on this.
+ Dashboard, you click a button and it runs a command on the server. I'm thinking of using it to kick off docker images that run and do automated tasks such as create PDF reports based on numbers for work related stuffs.
+    submitted by    /u/ptarrant1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-hosted CI environment / pipelines?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nx3lk1/selfhosted_ci_environment_pipelines/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nx3lk1/selfhosted_ci_environment_pipelines/"/>
+        <updated>2021-06-11T01:06:01.000Z</updated>
+        <summary type="html"><![CDATA[I'm currently self-hosting Gitea for source control, but I was wondering if any of you fine people have set up any self-hosted continuous integration environments. I would obviously prefer ones that work with Gitea.
+ It's very time-consuming to go through all the items on the "awesome" lists, so I'm hoping for some educated opinions.
+ Edit: I'm mostly a .NET (core) developer, so anything that can use integrate natively, or at least be able to shoehorn in something with scripts is also a plus.
+    submitted by    /u/SteveDinn  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Put a Background on Open Details Elements]]></title>
+        <id>https://css-tricks.com/?p=342050</id>
+        <link href="https://css-tricks.com/put-a-background-on-open-details-elements/"/>
+        <updated>2021-06-11T00:16:28.000Z</updated>
+        <summary type="html"><![CDATA[One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …
+The post Put a Background on Open Details Elements appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Which windows VPS for streaming Twitch?]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/nx1lal/which_windows_vps_for_streaming_twitch/</id>
