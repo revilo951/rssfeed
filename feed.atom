@@ -2,10 +2,364 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T00:38:13.412Z</updated>
+    <updated>2021-06-13T00:45:05.397Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My Deemix install which instantly adds new songs to my Jellyfin library]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nykkuw/my_deemix_install_which_instantly_adds_new_songs/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nykkuw/my_deemix_install_which_instantly_adds_new_songs/"/>
+        <updated>2021-06-13T00:23:32.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/throwaway27727394927  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advice on self hosting a watch2gether service]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nyhy5l/advice_on_self_hosting_a_watch2gether_service/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nyhy5l/advice_on_self_hosting_a_watch2gether_service/"/>
+        <updated>2021-06-12T22:07:58.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys!
+ ​
+ I want to self host a watch together service so my friends and I can watch stuff off my home server. It would need to support basically mkv and mp4 video files, and I'd be okay with being the only one who has control over playback. 
+ Basically, I just need to have a video stream to a webpage so my friends and I can watch it together. I have my own domain, so I just need the service.
+ ​
+ Thank you very much!
+ Edit: I am running emby, so by the looks of things I may need to run a second media server side by side, or switch entirely. Any other suggestions are much appreciated though!
+    submitted by    /u/FatalVengeance  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Installing Hyper-V Linux Integration Services (LIS) with Ansible]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nyf60r/installing_hyperv_linux_integration_services_lis/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nyf60r/installing_hyperv_linux_integration_services_lis/"/>
+        <updated>2021-06-12T20:05:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TiZuid  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft at E3: Mario Rabbids sequel, Rainbow Six: Extraction, more]]></title>
+        <id>https://arstechnica.com/?p=1772743</id>
+        <link href="https://arstechnica.com/?p=1772743"/>
+        <updated>2021-06-12T19:45:22.000Z</updated>
+        <summary type="html"><![CDATA[Ubisoft Forward's familiar and new: guns, extreme sports, just dancing, and Avatar.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redirect subdomains e.g. *.abc.com to *.xyz.com]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nye5kc/redirect_subdomains_eg_abccom_to_xyzcom/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nye5kc/redirect_subdomains_eg_abccom_to_xyzcom/"/>
+        <updated>2021-06-12T19:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Is this possible to do? I have two domains, one short, one long. I'd like to use the short domain as a shortcut to redirect to the long domain, but with a bulk approach. I know I can setup subdomains for each and redirect to an individual subdomain, but is it possible to redirect it as a wildcard and pass along the subdomain to the longer domain?
+    submitted by    /u/mysterbubbles  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thanks to the selfhosted community, my project Jina is trending on GitHub. 474 people building thier own search engine now using Jina.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nyd9i9/thanks_to_the_selfhosted_community_my_project/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nyd9i9/thanks_to_the_selfhosted_community_my_project/"/>
+        <updated>2021-06-12T18:39:13.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/opensourcecolumbus  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any selfhosted media tagging app?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nycj9a/any_selfhosted_media_tagging_app/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nycj9a/any_selfhosted_media_tagging_app/"/>
+        <updated>2021-06-12T18:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Hi, is there any app for tagging images and videos so I can later search by tag?
+    submitted by    /u/kawaii__neko_  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Correct way to route container's traffic through wireguard without leakage, but UI access for LAN connections [x-post from superuser]]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nyc8p6/correct_way_to_route_containers_traffic_through/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nyc8p6/correct_way_to_route_containers_traffic_through/"/>
+        <updated>2021-06-12T17:49:54.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/BusyBeaver_  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best discounts from Xbox’s “Deals Unlocked” E3 2021 sale]]></title>
+        <id>https://arstechnica.com/?p=1772462</id>
+        <link href="https://arstechnica.com/?p=1772462"/>
+        <updated>2021-06-12T17:41:32.000Z</updated>
+        <summary type="html"><![CDATA[Dealmaster also has early Prime Day deals, discounts on LG TVs, and more.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Server 2019 Issues HDD in VM]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nyb7uz/windows_server_2019_issues_hdd_in_vm/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nyb7uz/windows_server_2019_issues_hdd_in_vm/"/>
+        <updated>2021-06-12T17:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Good Afternoon Everyone!
+ I for some odd reason have been working on trying to get my HP Proliant DL180 G6 up with Windows Server 2019 with a mutual Raid 50 Drives. Its a 12 bay slot but I'm only using 7 currently. I have succesfully update and installed Windows Server 2019. I am having 2 issues. I have successfully installed Raid 50 and the install drive is a 500gb Drive seperate from the Raid 50.
+ The first issue is setting up the Raid 50 for the VM and sharing it as an internal Drive. I dont care if its not C:\ but i need it to have a drive letter. I got the Raid 50 to show up once as Drive D:\ but it went away after a couple of minutes. Now it wont allow me to connect the Windows Server 2019 to Windows 10 VM through the ISCSI Initator. Ive tried to initialize the ISCSI device that was created in Server Management ----> Files and Storage Server -------> ISCSI
+ But it always says cannot connected PC on both Windows Server 2019 and the Windows 10 Hyper-V VM.
+ ​
+ Ive also tried a share drive and an ISCSI and a server pool both fixed and dynamic. Ive tried rebootingt he VM and the HP Proliant DL180 G6
+ I've copied the IQN, IP Adress from the Host Server 2019 Computer to Windows 10 VM and vice versa in ISCSI Initiator and i always get cannot connect to PC on both. Ive also tried to find a target and it wont allow me to add it. I have no idea what to do now. The storage pool is empty and i would prefer a fixed volume for faster transfer rates. I cant find the answer anywhere. Thank you ahead of time for all comments.
+ ​
+ ​
+ 2ND Issue:
+ I Have a Nvidia Server graphics card. It doesn need a 6pin i have already installed the 16x rise. But Windows cant recognize the card can anyone help!
+    submitted by    /u/DevilsDesigns  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expose Raspberry Pi to the Internet without opening ports]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ny8t48/expose_raspberry_pi_to_the_internet_without/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ny8t48/expose_raspberry_pi_to_the_internet_without/"/>
+        <updated>2021-06-12T15:07:21.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ Backstory:
+ I used to use a Hetzner CX11 VPS for my Selfhosted apps. However, I wanted more storage and control. So, I brought myself a Raspberry Pi 4gb planning to use Cloudflare Tunnel to access my Raspberry Pi without opening ports on the house Router. However, I encountered problems with Cloudflare Tunnel, see below. 
+ The main services that I host are:
+ · Nextcloud
+ · PiGallery2
+ · Vaultwarden / BitwardenRs
+ · Heimdall Dashboard
+ I do have admin access to the house Router however I am going off to University in September and plan on taking my Raspberry Pi with me where I will not be able to open ports on the router. 
+ Services I have tried:
+ Cloudflare / Argo Tunnel – Was incredibly slow with any complex App. Tried adjusting cache control didn’t really fix it. It appears to st…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best solution for home CCTV]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ny81q3/best_solution_for_home_cctv/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ny81q3/best_solution_for_home_cctv/"/>
+        <updated>2021-06-12T14:31:39.000Z</updated>
+        <summary type="html"><![CDATA[Hey everybody I am planning to install CCTV in my home so what do you all suggest will be best for a self hosted solution. What things I want- • Human Tracking so that the camera can rotate and track a human in it’s fov • All recording be saved to local storage pool • Motion detected recording • Smart alerts that can come on my phone and desktop (my TV would be nice too)
+    submitted by    /u/amolakjoshi  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any best practices for self hosting databases?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ny7n5o/any_best_practices_for_self_hosting_databases/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ny7n5o/any_best_practices_for_self_hosting_databases/"/>
+        <updated>2021-06-12T14:11:42.000Z</updated>
+        <summary type="html"><![CDATA[I see managed services costly for small projects but they have thier advantages regarding stability.
+ Any measures we can take for making sure we get nearly same stability as managed databases?
+ For ex: What reliable affordable hosting services exist to host the databases? What databases are light weight and recover even after a crash quickly?
+    submitted by    /u/AdministrativeAd5517  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows file sync to LAN server.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ny6ll0/windows_file_sync_to_lan_server/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ny6ll0/windows_file_sync_to_lan_server/"/>
+        <updated>2021-06-12T13:20:30.000Z</updated>
+        <summary type="html"><![CDATA[Guru's
+ As my Synology just passed away, I am in need of a file sync utility that I can install on my wife and son's windows installs to sync a directory back to the fileserver on the LAN.
+ Because of this reason....
+  
+it needs to be free and open source
+ 
+It needs to silently sync without user intervention
+ 
+It needs to sync when files are added not at a predetermined schedule
+ 
+ I used to use Synology Drive and it worked well.
+ What do you gents use?
+ I've heard some bad things about duplicati so would probably want to stay clear of it.
+ Also, I'd like to not have to install a utility on my server for the sync to be possible, e.g. syncthing
+ (I'm using rclone on an Ubuntu container to keep Google drive in sync with a few local directories, very happy)
+    submitted by    /u/ithakaa  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For a personal in-home cloud, what's best: Nextcloud, Owncloud or Syncthing]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ny6c1n/for_a_personal_inhome_cloud_whats_best_nextcloud/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ny6c1n/for_a_personal_inhome_cloud_whats_best_nextcloud/"/>
+        <updated>2021-06-12T13:06:57.000Z</updated>
+        <summary type="html"><![CDATA[I forgot the "?" smh.
+ I am planning to use an old laptop of mine which is gathering dust in a shelf to use it as a small server for my data. 
+ Having a hard time on which tool should I use to make my own small in-home cloud and host it in that machine: whether it id Nextcloud/Owncloud or Syncthing.
+ What I want is to be able to access my files from all my devices and, of course, having remote access to them (when I'm not at home). 
+ Thanks in advance.
+    submitted by    /u/mlv96  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here are a bunch of iOS 15 features that Apple didn’t mention earlier]]></title>
+        <id>https://arstechnica.com/?p=1772514</id>
+        <link href="https://arstechnica.com/?p=1772514"/>
+        <updated>2021-06-12T12:40:59.000Z</updated>
+        <summary type="html"><![CDATA[As usual, some of the most intriguing changes weren't necessarily the biggest.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to protect species and save the planet—at the same time]]></title>
+        <id>https://arstechnica.com/?p=1772553</id>
+        <link href="https://arstechnica.com/?p=1772553"/>
+        <updated>2021-06-12T11:45:44.000Z</updated>
+        <summary type="html"><![CDATA[A major new report suggests tackling biodiversity, climate crises simultaneously.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lowdefy adds Docker, AWS Lambda and Netlify hosting options - An open-source, self-hosted low-code framework to build web apps, admin panels, BI dashboards with YAML or JSON.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ny4s0r/lowdefy_adds_docker_aws_lambda_and_netlify/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ny4s0r/lowdefy_adds_docker_aws_lambda_and_netlify/"/>
+        <updated>2021-06-12T11:34:54.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/gervwyk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What services did you have hosted?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ny4r53/what_services_did_you_have_hosted/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ny4r53/what_services_did_you_have_hosted/"/>
+        <updated>2021-06-12T11:33:20.000Z</updated>
+        <summary type="html"><![CDATA[That you make use of daily? Me, Vaultwarden and Nextcloud
+    submitted by    /u/mishab_mizzunet  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benchmark bandwidth: Direct / SSH / ZeroTier / ZeroTier self-hosted / Tailscale]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ny4b6i/benchmark_bandwidth_direct_ssh_zerotier_zerotier/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ny4b6i/benchmark_bandwidth_direct_ssh_zerotier_zerotier/"/>
+        <updated>2021-06-12T11:05:52.000Z</updated>
+        <summary type="html"><![CDATA[Context
+ First post on Reddit, not sure to make it the right way.
+ I am not a member of any of the companies cited in this post, I am simply publishing the results of a quick test that I carried out on a personal basis.
+ It is a bandwidth comparison between a direct Internet connection, an SSH tunnel, ZeroTier, self-hosted ZeroTier and TailScale between my personal laptop and a remote server.
+ Test computer
+ Laptop:
+  
+Ubuntu 21.04
+ Ethernet conneciton: 1 Gbps
+  
+Speedtest measure:
+  
+Ping: 9 ms
+ Download: 904 Mbps
+ Upload: 157 Mbps
+  
+Test server
+ AWS instance :
+  
+t3.large instance
+ Ubuntu 20.04
+ Network burst bandwidth according to AWS: 5 Gbps
+  
+Speedtest measure:
+  
+Ping: 1.22 ms
+ Download: 4751 Mbps
+ Upload: 4772 Mbps
+  
+Measuring tool
+ Basic usage of iPerf3, other tests should be do…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Datahoarding The beginning!]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ny1mcb/datahoarding_the_beginning/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ny1mcb/datahoarding_the_beginning/"/>
+        <updated>2021-06-12T07:59:30.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/zierbeek  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Borg Backup - Need a little assistance on best way to backup a remote server]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxyj0f/borg_backup_need_a_little_assistance_on_best_way/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxyj0f/borg_backup_need_a_little_assistance_on_best_way/"/>
+        <updated>2021-06-12T04:30:26.000Z</updated>
+        <summary type="html"><![CDATA[I have a dedicated home machine running unRaid and using borg to backup to an external hard drive as well as to 2 remote providers, 1 is just unRaid, other is unRaid and important stuff.
+ I have a VPS that I use to host websites and other various services. It has backups provided by the hosting provider, as well as backup via borg to a remote service.
+ What I want to do is also store a backup from the VPS to my home server, preferably via borg. I would prefer my home server to make the connection to my VPS, via ssh, and then do the backup of what I need.
+ Anyone have a suggestion on best way to do this?
+ Could I do a borg backup on my VPS, then rsync the borg save location to my home server?
+ I am sure there is a better way to do it, just not seeing it.
+    submitted by    /u/0mnica  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need a good media server/rtmp web player/whatever.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxxvb7/need_a_good_media_serverrtmp_web_playerwhatever/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxxvb7/need_a_good_media_serverrtmp_web_playerwhatever/"/>
+        <updated>2021-06-12T03:51:08.000Z</updated>
+        <summary type="html"><![CDATA[Preferably something easy to setup that works on windows. I have a 6700k dedicated server that I use for other things that has 1000 up/down. I'd like to stream to it at around 25k~ bitrate from my own computer using a program like OBS. Preferably at 144fps+. I've tried using plex/jellyfin as a media server instead and using syncplay, but those were both terrible experiences.
+ Any help here?
+    submitted by    /u/IkkixD  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need software for offloading bookmarks from browser]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nxwo42/need_software_for_offloading_bookmarks_from/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nxwo42/need_software_for_offloading_bookmarks_from/"/>
+        <updated>2021-06-12T02:42:20.000Z</updated>
+        <summary type="html"><![CDATA[I've accumulated hundreds of bookmarks over the years and I really need to sort them out.
+ I'd like to only keep the ones I use regularly on the browser and keep the rest in some kind of offline bookmarks organizer.
+ Does anyone know if any projects which could do the job? Thanks!
+    submitted by    /u/Fit_Back_1948  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best sotirngae solution for self hosted on heardware?!]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/nxsrna/best_sotirngae_solution_for_self_hosted_on/</id>
@@ -8366,16 +8720,6 @@ Chore: rendering logic refactoring. Adopting functional paradigm.
 Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
-        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
-        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
-        <updated>2021-05-14T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Átila Fassina)</name>
         </author>
     </entry>
 </feed>
