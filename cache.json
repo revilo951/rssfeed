@@ -6,6 +6,177 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nz9tlt/self_hosted_pto_tracking/",
+          "author": null,
+          "description": "Looking for something to manage a medium sized team to track their sick and vacation requests. I've tried TimeOffManagement and in the process of Gadael. Anyone had experience with any others?\n    submitted by    /u/CDarwin7  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nz9tlt/self_hosted_pto_tracking/",
+          "publishedOn": "2021-06-14T00:11:10.000Z",
+          "wordCount": 135,
+          "title": "Self Hosted PTO Tracking"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nz7f90/different_dns_records_and_dyndns_ips/",
+          "author": null,
+          "description": "Hi, I need help to configure my DNS on my domain.\n The situation:I have a domain and I created a DDNS entry, I used ddclient and everything is works fine now with the IP update and everything. However, I host 2 servers on my machine, until recently I had 2 different DDNS to the same IP and then an SRV Record that pointed to them for the servers to work.\n I want however to use only one DDNS IP and somehow use SRV records to point all my servers to that one. I however have little experience with all of that so I don't really understand how I am supposed to continue.\n Simply put, I have currently:\n cs.domain.com which points to my ipmc.domain.com which points to my IP again, andip.domain.com which again points to the same IP.\n my ddclient updates ip.domain.com regularly, but not the other two.\n my SRV records point one to the cs (cs._udp.domain.com) and one to the mc DDNS entries (mc._tcp.domain.com). I can easily fix the issue by just updating all 3 DDNS Entries, but I feel like there should be an easier solution.\n For further questions feel free to ask me, and thanks in advance.\n    submitted by    /u/stefan5641  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nz7f90/different_dns_records_and_dyndns_ips/",
+          "publishedOn": "2021-06-13T22:13:05.000Z",
+          "wordCount": 318,
+          "title": "Different DNS Records and DynDNS IPs"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nz6gpm/recommendation_for_modern_book_keeping_solution/",
+          "author": null,
+          "description": "I am trying to find a good modern book keeping / accounting solution for a UK based software startup.\n Basically, until now most of my accounting was running in spreadsheets, but I am seeking more automation, but ideally also want to be able to plug into HMRC (my company is all remote, but since you need to put a pin on a map somewhere, for us that is London). It should fulfil all requirements and I want to be able to have control over the data, but it should also be sitting on a modern platform, so I won't have to move everything again soon.Whilst access to compute resources won't be an issue (we're a software company), ease of use is: Right now we don't have any admin staff (yet). Where do I best start? Would invoice ninja be suitable or am I running into the wrong direction looking at that?\n I appreciate pointers that might help me or questions I should be asking.\n    submitted by    /u/jnfinity  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nz6gpm/recommendation_for_modern_book_keeping_solution/",
+          "publishedOn": "2021-06-13T21:27:59.000Z",
+          "wordCount": 387,
+          "title": "Recommendation for modern book keeping solution?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nz1uh8/selfhosted_hardware_setup_suggestions/",
+          "author": null,
+          "description": "I want to setup a new homelab, but I want to refrain from spending where I dont have to and keeping noise low since I have a rack in my studio. I also currently have a RPI 3b+ and 2b+ that arent doing anything if I could use those.\n  \nSoftware plans:\n  \nBackups/file sharing (NFS?)\n Calendar/Contacts (Nextcloud?)\n Mail server (Dovecot?)\n Photo gallery (Photoprism?)\n VPN (Wireguard)\n Tor router\n XMPP server (ejabberd or snikket?)\n Notes/Knowledge manager (Currently use obsidian locally)\n  \n Im also looking on craigslist and there are some servers for ~$100 but im worried about noise:\n  \nDell PowerEdge 1950 III\n Dell PowerEdge R210 1U\n HP Proliant DL380 Gen4\n SuperServer 6013E-i\n SuperMicro X Series\n Dell PowerEdge 2650\n  \n   submitted by    /u/Last-Palpatinian  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nz1uh8/selfhosted_hardware_setup_suggestions/",
+          "publishedOn": "2021-06-13T17:51:04.000Z",
+          "wordCount": 907,
+          "title": "Self-hosted hardware setup suggestions?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nz1lqq/self_hosted_network_performance_estimation_tool/",
+          "author": null,
+          "description": "submitted by    /u/openspeedtest  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nz1lqq/self_hosted_network_performance_estimation_tool/",
+          "publishedOn": "2021-06-13T17:39:35.000Z",
+          "wordCount": 165,
+          "title": "Self Hosted Network Performance Estimation Tool."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nz1gjk/how_i_got_multiple_imap_mail_accounts_on/",
+          "author": null,
+          "description": "​\n I can get this using this plugin:\n https://github.com/texxasrulez/additional_imap\n And did some ajusts:\n ​\n  \nDelete all custom config from gmail and gmx(or other if you use it) of /plugins/additional_imap/config.inc.php\n \nEnabled \"Show real names for special folders\" in Settings->preferences->Special Folders\n \nAdd rc3k_ prefix to plugin tables on DB.\n \n ​\n To be a perfect solution, only miss one little thing:\n ​\n ALL INBOXES Option\n ​\n There is no multi-accs-webmail-imap-reader with a nice interface available for free/selfhosted, this roundcube+additional_imap its the closest solution that i can found.\n Im a happy user of SparkMail, but they dont have a web/win version.\n Nextcloud Mail app do the job, but is too slow and buggy...\n ​\n If you know a better solution, please send it here! Thanks\n    submitted by    /u/vzmr  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nz1gjk/how_i_got_multiple_imap_mail_accounts_on/",
+          "publishedOn": "2021-06-13T17:32:52.000Z",
+          "wordCount": 248,
+          "title": "How I got multiple imap mail Accounts on Roundcube 1.4.11"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nz1blm/tutorial_for_reverse_proxy_setup_local_servers/",
+          "author": null,
+          "description": "Hi All,\n After many many years of ignoring reverse proxy, I sat down today to finally set one up. I have spent the morning looking over many videos and different ways of doing it, but it seems that most of them want you to have your sites remotely accessible. In my case, I want a simple method of accessing all my services without remembering what ports and addressing they would be on. I know that MDNS does a lot of it. But it's no good for nested services with ports. I've started to dive into the SWAG documentation. I'm not sure if ngix manager or swag would be a better fit. My google-fu has failed me, or maybe I'm being impatient to find the right tutorial. \n I'm looking to pull off, something as easy as:\n homeassistant.local\n sab.local\n smokeping.localdomain. \n octoprint\n unfi.localdomain\n omv.localdomain \n portianer.local\n ​\n then I want to configure some sort of easy home page like homer that my wife and I can easily find. Can anyone point me to a video or blog that would be able to guide me through?\n    submitted by    /u/prosonik  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nz1blm/tutorial_for_reverse_proxy_setup_local_servers/",
+          "publishedOn": "2021-06-13T17:26:38.000Z",
+          "wordCount": 964,
+          "title": "Tutorial For Reverse Proxy setup local servers only (no remote)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nz0hfe/status_page_alternative/",
+          "author": null,
+          "description": "I need to create a self-hosted alternative to the status page like this: https://app.upzilla.co/statistics/6151\n I have scripts from GitHub, but those scripts don't have a subscribe function, log, and timing for the last 24 hours. \n Maybe anybody has some ideas on how to create something like this for my few blogs for a reasonable price or with some free stuff? Thank you!\n    submitted by    /u/mikedoran1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nz0hfe/status_page_alternative/",
+          "publishedOn": "2021-06-13T16:47:34.000Z",
+          "wordCount": 182,
+          "title": "Status page alternative"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nz08mu/weaviate_is_an_opensource_neural_search_engine/",
+          "author": null,
+          "description": "submitted by    /u/hootenanny1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nz08mu/weaviate_is_an_opensource_neural_search_engine/",
+          "publishedOn": "2021-06-13T16:36:31.000Z",
+          "wordCount": 797,
+          "title": "Weaviate is an open-source neural search engine. Supports text, images and other media types out of the box. Written in Go and aimed at large scale cases with very low latencies."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nz0144/i_using_bulletproof_hosting_illegel/",
+          "author": null,
+          "description": "I'd really like to host some of my services at a bulletproof hoster simply because I want really good privacy. I do not want to host anything illegal, but is using such a hosting provider legal?\n    submitted by    /u/mediocreAsuka  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nz0144/i_using_bulletproof_hosting_illegel/",
+          "publishedOn": "2021-06-13T16:26:37.000Z",
+          "wordCount": 308,
+          "title": "I using Bulletproof hosting illegel?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nyym5f/wiretrustee_a_selfhosted_wireguard_management_tool/",
+          "author": null,
+          "description": "Hey folks,\n Following up on a previous post. Thanks for the kind and constructive feedback! We have considered the most requested features and crafted a Public Roadmap. \n Check it out here https://github.com/wiretrustee/wiretrustee/projects/2 and please let us know what you think.\n We are behind in features comparing to Tailscale or Zerotier, but I believe we are on the right path to cover most of them. Our main goal is a fully open-source system so that it can be r/selfhosted without any hidden parts.\n Shortly on main points from the roadmap:\n - Peer management with a UI dashboard so that you don't need to add peers manually\n - Automatic network changes provisioning so that every peer in the system has the latest state (and newly added peers)\n - Windows support\n - ACLs\n - Mobile clients\n We are a team of two and are looking for some help :). Feel free to reach out if you are willing to contribute.\n Cheers,\n    submitted by    /u/wiretrustee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nyym5f/wiretrustee_a_selfhosted_wireguard_management_tool/",
+          "publishedOn": "2021-06-13T15:22:21.000Z",
+          "wordCount": 420,
+          "title": "Wiretrustee - a self-hosted Wireguard management tool"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nyyilc/looking_for_a_hypervisor/",
+          "author": null,
+          "description": "What I have:\n  \na server w/ 4c CPU and 32GB RAM\n 2TB ZFS Pool (originally made by FreeNAS & Full of Data)\n  \nWhat I want:\n  \npreferably FOSS\n Web Interface\n Creation/editing/deletion of VMs\n Management for Docker (haven't dabbled in docker yet, but definitely want to)\n Ability to adopt existing ZFS-Pool\n Ability to mount directories on said ZFS pool to VM's directly (e.g. mount \"/mnt/ZFS/music\" on the host to \"/music\" on the VM without a network connecting host and VM)\n Ability to assign different VMs to different VLANs (on the host network)\n SMB File sharing\n maybe some load-balancing in the future (not required)\n  \nWhat I want this for:\n  \nlocal network file server (smb)\n reverse proxy (nginx)\n website host (nginx)\n mediaserver (don't know yet)\n VPN-Server (openvpn)\n Matrix Homeserver (don't know yet)\n  \nDoes anyone know an OS that would check these boxes?\n I am asking because my FreeNAS boot stick died, and now that I have to redo it anyway, I'm wondering whether there is a better way to do this. (I am going to use a 128GB SSD for the next install to not repeat this error.)\n I have tried Proxmox as well, and it does a lot of these things right, but I cannot find a (GUI) way to do the mounting I described above, also doing all the ZFS and SMB configuration in the terminal only sounds like a recipe for a security disaster if I am the person configuring it, even though it works.\n    submitted by    /u/Noel_Sa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nyyilc/looking_for_a_hypervisor/",
+          "publishedOn": "2021-06-13T15:17:45.000Z",
+          "wordCount": 979,
+          "title": "Looking for a hypervisor"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nyx68q/looking_for_a_service_that_can_let_me_search/",
+          "author": null,
+          "description": "Hey,\n I have an album from a party and I want letting the people who where there the option to upload a selfie and and then it will show them all of the pictures they appears in instead of search themselves in all of the pictures in the album.\n ​\n Do you know a service \\ system that I can do that with it?\n    submitted by    /u/asaf1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nyx68q/looking_for_a_service_that_can_let_me_search/",
+          "publishedOn": "2021-06-13T14:12:00.000Z",
+          "wordCount": 251,
+          "title": "Looking for a service that can let me search photos in album by face"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nyvwbl/recommendations_for_a_basic_monitoring_and/",
+          "author": null,
+          "description": "The other day I was wondering why my raspberry pi was slow, and I found out that one process had been using 100% of the CPU for a few hours, for no reason.\n I'm already using netdata to monitor the system, but I'd like to find some software that could detect this sort of anomalies and alert me (ideally via Telegram since I already use that for other notifications). I don't need anything too fancy, I'd like to keep it simple.\n Any ideas ?\n    submitted by    /u/TheGreatestCapybara  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nyvwbl/recommendations_for_a_basic_monitoring_and/",
+          "publishedOn": "2021-06-13T13:04:34.000Z",
+          "wordCount": 511,
+          "title": "Recommendations for a basic monitoring and alerting tool ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nyuzr1/photo_gallery_with_map_and_route_tracks/",
+          "author": null,
+          "description": "I've recently gone on a trip with friends, and we want to share photos, KMZ tracks and maps. What recommendations do you have for this kind of thing? I've got NextCloud, an NFS for photos and a few other Dockerized services running already, but happy to use something specific for this. Is there suitable wiki or CMS software for this kind of thing?\n    submitted by    /u/richardneish  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nyuzr1/photo_gallery_with_map_and_route_tracks/",
+          "publishedOn": "2021-06-13T12:12:45.000Z",
+          "wordCount": 231,
+          "title": "Photo gallery with map and route tracks"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nytws0/would_you_guys_be_interested_in_a_kind_of_local/",
+          "author": null,
+          "description": "I've got a RPi with a few dev services running (Gogs, DroneCI, Nextcloud,...) and I thought, this might be a pretty common setup, but I could not find any pre-existing Docker-Compose/Helm/Ansible/whatever scripts.\n Would any of you be interested in such a thing? Nothing super fancy, just a simple configurable template. And if yes, what would you prefer? Helm? Compose? Bare metal? What services are important to you?\n Oh, and if this already exists, please let me know, I don't want to duplicate work.\n    submitted by    /u/CartmansEvilTwin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nytws0/would_you_guys_be_interested_in_a_kind_of_local/",
+          "publishedOn": "2021-06-13T10:59:25.000Z",
+          "wordCount": 504,
+          "title": "Would you guys be interested in a kind of local development/CI template?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nyt6q4/rookie_server_setup/",
+          "author": null,
+          "description": "So I am a developer who has a vps for some basic stuff, but I guess this is not that important for this question. Scrolling through this sub I see some awesome things that would make life a lot easier, however I can't find a lot about the setup people use (config wise, not hardware). This sub has some awesome posts like what people use, what they've learned, how they failed, etc, but I'm more curious to how you've setup your server and what you like / dislike about the setup.\n For example, I'm planning to start self hosting and redo my vps setup in the following way:\n Ubuntu with docker, openssh, ufw and fail2ban, as I'm already familiar with this and it keeps it easy to what I've installed directly on Ubuntu itself. Then use Portainer with nginx reverse proxy to setup all the various services like NextCloud, wiki, etc. Probably setup 2 database instances (prod/dev) in case something breaks and so I can start fixing it without hurting production. Lastly, add something to back up the docker containers and config to an external party, just don't know which one yet. \n What I like so far: - Little directly installed on Ubuntu itself so updates are easy and I can quickly see if the problem is with docker, the service or Ubuntu - Server wise it's a bit easier to make it secure with only a few things running on Ubuntu itself - Docker itself, just nice to have everything running in containers\n What I don't like / not sure of: - Pure my config, but current setup has 1 DB for all services - I've heard that securing and updating docker containers are an absolute nightmare (I'm pretty new to docker so not sure) - Everything is running on docker, so if docker fails all fails - For all new services I'll use I have to export and import the config in the dev database (or the other way around)\n So how did you guys set up your server and what do you like and dislike about it? Maybe share your experiences so far with different setups so new (rookie) members can learn :)\n    submitted by    /u/dwarf-666  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nyt6q4/rookie_server_setup/",
+          "publishedOn": "2021-06-13T10:05:28.000Z",
+          "wordCount": 527,
+          "title": "[rookie] server setup"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nyrutd/isolated_subnets_in_proxmox/",
+          "author": null,
+          "description": "I run my homelab on a Proxmox machine. I have several LXC containers and a couple virtual machines, each running a single service. So far, everything is attached to the same bridge vmbr0, which is attached to the physical network card. Since I am getting a new drive, I wanted to reinstall my homelab and restructure its network, putting each service (or group of services) in its own network, so that they are properly isolated from each other and communication between them can be regulated by the firewall.\n The standard approach seems to be to make a series of bridges vmbrX, one for each network, and to create a virtual machine running pfSense or OPNSense managing such bridges, handling all the routing between them and vmbr0. I was wondering, however, if there is a way to do this without the additional virtual machine. Could Proxmox itself handle the routing in place of OPNSense? There are firewall settings, and there are multiple network settings (vlan, bridges, bonds), but I am not too familiar with the topic.\n Is there any good example of this setup, or do you have any advice?\n Notes:\n  \n I do not want to use NAT. Ideally, I want my local network to be something like 172.16.0.0 and each service to be on something like 172.16.X.0, where the entire subnet can be reached from my local network (barring firewall, of course).\n  \n   submitted by    /u/class_two_perversion  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nyrutd/isolated_subnets_in_proxmox/",
+          "publishedOn": "2021-06-13T08:24:22.000Z",
+          "wordCount": 785,
+          "title": "Isolated subnets in Proxmox"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nyqp33/any_alternative_for_miro_whiteboard_if_possible/",
+          "author": null,
+          "description": "submitted by    /u/Zash_Redd  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nyqp33/any_alternative_for_miro_whiteboard_if_possible/",
+          "publishedOn": "2021-06-13T06:53:19.000Z",
+          "wordCount": 384,
+          "title": "Any alternative for miro whiteboard? If possible self hosting option should be available."
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/nykkuw/my_deemix_install_which_instantly_adds_new_songs/",
           "author": null,
           "description": "submitted by    /u/throwaway27727394927  \n [link]   [comments]",
@@ -4558,6 +4729,42 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1771845",
+          "author": "Jennifer Ouellette",
+          "description": "Paramount released a 4K Blu-Ray collection of first four films to mark the occasion.",
+          "link": "https://arstechnica.com/?p=1771845",
+          "publishedOn": "2021-06-13T20:56:30.000Z",
+          "wordCount": 2831,
+          "title": "Raiders of the Lost Ark turns 40 and it’s still an unqualified masterpiece"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772995",
+          "author": "Kyle Orland",
+          "description": "Halo! Forza! Psychonauts!  Age of Empires!  And dozens of other games, too!",
+          "link": "https://arstechnica.com/?p=1772995",
+          "publishedOn": "2021-06-13T19:47:51.000Z",
+          "wordCount": 1721,
+          "title": "Every trailer and announcement from Microsoft and Bethesda’s E3 showcase"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772971",
+          "author": "Financial Times",
+          "description": "Unnamed passenger will pay more than $9 million per minute of zero gravity.",
+          "link": "https://arstechnica.com/?p=1772971",
+          "publishedOn": "2021-06-13T18:41:53.000Z",
+          "wordCount": 819,
+          "title": "Ticket for space flight with Jeff Bezos is auctioned for $28 million"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772824",
+          "author": "Sam Machkovech",
+          "description": "Brief, gorgeous trailer: \"You're part of Constellation now. Part of our family.\"",
+          "link": "https://arstechnica.com/?p=1772824",
+          "publishedOn": "2021-06-13T16:54:08.000Z",
+          "wordCount": 1190,
+          "title": "Starfield reveal: Coming November 11, 2022, exclusively to PC, Xbox Series X/S [UPDATED]"
+        },
         {
           "id": "https://arstechnica.com/?p=1772743",
           "author": "Sam Machkovech",
