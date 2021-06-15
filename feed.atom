@@ -2,10 +2,534 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-14T00:41:19.586Z</updated>
+    <updated>2021-06-15T00:43:52.377Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Added Azuracast to my Homer Dashboard]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o0154v/added_azuracast_to_my_homer_dashboard/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o0154v/added_azuracast_to_my_homer_dashboard/"/>
+        <updated>2021-06-15T00:25:14.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/nashosted  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design]]></title>
+        <id>60873d1fdd38b9088c2c0842</id>
+        <link href="https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/"/>
+        <updated>2021-06-14T22:46:31.000Z</updated>
+        <summary type="html"><![CDATA[System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom Pagination Component in React]]></title>
+        <id>60bce373acb62507dd1d9f19</id>
+        <link href="https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/"/>
+        <updated>2021-06-14T22:39:00.000Z</updated>
+        <summary type="html"><![CDATA[We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need help with a home server build]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzyf45/need_help_with_a_home_server_build/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzyf45/need_help_with_a_home_server_build/"/>
+        <updated>2021-06-14T22:08:39.000Z</updated>
+        <summary type="html"><![CDATA[Hi All,
+ I am planning to build a home server mainly for my development activities (mostly backend server-side) and also in parallel want to explore the media server setups. I am very comfortable setting up machines from the scratch and learning new stuff. I am trying to put together a workstation/server machine that can help me with this hobby . I plan to run plenty of docker containers in this machine (30+) and the following is a small list of containers in my mind
+ ​
+  
+Frontends: Traefik, Portainer, Organizr, Heimdall
+ Smart Home: HA-Dockermon, Mosquitto MQTT Broker, ZoneMinder, MiFlora Plant Sensors
+ Databases: MariaDB, phpMyAdmin, InfluxDB, Postgres, Grafana
+ Downloaders: downloader, Transmission Bittorrent with VPN, SABnzbd, qBittorrent with VPN
+ Indexers: NZBHydra2, Jackett
+ PVRs: …]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making Tables With Sticky Header and Footers Got a Bit Easier]]></title>
+        <id>https://css-tricks.com/?p=342294</id>
+        <link href="https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/"/>
+        <updated>2021-06-14T22:04:41.000Z</updated>
+        <summary type="html"><![CDATA[It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …
+The post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Todd Howard is finally ready to share some Starfield details]]></title>
+        <id>https://arstechnica.com/?p=1773383</id>
+        <link href="https://arstechnica.com/?p=1773383"/>
+        <updated>2021-06-14T21:39:43.000Z</updated>
+        <summary type="html"><![CDATA["300-ish" years from now, the "last space explorers" also explore profound questions.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s unified Gmail interface (and Google Chat) launches for everyone]]></title>
+        <id>https://arstechnica.com/?p=1773151</id>
+        <link href="https://arstechnica.com/?p=1773151"/>
+        <updated>2021-06-14T21:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Gmail's new do-it-all interface is thankfully optional.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-hosted webmail to combine different E-Mails and Calendars in one place?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzxep7/selfhosted_webmail_to_combine_different_emails/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzxep7/selfhosted_webmail_to_combine_different_emails/"/>
+        <updated>2021-06-14T21:22:48.000Z</updated>
+        <summary type="html"><![CDATA[I have like 5 different E-Mail accounts, which I currently have bundled in GMail. Because of privacy reasons I would like to integrate them in a webmail thingy where I can just access and search everything in one place.
+ Requirements: - supports several third-party emails - strong full-text search - clean but functional UI - also get the calendar and contacts data if possible
+ What do you recommend?
+    submitted by    /u/bitcoin_sucks  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K8S Snapshot Help]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzwfoy/k8s_snapshot_help/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzwfoy/k8s_snapshot_help/"/>
+        <updated>2021-06-14T20:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Hi all, trying to remove some orphaned snapshots from a namespace I want to delete, but there are a lot and I can't figure out how to get this to work without removing the finalizers from each one individually. Anyone able to help me correct the bellow command?
+ ​
+ kubectl get volumesnapshots -n htpc | kubectl patch -n htpc -p '{"metadata":{"finalizers":null}}' --type=merge 
+ Thanks in advance!
+    submitted by    /u/thelinedpaper  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halo Infinite multiplayer news: Bots, split-screen, free-to-play clarified]]></title>
+        <id>https://arstechnica.com/?p=1773257</id>
+        <link href="https://arstechnica.com/?p=1773257"/>
+        <updated>2021-06-14T20:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Hints of new announcer system, new firepower, and multiplayer-specific tweaks.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I went a bit overboard customising Heimdall]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzw76z/i_went_a_bit_overboard_customising_heimdall/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzw76z/i_went_a_bit_overboard_customising_heimdall/"/>
+        <updated>2021-06-14T20:29:43.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/spoonopher  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recipe manager that can import makegoodfood recipes]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzw701/recipe_manager_that_can_import_makegoodfood/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzw701/recipe_manager_that_can_import_makegoodfood/"/>
+        <updated>2021-06-14T20:29:31.000Z</updated>
+        <summary type="html"><![CDATA[Anyone? :)
+    submitted by    /u/mediacenterfreak  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Roving tabindex Attribute Explained with Examples]]></title>
+        <id>60c3b862d3126007592d689b</id>
+        <link href="https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/"/>
+        <updated>2021-06-14T20:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Apple Watch Series 7 will have a new design, report says]]></title>
+        <id>https://arstechnica.com/?p=1773206</id>
+        <link href="https://arstechnica.com/?p=1773206"/>
+        <updated>2021-06-14T19:54:33.000Z</updated>
+        <summary type="html"><![CDATA[Some big features, like a blood sugar sensor, are at least a year away, though.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selfhosted alternative to gather.town]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzurra/selfhosted_alternative_to_gathertown/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzurra/selfhosted_alternative_to_gathertown/"/>
+        <updated>2021-06-14T19:27:21.000Z</updated>
+        <summary type="html"><![CDATA[Hello self-hosted community! I was wondering if I could find any good self hosted solutions to gather.town Any suggestions?
+    submitted by    /u/rizwan95  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pai’s legacy lives on for now as Biden fails to nominate Democrat to FCC]]></title>
+        <id>https://arstechnica.com/?p=1773260</id>
+        <link href="https://arstechnica.com/?p=1773260"/>
+        <updated>2021-06-14T19:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Biden's failure to fill empty FCC slot has consumer advocates increasingly worried.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheapest VPS?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzumkc/cheapest_vps/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzumkc/cheapest_vps/"/>
+        <updated>2021-06-14T19:20:55.000Z</updated>
+        <summary type="html"><![CDATA[I need a VPS just to install softether so I can have a VPN, so the VPS will not be resource heavy. 
+ Whats the cheapest VPS service online? So far I found BuyVM @ $2 / mo which gives you 1 IP.
+    submitted by    /u/Firm_Maintenance2009  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Backup Squarespace-Managed Styles using AWS Cloud]]></title>
+        <id>60c794e64dc1a607ed7b25ba</id>
+        <link href="https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/"/>
+        <updated>2021-06-14T19:19:42.000Z</updated>
+        <summary type="html"><![CDATA[A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for a good database software for non profit]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzu2tm/looking_for_a_good_database_software_for_non/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzu2tm/looking_for_a_good_database_software_for_non/"/>
+        <updated>2021-06-14T18:56:53.000Z</updated>
+        <summary type="html"><![CDATA[Hi!
+ So I am looking for a solid software for a non profit organization. This is what I need the software to be able to do:
+  
+Store membership details: name of member, chapter name, chapter location.
+ Able to filter search results by chapter name, or city.
+ Good organization of data, for example each city contains several chapters, each chapter contains several members. So city --> chapters within that city --> members within that chapter.
+ Keep track of membership, no need to be able to process payment, but reminders or indicators preferred for membership fees every 1 year.
+ Clear, simple and effective interface - we work with a lot of visually impaired people, so looking for someone that they would be able to use as well.
+  
+Some additional notes:
+  
+No need for website. This software is only going to be used by the admin team.
+ Since it's a non profit organization, would love for the price to be reasonable. Not quite sure what the budget would be but will be happy with a reasonable price if the piece of software is good.
+ The way I am kind of thinking about it is Microsoft Access, but more straightforward, modern and preferably on the cloud.
+  
+I would be happy to provide any more details or answer any questions. Thank you so much in advance for helping me out!
+    submitted by    /u/Historical-Skill-974  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge slams hospital staff for comparing COVID vaccine mandate to Nazi crimes]]></title>
+        <id>https://arstechnica.com/?p=1773281</id>
+        <link href="https://arstechnica.com/?p=1773281"/>
+        <updated>2021-06-14T18:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Health care workers sued hospital over a vax mandate they say violates Nuremberg Code.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Best African Language Datasets for Data Science Projects]]></title>
+        <id>60c4b35ed3126007592d71bc</id>
+        <link href="https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/"/>
+        <updated>2021-06-14T18:37:44.000Z</updated>
+        <summary type="html"><![CDATA[Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to show networks and not just docker network??]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nztk0u/how_to_show_networks_and_not_just_docker_network/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nztk0u/how_to_show_networks_and_not_just_docker_network/"/>
+        <updated>2021-06-14T18:33:40.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+ ​
+ I am running a bunch of containers on docker on my synology nas and two containers in particular and a few others are for network monitoring tools. In this scenario i am using wireshark and ntopng. When running the containers they are showing 172.17.0.1 as local. On this nas i have one router on lan 1 and another (Vpn) router on lan 2. How can i make it show it says lan 1 and it's devices (192.168.0.1) and lan 2 and it's devices (192.168.1.1) I suspect i will have an issue when i setup grafana and all that stuff. Would this have to be a macvlan? I access all my docker container's via my nas ip which follows lan 1 - 192.168.0.
+ ​
+ Thanks for any help!
+    submitted by    /u/kritikosxamos  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Tricks Chronicle XXXX]]></title>
+        <id>https://css-tricks.com/?p=342229</id>
+        <link href="https://css-tricks.com/css-tricks-chronicle-xxxx/"/>
+        <updated>2021-06-14T18:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. 
+DevJourney Podcast
+#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘
+Chris took us from playing on 
+…
+The post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chip shortages lead to more counterfeit chips and devices]]></title>
+        <id>https://arstechnica.com/?p=1773176</id>
+        <link href="https://arstechnica.com/?p=1773176"/>
+        <updated>2021-06-14T18:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Industry analysts recommend businesses take extra care with the supply chain.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you handle the backing-up of all data when self-hosting?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzss6l/how_do_you_handle_the_backingup_of_all_data_when/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzss6l/how_do_you_handle_the_backingup_of_all_data_when/"/>
+        <updated>2021-06-14T18:00:10.000Z</updated>
+        <summary type="html"><![CDATA[One of the major things that stops me from starting to self-host things like my Google Photos and Cloud is the back-up issue. Third-party do this automatically, with me not having to anything about it ever.
+ How do you handle your back-ups?
+ Are there any backup solutions when self-hosting that you can just set up once and never have to worry about again (as long as nothing breaks, at least)?
+ With the same "safety" as when using a subscription service, so the backups are not just on a separate drive in the same computer but at a completely different location.
+    submitted by    /u/bitcoin_sucks  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We have another highly effective COVID vaccine, based on different tech]]></title>
+        <id>https://arstechnica.com/?p=1773238</id>
+        <link href="https://arstechnica.com/?p=1773238"/>
+        <updated>2021-06-14T17:45:19.000Z</updated>
+        <summary type="html"><![CDATA[While not needed for the US, it should help with the global vaccine push.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the difference between on-premises and IaaS?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzrexw/what_is_the_difference_between_onpremises_and_iaas/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzrexw/what_is_the_difference_between_onpremises_and_iaas/"/>
+        <updated>2021-06-14T16:59:48.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ I'm new to all of this and the definitions of words and concepts are overwhelming. So when I googled "on-premises" sometimes it's required to have your server in your home/organisation but sometimes it's still" on-prem" if you rent a server as long as you're the one in charge over the software and the provider does not give you software and server as a whole.
+ So if renting a server is allowed and running your bought software on it, isn't that IaaS? And if it really is IaaS, it would make no sense to say "on-premises vs. cloud" because IaaS is also a part of Cloud Computing. It seems to me that often cloud and SaaS are used synonymous.
+ In addition, sometimes I read "on-premises software (self-hosting)" as it was the same. But for me, having your own server (rented or bought) is somewhat your "own cloud" at home. And that would contratdict the whole "on-premise vs. cloud" thing. But maybe this is a false understanding of the concept and for the last point, I see why "own cloud at home" is more a metaphor when acknowledging that Cloud Computing is SaaS, PaaS and IaaS and it's somehow weird to offer a service to oneself :-) 
+ Thanks for reading
+    submitted by    /u/skippydi34  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Five new bills aim to break up Big Tech platforms, force them to play nice]]></title>
+        <id>https://arstechnica.com/?p=1773208</id>
+        <link href="https://arstechnica.com/?p=1773208"/>
+        <updated>2021-06-14T16:57:23.000Z</updated>
+        <summary type="html"><![CDATA[Apple, Google, Facebook, and Amazon would struggle to evade new regulations.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SMTP relay to other services]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzpt2r/smtp_relay_to_other_services/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzpt2r/smtp_relay_to_other_services/"/>
+        <updated>2021-06-14T15:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Hello folks, I am looking for simple program that relays all local SMTP mails to other services (think telegram and curl http post). I did some research and seems like all such programs are quite bulky or no longer maintained.
+ Aprise is quite good for hooking multiple services but it doesn't have SMTP relay.
+    submitted by    /u/belibebond  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beats Studio Buds review: Apple earbuds that don’t leave Android in the dark]]></title>
+        <id>https://arstechnica.com/?p=1773072</id>
+        <link href="https://arstechnica.com/?p=1773072"/>
+        <updated>2021-06-14T15:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Beats' latest true wireless earbuds have tiny design, active noise cancelation.]]></summary>
+        <author>
+            <name>Jeff Dunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-on: Echo Show 8 is like a tablet grafted onto a smart speaker]]></title>
+        <id>https://arstechnica.com/?p=1772570</id>
+        <link href="https://arstechnica.com/?p=1772570"/>
+        <updated>2021-06-14T14:54:46.000Z</updated>
+        <summary type="html"><![CDATA["Alexa, test and review the new Echo Show 8." "I'm sorry, I don't know that one."]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metals from space descend on Boulder, Colorado, at dusk and dawn]]></title>
+        <id>https://arstechnica.com/?p=1772509</id>
+        <link href="https://arstechnica.com/?p=1772509"/>
+        <updated>2021-06-14T14:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Sodium and other metals from space make regular—and irregular—landfall on Earth.]]></summary>
+        <author>
+            <name>Doug Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The CEO and CFO of Lordstown Motors both just resigned]]></title>
+        <id>https://arstechnica.com/?p=1773132</id>
+        <link href="https://arstechnica.com/?p=1773132"/>
+        <updated>2021-06-14T14:09:56.000Z</updated>
+        <summary type="html"><![CDATA[The resignations follow a "going concern" warning earlier in June.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Your Website With Subresource Integrity]]></title>
+        <id>https://css-tricks.com/?p=342070</id>
+        <link href="https://css-tricks.com/securing-your-website-with-subresource-integrity/"/>
+        <updated>2021-06-14T13:30:27.000Z</updated>
+        <summary type="html"><![CDATA[When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …
+The post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Khari McMillian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ars Technica Father’s Day 2021 gift guide]]></title>
+        <id>https://arstechnica.com/?p=1772085</id>
+        <link href="https://arstechnica.com/?p=1772085"/>
+        <updated>2021-06-14T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We give a few gifting prompts for the guy who won't say what he actually wants.]]></summary>
+        <author>
+            <name>Jeff Dunn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PCIe SATA III card for Debian/Ubuntu, 32 TB]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzkmgx/pcie_sata_iii_card_for_debianubuntu_32_tb/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzkmgx/pcie_sata_iii_card_for_debianubuntu_32_tb/"/>
+        <updated>2021-06-14T11:25:53.000Z</updated>
+        <summary type="html"><![CDATA[I'm building a home server and bought a wrong SATA card, which supports only 4TB.
+ Any suggestions for a reliable 4-port (internal) PCIe SATA III card that runs on Debian/Ubuntu and supports at least 32TB?
+    submitted by    /u/ataubers  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for a specific Documentation Tool]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzkkpk/looking_for_a_specific_documentation_tool/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzkkpk/looking_for_a_specific_documentation_tool/"/>
+        <updated>2021-06-14T11:22:55.000Z</updated>
+        <summary type="html"><![CDATA[Hey Guys,
+ I hope you can help me:
+ I'm looking for a software to document system events, like outages, and maintenance work that was done etc.
+ It should be possible to document an outage and calculate the system availability.
+ Any suggestions?
+    submitted by    /u/theSlashyy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When CSS Isn’t Enough: JavaScript Requirements For Accessible Components]]></title>
+        <id>https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/</id>
+        <link href="https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/"/>
+        <updated>2021-06-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tunnel all my traffic through a VPS IP (VPN)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzj1a0/tunnel_all_my_traffic_through_a_vps_ip_vpn/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzj1a0/tunnel_all_my_traffic_through_a_vps_ip_vpn/"/>
+        <updated>2021-06-14T09:39:34.000Z</updated>
+        <summary type="html"><![CDATA[I have a windows PC with SoftEther VPN. I also have a VPS. How exactly would I turn the VPS in to a VPN so all the windows traffic is tunneled through it? This would result in my Windows PC having the IP address of the VPS.
+ Note: I currently "rent" a dedicated IP from a third party service and use SoftEther to tunnel all the traffic through it. However I would like to learn to do this myself and have control over everything.
+    submitted by    /u/Firm_Maintenance2009  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anonymous Self Hosting]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzivnl/anonymous_self_hosting/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzivnl/anonymous_self_hosting/"/>
+        <updated>2021-06-14T09:28:04.000Z</updated>
+        <summary type="html"><![CDATA[What tools does one need to self host a website server anonymously on the tor network while simultaneously avoiding attackers taking the site down? (Edit) Since ppl are asking about the type of attackers, look at it like this, government agencies are trying to take a site down or locate the owner in this case how would one best protect themselves. Isn't it a bit of a chicken and egg problem. As sites get taken down the project is forked elsewhere. At core what I'm asking is if rather than creating multiple proxies and making the system difficult to penetrate creating multiple forks of the site all hosted in different locations is the best choice??
+    submitted by    /u/alexthem89  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How do you get a mail server for docker container]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzhfje/how_do_you_get_a_mail_server_for_docker_container/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzhfje/how_do_you_get_a_mail_server_for_docker_container/"/>
+        <updated>2021-06-14T07:40:26.000Z</updated>
+        <summary type="html"><![CDATA[On my Debian Linux Server i am running multiple Docker Compose Container, including Nextcloud and Git. I want to be able to send emails from the containers, for resetting a password for example or git request notifications. How can i make my docker containers able to send mails?
+ Right now the server itself is able to send mails via mail command and postfix server, but if i understand correctly that does not make my containers able to send mails. I would need a mail server in every docker container seperately. I would highly appreciate a solution which i can integrate in my docker-compose setup.
+    submitted by    /u/Warglblarglthefirst  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reach wireguard peers by name instead of IP?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/nzetvh/reach_wireguard_peers_by_name_instead_of_ip/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/nzetvh/reach_wireguard_peers_by_name_instead_of_ip/"/>
+        <updated>2021-06-14T04:44:17.000Z</updated>
+        <summary type="html"><![CDATA[Following my previous post, I managed to get Wireguard going (with the linuxserver.io docker image) connecting (for now) between my PC and my server. So far so good!
+ The problem I have right now is that I'd like to reach the server (or any other peer) by its name instead of using its internal IP address, while keeping internet access in my client computer that's connected to the wireguard server (i.e. I've removed the DNS entry in the client config, otherwise no internet).
+ This is my docker-compose.yml file:
+ version: '3.8' services: wg: restart: always image: linuxserver/wireguard cap_add: - NET_ADMIN - SYS_MODULE environment: - PUID=1000 - PGID=1000 - TZ=America/Chicago - SERVERURL=BLAH - SERVERPORT=BLAH - INTERNAL_SUBNET=10.20.20.0 - PEERDNS=auto - PEERS=peer1,peer2 volumes: - ./wg:/c…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16 games to keep an eye on from Sunday’s E3 2021 trailer showcases]]></title>
+        <id>https://arstechnica.com/?p=1773051</id>
+        <link href="https://arstechnica.com/?p=1773051"/>
+        <updated>2021-06-14T03:19:40.000Z</updated>
+        <summary type="html"><![CDATA[From shooters to puzzles to mail delivery sims, these concepts stood out from the crowd.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Self Hosted PTO Tracking]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/nz9tlt/self_hosted_pto_tracking/</id>
@@ -9082,28 +9606,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <updated>2021-05-17T05:32:19.000Z</updated>
         <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
 Chore: Reorganize to monorepo with npm workspace.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
-        <updated>2021-05-16T02:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.7.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
-        <updated>2021-05-16T01:42:24.000Z</updated>
-        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
-Chore: rendering logic refactoring. Adopting functional paradigm.
-Thank you @tianheg, @onnyyonn]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
         </author>

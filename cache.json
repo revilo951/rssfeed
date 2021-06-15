@@ -6,6 +6,177 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0154v/added_azuracast_to_my_homer_dashboard/",
+          "author": null,
+          "description": "submitted by    /u/nashosted  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0154v/added_azuracast_to_my_homer_dashboard/",
+          "publishedOn": "2021-06-15T00:25:14.000Z",
+          "wordCount": 125,
+          "title": "Added Azuracast to my Homer Dashboard"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzyf45/need_help_with_a_home_server_build/",
+          "author": null,
+          "description": "Hi All,\n I am planning to build a home server mainly for my development activities (mostly backend server-side) and also in parallel want to explore the media server setups. I am very comfortable setting up machines from the scratch and learning new stuff. I am trying to put together a workstation/server machine that can help me with this hobby . I plan to run plenty of docker containers in this machine (30+) and the following is a small list of containers in my mind\n ​\n  \nFrontends: Traefik, Portainer, Organizr, Heimdall\n Smart Home: HA-Dockermon, Mosquitto MQTT Broker, ZoneMinder, MiFlora Plant Sensors\n Databases: MariaDB, phpMyAdmin, InfluxDB, Postgres, Grafana\n Downloaders: downloader, Transmission Bittorrent with VPN, SABnzbd, qBittorrent with VPN\n Indexers: NZBHydra2, Jackett\n PVRs: …",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzyf45/need_help_with_a_home_server_build/",
+          "publishedOn": "2021-06-14T22:08:39.000Z",
+          "wordCount": 415,
+          "title": "Need help with a home server build"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzxep7/selfhosted_webmail_to_combine_different_emails/",
+          "author": null,
+          "description": "I have like 5 different E-Mail accounts, which I currently have bundled in GMail. Because of privacy reasons I would like to integrate them in a webmail thingy where I can just access and search everything in one place.\n Requirements: - supports several third-party emails - strong full-text search - clean but functional UI - also get the calendar and contacts data if possible\n What do you recommend?\n    submitted by    /u/bitcoin_sucks  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzxep7/selfhosted_webmail_to_combine_different_emails/",
+          "publishedOn": "2021-06-14T21:22:48.000Z",
+          "wordCount": 201,
+          "title": "Self-hosted webmail to combine different E-Mails and Calendars in one place?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzwfoy/k8s_snapshot_help/",
+          "author": null,
+          "description": "Hi all, trying to remove some orphaned snapshots from a namespace I want to delete, but there are a lot and I can't figure out how to get this to work without removing the finalizers from each one individually. Anyone able to help me correct the bellow command?\n ​\n kubectl get volumesnapshots -n htpc | kubectl patch -n htpc -p '{\"metadata\":{\"finalizers\":null}}' --type=merge \n Thanks in advance!\n    submitted by    /u/thelinedpaper  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzwfoy/k8s_snapshot_help/",
+          "publishedOn": "2021-06-14T20:40:08.000Z",
+          "wordCount": 180,
+          "title": "K8S Snapshot Help"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzw76z/i_went_a_bit_overboard_customising_heimdall/",
+          "author": null,
+          "description": "submitted by    /u/spoonopher  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzw76z/i_went_a_bit_overboard_customising_heimdall/",
+          "publishedOn": "2021-06-14T20:29:43.000Z",
+          "wordCount": 683,
+          "title": "I went a bit overboard customising Heimdall"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzw701/recipe_manager_that_can_import_makegoodfood/",
+          "author": null,
+          "description": "Anyone? :)\n    submitted by    /u/mediacenterfreak  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzw701/recipe_manager_that_can_import_makegoodfood/",
+          "publishedOn": "2021-06-14T20:29:31.000Z",
+          "wordCount": 310,
+          "title": "Recipe manager that can import makegoodfood recipes"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzurra/selfhosted_alternative_to_gathertown/",
+          "author": null,
+          "description": "Hello self-hosted community! I was wondering if I could find any good self hosted solutions to gather.town Any suggestions?\n    submitted by    /u/rizwan95  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzurra/selfhosted_alternative_to_gathertown/",
+          "publishedOn": "2021-06-14T19:27:21.000Z",
+          "wordCount": 159,
+          "title": "Selfhosted alternative to gather.town"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzumkc/cheapest_vps/",
+          "author": null,
+          "description": "I need a VPS just to install softether so I can have a VPN, so the VPS will not be resource heavy. \n Whats the cheapest VPS service online? So far I found BuyVM @ $2 / mo which gives you 1 IP.\n    submitted by    /u/Firm_Maintenance2009  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzumkc/cheapest_vps/",
+          "publishedOn": "2021-06-14T19:20:55.000Z",
+          "wordCount": 684,
+          "title": "Cheapest VPS?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzu2tm/looking_for_a_good_database_software_for_non/",
+          "author": null,
+          "description": "Hi!\n So I am looking for a solid software for a non profit organization. This is what I need the software to be able to do:\n  \nStore membership details: name of member, chapter name, chapter location.\n Able to filter search results by chapter name, or city.\n Good organization of data, for example each city contains several chapters, each chapter contains several members. So city --> chapters within that city --> members within that chapter.\n Keep track of membership, no need to be able to process payment, but reminders or indicators preferred for membership fees every 1 year.\n Clear, simple and effective interface - we work with a lot of visually impaired people, so looking for someone that they would be able to use as well.\n  \nSome additional notes:\n  \nNo need for website. This software is only going to be used by the admin team.\n Since it's a non profit organization, would love for the price to be reasonable. Not quite sure what the budget would be but will be happy with a reasonable price if the piece of software is good.\n The way I am kind of thinking about it is Microsoft Access, but more straightforward, modern and preferably on the cloud.\n  \nI would be happy to provide any more details or answer any questions. Thank you so much in advance for helping me out!\n    submitted by    /u/Historical-Skill-974  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzu2tm/looking_for_a_good_database_software_for_non/",
+          "publishedOn": "2021-06-14T18:56:53.000Z",
+          "wordCount": 447,
+          "title": "Looking for a good database software for non profit"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nztk0u/how_to_show_networks_and_not_just_docker_network/",
+          "author": null,
+          "description": "Hi,\n ​\n I am running a bunch of containers on docker on my synology nas and two containers in particular and a few others are for network monitoring tools. In this scenario i am using wireshark and ntopng. When running the containers they are showing 172.17.0.1 as local. On this nas i have one router on lan 1 and another (Vpn) router on lan 2. How can i make it show it says lan 1 and it's devices (192.168.0.1) and lan 2 and it's devices (192.168.1.1) I suspect i will have an issue when i setup grafana and all that stuff. Would this have to be a macvlan? I access all my docker container's via my nas ip which follows lan 1 - 192.168.0.\n ​\n Thanks for any help!\n    submitted by    /u/kritikosxamos  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nztk0u/how_to_show_networks_and_not_just_docker_network/",
+          "publishedOn": "2021-06-14T18:33:40.000Z",
+          "wordCount": 343,
+          "title": "How to show networks and not just docker network??"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzss6l/how_do_you_handle_the_backingup_of_all_data_when/",
+          "author": null,
+          "description": "One of the major things that stops me from starting to self-host things like my Google Photos and Cloud is the back-up issue. Third-party do this automatically, with me not having to anything about it ever.\n How do you handle your back-ups?\n Are there any backup solutions when self-hosting that you can just set up once and never have to worry about again (as long as nothing breaks, at least)?\n With the same \"safety\" as when using a subscription service, so the backups are not just on a separate drive in the same computer but at a completely different location.\n    submitted by    /u/bitcoin_sucks  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzss6l/how_do_you_handle_the_backingup_of_all_data_when/",
+          "publishedOn": "2021-06-14T18:00:10.000Z",
+          "wordCount": 1785,
+          "title": "How do you handle the backing-up of all data when self-hosting?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzrexw/what_is_the_difference_between_onpremises_and_iaas/",
+          "author": null,
+          "description": "Hello,\n I'm new to all of this and the definitions of words and concepts are overwhelming. So when I googled \"on-premises\" sometimes it's required to have your server in your home/organisation but sometimes it's still\" on-prem\" if you rent a server as long as you're the one in charge over the software and the provider does not give you software and server as a whole.\n So if renting a server is allowed and running your bought software on it, isn't that IaaS? And if it really is IaaS, it would make no sense to say \"on-premises vs. cloud\" because IaaS is also a part of Cloud Computing. It seems to me that often cloud and SaaS are used synonymous.\n In addition, sometimes I read \"on-premises software (self-hosting)\" as it was the same. But for me, having your own server (rented or bought) is somewhat your \"own cloud\" at home. And that would contratdict the whole \"on-premise vs. cloud\" thing. But maybe this is a false understanding of the concept and for the last point, I see why \"own cloud at home\" is more a metaphor when acknowledging that Cloud Computing is SaaS, PaaS and IaaS and it's somehow weird to offer a service to oneself :-) \n Thanks for reading\n    submitted by    /u/skippydi34  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzrexw/what_is_the_difference_between_onpremises_and_iaas/",
+          "publishedOn": "2021-06-14T16:59:48.000Z",
+          "wordCount": 488,
+          "title": "What is the difference between on-premises and IaaS?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzpt2r/smtp_relay_to_other_services/",
+          "author": null,
+          "description": "Hello folks, I am looking for simple program that relays all local SMTP mails to other services (think telegram and curl http post). I did some research and seems like all such programs are quite bulky or no longer maintained.\n Aprise is quite good for hooking multiple services but it doesn't have SMTP relay.\n    submitted by    /u/belibebond  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzpt2r/smtp_relay_to_other_services/",
+          "publishedOn": "2021-06-14T15:47:13.000Z",
+          "wordCount": 197,
+          "title": "SMTP relay to other services"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzkmgx/pcie_sata_iii_card_for_debianubuntu_32_tb/",
+          "author": null,
+          "description": "I'm building a home server and bought a wrong SATA card, which supports only 4TB.\n Any suggestions for a reliable 4-port (internal) PCIe SATA III card that runs on Debian/Ubuntu and supports at least 32TB?\n    submitted by    /u/ataubers  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzkmgx/pcie_sata_iii_card_for_debianubuntu_32_tb/",
+          "publishedOn": "2021-06-14T11:25:53.000Z",
+          "wordCount": 280,
+          "title": "PCIe SATA III card for Debian/Ubuntu, 32 TB"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzkkpk/looking_for_a_specific_documentation_tool/",
+          "author": null,
+          "description": "Hey Guys,\n I hope you can help me:\n I'm looking for a software to document system events, like outages, and maintenance work that was done etc.\n It should be possible to document an outage and calculate the system availability.\n Any suggestions?\n    submitted by    /u/theSlashyy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzkkpk/looking_for_a_specific_documentation_tool/",
+          "publishedOn": "2021-06-14T11:22:55.000Z",
+          "wordCount": 295,
+          "title": "Looking for a specific Documentation Tool"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzj1a0/tunnel_all_my_traffic_through_a_vps_ip_vpn/",
+          "author": null,
+          "description": "I have a windows PC with SoftEther VPN. I also have a VPS. How exactly would I turn the VPS in to a VPN so all the windows traffic is tunneled through it? This would result in my Windows PC having the IP address of the VPS.\n Note: I currently \"rent\" a dedicated IP from a third party service and use SoftEther to tunnel all the traffic through it. However I would like to learn to do this myself and have control over everything.\n    submitted by    /u/Firm_Maintenance2009  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzj1a0/tunnel_all_my_traffic_through_a_vps_ip_vpn/",
+          "publishedOn": "2021-06-14T09:39:34.000Z",
+          "wordCount": 313,
+          "title": "Tunnel all my traffic through a VPS IP (VPN)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzivnl/anonymous_self_hosting/",
+          "author": null,
+          "description": "What tools does one need to self host a website server anonymously on the tor network while simultaneously avoiding attackers taking the site down? (Edit) Since ppl are asking about the type of attackers, look at it like this, government agencies are trying to take a site down or locate the owner in this case how would one best protect themselves. Isn't it a bit of a chicken and egg problem. As sites get taken down the project is forked elsewhere. At core what I'm asking is if rather than creating multiple proxies and making the system difficult to penetrate creating multiple forks of the site all hosted in different locations is the best choice??\n    submitted by    /u/alexthem89  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzivnl/anonymous_self_hosting/",
+          "publishedOn": "2021-06-14T09:28:04.000Z",
+          "wordCount": 825,
+          "title": "Anonymous Self Hosting"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzhfje/how_do_you_get_a_mail_server_for_docker_container/",
+          "author": null,
+          "description": "On my Debian Linux Server i am running multiple Docker Compose Container, including Nextcloud and Git. I want to be able to send emails from the containers, for resetting a password for example or git request notifications. How can i make my docker containers able to send mails?\n Right now the server itself is able to send mails via mail command and postfix server, but if i understand correctly that does not make my containers able to send mails. I would need a mail server in every docker container seperately. I would highly appreciate a solution which i can integrate in my docker-compose setup.\n    submitted by    /u/Warglblarglthefirst  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzhfje/how_do_you_get_a_mail_server_for_docker_container/",
+          "publishedOn": "2021-06-14T07:40:26.000Z",
+          "wordCount": 357,
+          "title": "How do you get a mail server for docker container"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/nzetvh/reach_wireguard_peers_by_name_instead_of_ip/",
+          "author": null,
+          "description": "Following my previous post, I managed to get Wireguard going (with the linuxserver.io docker image) connecting (for now) between my PC and my server. So far so good!\n The problem I have right now is that I'd like to reach the server (or any other peer) by its name instead of using its internal IP address, while keeping internet access in my client computer that's connected to the wireguard server (i.e. I've removed the DNS entry in the client config, otherwise no internet).\n This is my docker-compose.yml file:\n version: '3.8' services: wg: restart: always image: linuxserver/wireguard cap_add: - NET_ADMIN - SYS_MODULE environment: - PUID=1000 - PGID=1000 - TZ=America/Chicago - SERVERURL=BLAH - SERVERPORT=BLAH - INTERNAL_SUBNET=10.20.20.0 - PEERDNS=auto - PEERS=peer1,peer2 volumes: - ./wg:/c…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/nzetvh/reach_wireguard_peers_by_name_instead_of_ip/",
+          "publishedOn": "2021-06-14T04:44:17.000Z",
+          "wordCount": 711,
+          "title": "Reach wireguard peers by name instead of IP?"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/nz9tlt/self_hosted_pto_tracking/",
           "author": null,
           "description": "Looking for something to manage a medium sized team to track their sick and vacation requests. I've tried TimeOffManagement and in the process of Gadael. Anyone had experience with any others?\n    submitted by    /u/CDarwin7  \n [link]   [comments]",
@@ -3458,24 +3629,6 @@
           "publishedOn": "2021-05-17T05:32:19.000Z",
           "wordCount": 336,
           "title": "v1.7.2"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "author": null,
-          "description": "Fixed: static files were unnecessarily copied for custom templates.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1",
-          "publishedOn": "2021-05-16T02:33:58.000Z",
-          "wordCount": 276,
-          "title": "v1.7.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "author": null,
-          "description": "Added: templating system. Demo | Source | Docs\nChore: rendering logic refactoring. Adopting functional paradigm.\nThank you @tianheg, @onnyyonn",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0",
-          "publishedOn": "2021-05-16T01:42:24.000Z",
-          "wordCount": 286,
-          "title": "v1.7.0"
         }
       ]
     },
@@ -3484,6 +3637,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=342294",
+          "author": "Chris Coyier",
+          "description": "It wasn’t long ago when I looked at sticky headers and footers in HTML <table>s in the blog post A table with both a sticky header and a sticky first column. In it, I never used position: sticky on …\nThe post Making Tables With Sticky Header and Footers Got a Bit Easier appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/making-tables-with-sticky-header-and-footers-got-a-bit-easier/",
+          "publishedOn": "2021-06-14T22:04:41.000Z",
+          "wordCount": 711,
+          "title": "Making Tables With Sticky Header and Footers Got a Bit Easier"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342229",
+          "author": "Chris Coyier",
+          "description": "Just a little link roundup of some off-site stuff I’ve done recently. As I’m wont to do from time to time. \nDevJourney Podcast\n#151 Chris Coyier from ceramics to CSS-Tricks and CodePen‘\nChris took us from playing on \n…\nThe post CSS-Tricks Chronicle XXXX appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-tricks-chronicle-xxxx/",
+          "publishedOn": "2021-06-14T18:20:17.000Z",
+          "wordCount": 730,
+          "title": "CSS-Tricks Chronicle XXXX"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342070",
+          "author": "Khari McMillian",
+          "description": "When you load a file from an external server, you’re trusting that the content you request is what you expect it to be. Since you don’t manage the server yourself, you’re relying on the security of yet another third party …\nThe post Securing Your Website With Subresource Integrity appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/securing-your-website-with-subresource-integrity/",
+          "publishedOn": "2021-06-14T13:30:27.000Z",
+          "wordCount": 3232,
+          "title": "Securing Your Website With Subresource Integrity"
+        },
         {
           "id": "https://css-tricks.com/?p=342429",
           "author": "Chris Coyier",
@@ -3851,6 +4031,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
+          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
+          "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
+          "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
+          "publishedOn": "2021-06-14T10:30:00.000Z",
+          "wordCount": 3665,
+          "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/web-design-done-well-audio/",
           "author": "hello@smashingmagazine.com (Frederick O’Brien)",
@@ -4236,6 +4430,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60873d1fdd38b9088c2c0842",
+          "author": null,
+          "description": "System Design is an important topic to understand if you want to advance further in your career as a software engineer. Even if you are just beginning your coding journey, it's a good idea to get a head start on learning about system design.  Early in your career you will",
+          "link": "https://www.freecodecamp.org/news/system-design-interview-practice-tutorial/",
+          "publishedOn": "2021-06-14T22:46:31.000Z",
+          "wordCount": 2704,
+          "title": "System Design Interview Tutorial – The Beginner&#x27;s Guide to System Design"
+        },
+        {
+          "id": "60bce373acb62507dd1d9f19",
+          "author": null,
+          "description": "We often work with web applications that need to fetch large amounts of data from a server through APIs and render it on the screen. For example, in a Social media application we fetch and render users' posts and comments. In an HR dashboard we display information about candidates who",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-pagination-component-in-react/",
+          "publishedOn": "2021-06-14T22:39:00.000Z",
+          "wordCount": 2563,
+          "title": "How to Build a Custom Pagination Component in React"
+        },
+        {
+          "id": "60c3b862d3126007592d689b",
+          "author": null,
+          "description": "Have you ever used the CSS order or direction properties? You've probably used them dozens of times, but did you realize that these properties will cause a disconnect between what's being displayed and what's actually in the DOM? Using the order property will create a disconnect between the visual presentation",
+          "link": "https://www.freecodecamp.org/news/html-roving-tabindex-attribute-explained-with-examples/",
+          "publishedOn": "2021-06-14T20:15:00.000Z",
+          "wordCount": 1297,
+          "title": "HTML Roving tabindex Attribute Explained with Examples"
+        },
+        {
+          "id": "60c794e64dc1a607ed7b25ba",
+          "author": null,
+          "description": "A while ago, I was doing side gig for a client who had a website hosted on Squarespace. They asked me to implement an advanced design for a page that wasn't possible with the site's current DIY tools. For an experienced and battle-tested web developer like me, this was a",
+          "link": "https://www.freecodecamp.org/news/how-to-backup-squarespace-managed-styles-using-aws-cloud/",
+          "publishedOn": "2021-06-14T19:19:42.000Z",
+          "wordCount": 2588,
+          "title": "How to Backup Squarespace-Managed Styles using AWS Cloud"
+        },
+        {
+          "id": "60c4b35ed3126007592d71bc",
+          "author": null,
+          "description": "Africa has over 2000 languages, but these languages are not well-represented in the existing Natural Language Processing ecosystem.  One challenge is the lack of useful African language datasets that we can use to solve different social and economic problems. In this article, I have compiled a list of African language",
+          "link": "https://www.freecodecamp.org/news/african-language-datasets-for-data-science-projects/",
+          "publishedOn": "2021-06-14T18:37:44.000Z",
+          "wordCount": 1599,
+          "title": "10 Best African Language Datasets for Data Science Projects"
+        },
         {
           "id": "60b72d5facb62507dd1d777b",
           "author": null,
@@ -4729,6 +4968,141 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1773383",
+          "author": "Kyle Orland",
+          "description": "\"300-ish\" years from now, the \"last space explorers\" also explore profound questions.",
+          "link": "https://arstechnica.com/?p=1773383",
+          "publishedOn": "2021-06-14T21:39:43.000Z",
+          "wordCount": 1311,
+          "title": "Todd Howard is finally ready to share some Starfield details"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773151",
+          "author": "Ron Amadeo",
+          "description": "Gmail's new do-it-all interface is thankfully optional.",
+          "link": "https://arstechnica.com/?p=1773151",
+          "publishedOn": "2021-06-14T21:23:55.000Z",
+          "wordCount": 1851,
+          "title": "Google’s unified Gmail interface (and Google Chat) launches for everyone"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773257",
+          "author": "Sam Machkovech",
+          "description": "Hints of new announcer system, new firepower, and multiplayer-specific tweaks.",
+          "link": "https://arstechnica.com/?p=1773257",
+          "publishedOn": "2021-06-14T20:29:48.000Z",
+          "wordCount": 1949,
+          "title": "Halo Infinite multiplayer news: Bots, split-screen, free-to-play clarified"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773206",
+          "author": "Samuel Axon",
+          "description": "Some big features, like a blood sugar sensor, are at least a year away, though.",
+          "link": "https://arstechnica.com/?p=1773206",
+          "publishedOn": "2021-06-14T19:54:33.000Z",
+          "wordCount": 753,
+          "title": "The Apple Watch Series 7 will have a new design, report says"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773260",
+          "author": "Jon Brodkin",
+          "description": "Biden's failure to fill empty FCC slot has consumer advocates increasingly worried.",
+          "link": "https://arstechnica.com/?p=1773260",
+          "publishedOn": "2021-06-14T19:22:56.000Z",
+          "wordCount": 1332,
+          "title": "Pai’s legacy lives on for now as Biden fails to nominate Democrat to FCC"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773281",
+          "author": "Beth Mole",
+          "description": "Health care workers sued hospital over a vax mandate they say violates Nuremberg Code.",
+          "link": "https://arstechnica.com/?p=1773281",
+          "publishedOn": "2021-06-14T18:48:29.000Z",
+          "wordCount": 1110,
+          "title": "Judge slams hospital staff for comparing COVID vaccine mandate to Nazi crimes"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773176",
+          "author": "Jim Salter",
+          "description": "Industry analysts recommend businesses take extra care with the supply chain.",
+          "link": "https://arstechnica.com/?p=1773176",
+          "publishedOn": "2021-06-14T18:16:09.000Z",
+          "wordCount": 1335,
+          "title": "Chip shortages lead to more counterfeit chips and devices"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773238",
+          "author": "John Timmer",
+          "description": "While not needed for the US, it should help with the global vaccine push.",
+          "link": "https://arstechnica.com/?p=1773238",
+          "publishedOn": "2021-06-14T17:45:19.000Z",
+          "wordCount": 1222,
+          "title": "We have another highly effective COVID vaccine, based on different tech"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773208",
+          "author": "Tim De Chant",
+          "description": "Apple, Google, Facebook, and Amazon would struggle to evade new regulations.",
+          "link": "https://arstechnica.com/?p=1773208",
+          "publishedOn": "2021-06-14T16:57:23.000Z",
+          "wordCount": 1447,
+          "title": "Five new bills aim to break up Big Tech platforms, force them to play nice"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773072",
+          "author": "Jeff Dunn",
+          "description": "Beats' latest true wireless earbuds have tiny design, active noise cancelation.",
+          "link": "https://arstechnica.com/?p=1773072",
+          "publishedOn": "2021-06-14T15:00:43.000Z",
+          "wordCount": 1951,
+          "title": "Beats Studio Buds review: Apple earbuds that don’t leave Android in the dark"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772570",
+          "author": "Jim Salter",
+          "description": "\"Alexa, test and review the new Echo Show 8.\" \"I'm sorry, I don't know that one.\"",
+          "link": "https://arstechnica.com/?p=1772570",
+          "publishedOn": "2021-06-14T14:54:46.000Z",
+          "wordCount": 1519,
+          "title": "Hands-on: Echo Show 8 is like a tablet grafted onto a smart speaker"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772509",
+          "author": "Doug Johnson",
+          "description": "Sodium and other metals from space make regular—and irregular—landfall on Earth.",
+          "link": "https://arstechnica.com/?p=1772509",
+          "publishedOn": "2021-06-14T14:35:14.000Z",
+          "wordCount": 980,
+          "title": "Metals from space descend on Boulder, Colorado, at dusk and dawn"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773132",
+          "author": "Jonathan M. Gitlin",
+          "description": "The resignations follow a \"going concern\" warning earlier in June.",
+          "link": "https://arstechnica.com/?p=1773132",
+          "publishedOn": "2021-06-14T14:09:56.000Z",
+          "wordCount": 759,
+          "title": "The CEO and CFO of Lordstown Motors both just resigned"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1772085",
+          "author": "Jeff Dunn",
+          "description": "We give a few gifting prompts for the guy who won't say what he actually wants.",
+          "link": "https://arstechnica.com/?p=1772085",
+          "publishedOn": "2021-06-14T11:30:00.000Z",
+          "wordCount": 1520,
+          "title": "The Ars Technica Father’s Day 2021 gift guide"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773051",
+          "author": "Kyle Orland",
+          "description": "From shooters to puzzles to mail delivery sims, these concepts stood out from the crowd.",
+          "link": "https://arstechnica.com/?p=1773051",
+          "publishedOn": "2021-06-14T03:19:40.000Z",
+          "wordCount": 1964,
+          "title": "16 games to keep an eye on from Sunday’s E3 2021 trailer showcases"
+        },
         {
           "id": "https://arstechnica.com/?p=1771845",
           "author": "Jennifer Ouellette",
