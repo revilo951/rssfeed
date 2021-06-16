@@ -6,6 +6,195 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0rwg0/synapse_server_behind_nginx/",
+          "author": null,
+          "description": "Hi All,\n I am trying to host synapse server and use nginx as a reverse-proxy server.\n  \nThe synapse server is running fine and is accessible when I use localhost:8008. Note, 8008 port is used for the synapse server.\n The nginx server is running fine locally as I can access localhost , also using the internet as I can access my domain server www.mydomain.com .\n  \nI have setup nginx config in the following way\n location /matrix { proxy_pass http://localhost:8008/; proxy_set_header X-Forwarded-For $remote_addr; client_max_body_size 2000M; } \n to access the synapse server when I use www.mydomain.com/matrix.\n Now, the problem is when I use www.mydomain.com/matrix, my url in the address bar becomes www.mydomain.com/_matrix/static and gives 404 error (page does not exit).\n ​\n I think I need to change \"webroot\" somewhere either in the homeserver.yml Or nginx.conf to redirect url to the right local synapse server.\n ​\n Any help will be appreciated.\n Thanks\n    submitted by    /u/akumar131  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0rwg0/synapse_server_behind_nginx/",
+          "publishedOn": "2021-06-15T23:52:51.000Z",
+          "wordCount": 255,
+          "title": "Synapse Server behind Nginx"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0n43x/standardnotes_server_ruby_to_js_server_migration/",
+          "author": null,
+          "description": "Crossposting from r/StandardNotes\n I just migrated from the legacy Ruby server to the new JS server with my docker-compose setup, and wanted to post examples of my \"before\" and \"after\" for anyone who is interested. I exported my notes in the web UI and moved my database to a backup before wiping it to allow it to initialize fresh. I then imported the notes back in the web ui without any problems.\n Legacy Ruby docker-compose: https://pastebin.com/Ba4aNJca\n New JS docker-compose: https://pastebin.com/LFNwgscB\n    submitted by    /u/thinkpadquestion0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0n43x/standardnotes_server_ruby_to_js_server_migration/",
+          "publishedOn": "2021-06-15T19:57:06.000Z",
+          "wordCount": 196,
+          "title": "StandardNotes Server Ruby to JS Server Migration Docker-Compose Example"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0mm0p/what_is_your_favorite_hoster_and_why/",
+          "author": null,
+          "description": "With which provider do you prefer to create your servers and why (other than yourself 😂😁)?\n    submitted by    /u/davidh2411  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0mm0p/what_is_your_favorite_hoster_and_why/",
+          "publishedOn": "2021-06-15T19:34:45.000Z",
+          "wordCount": 159,
+          "title": "What is your favorite hoster and why?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0lx6v/where_are_the_docker_yml_files/",
+          "author": null,
+          "description": "Hi, first of all I'm kinda new to self-hosting, and to linux in general, and I'm in the process of setting up a home server using an old PC I had laying around\n I followed this tutorial, which launches a docker image using this command :\n sudo docker run \\ --name=heimdall \\ -e PUID=1001 \\ -e PGID=1001 \\ -e TZ=America/New_York \\ -p 7888:80 \\ -p 4443:443 \\ -v ~/.config/heimdall/:/config \\ --restart unless-stopped \\ linuxserver/heimdall \n Now it's running, but I didn't have to set up a .yml file and don't know if it's wrong to do so. \n From what I understand it is used to configure easily the container, so now I can't do so because I don't know where the yml is...\n I am also trying to install PiHole but don't know how to, using a yml.\n Can you explain how it works, or how I should do ?\n Thanks\n    submitted by    /u/Acyone  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0lx6v/where_are_the_docker_yml_files/",
+          "publishedOn": "2021-06-15T19:03:20.000Z",
+          "wordCount": 488,
+          "title": "Where are the docker .yml files ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0lfes/mealie_recipe_manager_anyone_tried_it_on_synology/",
+          "author": null,
+          "description": "Looking forward get on it this weekend. Anything I should know before jumping?\n Here the official link: https://hay-kot.github.io/mealie/\n    submitted by    /u/mediacenterfreak  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0lfes/mealie_recipe_manager_anyone_tried_it_on_synology/",
+          "publishedOn": "2021-06-15T18:41:48.000Z",
+          "wordCount": 236,
+          "title": "Mealie recipe manager : anyone tried it on Synology?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0l99a/ive_written_an_open_source_inventory_platform_for/",
+          "author": null,
+          "description": "Hey all,\n I've just released the first version of my new inventory system to help anyone who needs to track \"stuff\" log where it is and how much they have of it.\n You can download the source from https://github.com/proffalken/mventory and there are docker containers for AMD64, ARMv6, ARMv7, and ARM64 so it should run on just about any hardware.\n It's entirely API-driven, although you can use the Django Admin interface if you want a GUI for adding components, and at the moment it just lists items by location - search will be coming soon.\n I'm hoping to integrate it with octopart in future as well, and I'd love other people to get involved even if it's writing a GUI in another language that talks to the API!\n Let me know what you think!\n    submitted by    /u/TheProffalken  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0l99a/ive_written_an_open_source_inventory_platform_for/",
+          "publishedOn": "2021-06-15T18:34:25.000Z",
+          "wordCount": 917,
+          "title": "I've written an open source inventory platform for makers, hackers and anyone else who stores \"stuff\""
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0jqx1/looking_for_a_selfhosted_local_delivery_ecommerce/",
+          "author": null,
+          "description": "Hey ya'll\n I have a brick and mortar store, and we're doing some local delivery based on calls. I wanted to expand this to online, and see what is available. Most sites like shopify have plugins that allow for easy local delivery management (like this: Local Delivery ). I'm trying to find a similar solution but self-hosted. Does anyone know of a plugin for any self-hosted platform that can help manage this? I haven't decided on any single ecommerce platform just yet, mainly because I want to find the best option for this problem in particular.\n Basically just looking for scheduling deliveries based on customer location!\n    submitted by    /u/Blaze9  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0jqx1/looking_for_a_selfhosted_local_delivery_ecommerce/",
+          "publishedOn": "2021-06-15T17:28:37.000Z",
+          "wordCount": 362,
+          "title": "Looking for a self-hosted Local Delivery ecommerce solution"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0gkt1/what_commumication_standard_to_gather_my_iot/",
+          "author": null,
+          "description": "Hello\n I self host nearly all the services my community uses (except email). \n I am going to start adding - cameras (5-8) - wind sensors (3-5) - temperature and humidity sensors (10-15) - liquid level sensors (5-8) - batteries connected to solar panels (5-8)\n And or course I will want to gather in real time data from those devices and to store them on my linux server. \n Is there an open \"communication standard\" i should look for when buying these sensors, to make sure I will be able to poll them and integrate everything in my database ?\n Is there a FOSS application server side that can use this protocol and display nice graphs ?\n Thanks\n    submitted by    /u/GrilledGuru  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0gkt1/what_commumication_standard_to_gather_my_iot/",
+          "publishedOn": "2021-06-15T15:09:11.000Z",
+          "wordCount": 425,
+          "title": "What commumication standard to gather my IoT devices' data ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0fkyv/self_hosting_adsb_radar_for_feeding_2_sources/",
+          "author": null,
+          "description": "Hi!\n I live near a small airfield as well as an international airport. I use FlightRadar24 a lot as it is the most well refined but it always annoys me that I cannot see military aircraft flying over me on there. We also have classic fighter aircraft fly from my small airfield (jets and warbirds) and often FR24 also blocks those out.\n I have tried using ADSB Exchange but the coverage around here isn't perfect and the Web UI is a hot mess on mobile which makes using it rather unpleasant.\n I have a server rack, a VPN to my home setup as well as the radio kit I would need to host my own ADSB radar but I would like to know.\n Is there a way I can feed FR24 or 360 Radar/ADSB Exchange and my own personal radar view? It would be nice to help increase the spotty coverage in my area but I would also like a raw radar view of the data with no filtering of any aircraft. Is this possible?\n Either way what is the best radar view software to use for this kinda application? \n I have an RTL-SDR (one of those USB TV stick things) and would like to pass it through to a VM in ESXi (if possible). It would be awesome if the ADSB radar was a 'server' that could be accessed by IP address through a browser.\n Any ideas, ive seen lots of great posts about ADSB but nothing that fully answered my questions.\n Many thanks!\n    submitted by    /u/NWSpitfire  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0fkyv/self_hosting_adsb_radar_for_feeding_2_sources/",
+          "publishedOn": "2021-06-15T14:24:36.000Z",
+          "wordCount": 742,
+          "title": "Self Hosting ADSB Radar for feeding 2 sources?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0e5bz/a_good_reverse_proxy_with_https_and_the_ability/",
+          "author": null,
+          "description": "I know setting xframe to allowall is a security risk but we are talking here about being able to use certain applications in an iframe locally with it being located down and not accessible to the outside world\n    submitted by    /u/erik_b1242  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0e5bz/a_good_reverse_proxy_with_https_and_the_ability/",
+          "publishedOn": "2021-06-15T13:17:57.000Z",
+          "wordCount": 198,
+          "title": "A good reverse proxy with HTTPS and the ability to set Xframe to allowall"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0e5bu/proof_of_concept_geographically_explore_drone/",
+          "author": null,
+          "description": "submitted by    /u/Placeless  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0e5bu/proof_of_concept_geographically_explore_drone/",
+          "publishedOn": "2021-06-15T13:17:56.000Z",
+          "wordCount": 433,
+          "title": "Proof of concept: Geographically explore drone footage, looking for opinions"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0cxe5/a_browser/",
+          "author": null,
+          "description": "Guru's\n As I'm now well and truly self hosting all of my needs, I find myself wanting to tweak a thing of two from time to time while I'm in the office.\n I'm using zerotier where needed so as far as a VPN is concerned I'm not going to stand up WireGuard or anything else.\n I'd like to host a browser without needing to install a fully fledged OS like windows or Ubuntu desktop just so I can use Chrome.\n Is there any way to host a chrome, or other, browser ?\n Ideally I'd like to use my proxmox server to spin up a container that will host a web based browser.\n Suggestions?\n    submitted by    /u/ithakaa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0cxe5/a_browser/",
+          "publishedOn": "2021-06-15T12:13:51.000Z",
+          "wordCount": 557,
+          "title": "A browser?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0co9e/setup_nginx_proxy_manager_multiple_docker/",
+          "author": null,
+          "description": "I am running multiple docker containers, for example nextcloud, monica, heimdall etc. So far they have all been running using http. I am now looking to use only https for all services. Everything is running on a private network and I use a VPN to connect from the outside. Therefore only private IPs are involved. For example to get to nextcloud I do:\n 192.168.10.5:100\n for monica I use:\n 192.168.10.5:105\n For heimdall I use\n 192.168.10.5:80\n etc. same private IP, different port.\n ​\n I therefore need to use reverse proxy for all theses ports and use self signed certificates to get SSL. I am not interested in using letsencrypt, some DNS redirect etc. I want my setup as it is now but with HTTPS. So far when using nginx proxy manager I can get it to work on one service at a time, on port 80 only. I want to use it to listen to multiple different ports. I assume it is because it only listens on port 80 and 443. I have also tried using nextcloud.192.168.10.5 but that is not recognized as the same IP and therefore does not work. How to I use multiple ports with nginx proxy manager? I am using docker for everything\n    submitted by    /u/SugMinVitaKuk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0co9e/setup_nginx_proxy_manager_multiple_docker/",
+          "publishedOn": "2021-06-15T11:59:49.000Z",
+          "wordCount": 469,
+          "title": "Setup nginx proxy manager + multiple docker services or different ports."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0cmrs/wordops_letencrypt_ssl/",
+          "author": null,
+          "description": "Hey,\n I don't know if this is the right place to ask this question but here goes: I'm trying to install a Wordpress site on a vps (I've tried both Ubuntu 20.04 and Debian 10..all with the same issue) using the Wordops installation script and when I get to the point of installing the site ssl (which is done via Letsencrypt) I keep getting the error: \n Your domain is properly configured but acme.sh was unable to issue certificate. You can find more informations in /var/log/wo/wordops.log \n ​\n When I check the logs, I get something along the lines of: \n [[91mIssuing SSL cert with acme.sh[[0m [[91mYour domain is properly configured but acme.sh was unable to issue certificat>\n What am I missing?\n    submitted by    /u/mr_aes  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0cmrs/wordops_letencrypt_ssl/",
+          "publishedOn": "2021-06-15T11:57:25.000Z",
+          "wordCount": 234,
+          "title": "Wordops + Letencrypt SSL"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0cgdy/container_network_no_longer_forwarding_ports_to/",
+          "author": null,
+          "description": "Hi,\n So I have this compose file which is composed by a VPN container which other containers use its network:\n https://pastebin.com/DQRniwfB\n ​\n This has been working fine, and for radarr, I was able to access via <server IP>:7878.\n However, now it seems like it is not forwading the 7878 from privoxyvpn to the host. nmap does not show this port.\n Nonetheless, I can `curl localhost:8989` from the host, and it reaches radarr. \n Any thoughts why this suddenly stopped working?\n I have ruled out a firewall issue since other ports work. Only the ones that go through privoxyvpn don't\n Thanks\n    submitted by    /u/Flicked_Up  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0cgdy/container_network_no_longer_forwarding_ports_to/",
+          "publishedOn": "2021-06-15T11:47:20.000Z",
+          "wordCount": 220,
+          "title": "Container network no longer forwarding ports to host"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0c730/stripchat_or_bongacams_alternative_solution/",
+          "author": null,
+          "description": "Anybody know some software paid or free (opensource) to setup service like bongacams or stripchat ? Maybe some kind of frameworks , no matter which platform for such video chat with streaming video and multi rooms ?\n    submitted by    /u/agka18  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0c730/stripchat_or_bongacams_alternative_solution/",
+          "publishedOn": "2021-06-15T11:32:45.000Z",
+          "wordCount": 144,
+          "title": "Stripchat or bongacams alternative solution"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0b5gm/retool_self_hosted/",
+          "author": null,
+          "description": "submitted by    /u/sidpuri  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0b5gm/retool_self_hosted/",
+          "publishedOn": "2021-06-15T10:29:59.000Z",
+          "wordCount": 358,
+          "title": "Retool Self Hosted"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0ace9/getting_started_with_docker_and_docker_compose/",
+          "author": null,
+          "description": "submitted by    /u/TiZuid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0ace9/getting_started_with_docker_and_docker_compose/",
+          "publishedOn": "2021-06-15T09:35:25.000Z",
+          "wordCount": 174,
+          "title": "Getting started with Docker and Docker Compose"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o09vi6/cheap_nas_for_media_file_storage/",
+          "author": null,
+          "description": "Hello, dumb question probably but I'm not well educated on this topic. I'm running debian on a laptop as a server for my things, but I don't have enough storage for my media. I'm thinking of either using several external hdd's connected by usb or getting a cheap NAS. I'm thinking about buying \"My Cloud Ex2 Ultra\" with 2x4TB HDDs for 200eur. The stuff I'd be storing there wouldn't be critical and if it dies it would only inconvenience me. I'd like for my plex that's running on the laptop to be able to stream files off the nas. I know its shit NAS but it basicly costs same as bare HHDs and since I'm not gonna run any applications on it, I don't really care that its shit, right? Or should I just buy once and cry once and get something good?\n    submitted by    /u/hefas  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o09vi6/cheap_nas_for_media_file_storage/",
+          "publishedOn": "2021-06-15T09:02:04.000Z",
+          "wordCount": 583,
+          "title": "Cheap NAS for media file storage"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o04jos/open_source_vector_database_to_support/",
+          "author": null,
+          "description": "submitted by    /u/rainmanwy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o04jos/open_source_vector_database_to_support/",
+          "publishedOn": "2021-06-15T03:25:10.000Z",
+          "wordCount": 391,
+          "title": "Open Source vector database to support unstructure data processing: Image, Video, Audio, features and moleculars etc. Anything can be embeded, and embeddings can be handled properly within this database."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o01uaf/jitsi_nextcloud_integration_easier_jwt_room/",
+          "author": null,
+          "description": "submitted by    /u/lenjioereh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o01uaf/jitsi_nextcloud_integration_easier_jwt_room/",
+          "publishedOn": "2021-06-15T01:02:54.000Z",
+          "wordCount": 185,
+          "title": "Jitsi Nextcloud integration (easier JWT room creation)"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/o0154v/added_azuracast_to_my_homer_dashboard/",
           "author": null,
           "description": "submitted by    /u/nashosted  \n [link]   [comments]",
@@ -3620,15 +3809,6 @@
           "publishedOn": "2021-05-23T05:12:08.000Z",
           "wordCount": 341,
           "title": "v1.8.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
-          "author": null,
-          "description": "⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: \"16\" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example\nChore: Reorganize to monorepo with npm workspace.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2",
-          "publishedOn": "2021-05-17T05:32:19.000Z",
-          "wordCount": 336,
-          "title": "v1.7.2"
         }
       ]
     },
@@ -3637,6 +3817,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=342198",
+          "author": "Chris Coyier",
+          "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/detect-unused-classes-in-html/",
+          "publishedOn": "2021-06-15T23:24:20.000Z",
+          "wordCount": 741,
+          "title": "Detect Unused Classes in… HTML"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342519",
+          "author": "Chris Coyier",
+          "description": "Max Böck took me up on my challenge to look through a codebase and see how many of the @media queries could ultimately become @container queries.\nI took the bait and had a look at some of my projects – \n…\nThe post Media Queries in Times of @container appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://mxb.dev/blog/media-queries-in-times-of-container-queries/",
+          "publishedOn": "2021-06-15T19:51:32.000Z",
+          "wordCount": 1907,
+          "title": "Media Queries in Times of @container"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342248",
+          "author": "Chris Coyier",
+          "description": "I wonder where headless WordPress will land. And by “headless” I mean only using the WordPress admin and building out the user-facing site through the WordPress REST API rather than the traditional WordPress theme structure.\nIs it… big? The future …\nThe post Just How Niche is Headless WordPress? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/just-how-niche-is-headless-wordpress/",
+          "publishedOn": "2021-06-15T14:31:34.000Z",
+          "wordCount": 1844,
+          "title": "Just How Niche is Headless WordPress?"
+        },
         {
           "id": "https://css-tricks.com/?p=342294",
           "author": "Chris Coyier",
@@ -4032,6 +4239,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
+          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
+          "description": "When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?",
+          "link": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
+          "publishedOn": "2021-06-15T10:15:00.000Z",
+          "wordCount": 2381,
+          "title": "Spinning Up Multiple WordPress Sites Locally With DevKinsta",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2798d879-8878-49e3-bc0f-a1b2008210c0/devkinsta-frontpage.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In this episode of the Smashing Podcast, we’re talking about image optimization. What steps should we follow for performant images in 2021? We talk to expert Addy Osmani to find out.",
+          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-39/",
+          "publishedOn": "2021-06-15T07:00:00.000Z",
+          "wordCount": 10715,
+          "title": "Smashing Podcast Episode 39 With Addy Osmani: Image Optimization",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf1aeccc-a603-4cb3-b716-69bd0c86d33a/smashing-podcast-episode-39.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
           "author": "hello@smashingmagazine.com (Stephanie Eckles)",
           "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
@@ -4408,20 +4643,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "author": "hello@smashingmagazine.com (Beau Hartshorne)",
-          "description": "Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.",
-          "link": "https://smashingmagazine.com/2021/05/core-web-vitals-case-study/",
-          "publishedOn": "2021-05-17T11:30:00.000Z",
-          "wordCount": 2948,
-          "title": "How We Improved Our Core Web Vitals (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b68aa1ba-94b7-4e70-83e5-5f58b37bf7cd/core-web-vitals-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -4430,6 +4651,78 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60c91b2b4dc1a607ed7b389a",
+          "author": null,
+          "description": "DevOps is becoming an in-demand role at many software companies. We just released a DevOps Engineering course on the freeCodeCamp.org YouTube channel. Learn all about DevOps in this comprehensive course for beginners with three technical tutorials. Colin Chartier created this course. He is the co-founder and CEO at LayerCI.",
+          "link": "https://www.freecodecamp.org/news/devops-engineering-course-for-beginners/",
+          "publishedOn": "2021-06-15T21:33:17.000Z",
+          "wordCount": 455,
+          "title": "DevOps Engineering Course for Beginners"
+        },
+        {
+          "id": "60c72a0ad3126007592d7e2a",
+          "author": null,
+          "description": "To understand what this truly means in JavaScript, let's take a look at a very similar concept in the English Language: Polysemy. Let's consider the word \"run\". Run is a single word which could mean many different things depending on the context. “I will run home” – means to move quickly",
+          "link": "https://www.freecodecamp.org/news/what-is-this-in-javascript/",
+          "publishedOn": "2021-06-15T21:19:12.000Z",
+          "wordCount": 1383,
+          "title": "What Does &#x27;this&#x27; Mean in JavaScript? The this Keyword Explained with Examples"
+        },
+        {
+          "id": "60c8912c4dc1a607ed7b2fff",
+          "author": null,
+          "description": "As a freelance developer, knowing how much to charge for a project can often feel like a gamble. It's easy to wonder \"Am I setting my price too high?\" This is normally the first question that comes to mind. And your brain will probably meet this question with a resounding",
+          "link": "https://www.freecodecamp.org/news/what-to-charge-as-a-freelance-developer-dont-be-the-cheapest/",
+          "publishedOn": "2021-06-15T21:10:54.000Z",
+          "wordCount": 2031,
+          "title": "What to Charge as a Freelance Developer – and Why You Should Avoid Being the Cheapest"
+        },
+        {
+          "id": "60c3dcb3d3126007592d6c6d",
+          "author": null,
+          "description": "Python decorators allow you to change the behavior of a function without modifying the function itself. In this article I will show you how to create and use decorators. You will see how easy it is to use this advanced Python feature. In this article I will discuss the following",
+          "link": "https://www.freecodecamp.org/news/python-decorators-explained-with-examples/",
+          "publishedOn": "2021-06-15T17:57:54.000Z",
+          "wordCount": 1409,
+          "title": "Python Decorators – How to Create and Use Decorators in Python With Examples"
+        },
+        {
+          "id": "602aaaf60a2838549dcc5c7f",
+          "author": null,
+          "description": "Any sufficiently old codebase eventually starts to contain legacy code. Architecture, performance, comments, and more begin to degrade the moment after they are written. Some parts of the codebase last longer than other parts, but inevitably new coding standards emerge to reduce technical debt. Then you have to rework a",
+          "link": "https://www.freecodecamp.org/news/what-is-the-strangler-pattern-in-software-development/",
+          "publishedOn": "2021-06-15T17:43:43.000Z",
+          "wordCount": 1292,
+          "title": "What is the Strangler Fig Pattern and How it Helps Manage Legacy Code"
+        },
+        {
+          "id": "60b7cb6aacb62507dd1d7c1a",
+          "author": null,
+          "description": "You can now open anything (that you have access to) on GitHub directly from VS Code.",
+          "link": "https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/",
+          "publishedOn": "2021-06-15T16:06:54.000Z",
+          "wordCount": 1714,
+          "title": "How to Open Any Repo in VS Code Without Cloning It"
+        },
+        {
+          "id": "60c6aec3d3126007592d7bd5",
+          "author": null,
+          "description": "What is an Aggregate Function?SQL aggregate functions will seem very familiar if you have worked with spreadsheets.  Have you ever used SUM in Google Sheets or Excel? The SUM function exists in SQL as well, and is called an aggregate function.  Aggregate functions do a particular task across database",
+          "link": "https://www.freecodecamp.org/news/sql-aggregate-functions-with-example-data-queries-for-beginners/",
+          "publishedOn": "2021-06-15T15:48:09.000Z",
+          "wordCount": 888,
+          "title": "SQL Aggregate Functions – With Example Data Queries for Beginners"
+        },
+        {
+          "id": "60bbdd8dacb62507dd1d9a2d",
+          "author": null,
+          "description": "You've probably seen the term \"full stack developer\" before, either on tech-related websites or in job applications you've perused.  So have you ever wondered what exactly a full stack developer is and what skills you'd need to become one? Well if you're curious like I was, this article",
+          "link": "https://www.freecodecamp.org/news/what-is-a-fullstack-developer/",
+          "publishedOn": "2021-06-15T15:35:39.000Z",
+          "wordCount": 2706,
+          "title": "What is Full Stack? How to Become a Full Stack Developer"
+        },
         {
           "id": "60873d1fdd38b9088c2c0842",
           "author": null,
@@ -4968,6 +5261,150 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1773877",
+          "author": "Beth Mole",
+          "description": "Vaccines are effective against the variant, but experts worry about low vaccination rates.",
+          "link": "https://arstechnica.com/?p=1773877",
+          "publishedOn": "2021-06-15T23:55:09.000Z",
+          "wordCount": 1277,
+          "title": "Experts “extremely worried” about Delta variant as US death toll hits 600,000"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773746",
+          "author": "Jon Brodkin",
+          "description": "Man watered dish to cool it down but overheating knocked it offline for 7 hours.",
+          "link": "https://arstechnica.com/?p=1773746",
+          "publishedOn": "2021-06-15T20:40:18.000Z",
+          "wordCount": 1756,
+          "title": "Starlink dishes go into “thermal shutdown” once they hit 122° Fahrenheit"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773236",
+          "author": "Jennifer Ouellette",
+          "description": "Skeletons from 14th and 15th centuries had higher rate of bunions than earlier remains",
+          "link": "https://arstechnica.com/?p=1773236",
+          "publishedOn": "2021-06-15T20:16:50.000Z",
+          "wordCount": 1810,
+          "title": "Medieval people suffered for fashion with their extremely pointy shoes"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773723",
+          "author": "John Timmer",
+          "description": "Queries can take days, but it's possible to pull out specific files.",
+          "link": "https://arstechnica.com/?p=1773723",
+          "publishedOn": "2021-06-15T19:59:33.000Z",
+          "wordCount": 1618,
+          "title": "A DNA-based storage system with files and metadata"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773434",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has new early Prime Day deals, a big Xbox games sale, and more.",
+          "link": "https://arstechnica.com/?p=1773434",
+          "publishedOn": "2021-06-15T19:25:05.000Z",
+          "wordCount": 3106,
+          "title": "Nintendo deal: Buy a Switch Online Family Membership, get a free 128GB microSD card"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773644",
+          "author": "Jim Salter",
+          "description": "We'll find out more about Windows 10's replacement OS later this month.",
+          "link": "https://arstechnica.com/?p=1773644",
+          "publishedOn": "2021-06-15T19:19:14.000Z",
+          "wordCount": 1228,
+          "title": "Make way for Windows 11? Windows 10 end-of-life is October 2025"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773482",
+          "author": "Samuel Axon",
+          "description": "Creators can set whatever subscription fee they choose or not take part at all.",
+          "link": "https://arstechnica.com/?p=1773482",
+          "publishedOn": "2021-06-15T19:00:50.000Z",
+          "wordCount": 730,
+          "title": "Apple’s podcast subscriptions went live today—with a 30 percent cut"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773661",
+          "author": "Kyle Orland",
+          "description": "New Warioware and Mario Party, remastered Advance Wars and Monkey Ball, and much more.",
+          "link": "https://arstechnica.com/?p=1773661",
+          "publishedOn": "2021-06-15T18:04:26.000Z",
+          "wordCount": 1433,
+          "title": "Everything Nintendo announced in its E3 2021 “Direct” presentation"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773576",
+          "author": "Tim De Chant",
+          "description": "Computer scientist assembles digital collectible to capitalize on NFT craze.",
+          "link": "https://arstechnica.com/?p=1773576",
+          "publishedOn": "2021-06-15T17:56:08.000Z",
+          "wordCount": 1082,
+          "title": "Tim Berners-Lee makes an NFT from World Wide Web’s Objective-C"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773486",
+          "author": "Jim Salter",
+          "description": "Founding OpenZFS dev Matthew Ahrens opened a pull request last week.",
+          "link": "https://arstechnica.com/?p=1773486",
+          "publishedOn": "2021-06-15T17:39:49.000Z",
+          "wordCount": 2148,
+          "title": "ZFS fans, rejoice—RAIDz expansion will be a thing very soon"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773583",
+          "author": "Kyle Orland",
+          "description": "Zelda sequel takes 2017 original to the skies, now due in 2022.",
+          "link": "https://arstechnica.com/?p=1773583",
+          "publishedOn": "2021-06-15T16:57:44.000Z",
+          "wordCount": 624,
+          "title": "New trailer shows first gameplay footage for Breath of the Wild sequel"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773491",
+          "author": "Jonathan M. Gitlin",
+          "description": "The car looks good, the specs look good, and the price looks good.",
+          "link": "https://arstechnica.com/?p=1773491",
+          "publishedOn": "2021-06-15T16:33:07.000Z",
+          "wordCount": 1405,
+          "title": "BMW finds its mojo again with the $55,400 i4 electric sedan"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773518",
+          "author": "Sam Machkovech",
+          "description": "Includes flashy 3D cinematics, mechanics from 2017's 2D revival Samus Returns.",
+          "link": "https://arstechnica.com/?p=1773518",
+          "publishedOn": "2021-06-15T16:30:37.000Z",
+          "wordCount": 995,
+          "title": "Metroid Dread brings Nintendo’s classic back as a 2D sequel on October 8"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773521",
+          "author": "Financial Times",
+          "description": "NSC has some strong opinions ahead of Biden’s first presidential trip to Brussels.",
+          "link": "https://arstechnica.com/?p=1773521",
+          "publishedOn": "2021-06-15T16:14:24.000Z",
+          "wordCount": 1040,
+          "title": "US warns EU against anti-American tech policy"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773485",
+          "author": "Beth Mole",
+          "description": "CEOs’ median pay rose to $9 million despite record layoffs of health workers.",
+          "link": "https://arstechnica.com/?p=1773485",
+          "publishedOn": "2021-06-15T16:02:41.000Z",
+          "wordCount": 790,
+          "title": "Health care CEOs raked in $3.2 billion as pandemic raged"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773462",
+          "author": "Ron Amadeo",
+          "description": "It has a Snapdragon 480, 4GB of RAM, a headphone jack, microSD slot, and more.",
+          "link": "https://arstechnica.com/?p=1773462",
+          "publishedOn": "2021-06-15T15:48:54.000Z",
+          "wordCount": 812,
+          "title": "OnePlus announces the 90 Hz, $240 “Nord N200” for North America"
+        },
         {
           "id": "https://arstechnica.com/?p=1773383",
           "author": "Kyle Orland",
