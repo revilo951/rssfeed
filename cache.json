@@ -6,6 +6,213 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1jaw5/self_hosted_webui_dns_server_similar_to_cloudflare/",
+          "author": null,
+          "description": "Anyone know of any good, open source solutions for a DNS server which has a nice, decent, intuitive WebUI for DNS management? Something similar to the way CloudFlare works? Ive been meaning to testout DNS Manager from ISP manager . Windows doesn't have an HTML version of DNS server yet does it? (I know said open source but just curious).\n Alternatively, and maybe I'm misunderstanding this, but maybe an IPAM solution would be good too. Is IPAM where I manage my IPs/DHCP and DNS all in one? I always find it tedious and annoying AF to have to make a static DHCP reservation and then create a second DNS record with the ZeroShell Router i have. Would be sweet to have it all bundled together since IP address management and DNS are so tied together at the end of the day,\n Thanks!\n    submitted by    /u/ryanisflying  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1jaw5/self_hosted_webui_dns_server_similar_to_cloudflare/",
+          "publishedOn": "2021-06-17T00:00:15.000Z",
+          "wordCount": 272,
+          "title": "Self Hosted WebUI DNS Server similar to CloudFlare"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1j7lk/selfhosted_photographyvideo_media_gallary/",
+          "author": null,
+          "description": "Hello. i know this has been discussed before but wanted to get a june 2021 opinion on best self hosting solutions for a photographer/videographer? I take a lot of photos and videos and would like to self host a photo/video gallery. would be nice if it had option for people to purchase high res versions of my stuff too but not an absolute requirement ATM. Thanks!\n    submitted by    /u/ryanisflying  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1j7lk/selfhosted_photographyvideo_media_gallary/",
+          "publishedOn": "2021-06-16T23:55:35.000Z",
+          "wordCount": 186,
+          "title": "Selfhosted Photography/video media gallary"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1ipir/best_collaborative_writing/",
+          "author": null,
+          "description": "I have been looking at etherpad as one option, anyone know of any others that is not bulky, not a full office suite.\n    submitted by    /u/Alien8472  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1ipir/best_collaborative_writing/",
+          "publishedOn": "2021-06-16T23:30:19.000Z",
+          "wordCount": 140,
+          "title": "Best collaborative writing?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1i4xa/three_node_system_needs_low_latency_distributed/",
+          "author": null,
+          "description": "submitted by    /u/ctrl-brk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1i4xa/three_node_system_needs_low_latency_distributed/",
+          "publishedOn": "2021-06-16T23:02:42.000Z",
+          "wordCount": 281,
+          "title": "Three node system needs low latency distributed storage"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1hc34/recipe_managementmeal_plannng_comments_on_mealie/",
+          "author": null,
+          "description": "submitted by    /u/justalurker19  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1hc34/recipe_managementmeal_plannng_comments_on_mealie/",
+          "publishedOn": "2021-06-16T22:25:38.000Z",
+          "wordCount": 271,
+          "title": "Recipe management/meal plannng: comments on mealie vs tandoor recipes vs grocy?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1g5ad/secure_reverse_proxy/",
+          "author": null,
+          "description": "I've got a reverse proxy setup, with my services going through it, is there a way I can screen connections, so basically it'll prevent a connection and just return the page not found, and give me some sort of way to know that someone tried to connect and I can allow future connections from said ip or device (ideally this works on mobile devices on cellular, not sure how that would work if it was through ip).\n    submitted by    /u/Onesphere1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1g5ad/secure_reverse_proxy/",
+          "publishedOn": "2021-06-16T21:33:17.000Z",
+          "wordCount": 218,
+          "title": "Secure reverse proxy"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1f115/looking_for_opinionswhich_os_should_i_run_as_my/",
+          "author": null,
+          "description": "Hey guys,\n I have a single proxmox machine with multiple VMs, one of them being a file server/Plex and another hosting all my docker containers. The docker host was running on Alma Linux, but for some reason the virtual HDD has corrupted itself twice. Luckily I have backups but honestly I think I'm just gonna swap OSes. Any suggestions? I'm preferably looking for an RPM based OS but I'm open to switching.\n    submitted by    /u/ricktech15  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1f115/looking_for_opinionswhich_os_should_i_run_as_my/",
+          "publishedOn": "2021-06-16T20:45:34.000Z",
+          "wordCount": 596,
+          "title": "Looking for opinions...which OS should I run as my docker host"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1cpj7/liitle_project_i_made_to_monitor_crypto/",
+          "author": null,
+          "description": "submitted by    /u/LegendsOfBankai  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1cpj7/liitle_project_i_made_to_monitor_crypto/",
+          "publishedOn": "2021-06-16T19:07:50.000Z",
+          "wordCount": 158,
+          "title": "Liitle project i made to monitor crypto currencies, hope you guys like it ;)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1ci04/create_your_own_self_hosted_247_radio_station/",
+          "author": null,
+          "description": "submitted by    /u/nashosted  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1ci04/create_your_own_self_hosted_247_radio_station/",
+          "publishedOn": "2021-06-16T18:59:27.000Z",
+          "wordCount": 274,
+          "title": "Create Your own Self Hosted 24/7 Radio Station with AzuraCast and Docker"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1blxp/i_am_running_a_mail_in_a_box_server_and_my_banks/",
+          "author": null,
+          "description": "Sorry if this is a dumb question, I'm an amateur... As I said, I added the bank's email address to my contacts, but I don't see any other relevant settings in my webmail or on my box's admin page. Thanks for any help!\n I checked the domain on MX Toolbox's blacklist check, and it isn't listed at all, FWIW.\n    submitted by    /u/NotTRYINGtobeLame  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1blxp/i_am_running_a_mail_in_a_box_server_and_my_banks/",
+          "publishedOn": "2021-06-16T18:22:05.000Z",
+          "wordCount": 430,
+          "title": "I am running a Mail In A Box server, and my bank's emails consistently go to my spam folder. I've added their email address to my contacts. Is there a way I can fix this?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o18tn6/container_bind_mounts_on_nas/",
+          "author": null,
+          "description": "<rant> Literally how!? I've read about a lot of people using docker to run containers and storing all the big data on a NAS. While I run into endless problems trying to do this.\n Sure, apps that need read-only access (Plex/Jellyfin) have no problem. I add the NAS mount on the host and then bind mount the media folder into docker. No problem.\n But what about web apps that wants to write data? Nextcloud, WebDAV, etc.\n They start up and throw a fit that they couldn't chown everything under the sun:\n chown: /var/lib/dav/data: Operation not permitted\n chown: /var/lib/dav/data: Operation not permitted\n chown: /var/lib/dav/DavLock: Operation not permitted\n chown: /var/lib/dav: Operation not permitted\n chown: /var/lib/dav: Operation not permitted\n I've tried with NFS and CIFS, simple permissions, POSIX permissions, matching accounts, UIDs...\n </rant>\n I think my permissions are OK becuase I see that the app created a whole bunch of files in the NAS directory, but I guess couldn't chown them. \n Any advice?\n    submitted by    /u/dleewee  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o18tn6/container_bind_mounts_on_nas/",
+          "publishedOn": "2021-06-16T16:26:12.000Z",
+          "wordCount": 402,
+          "title": "Container bind mounts on NAS."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o18soh/sonarr_only_displays_host_path_for_downloads_but/",
+          "author": null,
+          "description": "I'm a newbie to Sonarr so apologies if there's supposed to be an easy fix. I tried google and the FAQ section but none of them seemed to help.\n So I have a linux host and a linux server (which is basically just an old laptop running Arch without a GUI). I've installed sonarr on the server, and the host machine can load the sonarr webpage though my local network. However, when I try to download a show, I need to add a download path and it only displays my host filesystem. I want to download shows to my server, but don't see an option for that even though both Sonarr and the webpage are hosted on the server.\n Also when I go to the Sonarr settings page, I can see that my server hard drive under Disk Space. I'm not sure why it doesn't give me the option to save to it.\n    submitted by    /u/IlIllllIIIllIIlIlIlI  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o18soh/sonarr_only_displays_host_path_for_downloads_but/",
+          "publishedOn": "2021-06-16T16:24:56.000Z",
+          "wordCount": 387,
+          "title": "Sonarr only displays host path for downloads, but not server path"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o18s10/do_you_dockerize_your_reverse_proxy/",
+          "author": null,
+          "description": "I am using nginx as a reverse proxy for my dockerized applications. I tried both with and without dockerizing and both work. Now I am curious why I should chose one above the other? Is a dockerized reverse proxy more secure than a bare nginx (e.g. installed with `apt`, `dnf`, ...)?\n What are your opinions and where can I find more information? \n View Poll\n    submitted by    /u/MartenBE  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o18s10/do_you_dockerize_your_reverse_proxy/",
+          "publishedOn": "2021-06-16T16:24:08.000Z",
+          "wordCount": 876,
+          "title": "Do you dockerize your reverse proxy?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o17dis/selfhosted_employee_web_based_in_out_board/",
+          "author": null,
+          "description": "Just seeing if anyone on this sub uses or has made an employee in / out board. Currently we use a magnetic white board to indicate if employees are in or out of the office but with more and more people working from home this just does not work. Hoping someone has some suggestions.\n    submitted by    /u/rreinsch  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o17dis/selfhosted_employee_web_based_in_out_board/",
+          "publishedOn": "2021-06-16T15:21:35.000Z",
+          "wordCount": 280,
+          "title": "Selfhosted Employee Web Based IN / OUT board"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o15u2f/selfhosted_documentation/",
+          "author": null,
+          "description": "Hi everyone,\n Does anyone know any good self-hosted documentation software? I'm looking for something similar to Docusaurus. It'll be for hosting primarily legal documentation and policies, a site like https://docs.github.com/en. Preferably with a modern UI too.\n    submitted by    /u/WeebHiroyuki  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o15u2f/selfhosted_documentation/",
+          "publishedOn": "2021-06-16T14:12:17.000Z",
+          "wordCount": 531,
+          "title": "Self-Hosted Documentation"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1581t/i_made_a_docker_dashboard_configured_using_docker/",
+          "author": null,
+          "description": "Hey guys,\n Thought I'd share my most recent creation: autodockerdash\n ​\n https://reddit.com/link/o1581t/video/azamirmjsm571/player\n It started as a little dashboard project, which is something I want this to grow into, but for now, it just displays docker container statuses.\n It's a simple server that will connect to your docker socket, get some stats on the containers, and if they have some specific labels, will display them on the dashboard. Includes the ability to display dependent \"child\" containers, useful to make sure that your app is running if it needs to include a DB etc.\n https://github.com/Inlustra/auto-docker-dash\n It's a little heavy handed and hasn't been tested super-well. It will auto update in the background using websockets though it is a server side rendered SPA, so you don't *need* Javascript.\n If you have any feature requests or comments, let me know or post on the github repo.\n    submitted by    /u/the_nairn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1581t/i_made_a_docker_dashboard_configured_using_docker/",
+          "publishedOn": "2021-06-16T13:44:31.000Z",
+          "wordCount": 398,
+          "title": "I made a docker dashboard, configured using docker labels"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o14i49/is_there_a_way_to_acces_an_android_app_as_a_web/",
+          "author": null,
+          "description": "Everything is in the title. I have an android app tasks.org which I would like to acces through my browser. Is there a way to do this ? \n Thank you for your help ! \n Have a good day !\n    submitted by    /u/oriue  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o14i49/is_there_a_way_to_acces_an_android_app_as_a_web/",
+          "publishedOn": "2021-06-16T13:10:05.000Z",
+          "wordCount": 242,
+          "title": "Is there a way to acces an android app as a web app ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1363y/im_looking_for_a_selfhosted_web_testquiz_platform/",
+          "author": null,
+          "description": "Hey guys, I'm looking for a self-hosted web solution that would be able to display a a series of videos/media, but in order to progress to the next one, a password would have to be entered. I understand this is a pretty niche request but if you have any ideas for a self-hosted solution, that would be ideal.\n Thanks for any help you can provide!!\n    submitted by    /u/kainotes  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1363y/im_looking_for_a_selfhosted_web_testquiz_platform/",
+          "publishedOn": "2021-06-16T11:58:47.000Z",
+          "wordCount": 282,
+          "title": "I'm looking for a self-hosted web test/quiz platform, wondering if this exists?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o10nne/trouble_trying_to_putty_ssh_in_to_my_oracle/",
+          "author": null,
+          "description": "I created a OpenVPN server using Oracle cloud. They have a marketplace image of OpenVPN and it creates a Oracle Ubuntu instance with OpenVPS installed. During the creation process it asks for my public key so I create one using PuttyGEN and copy / paste actually as shown (its RSA 2048 bit) and I was able to create the VPS succssfully. \n Then with putty I attach the private key, and enter my username (ubuntu) and VPS IP to SSH in. I get the error message \"putty error: PuTTY Fatal Errror. No supported authentication methods available ( server sesnt: publickey) \" \n I am following these guides exactly:\n https://k21academy.com/1z0-932/how-to-generate-ssh-keys-pair-for-oracle-cloud-windows-linux/\n https://blogs.oracle.com/developers/launching-your-own-free-private-vpn-in-the-oracle-cloud \n Any idea what I am doing wrong? I have repeated the entire process almost 12 times now and the issue remains. \n Note: The oracle blog link is outdated, the instance creation is different now then the images shown. In the blog it shows an option to generate SSH keys during the instance creation process, but this is not present when I create my instance, it only asks to enter my public SSH key (optional), which is why im using PuTTYGEN.\n    submitted by    /u/Firm_Maintenance2009  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o10nne/trouble_trying_to_putty_ssh_in_to_my_oracle/",
+          "publishedOn": "2021-06-16T09:14:32.000Z",
+          "wordCount": 428,
+          "title": "Trouble trying to PuTTY SSH in to my Oracle OPENVPN VPS (Oracle cloud)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o10bkm/trusting_selfhosted_backups/",
+          "author": null,
+          "description": "So I've been battling with a media server of mine off and on for a year or so now, and I struggle to see how I can trust anything self hosted to backup my data. \n I get the concerns for privacy etc when using cloud or other providers, and understand the 3-2-1 rules of backups, but given how often my media server has some issue that is big enough to leave it offline until I manually fix it, trusting anything like this is difficult. How do you guys feel \"confident\" in your self hosted backups?\n    submitted by    /u/SqueakyHusky  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o10bkm/trusting_selfhosted_backups/",
+          "publishedOn": "2021-06-16T08:50:27.000Z",
+          "wordCount": 1240,
+          "title": "Trusting Selfhosted Backups"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0x3tr/install_heimdall_dashboard_on_debianubuntu/",
+          "author": null,
+          "description": "Hey everyone! I'm wondering if there is a simple guide for install heimdall on Debian or Ubuntu without docker. Please don't ask \"well why not docker?\", that's not the point of this post (thank you) but the short answer is that I'm installing inside of an LXC and much prefer LXC to docker for ease of management within Proxmox. \n Wasn't able to find anything other than compiling from source, seems a bit odd! Thanks for your help in advance!\n    submitted by    /u/Tmanok  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0x3tr/install_heimdall_dashboard_on_debianubuntu/",
+          "publishedOn": "2021-06-16T04:58:21.000Z",
+          "wordCount": 377,
+          "title": "Install Heimdall Dashboard on Debian/Ubuntu without Docker?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0vji4/multimode_fiber_mmf_to_singlemode_fiber_smf/",
+          "author": null,
+          "description": "submitted by    /u/VviFMCgY  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0vji4/multimode_fiber_mmf_to_singlemode_fiber_smf/",
+          "publishedOn": "2021-06-16T03:22:13.000Z",
+          "wordCount": 140,
+          "title": "Multimode fiber (MMF) to Singlemode Fiber (SMF) Detached Garage Fiber Backhaul Upgrade"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o0taem/minio_server_on_pi_with_autorestic_as_backup/",
+          "author": null,
+          "description": "submitted by    /u/devOpsPat  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o0taem/minio_server_on_pi_with_autorestic_as_backup/",
+          "publishedOn": "2021-06-16T01:11:54.000Z",
+          "wordCount": 376,
+          "title": "MinIO Server on Pi with Autorestic as Backup Solution"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/o0rwg0/synapse_server_behind_nginx/",
           "author": null,
           "description": "Hi All,\n I am trying to host synapse server and use nginx as a reverse-proxy server.\n  \nThe synapse server is running fine and is accessible when I use localhost:8008. Note, 8008 port is used for the synapse server.\n The nginx server is running fine locally as I can access localhost , also using the internet as I can access my domain server www.mydomain.com .\n  \nI have setup nginx config in the following way\n location /matrix { proxy_pass http://localhost:8008/; proxy_set_header X-Forwarded-For $remote_addr; client_max_body_size 2000M; } \n to access the synapse server when I use www.mydomain.com/matrix.\n Now, the problem is when I use www.mydomain.com/matrix, my url in the address bar becomes www.mydomain.com/_matrix/static and gives 404 error (page does not exit).\n ​\n I think I need to change \"webroot\" somewhere either in the homeserver.yml Or nginx.conf to redirect url to the right local synapse server.\n ​\n Any help will be appreciated.\n Thanks\n    submitted by    /u/akumar131  \n [link]   [comments]",
@@ -3818,6 +4025,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=342358",
+          "author": "Chris Coyier",
+          "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/inline-styles-as-classes-lol/",
+          "publishedOn": "2021-06-16T21:11:02.000Z",
+          "wordCount": 604,
+          "title": "Inline Styles as Classes (lol)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342630",
+          "author": "Chris Coyier",
+          "description": "Jim Nielsen: \nIf somebody says a comment isn’t adding any value, I would ask: to whom?\nPersonally, I’ve never liked the advice that writing obvious comments is bad practice—probably because I write obvious comments all the time.\nJim showed …\nThe post Useful and Useless Code Comments appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
+          "publishedOn": "2021-06-16T19:08:33.000Z",
+          "wordCount": 869,
+          "title": "Useful and Useless Code Comments"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342353",
+          "author": "Okiki Ojo",
+          "description": "The Web Animations API lets us construct animations and control their playback with JavaScript. The API opens the browser’s animation engine to developers and was designed to underlie implementations of both CSS animations and transitions, leaving the door open to …\nThe post How I Used the WAAPI to Build an Animation Library appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-i-used-the-waapi-to-build-an-animation-library/",
+          "publishedOn": "2021-06-16T14:26:58.000Z",
+          "wordCount": 2409,
+          "title": "How I Used the WAAPI to Build an Animation Library"
+        },
+        {
           "id": "https://css-tricks.com/?p=342198",
           "author": "Chris Coyier",
           "description": "Usually, when “unused” comes up in conversation regarding CSS, it’s about removing chunks of CSS that are not used in your site or, at least, the styles not currently in use on a specific page. The minimal amount of CSS …\nThe post Detect Unused Classes in… HTML appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -4239,6 +4473,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
+          "author": "hello@smashingmagazine.com (Nic Chan)",
+          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
+          "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
+          "publishedOn": "2021-06-16T10:30:00.000Z",
+          "wordCount": 4102,
+          "title": "A Complete Guide To Accessibility Tooling",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/multiple-wordpress-sites-locally-devkinsta/",
           "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
           "description": "When developing themes and plugins for WordPress, we need to test them in different environments. How can we create multiple testing sites on our computer, quickly and easily, without having to become a sysadmin?",
@@ -4615,34 +4863,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.",
-          "link": "https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/",
-          "publishedOn": "2021-05-18T10:30:00.000Z",
-          "wordCount": 1796,
-          "title": "How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1e69194b-9e57-4713-bed2-d2f18dd6c914/create-animate-svg-graphics-svgator3-image-7.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.",
-          "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/",
-          "publishedOn": "2021-05-18T05:00:00.000Z",
-          "wordCount": 9250,
-          "title": "Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e26ce3b7-49e1-45d7-8411-ecc5b2d696cd/smashing-podcast-episode-37.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -4651,6 +4871,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60c088e5d3126007592d56f1",
+          "author": null,
+          "description": "In general, a string represents a sequence of characters in a programming language.  Let's look at an example of a string created using a sequence of characters, \"Yes, You Can DO It!\". In JavaScript, we can create a string in a couple of ways: Using the string literal as a",
+          "link": "https://www.freecodecamp.org/news/javascript-split-how-to-split-a-string-into-an-array-in-js/",
+          "publishedOn": "2021-06-16T21:19:08.000Z",
+          "wordCount": 1696,
+          "title": "JavaScript Split – How to Split a String into an Array in JS"
+        },
+        {
+          "id": "60b8cb0aacb62507dd1d82ea",
+          "author": null,
+          "description": "In this article, I'll explain two important concepts in statistics: skewness and kurtosis. And don't worry – you won't need to know very much math to understand these concepts and learn how to apply them. What are Density Curves?Let's first talk a bit about density curves, as skewness and kurtosis",
+          "link": "https://www.freecodecamp.org/news/skewness-and-kurtosis-in-statistics-explained/",
+          "publishedOn": "2021-06-16T20:56:49.000Z",
+          "wordCount": 2502,
+          "title": "Skewness and Kurtosis – Positively Skewed and Negatively Skewed Distributions in Statistics Explained"
+        },
+        {
+          "id": "60ca25704dc1a607ed7b408c",
+          "author": null,
+          "description": "Here's a list of amazing tricks that you can use to improve your React applications instantly. These tips will not only make your code cleaner and more reliable, but they also aim to make your development experience easier and overall more enjoyable.  Give these techniques a try in your React",
+          "link": "https://www.freecodecamp.org/news/build-better-react-apps-with-these-tricks/",
+          "publishedOn": "2021-06-16T20:55:03.000Z",
+          "wordCount": 1525,
+          "title": "Build Better React Apps with These Simple Tricks"
+        },
+        {
+          "id": "60ca30af4dc1a607ed7b4197",
+          "author": null,
+          "description": "You can learn the basics of Data Analytics with 30 days of practice.  We just released a Data Analytics course on the freeCodeCamp.org YouTube channel. The course includes a 40-minute video, as well as a website and Jupyter notebooks. If you follow the plan laid out in these course",
+          "link": "https://www.freecodecamp.org/news/teach-yourself-data-analytics-in-30-days/",
+          "publishedOn": "2021-06-16T17:19:31.000Z",
+          "wordCount": 411,
+          "title": "Teach Yourself Data Analytics in 30 Days"
+        },
         {
           "id": "60c91b2b4dc1a607ed7b389a",
           "author": null,
@@ -5261,6 +5517,159 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1774162",
+          "author": "Jim Salter",
+          "description": "Explicit privacy communication mechanism can simplify UI and limit user fatigue.",
+          "link": "https://arstechnica.com/?p=1774162",
+          "publishedOn": "2021-06-16T23:55:26.000Z",
+          "wordCount": 1301,
+          "title": "A new HTTP spec proposes elimination of obnoxious “cookie banners”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774172",
+          "author": "Samuel Axon",
+          "description": "The interview also touched on privacy, AR, health, and future products.",
+          "link": "https://arstechnica.com/?p=1774172",
+          "publishedOn": "2021-06-16T23:09:29.000Z",
+          "wordCount": 1330,
+          "title": "Apple‘s Tim Cook: Sideloading is “not in the best interests of the user”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774127",
+          "author": "Nate Anderson",
+          "description": "\"We do not forgive. We do not forget.\" But neither do the feds.",
+          "link": "https://arstechnica.com/?p=1774127",
+          "publishedOn": "2021-06-16T21:17:15.000Z",
+          "wordCount": 1379,
+          "title": "Ten-year hactivist fugitive Commander X arrested in Mexico"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774126",
+          "author": "Sam Machkovech",
+          "description": "Announcement doubles down on Facebook account requirement for Oculus hardware.",
+          "link": "https://arstechnica.com/?p=1774126",
+          "publishedOn": "2021-06-16T21:05:35.000Z",
+          "wordCount": 1291,
+          "title": "Facebook begins tying social media use to ads served inside its VR ecosystem"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774059",
+          "author": "Jennifer Ouellette",
+          "description": "Second season doesn't debut until 2022, but this whets our appetite.",
+          "link": "https://arstechnica.com/?p=1774059",
+          "publishedOn": "2021-06-16T20:08:49.000Z",
+          "wordCount": 1478,
+          "title": "New Picard S2 teaser taunts us with return of Q, time shenanigans"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774063",
+          "author": "Jon Brodkin",
+          "description": "Fake Amazon reviews are bought and sold on social media, including Facebook.",
+          "link": "https://arstechnica.com/?p=1774063",
+          "publishedOn": "2021-06-16T18:50:26.000Z",
+          "wordCount": 1250,
+          "title": "Amazon blames social media companies for sales of fake Amazon reviews"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774066",
+          "author": "Beth Mole",
+          "description": "More than 100 million vaccine doses are still in limbo at the facility.",
+          "link": "https://arstechnica.com/?p=1774066",
+          "publishedOn": "2021-06-16T18:09:40.000Z",
+          "wordCount": 1194,
+          "title": "After ruining 75M J&J doses, Emergent gets FDA clearance for 25M doses"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773854",
+          "author": "Sam Machkovech",
+          "description": "You can play (most of) the games on our \"Best of E3\" list right now for free on PC, Xbox.",
+          "link": "https://arstechnica.com/?p=1773854",
+          "publishedOn": "2021-06-16T17:00:02.000Z",
+          "wordCount": 1582,
+          "title": "Forget trailers: The best upcoming games we played at this year’s E3"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773988",
+          "author": "Ron Amadeo",
+          "description": "Both users need Google Messages, RCS needs to be on, and it's for 1:1 chats only.",
+          "link": "https://arstechnica.com/?p=1773988",
+          "publishedOn": "2021-06-16T16:37:21.000Z",
+          "wordCount": 888,
+          "title": "Google enables end-to-end encryption for Android’s default SMS/RCS app"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773964",
+          "author": "Eric Berger",
+          "description": "The small rockets are not cheap, but they are effective.",
+          "link": "https://arstechnica.com/?p=1773964",
+          "publishedOn": "2021-06-16T16:15:48.000Z",
+          "wordCount": 854,
+          "title": "Cold-War-era missile launches three modern-day spy satellites"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774022",
+          "author": "Tim De Chant",
+          "description": "As chair, Khan could bring a new approach to antitrust enforcement.",
+          "link": "https://arstechnica.com/?p=1774022",
+          "publishedOn": "2021-06-16T16:01:57.000Z",
+          "wordCount": 1311,
+          "title": "Lina Khan, Big Tech skeptic, named FTC chair mere hours after confirmation"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773928",
+          "author": "Kiona N. Smith",
+          "description": "It's a rare piece of evidence of people killing cave bears during the Pleistocene.",
+          "link": "https://arstechnica.com/?p=1773928",
+          "publishedOn": "2021-06-16T15:02:32.000Z",
+          "wordCount": 1470,
+          "title": "Someone stabbed a cave bear in the head with a spear 35,000 years ago"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773745",
+          "author": "Jennifer Ouellette",
+          "description": "The star ejected a gas bubble, and lower temps condensed heavier elements into dust.",
+          "link": "https://arstechnica.com/?p=1773745",
+          "publishedOn": "2021-06-16T15:00:36.000Z",
+          "wordCount": 1502,
+          "title": "A cold spot and a stellar burp led to strange dimming of Betelgeuse"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773989",
+          "author": "Jonathan M. Gitlin",
+          "description": "The EV startup will need funds to increase production past 20,000 trucks a year.",
+          "link": "https://arstechnica.com/?p=1773989",
+          "publishedOn": "2021-06-16T14:11:14.000Z",
+          "wordCount": 600,
+          "title": "Lordstown has binding orders, says limited production starts this year"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773621",
+          "author": "Ars Contributors",
+          "description": "Living next to Ned Flanders won't teach you as much about the fundamental nature of reality.",
+          "link": "https://arstechnica.com/?p=1773621",
+          "publishedOn": "2021-06-16T11:30:33.000Z",
+          "wordCount": 1794,
+          "title": "A guide to living at a black hole"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773860",
+          "author": "Ars Contributors",
+          "description": "Following mercury around the environment isn't easy.",
+          "link": "https://arstechnica.com/?p=1773860",
+          "publishedOn": "2021-06-16T10:15:07.000Z",
+          "wordCount": 1472,
+          "title": "Mercury is accumulating in deep-ocean trenches"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773959",
+          "author": "Jonathan M. Gitlin",
+          "description": "The Polestar 3 electric SUV goes into production in 2022.",
+          "link": "https://arstechnica.com/?p=1773959",
+          "publishedOn": "2021-06-16T10:00:15.000Z",
+          "wordCount": 659,
+          "title": "Polestar picks the US to build its next electric vehicle"
+        },
         {
           "id": "https://arstechnica.com/?p=1773877",
           "author": "Beth Mole",
