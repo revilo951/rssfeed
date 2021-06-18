@@ -2,10 +2,558 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-17T00:41:48.406Z</updated>
+    <updated>2021-06-18T00:42:08.723Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Start Your Own ISP]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2bfts/start_your_own_isp/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2bfts/start_your_own_isp/"/>
+        <updated>2021-06-17T23:51:54.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/stanislavb  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNS and connection type leak on VPN (IMAGE)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o28rsv/dns_and_connection_type_leak_on_vpn_image/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o28rsv/dns_and_connection_type_leak_on_vpn_image/"/>
+        <updated>2021-06-17T21:46:01.000Z</updated>
+        <summary type="html"><![CDATA[I made a OPENVPN VPS using oracle cloud. I connected and my IP changed as expected, however I am showing DNS and connection leak. See image here: https://i.imgur.com/K5uWgH8.png
+ How do I fix this so I dont leak DNS and connection type?
+    submitted by    /u/Firm_Maintenance2009  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Game Boy Advance game gets split-screen multiplayer through new FPGA core]]></title>
+        <id>https://arstechnica.com/?p=1774517</id>
+        <link href="https://arstechnica.com/?p=1774517"/>
+        <updated>2021-06-17T21:45:18.000Z</updated>
+        <summary type="html"><![CDATA[No link-cable needed for this emulated single-machine, single-display solution.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self hosting on Hostgator?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o27zhd/self_hosting_on_hostgator/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o27zhd/self_hosting_on_hostgator/"/>
+        <updated>2021-06-17T21:11:11.000Z</updated>
+        <summary type="html"><![CDATA[I recently got a 3 year shared Hostgator plan. Except for 1 site, I'm not using it much. I recently installed Nextcloud on it to backup by work files (my laptop crashes alot) and I intend to replace Dropbox completely. Is this safe? And what other things can I host on my Hostgator account?
+    submitted by    /u/viditj  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ngnix Proxy Manager without docker?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o27s4a/ngnix_proxy_manager_without_docker/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o27s4a/ngnix_proxy_manager_without_docker/"/>
+        <updated>2021-06-17T21:02:11.000Z</updated>
+        <summary type="html"><![CDATA[Guru's
+ Has anyone installed Ngnix Proxy Manager without docker?
+    submitted by    /u/ithakaa  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newly discovered Vigilante malware outs software pirates and blocks them]]></title>
+        <id>https://arstechnica.com/?p=1774437</id>
+        <link href="https://arstechnica.com/?p=1774437"/>
+        <updated>2021-06-17T21:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Most malware tries to steal stuff. Vigilante, by contrast, takes aim at piracy.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon joins Apple, Google by reducing its app store cut]]></title>
+        <id>https://arstechnica.com/?p=1774382</id>
+        <link href="https://arstechnica.com/?p=1774382"/>
+        <updated>2021-06-17T20:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Developers with revenues under $1 million are getting a new deal.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft server hosting help]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2796a/minecraft_server_hosting_help/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2796a/minecraft_server_hosting_help/"/>
+        <updated>2021-06-17T20:39:33.000Z</updated>
+        <summary type="html"><![CDATA[I've recently started looking into Minecraft server hosting, and I want to host a 24/7 Java and Bedrock (using GeyserMC plugin) but I'm not sure what hosting to to with. I've experimented with self hosting and have got that to work and everything, however I don't want to have my personal pc running 24/7. I've looked into Pebblehost but I saw that it's virtual and that I might have to use terminal, which I'm not sure about; I'm used to windows and its simplicity, however I don't know where to start with hosting and the thought of using Linux frightens me (lol). Can anyone recommend me a good service to use or reassure me that I would be able to use Pebblehost? Either will work lmao, thanks for reading I guess
+ TL;DR need server help pls Pebblehost scary Apex overpriced need server 24/7 for friends
+    submitted by    /u/Zynetric  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A number of recommended Nintendo Switch games are on sale today]]></title>
+        <id>https://arstechnica.com/?p=1774246</id>
+        <link href="https://arstechnica.com/?p=1774246"/>
+        <updated>2021-06-17T20:05:02.000Z</updated>
+        <summary type="html"><![CDATA[Dealmaster also has early Prime Day discounts, Philips Hue deals, and more.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Homer Dashboard]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o25fgl/my_homer_dashboard/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o25fgl/my_homer_dashboard/"/>
+        <updated>2021-06-17T19:23:47.000Z</updated>
+        <summary type="html"><![CDATA[I switched from Heimdall to Homer because of a better overview ...
+ ​
+ https://preview.redd.it/4olumsyzmv571.png?width=3840&format=png&auto=webp&s=c19030f26c3175b6bddb2712dd6f7c43e20632b0
+    submitted by    /u/Famku  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft’s Linux repositories were down for 18+ hours]]></title>
+        <id>https://arstechnica.com/?p=1774337</id>
+        <link href="https://arstechnica.com/?p=1774337"/>
+        <updated>2021-06-17T19:22:33.000Z</updated>
+        <summary type="html"><![CDATA[The outage prevented Linux installation or upgrade of any Microsoft software.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Few questions about calibre-web]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o24f4z/few_questions_about_calibreweb/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o24f4z/few_questions_about_calibreweb/"/>
+        <updated>2021-06-17T18:41:46.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ I'm setting up my ebook server. I decided to use calibre-web - https://github.com/janeczku/calibre-web as a docker container and to be honest, it confuses me a lot. Documentation is not very good so I decided to ask more experienced self hosters about a few things.
+ Is it just gui for browsing ebooks? I cannot find any "add" button, so I'm not sure if it is supposed to work similar to regular calibre, or is it just browsing frontend? How can I add new book? Should I also have calibre in parallel, that will use the same database as calibre-web from the mentioned above git repository?
+ Second question? Is it possible to host audiobooks with calibre-web?
+    submitted by    /u/lord_EarlGray  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA officials asked to step down after contentious Alzheimer’s drug approval]]></title>
+        <id>https://arstechnica.com/?p=1774338</id>
+        <link href="https://arstechnica.com/?p=1774338"/>
+        <updated>2021-06-17T18:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Three experts resigned in protest. Watchdog says it's FDA brass that should leave.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers cool a 40 kg object to near its quantum ground state]]></title>
+        <id>https://arstechnica.com/?p=1774340</id>
+        <link href="https://arstechnica.com/?p=1774340"/>
+        <updated>2021-06-17T18:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Mirrors of the LIGO gravitational-wave detector get cool—extremely cool.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s what’s inside Google’s first-ever retail store]]></title>
+        <id>https://arstechnica.com/?p=1774248</id>
+        <link href="https://arstechnica.com/?p=1774248"/>
+        <updated>2021-06-17T18:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Buy a speaker, try Google Stadia, or fix a cracked phone screen—the store is open.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[listmonk - Self-hosted newsletter & mailing list manager]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o228hs/listmonk_selfhosted_newsletter_mailing_list/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o228hs/listmonk_selfhosted_newsletter_mailing_list/"/>
+        <updated>2021-06-17T17:09:28.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/codesharer  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automate checking email, downloading attachments, and save them to a folder in Syncthing]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2274b/automate_checking_email_downloading_attachments/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2274b/automate_checking_email_downloading_attachments/"/>
+        <updated>2021-06-17T17:07:43.000Z</updated>
+        <summary type="html"><![CDATA[I use Rocketbook and the Rocketbook app to write handwritten notes, the app only saves to cloud services like dropbox, so the only alternative is to email them to myself and then manually move the notes to Syncthing
+ Here is what im trying to do:
+ - I will create an email address that is only used for me to send myself attachments i want saved in Syncthing
+ - have my ubuntu server automatically check that email, maybe every 15 minutes or 20 minutes or something
+ - if it detects the email is from my specific email address, download the attachment
+ - copy the attachment to my syncthing folder on the server
+ ​
+ does anyone know of any programs that can automate email checking on a server? thanks
+    submitted by    /u/shizno2097  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Jackson’s 6-hour Beatles documentary confirmed for Disney+ this November]]></title>
+        <id>https://arstechnica.com/?p=1774274</id>
+        <link href="https://arstechnica.com/?p=1774274"/>
+        <updated>2021-06-17T16:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Jackson thanks Beatles, Disney for "allowing me to present this story" as 6-hour beast.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bethesda exec says he’s “sorry” for lack of PS5 Starfield]]></title>
+        <id>https://arstechnica.com/?p=1774277</id>
+        <link href="https://arstechnica.com/?p=1774277"/>
+        <updated>2021-06-17T16:21:25.000Z</updated>
+        <summary type="html"><![CDATA["I'm certain that's frustrating... but there's not a whole lot I can do about it."]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any package for OpenWRT/pfSense that offers DPI Bypass on a network wide level ?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o20z42/any_package_for_openwrtpfsense_that_offers_dpi/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o20z42/any_package_for_openwrtpfsense_that_offers_dpi/"/>
+        <updated>2021-06-17T16:14:11.000Z</updated>
+        <summary type="html"><![CDATA[My ISP just blocked a ton of websites, ranging from porn to web magazines. I can successfully bypass the DPI using GoodByeDPI but that needs to be installed on each and every computer. 
+ Is there a package for OpenWRT/pfSense that blocks DPI on a network wide level ?
+    submitted by    /u/drtechwp  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ngnix with pihole (hosted on docker)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o20wr1/ngnix_with_pihole_hosted_on_docker/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o20wr1/ngnix_with_pihole_hosted_on_docker/"/>
+        <updated>2021-06-17T16:11:14.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/DK09_  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple Docker Image to monitor LAN clients through Ping and send reports through email ?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o20uwu/simple_docker_image_to_monitor_lan_clients/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o20uwu/simple_docker_image_to_monitor_lan_clients/"/>
+        <updated>2021-06-17T16:09:04.000Z</updated>
+        <summary type="html"><![CDATA[I need a simple docker application that monitors an IP address and sends email notifications whenever the state changes (client goes offline > online and vice versa).
+ Tried Statping already, found it out to be too resource extensive (Ubuntu Server 20.04 on Q6600, statping along consumes around 40% RAM with just 5 hosts enabled).
+ ​
+ Edit : Forgot to mention some of the devices being monitored include ESP8266 and other IOT Stuff (Garden Sprinklers) that wake up only once in a while and support no SNMP.
+    submitted by    /u/drtechwp  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heimdall - no applications, updating list does not work]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o20n1z/heimdall_no_applications_updating_list_does_not/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o20n1z/heimdall_no_applications_updating_list_does_not/"/>
+        <updated>2021-06-17T15:59:38.000Z</updated>
+        <summary type="html"><![CDATA[Hello there!
+ Today i installed Heimdall, because it looked nice and i wanted a quick way to access all my selfhosted apps.
+ But after the installation (docker) i wanted to add an app and i've seen in a few youtube videos, that heimdall is suggesting names if you type in the application name and also does create cards for supported apps.
+ But this does not work somehow.
+ For example i wanted to add plex, so i type in plex in application name and from what i have seen is that i should suggest "Plex" from a dropdown list and also create an card for plex automatically, because it is an supported app (Checked on apps.heimdall.site)
+ I also tried the "update app list" button a few times, but didn't work and after that i download the Plex.zip from the heimdall-apps github site manually and unzipped it to config/www/supported apps, but nothing did work as expected.
+ ​
+ Do i miss anything?
+ Hope someone can help me :)
+    submitted by    /u/Bleala  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dockers on a Qnap. Should I migrate away from it?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o209a0/dockers_on_a_qnap_should_i_migrate_away_from_it/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o209a0/dockers_on_a_qnap_should_i_migrate_away_from_it/"/>
+        <updated>2021-06-17T15:41:55.000Z</updated>
+        <summary type="html"><![CDATA[A ton of time is not something I have. With that said, QNAP container station app doesn't seem to automatically update Docker images without losing the data. Anyone else use a QNAP have a solution to updating the images without breaking everything? I'd rather not run another server for this right now since I lack the time.
+    submitted by    /u/ContentMountain  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World Bank slams bitcoin, declines to help El Salvador’s cryptocurrency plan]]></title>
+        <id>https://arstechnica.com/?p=1774253</id>
+        <link href="https://arstechnica.com/?p=1774253"/>
+        <updated>2021-06-17T15:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Bank faults bitcoin's “environmental and transparency shortcomings.”]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perfect Tooltips With CSS Clipping and Masking]]></title>
+        <id>https://css-tricks.com/?p=341948</id>
+        <link href="https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/"/>
+        <updated>2021-06-17T14:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.
+Those …
+The post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Louis Hoebregts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Start Serving Optimized Images in Vue]]></title>
+        <id>https://css-tricks.com/?p=342257</id>
+        <link href="https://css-tricks.com/start-serving-optimized-images-in-vue/"/>
+        <updated>2021-06-17T14:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.
+However, web performance is also a growing problem for most websites. And images are at the heart of many web …
+The post Start Serving Optimized Images in Vue appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>ImageEngine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lordstown Motors now says that it has no binding orders for EV truck]]></title>
+        <id>https://arstechnica.com/?p=1774232</id>
+        <link href="https://arstechnica.com/?p=1774232"/>
+        <updated>2021-06-17T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[It clarified with the Securities and Exchange Commission that it has no firm orders.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TiZu datacenter homelab - part 1]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o1wqxn/tizu_datacenter_homelab_part_1/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o1wqxn/tizu_datacenter_homelab_part_1/"/>
+        <updated>2021-06-17T13:03:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/TiZuid  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Smart" web page monitoring tool]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o1wnzw/smart_web_page_monitoring_tool/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o1wnzw/smart_web_page_monitoring_tool/"/>
+        <updated>2021-06-17T13:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Hello gentlemen, hello ladies,
+ I am searching for something capable of monitoring a web page, but in a "smart" way. When I monitor this page manually, I need to click to a couple of buttons in order to know if there have been any changes (in my case, if there is any disponibility of this certain product). For this reason, I cannot use extensions like "Refresh & Monitor", because I would need the tool to perform these actions before checking if a certain line of text appeared. Also, I would need this tool to have very short checking intervals, like no more than 5 seconds. Any ideas?
+    submitted by    /u/serena_nadhiri  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Log Collector on managed webhost]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o1wltu/log_collector_on_managed_webhost/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o1wltu/log_collector_on_managed_webhost/"/>
+        <updated>2021-06-17T12:57:01.000Z</updated>
+        <summary type="html"><![CDATA[I would like to be able to see logs from a node backend and possibly a frontend I created though a web interface. The issue is, I have a shared web host, and I would like to stay solely on that if possible (not have to rent a VPS just for this).
+ Are there any log collectors / analyzers like greylog which are able to run just with either PHP , Node, Ruby or Python and a MySQL database? All the ones I found required to install it as software.
+ Thanks!
+    submitted by    /u/Standard-Notice  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX to break the final frontier in reuse with national defense launch]]></title>
+        <id>https://arstechnica.com/?p=1774211</id>
+        <link href="https://arstechnica.com/?p=1774211"/>
+        <updated>2021-06-17T12:49:55.000Z</updated>
+        <summary type="html"><![CDATA[Thursday's GPS mission is a high priority for the Space Force.]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course]]></title>
+        <id>60c2aa56d3126007592d6226</id>
+        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/"/>
+        <updated>2021-06-17T12:02:47.000Z</updated>
+        <summary type="html"><![CDATA[What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ohio Republicans close to imposing near-total ban on municipal broadband]]></title>
+        <id>https://arstechnica.com/?p=1774198</id>
+        <link href="https://arstechnica.com/?p=1774198"/>
+        <updated>2021-06-17T11:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Bill's 10Mbps standard could make 98% of Ohio ineligible for municipal networks.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatically download large data files and delete them afterwards]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o1v3ge/automatically_download_large_data_files_and/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o1v3ge/automatically_download_large_data_files_and/"/>
+        <updated>2021-06-17T11:34:43.000Z</updated>
+        <summary type="html"><![CDATA[My company's server generates large data dumps ( 200gb+ ) and logs every hour and I need to download them automatically to my local computer storage as soon as they are generated, I have a sketchy power supply in my area and hence the downloads get abrupted fairly often and thus I need the partial downloads to resume automatically, in addition I need the files to get deleted from their original location as soon as they are fully downloaded.
+ The remote computer is a mac and my local computer is a windows machine.
+ I have tried Syncthing, but its speed varies a lot and often times I catch it either at a very low speed or at zero speed.
+ I am fairly novice to programming, would be great if I can get a tool, script or directions to think this programmatically.
+    submitted by    /u/anshukg  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your Image Is Probably Not Decorative]]></title>
+        <id>https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/</id>
+        <link href="https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/"/>
+        <updated>2021-06-17T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Eric Bailey)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardware for unraid NAS - Help please]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o1tlyx/hardware_for_unraid_nas_help_please/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o1tlyx/hardware_for_unraid_nas_help_please/"/>
+        <updated>2021-06-17T10:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+ I want to upgrade my mediacenter/server home setup and I want to implement a solution with unraid.
+ My objective is keep low as possible the power consumption, and have enough capacity to run 5/6 VM (one, with an huge plex library).
+ I have looking for a lot of possible configurations, and these two I think are the more adeguate.
+ I would know your opinion about it and if you have any suggestion (on compatibility as well) is it really welcome.
+ ​
+ Thanks
+ ​
+ 1 - Option:
+ ​
+ Asrock IMB-V1000M - V1605B 340 eur
+ ARCTIC Alpine 12 Passive – Cooler 13eur
+ RAM 16GB 60 eur
+ case fractal - Node 304 102 eur
+ Genuine LSI 6 Gbps SAS HBA LSI 9201-8i P20 / LSI SAS 9211-8i 6 Gbps 8 p SAS/SATA 70eur
+ power supply - Cooler Master MasterWatt 450 EU 50eur
+ M2 NVME 500GB 50eur
+ Unraid 55eur
+ TOTAL 740,00 €
+ ​
+ 2 - Option:
+ ​
+ e3 - 10300t TDP 25w 150,00 €
+ ASRock H510M-ITX/AC (4k) / ASRock H570M ITX/ac (dual nic) 150eur
+ ARCTIC Alpine 12 Passive – Cooler 13eur
+ hba sata pci AsMedia ASM1061 - ASM1062 25eur
+ case fractal - Node 304 102eur
+ RAM 16GB 60eur
+ power supply -Cooler Master MasterWatt 450 EU 50eur
+ M2 NVME 500GB 50
+ Unraid 55
+ TOTAL 655,00 €
+    submitted by    /u/Accomplished_Shop881  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mitigating egress data transfer costs]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o1s2ai/mitigating_egress_data_transfer_costs/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o1s2ai/mitigating_egress_data_transfer_costs/"/>
+        <updated>2021-06-17T08:18:20.000Z</updated>
+        <summary type="html"><![CDATA[TLDR
+  
+I was wondering, what are your strategies to mitigate egress data transfer costs?
+ 
+Also, does anyone know if there exists some kind of firewall that I can install on my servers so that it would keep an eye on the egress data transfer and cap outward bandwidth down to a fixed Mbps amount after a limit (say 1TB out) has been reached?
+ 
+ Motivation
+ Hi guys, I am a 4th year Software Eng student and in the last couple of years I've been researching and learning about cloud technologies and services. It seems to me that cloud computing and data storage are relatively cheap, or at least you can find ways to mitigate the costs (e.g. spot instances, S3 storage classes etc..). On the other hand egress data transfer costs really bug me:
+  
+the big cloud providers (AWS, GCP and Azure) offer …]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mealie 0.5.0 is Released! 🚀]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o1s1n5/mealie_050_is_released/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o1s1n5/mealie_050_is_released/"/>
+        <updated>2021-06-17T08:17:07.000Z</updated>
+        <summary type="html"><![CDATA[The new version of Mealie, by u/Akmantainman and the community, recipe planner is released with lots and lots of enhancements! Make sure to read the changelog because there are some breaking changes.
+ The demo can be tried here: https://mealie-demo.hay-kot.dev
+ Including:
+ https://hay-kot.github.io/mealie/changelog/v0.5.0/
+  
+New Recipe Scraper for improved accuracy
+ Toolbox to organize your recipes
+ Progressive web app with caching
+ Notifications with Apprise to your favourite services
+ Step sections in recipes
+ Printable pages
+ Integrated share capabilities
+ Improvements to Meal Planner
+  
+And MANY, MANY more! 🚀🚀
+ Join the discord for any questions!
+ ​
+    submitted by    /u/zierbeek  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soho alternative to PaperPort 14?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o1rzjq/soho_alternative_to_paperport_14/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o1rzjq/soho_alternative_to_paperport_14/"/>
+        <updated>2021-06-17T08:13:17.000Z</updated>
+        <summary type="html"><![CDATA[I’ve recently been looking for a SOHO document management system that can OCR and index PDFs. 
+ I used to use PaperPort (came free with a scanner a lifetime ago) and was very happy with everything except remote access and the need to keep a PC running to host it.
+ I’ve since moved through Googledrive, OneDrive and Owncloud and have yet to find something that works as well for me as PaperPort did. 
+ Ideally I’d like something that can run on a Synology NAS, has a good web GUI and supports mobile devices as clients (the wife has an iPhone 12 and a Samsung tablet). I need to maintain an offsite backup copy (I have a synology ds1515+ and a ds713+ with ds513 that makes it the same size as the ds1515+ for local backups) and am happy to use a VPS for snapshots etc in case of ransomware. 
+ My primary need is to scan to PDF and have those PDFs OCR’d and indexed so I can easily find and print anything I need. Add to that things like PDF downloads such as MagPI and HackSpace magazines and manuals for everything I own and it becomes a complete repository with no need for a nay paper files. 
+ Do you do anything like this for your documents and what do you recommend?
+    submitted by    /u/dhardyuk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox]]></title>
+        <id>60c88bbc4dc1a607ed7b2ffa</id>
+        <link href="https://www.freecodecamp.org/news/what-are-bookmarklets/"/>
+        <updated>2021-06-17T00:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Self Hosted WebUI DNS Server similar to CloudFlare]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/o1jaw5/self_hosted_webui_dns_server_similar_to_cloudflare/</id>
@@ -10751,16 +11299,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
-        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
-        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
-        <updated>2021-05-19T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>

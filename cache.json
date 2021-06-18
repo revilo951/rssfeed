@@ -6,6 +6,204 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o2bfts/start_your_own_isp/",
+          "author": null,
+          "description": "submitted by    /u/stanislavb  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o2bfts/start_your_own_isp/",
+          "publishedOn": "2021-06-17T23:51:54.000Z",
+          "wordCount": 216,
+          "title": "Start Your Own ISP"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o28rsv/dns_and_connection_type_leak_on_vpn_image/",
+          "author": null,
+          "description": "I made a OPENVPN VPS using oracle cloud. I connected and my IP changed as expected, however I am showing DNS and connection leak. See image here: https://i.imgur.com/K5uWgH8.png\n How do I fix this so I dont leak DNS and connection type?\n    submitted by    /u/Firm_Maintenance2009  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o28rsv/dns_and_connection_type_leak_on_vpn_image/",
+          "publishedOn": "2021-06-17T21:46:01.000Z",
+          "wordCount": 203,
+          "title": "DNS and connection type leak on VPN (IMAGE)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o27zhd/self_hosting_on_hostgator/",
+          "author": null,
+          "description": "I recently got a 3 year shared Hostgator plan. Except for 1 site, I'm not using it much. I recently installed Nextcloud on it to backup by work files (my laptop crashes alot) and I intend to replace Dropbox completely. Is this safe? And what other things can I host on my Hostgator account?\n    submitted by    /u/viditj  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o27zhd/self_hosting_on_hostgator/",
+          "publishedOn": "2021-06-17T21:11:11.000Z",
+          "wordCount": 174,
+          "title": "Self hosting on Hostgator?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o27s4a/ngnix_proxy_manager_without_docker/",
+          "author": null,
+          "description": "Guru's\n Has anyone installed Ngnix Proxy Manager without docker?\n    submitted by    /u/ithakaa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o27s4a/ngnix_proxy_manager_without_docker/",
+          "publishedOn": "2021-06-17T21:02:11.000Z",
+          "wordCount": 190,
+          "title": "Ngnix Proxy Manager without docker?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o2796a/minecraft_server_hosting_help/",
+          "author": null,
+          "description": "I've recently started looking into Minecraft server hosting, and I want to host a 24/7 Java and Bedrock (using GeyserMC plugin) but I'm not sure what hosting to to with. I've experimented with self hosting and have got that to work and everything, however I don't want to have my personal pc running 24/7. I've looked into Pebblehost but I saw that it's virtual and that I might have to use terminal, which I'm not sure about; I'm used to windows and its simplicity, however I don't know where to start with hosting and the thought of using Linux frightens me (lol). Can anyone recommend me a good service to use or reassure me that I would be able to use Pebblehost? Either will work lmao, thanks for reading I guess\n TL;DR need server help pls Pebblehost scary Apex overpriced need server 24/7 for friends\n    submitted by    /u/Zynetric  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o2796a/minecraft_server_hosting_help/",
+          "publishedOn": "2021-06-17T20:39:33.000Z",
+          "wordCount": 380,
+          "title": "Minecraft server hosting help"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o25fgl/my_homer_dashboard/",
+          "author": null,
+          "description": "I switched from Heimdall to Homer because of a better overview ...\n ​\n https://preview.redd.it/4olumsyzmv571.png?width=3840&format=png&auto=webp&s=c19030f26c3175b6bddb2712dd6f7c43e20632b0\n    submitted by    /u/Famku  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o25fgl/my_homer_dashboard/",
+          "publishedOn": "2021-06-17T19:23:47.000Z",
+          "wordCount": 219,
+          "title": "My Homer Dashboard"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o24f4z/few_questions_about_calibreweb/",
+          "author": null,
+          "description": "Hello,\n I'm setting up my ebook server. I decided to use calibre-web - https://github.com/janeczku/calibre-web as a docker container and to be honest, it confuses me a lot. Documentation is not very good so I decided to ask more experienced self hosters about a few things.\n Is it just gui for browsing ebooks? I cannot find any \"add\" button, so I'm not sure if it is supposed to work similar to regular calibre, or is it just browsing frontend? How can I add new book? Should I also have calibre in parallel, that will use the same database as calibre-web from the mentioned above git repository?\n Second question? Is it possible to host audiobooks with calibre-web?\n    submitted by    /u/lord_EarlGray  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o24f4z/few_questions_about_calibreweb/",
+          "publishedOn": "2021-06-17T18:41:46.000Z",
+          "wordCount": 409,
+          "title": "Few questions about calibre-web"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o228hs/listmonk_selfhosted_newsletter_mailing_list/",
+          "author": null,
+          "description": "submitted by    /u/codesharer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o228hs/listmonk_selfhosted_newsletter_mailing_list/",
+          "publishedOn": "2021-06-17T17:09:28.000Z",
+          "wordCount": 135,
+          "title": "listmonk - Self-hosted newsletter & mailing list manager"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o2274b/automate_checking_email_downloading_attachments/",
+          "author": null,
+          "description": "I use Rocketbook and the Rocketbook app to write handwritten notes, the app only saves to cloud services like dropbox, so the only alternative is to email them to myself and then manually move the notes to Syncthing\n Here is what im trying to do:\n - I will create an email address that is only used for me to send myself attachments i want saved in Syncthing\n - have my ubuntu server automatically check that email, maybe every 15 minutes or 20 minutes or something\n - if it detects the email is from my specific email address, download the attachment\n - copy the attachment to my syncthing folder on the server\n ​\n does anyone know of any programs that can automate email checking on a server? thanks\n    submitted by    /u/shizno2097  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o2274b/automate_checking_email_downloading_attachments/",
+          "publishedOn": "2021-06-17T17:07:43.000Z",
+          "wordCount": 348,
+          "title": "Automate checking email, downloading attachments, and save them to a folder in Syncthing"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o20z42/any_package_for_openwrtpfsense_that_offers_dpi/",
+          "author": null,
+          "description": "My ISP just blocked a ton of websites, ranging from porn to web magazines. I can successfully bypass the DPI using GoodByeDPI but that needs to be installed on each and every computer. \n Is there a package for OpenWRT/pfSense that blocks DPI on a network wide level ?\n    submitted by    /u/drtechwp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o20z42/any_package_for_openwrtpfsense_that_offers_dpi/",
+          "publishedOn": "2021-06-17T16:14:11.000Z",
+          "wordCount": 195,
+          "title": "Any package for OpenWRT/pfSense that offers DPI Bypass on a network wide level ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o20wr1/ngnix_with_pihole_hosted_on_docker/",
+          "author": null,
+          "description": "submitted by    /u/DK09_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o20wr1/ngnix_with_pihole_hosted_on_docker/",
+          "publishedOn": "2021-06-17T16:11:14.000Z",
+          "wordCount": 330,
+          "title": "ngnix with pihole (hosted on docker)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o20uwu/simple_docker_image_to_monitor_lan_clients/",
+          "author": null,
+          "description": "I need a simple docker application that monitors an IP address and sends email notifications whenever the state changes (client goes offline > online and vice versa).\n Tried Statping already, found it out to be too resource extensive (Ubuntu Server 20.04 on Q6600, statping along consumes around 40% RAM with just 5 hosts enabled).\n ​\n Edit : Forgot to mention some of the devices being monitored include ESP8266 and other IOT Stuff (Garden Sprinklers) that wake up only once in a while and support no SNMP.\n    submitted by    /u/drtechwp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o20uwu/simple_docker_image_to_monitor_lan_clients/",
+          "publishedOn": "2021-06-17T16:09:04.000Z",
+          "wordCount": 494,
+          "title": "Simple Docker Image to monitor LAN clients through Ping and send reports through email ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o20n1z/heimdall_no_applications_updating_list_does_not/",
+          "author": null,
+          "description": "Hello there!\n Today i installed Heimdall, because it looked nice and i wanted a quick way to access all my selfhosted apps.\n But after the installation (docker) i wanted to add an app and i've seen in a few youtube videos, that heimdall is suggesting names if you type in the application name and also does create cards for supported apps.\n But this does not work somehow.\n For example i wanted to add plex, so i type in plex in application name and from what i have seen is that i should suggest \"Plex\" from a dropdown list and also create an card for plex automatically, because it is an supported app (Checked on apps.heimdall.site)\n I also tried the \"update app list\" button a few times, but didn't work and after that i download the Plex.zip from the heimdall-apps github site manually and unzipped it to config/www/supported apps, but nothing did work as expected.\n ​\n Do i miss anything?\n Hope someone can help me :)\n    submitted by    /u/Bleala  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o20n1z/heimdall_no_applications_updating_list_does_not/",
+          "publishedOn": "2021-06-17T15:59:38.000Z",
+          "wordCount": 290,
+          "title": "Heimdall - no applications, updating list does not work"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o209a0/dockers_on_a_qnap_should_i_migrate_away_from_it/",
+          "author": null,
+          "description": "A ton of time is not something I have. With that said, QNAP container station app doesn't seem to automatically update Docker images without losing the data. Anyone else use a QNAP have a solution to updating the images without breaking everything? I'd rather not run another server for this right now since I lack the time.\n    submitted by    /u/ContentMountain  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o209a0/dockers_on_a_qnap_should_i_migrate_away_from_it/",
+          "publishedOn": "2021-06-17T15:41:55.000Z",
+          "wordCount": 262,
+          "title": "Dockers on a Qnap. Should I migrate away from it?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1wqxn/tizu_datacenter_homelab_part_1/",
+          "author": null,
+          "description": "submitted by    /u/TiZuid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1wqxn/tizu_datacenter_homelab_part_1/",
+          "publishedOn": "2021-06-17T13:03:58.000Z",
+          "wordCount": 204,
+          "title": "TiZu datacenter homelab - part 1"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1wnzw/smart_web_page_monitoring_tool/",
+          "author": null,
+          "description": "Hello gentlemen, hello ladies,\n I am searching for something capable of monitoring a web page, but in a \"smart\" way. When I monitor this page manually, I need to click to a couple of buttons in order to know if there have been any changes (in my case, if there is any disponibility of this certain product). For this reason, I cannot use extensions like \"Refresh & Monitor\", because I would need the tool to perform these actions before checking if a certain line of text appeared. Also, I would need this tool to have very short checking intervals, like no more than 5 seconds. Any ideas?\n    submitted by    /u/serena_nadhiri  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1wnzw/smart_web_page_monitoring_tool/",
+          "publishedOn": "2021-06-17T13:00:09.000Z",
+          "wordCount": 411,
+          "title": "\"Smart\" web page monitoring tool"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1wltu/log_collector_on_managed_webhost/",
+          "author": null,
+          "description": "I would like to be able to see logs from a node backend and possibly a frontend I created though a web interface. The issue is, I have a shared web host, and I would like to stay solely on that if possible (not have to rent a VPS just for this).\n Are there any log collectors / analyzers like greylog which are able to run just with either PHP , Node, Ruby or Python and a MySQL database? All the ones I found required to install it as software.\n Thanks!\n    submitted by    /u/Standard-Notice  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1wltu/log_collector_on_managed_webhost/",
+          "publishedOn": "2021-06-17T12:57:01.000Z",
+          "wordCount": 210,
+          "title": "Log Collector on managed webhost"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1v3ge/automatically_download_large_data_files_and/",
+          "author": null,
+          "description": "My company's server generates large data dumps ( 200gb+ ) and logs every hour and I need to download them automatically to my local computer storage as soon as they are generated, I have a sketchy power supply in my area and hence the downloads get abrupted fairly often and thus I need the partial downloads to resume automatically, in addition I need the files to get deleted from their original location as soon as they are fully downloaded.\n The remote computer is a mac and my local computer is a windows machine.\n I have tried Syncthing, but its speed varies a lot and often times I catch it either at a very low speed or at zero speed.\n I am fairly novice to programming, would be great if I can get a tool, script or directions to think this programmatically.\n    submitted by    /u/anshukg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1v3ge/automatically_download_large_data_files_and/",
+          "publishedOn": "2021-06-17T11:34:43.000Z",
+          "wordCount": 444,
+          "title": "Automatically download large data files and delete them afterwards"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1tlyx/hardware_for_unraid_nas_help_please/",
+          "author": null,
+          "description": "Hi,\n I want to upgrade my mediacenter/server home setup and I want to implement a solution with unraid.\n My objective is keep low as possible the power consumption, and have enough capacity to run 5/6 VM (one, with an huge plex library).\n I have looking for a lot of possible configurations, and these two I think are the more adeguate.\n I would know your opinion about it and if you have any suggestion (on compatibility as well) is it really welcome.\n ​\n Thanks\n ​\n 1 - Option:\n ​\n Asrock IMB-V1000M - V1605B 340 eur\n ARCTIC Alpine 12 Passive – Cooler 13eur\n RAM 16GB 60 eur\n case fractal - Node 304 102 eur\n Genuine LSI 6 Gbps SAS HBA LSI 9201-8i P20 / LSI SAS 9211-8i 6 Gbps 8 p SAS/SATA 70eur\n power supply - Cooler Master MasterWatt 450 EU 50eur\n M2 NVME 500GB 50eur\n Unraid 55eur\n TOTAL 740,00 €\n ​\n 2 - Option:\n ​\n e3 - 10300t TDP 25w 150,00 €\n ASRock H510M-ITX/AC (4k) / ASRock H570M ITX/ac (dual nic) 150eur\n ARCTIC Alpine 12 Passive – Cooler 13eur\n hba sata pci AsMedia ASM1061 - ASM1062 25eur\n case fractal - Node 304 102eur\n RAM 16GB 60eur\n power supply -Cooler Master MasterWatt 450 EU 50eur\n M2 NVME 500GB 50\n Unraid 55\n TOTAL 655,00 €\n    submitted by    /u/Accomplished_Shop881  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1tlyx/hardware_for_unraid_nas_help_please/",
+          "publishedOn": "2021-06-17T10:03:34.000Z",
+          "wordCount": 462,
+          "title": "Hardware for unraid NAS - Help please"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1s2ai/mitigating_egress_data_transfer_costs/",
+          "author": null,
+          "description": "TLDR\n  \nI was wondering, what are your strategies to mitigate egress data transfer costs?\n \nAlso, does anyone know if there exists some kind of firewall that I can install on my servers so that it would keep an eye on the egress data transfer and cap outward bandwidth down to a fixed Mbps amount after a limit (say 1TB out) has been reached?\n \n Motivation\n Hi guys, I am a 4th year Software Eng student and in the last couple of years I've been researching and learning about cloud technologies and services. It seems to me that cloud computing and data storage are relatively cheap, or at least you can find ways to mitigate the costs (e.g. spot instances, S3 storage classes etc..). On the other hand egress data transfer costs really bug me:\n  \nthe big cloud providers (AWS, GCP and Azure) offer …",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1s2ai/mitigating_egress_data_transfer_costs/",
+          "publishedOn": "2021-06-17T08:18:20.000Z",
+          "wordCount": 962,
+          "title": "Mitigating egress data transfer costs"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1s1n5/mealie_050_is_released/",
+          "author": null,
+          "description": "The new version of Mealie, by u/Akmantainman and the community, recipe planner is released with lots and lots of enhancements! Make sure to read the changelog because there are some breaking changes.\n The demo can be tried here: https://mealie-demo.hay-kot.dev\n Including:\n https://hay-kot.github.io/mealie/changelog/v0.5.0/\n  \nNew Recipe Scraper for improved accuracy\n Toolbox to organize your recipes\n Progressive web app with caching\n Notifications with Apprise to your favourite services\n Step sections in recipes\n Printable pages\n Integrated share capabilities\n Improvements to Meal Planner\n  \nAnd MANY, MANY more! 🚀🚀\n Join the discord for any questions!\n ​\n    submitted by    /u/zierbeek  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1s1n5/mealie_050_is_released/",
+          "publishedOn": "2021-06-17T08:17:07.000Z",
+          "wordCount": 823,
+          "title": "Mealie 0.5.0 is Released! 🚀"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o1rzjq/soho_alternative_to_paperport_14/",
+          "author": null,
+          "description": "I’ve recently been looking for a SOHO document management system that can OCR and index PDFs. \n I used to use PaperPort (came free with a scanner a lifetime ago) and was very happy with everything except remote access and the need to keep a PC running to host it.\n I’ve since moved through Googledrive, OneDrive and Owncloud and have yet to find something that works as well for me as PaperPort did. \n Ideally I’d like something that can run on a Synology NAS, has a good web GUI and supports mobile devices as clients (the wife has an iPhone 12 and a Samsung tablet). I need to maintain an offsite backup copy (I have a synology ds1515+ and a ds713+ with ds513 that makes it the same size as the ds1515+ for local backups) and am happy to use a VPS for snapshots etc in case of ransomware. \n My primary need is to scan to PDF and have those PDFs OCR’d and indexed so I can easily find and print anything I need. Add to that things like PDF downloads such as MagPI and HackSpace magazines and manuals for everything I own and it becomes a complete repository with no need for a nay paper files. \n Do you do anything like this for your documents and what do you recommend?\n    submitted by    /u/dhardyuk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o1rzjq/soho_alternative_to_paperport_14/",
+          "publishedOn": "2021-06-17T08:13:17.000Z",
+          "wordCount": 391,
+          "title": "Soho alternative to PaperPort 14?"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/o1jaw5/self_hosted_webui_dns_server_similar_to_cloudflare/",
           "author": null,
           "description": "Anyone know of any good, open source solutions for a DNS server which has a nice, decent, intuitive WebUI for DNS management? Something similar to the way CloudFlare works? Ive been meaning to testout DNS Manager from ISP manager . Windows doesn't have an HTML version of DNS server yet does it? (I know said open source but just curious).\n Alternatively, and maybe I'm misunderstanding this, but maybe an IPAM solution would be good too. Is IPAM where I manage my IPs/DHCP and DNS all in one? I always find it tedious and annoying AF to have to make a static DHCP reservation and then create a second DNS record with the ZeroShell Router i have. Would be sweet to have it all bundled together since IP address management and DNS are so tied together at the end of the day,\n Thanks!\n    submitted by    /u/ryanisflying  \n [link]   [comments]",
@@ -4025,6 +4223,24 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=341948",
+          "author": "Louis Hoebregts",
+          "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
+          "publishedOn": "2021-06-17T14:45:57.000Z",
+          "wordCount": 1554,
+          "title": "Perfect Tooltips With CSS Clipping and Masking"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342257",
+          "author": "ImageEngine",
+          "description": "Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.\nHowever, web performance is also a growing problem for most websites. And images are at the heart of many web …\nThe post Start Serving Optimized Images in Vue appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/start-serving-optimized-images-in-vue/",
+          "publishedOn": "2021-06-17T14:38:42.000Z",
+          "wordCount": 1290,
+          "title": "Start Serving Optimized Images in Vue"
+        },
+        {
           "id": "https://css-tricks.com/?p=342358",
           "author": "Chris Coyier",
           "description": "If you’re abhorred by using inline styles, just move that style to the class attribute! And then make sure you have CSS in place that, ya know, does what it says on the box. \nI've revolutionized CSS. pic.twitter.com/1AWCldyCwP\n— Sam \n\n…\nThe post Inline Styles as Classes (lol) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
@@ -4473,6 +4689,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
+          "author": "hello@smashingmagazine.com (Eric Bailey)",
+          "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
+          "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
+          "publishedOn": "2021-06-17T10:30:00.000Z",
+          "wordCount": 1636,
+          "title": "Your Image Is Probably Not Decorative",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
           "author": "hello@smashingmagazine.com (Nic Chan)",
           "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
@@ -4849,20 +5079,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.",
-          "link": "https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/",
-          "publishedOn": "2021-05-19T11:40:00.000Z",
-          "wordCount": 5028,
-          "title": "Frustrating Design Patterns: Mega-Dropdown Hover Menus",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7c233470-63c3-4557-93c0-a8cc6709b6dd/13-mega-dropdown-hover-menus.png",
-            "length": "0",
-            "type": "image/png"
-          }
         }
       ]
     },
@@ -4871,6 +5087,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60c2aa56d3126007592d6226",
+          "author": null,
+          "description": "What is the Azure AI Fundamentals Certification?The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. In the last decade companies have been collecting vast amount of data surrounding their service and product offerings. The successful companies of the",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
+          "publishedOn": "2021-06-17T12:02:47.000Z",
+          "wordCount": 566,
+          "title": "Azure AI Fundamentals Certification (AI-900) – Pass the Exam With This Free 4 Hour Course"
+        },
+        {
+          "id": "60c88bbc4dc1a607ed7b2ffa",
+          "author": null,
+          "description": "Bookmarklets are browser bookmarks that execute JavaScript instead of opening a webpage. They're also known as bookmark applets, favlets, or JavaScript bookmarks. Bookmarklets are natively available in all major browsers, including Mozilla Firefox and Chromium-based browsers like Chrome or Brave. Scripting with JavaScriptLearning how to write scripts provides many benefits,",
+          "link": "https://www.freecodecamp.org/news/what-are-bookmarklets/",
+          "publishedOn": "2021-06-17T00:53:04.000Z",
+          "wordCount": 1966,
+          "title": "What are Bookmarklets? How to Use JavaScript to Make a Bookmarklet in Chromium and Firefox"
+        },
         {
           "id": "60c088e5d3126007592d56f1",
           "author": null,
@@ -5517,6 +5751,132 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1774517",
+          "author": "Kyle Orland",
+          "description": "No link-cable needed for this emulated single-machine, single-display solution.",
+          "link": "https://arstechnica.com/?p=1774517",
+          "publishedOn": "2021-06-17T21:45:18.000Z",
+          "wordCount": 914,
+          "title": "Game Boy Advance game gets split-screen multiplayer through new FPGA core"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774437",
+          "author": "Dan Goodin",
+          "description": "Most malware tries to steal stuff. Vigilante, by contrast, takes aim at piracy.",
+          "link": "https://arstechnica.com/?p=1774437",
+          "publishedOn": "2021-06-17T21:01:09.000Z",
+          "wordCount": 1012,
+          "title": "Newly discovered Vigilante malware outs software pirates and blocks them"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774382",
+          "author": "Samuel Axon",
+          "description": "Developers with revenues under $1 million are getting a new deal.",
+          "link": "https://arstechnica.com/?p=1774382",
+          "publishedOn": "2021-06-17T20:43:12.000Z",
+          "wordCount": 839,
+          "title": "Amazon joins Apple, Google by reducing its app store cut"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774246",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has early Prime Day discounts, Philips Hue deals, and more.",
+          "link": "https://arstechnica.com/?p=1774246",
+          "publishedOn": "2021-06-17T20:05:02.000Z",
+          "wordCount": 3248,
+          "title": "A number of recommended Nintendo Switch games are on sale today"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774337",
+          "author": "Jim Salter",
+          "description": "The outage prevented Linux installation or upgrade of any Microsoft software.",
+          "link": "https://arstechnica.com/?p=1774337",
+          "publishedOn": "2021-06-17T19:22:33.000Z",
+          "wordCount": 736,
+          "title": "Microsoft’s Linux repositories were down for 18+ hours"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774338",
+          "author": "Beth Mole",
+          "description": "Three experts resigned in protest. Watchdog says it's FDA brass that should leave.",
+          "link": "https://arstechnica.com/?p=1774338",
+          "publishedOn": "2021-06-17T18:33:55.000Z",
+          "wordCount": 1136,
+          "title": "FDA officials asked to step down after contentious Alzheimer’s drug approval"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774340",
+          "author": "John Timmer",
+          "description": "Mirrors of the LIGO gravitational-wave detector get cool—extremely cool.",
+          "link": "https://arstechnica.com/?p=1774340",
+          "publishedOn": "2021-06-17T18:19:12.000Z",
+          "wordCount": 992,
+          "title": "Researchers cool a 40 kg object to near its quantum ground state"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774248",
+          "author": "Ron Amadeo",
+          "description": "Buy a speaker, try Google Stadia, or fix a cracked phone screen—the store is open.",
+          "link": "https://arstechnica.com/?p=1774248",
+          "publishedOn": "2021-06-17T18:01:43.000Z",
+          "wordCount": 1310,
+          "title": "Here’s what’s inside Google’s first-ever retail store"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774274",
+          "author": "Sam Machkovech",
+          "description": "Jackson thanks Beatles, Disney for \"allowing me to present this story\" as 6-hour beast.",
+          "link": "https://arstechnica.com/?p=1774274",
+          "publishedOn": "2021-06-17T16:55:10.000Z",
+          "wordCount": 935,
+          "title": "Peter Jackson’s 6-hour Beatles documentary confirmed for Disney+ this November"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774277",
+          "author": "Kyle Orland",
+          "description": "\"I'm certain that's frustrating... but there's not a whole lot I can do about it.\"",
+          "link": "https://arstechnica.com/?p=1774277",
+          "publishedOn": "2021-06-17T16:21:25.000Z",
+          "wordCount": 1198,
+          "title": "Bethesda exec says he’s “sorry” for lack of PS5 Starfield"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774253",
+          "author": "Tim De Chant",
+          "description": "Bank faults bitcoin's “environmental and transparency shortcomings.”",
+          "link": "https://arstechnica.com/?p=1774253",
+          "publishedOn": "2021-06-17T15:39:59.000Z",
+          "wordCount": 1119,
+          "title": "World Bank slams bitcoin, declines to help El Salvador’s cryptocurrency plan"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774232",
+          "author": "Jonathan M. Gitlin",
+          "description": "It clarified with the Securities and Exchange Commission that it has no firm orders.",
+          "link": "https://arstechnica.com/?p=1774232",
+          "publishedOn": "2021-06-17T13:31:00.000Z",
+          "wordCount": 708,
+          "title": "Lordstown Motors now says that it has no binding orders for EV truck"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774211",
+          "author": "Eric Berger",
+          "description": "Thursday's GPS mission is a high priority for the Space Force.",
+          "link": "https://arstechnica.com/?p=1774211",
+          "publishedOn": "2021-06-17T12:49:55.000Z",
+          "wordCount": 848,
+          "title": "SpaceX to break the final frontier in reuse with national defense launch"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774198",
+          "author": "Jon Brodkin",
+          "description": "Bill's 10Mbps standard could make 98% of Ohio ineligible for municipal networks.",
+          "link": "https://arstechnica.com/?p=1774198",
+          "publishedOn": "2021-06-17T11:52:27.000Z",
+          "wordCount": 1983,
+          "title": "Ohio Republicans close to imposing near-total ban on municipal broadband"
+        },
         {
           "id": "https://arstechnica.com/?p=1774162",
           "author": "Jim Salter",
