@@ -2,10 +2,471 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-18T00:42:08.723Z</updated>
+    <updated>2021-06-19T00:43:46.216Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[oracle cloud openvpn]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o33n2t/oracle_cloud_openvpn/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o33n2t/oracle_cloud_openvpn/"/>
+        <updated>2021-06-18T23:56:53.000Z</updated>
+        <summary type="html"><![CDATA[I created my openvpn server using the openvpn stack on oracle cloud ( https://cloudmarketplace.oracle.com/marketplace/en_US/adf.task-flow?adf.tfId=adhtf&adf.tfDoc=/WEB-INF/taskflow/adhtf.xml&application_id=72305905 )
+ Id like to create a static route so all my client traffic only goes through the vpn. However there isnt an option to write these console commands as root such as "push "redirect-gateway def1 bypass-dhcp", it only allows you to ssh in as the user "openvpnas". Because of this, is there a way to make these "redirect-gateway def1" changes via the openvpn admin portal or fiddling with the oracle "virtual cloud network" rules/settings?
+    submitted by    /u/Firm_Maintenance2009  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StandardNotes alternative]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o32tqm/standardnotes_alternative/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o32tqm/standardnotes_alternative/"/>
+        <updated>2021-06-18T23:14:22.000Z</updated>
+        <summary type="html"><![CDATA[Hi Everyone!
+ I'm pissed off about StandardNotes' new syncing server. It now requires Docker ( I use LXC) and it spawns 7 different containers just so that I can sync some notes between my laptop and my phone. I was wondering if there are other selfhosted alternatives that I can switch over to.
+ Here are my requirements for such platform:
+  
+Encrypted notes/storage
+ MacOS/Windows app and native Android/iOS app
+ Built-in ability to keep the notes synced, ideally without having to set up another service to do this (like nextcloud, webdav, etc.)
+  
+​
+ Any recommendations are highly appreciated.
+    submitted by    /u/Valantur  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2+ NGINX webservers, 1 WAN, Acquiring Certs (Test Environment)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o30dvx/2_nginx_webservers_1_wan_acquiring_certs_test/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o30dvx/2_nginx_webservers_1_wan_acquiring_certs_test/"/>
+        <updated>2021-06-18T21:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Disclaimer: I'm a moron and could very well be 'reinventing the wheel here'.
+ In my limited free time, I play around in a homelab for the learning experience, love of the game, etc. I'm trying to migrate away from Docker in favor of deploying web servers & services on virtualized 'bare metal' ;).
+ To summarize:
+  
+Homelab: 1 WAN IP
+ VM #1: Docker host, LetsEncrypt (aka SWAG) as my reverse proxy
+ VM #2: NextCloud host via LEMP Stack (nginx)
+ etc...
+  
+What I want to do:
+  
+Keep VM#1 UP: my 'production' reverse proxy (Existing NGiNX/LetsEncrypt, which I use heavily) 
+ 
+Create additional 'web servers' as if VM#1 didn't exist:
+  
+Multiple NGiNX/Apache instances
+ Allow certbot/letsencrypt packages to act on their own, as if my production instance wasn't in effect.
+ 
+  
+IE: My NextCloud VM. I want to run certbot/letsencrypt to acquire it's own SSL certificate, but I'm not sure how that would work. 
+ Would a simple proxy_pass without SSL to the test VM's do it? I want to be sure before moving forward. 
+ Is this possible? 
+  
+If so, any tips or pointers are welcome! 
+ If I'm not making sense, I welcome the ridicule.
+  
+   submitted by    /u/bmilcs  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the `outline` Property as a Collapsable Border]]></title>
+        <id>https://css-tricks.com/?p=341511</id>
+        <link href="https://css-tricks.com/using-the-outline-property-as-a-collapsable-border/"/>
+        <updated>2021-06-18T20:38:59.000Z</updated>
+        <summary type="html"><![CDATA[The outline property in CSS draws a line around the outside of an element. This is quite similar to the border property, the main exception being that outline isn’t a part of the box model. It is often used for …
+The post Using the `outline` Property as a Collapsable Border appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Carter Li</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help with Wirguard and Nginx Proxy Manager]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2y9pd/help_with_wirguard_and_nginx_proxy_manager/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2y9pd/help_with_wirguard_and_nginx_proxy_manager/"/>
+        <updated>2021-06-18T19:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Hey Folks!
+ I have been trying to learn/figure out how I can self-host at home, I do that that I'm stuck behind CGNAT, so after following this sub I felt like the way to go would be VPS (Wireguard Server) --> RaspberryPi (Wireguard Client) and then run Nginx Proxy Manager on the client. I've been trying to follow the materials here:
+  
+https://www.selfhosted.pro/hl/wireguard_vps/
+ https://forums.lawrencesystems.com/t/getting-started-building-your-own-wireguard-vpn-server/7425
+  
+Along with various other googling and trials and error :) 
+ But it feels like I must be missing some step with either the Wireguard or Nginx setup.
+ For initial testing, I was trying to connect to my domain (tied to the VPS) and then use that domain within Nginx Proxy Manager, however, when I put the domain in I can get to the Nginx Proxy Manager Default page but can never get anything else to work.
+ Any help is appreciated.
+    submitted by    /u/x-dev-13  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Backup: Disk cloning vs. rsnapshot]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2xvoi/backup_disk_cloning_vs_rsnapshot/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2xvoi/backup_disk_cloning_vs_rsnapshot/"/>
+        <updated>2021-06-18T19:15:18.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/CoLuxey  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[https://www.campfireblaze.com/ self hosted alternative?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2u59r/httpswwwcampfireblazecom_self_hosted_alternative/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2u59r/httpswwwcampfireblazecom_self_hosted_alternative/"/>
+        <updated>2021-06-18T17:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Anything like campfireblaze that is self hosted but not a wiki, does not even matter if its paid. Basically a self hosted collaborative world building app?
+    submitted by    /u/Alien8472  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TCP vs UDP – Which Protocol is Faster?]]></title>
+        <id>60b46dbd11ffb70827ef9dea</id>
+        <link href="https://www.freecodecamp.org/news/tcp-vs-udp-which-is-faster/"/>
+        <updated>2021-06-18T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[What is TCP?TCP is an acronym for Transmission Control Protocol. It is a transport layer protocol that allows packets to be sent from one location to another.  TCP is a connection-oriented protocol, which means it establishes the connection before any communication between the network’s computer units. Because we]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Specialisation Courses for Advanced ML Practitioners]]></title>
+        <id>60cc5a904dc1a607ed7b4c54</id>
+        <link href="https://www.freecodecamp.org/news/machine-learning-specialisation-courses-for-advanced-ml-practitioners/"/>
+        <updated>2021-06-18T15:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Today, you don’t need to go to a university or a college to pursue a career in machine learning or any data-driven domain. But you do need a plan and a roadmap to guide your studies. Once you have charted your own learning roadmap with a goal in mind,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflared DOH docker image for Raspberry pi Arm 36]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2rx83/cloudflared_doh_docker_image_for_raspberry_pi_arm/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2rx83/cloudflared_doh_docker_image_for_raspberry_pi_arm/"/>
+        <updated>2021-06-18T15:37:04.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Rahul159359  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Alternative Voice UI To Voice Assistants]]></title>
+        <id>https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/</id>
+        <link href="https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/"/>
+        <updated>2021-06-18T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ottomatias Peura)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homer custom navbar icon]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2qmoe/homer_custom_navbar_icon/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2qmoe/homer_custom_navbar_icon/"/>
+        <updated>2021-06-18T14:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone ,
+ Is it possible to display custom (local) icons on links of the navbar ?
+ I tried modifying the .vue script but it doesn't work
+ Thanks in advance
+    submitted by    /u/xRedHide  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telebit cloud]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2q0gs/telebit_cloud/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2q0gs/telebit_cloud/"/>
+        <updated>2021-06-18T14:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Hi there,
+ I am looking to host a small personal NAS on a raspberry pi, instead of port forwarding (Our IP changes frequently) I was looking at using Telebit cloud (https://git.coolaj86.com/coolaj86/telebit.js) I am just wondering what people think of the security aspects of this service.
+ From testing its super easy to setup and use, providing I can protect the nextcloud interface with relevant brute force protection then I am just looking for security advice from the tunnelling point of view.
+ How secure would this method be for connecting to a NAS?
+    submitted by    /u/Tom-556  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Sorting Algorithms]]></title>
+        <id>60cca3294dc1a607ed7b4c76</id>
+        <link href="https://www.freecodecamp.org/news/understanding-sorting-algorithms/"/>
+        <updated>2021-06-18T13:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Every programming language uses sorting algorithms. While programming languages have easy-to-use sorting methods, it can be helpful to understand how they work. We just released a course on the freeCodeCamp.org YouTube channel that will teach you some of the most popular sorting algorithms! Haris Iftikhar developed this course. Haris]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Typography]]></title>
+        <id>https://css-tricks.com/?p=342326</id>
+        <link href="https://css-tricks.com/links-on-typography-2/"/>
+        <updated>2021-06-18T13:44:17.000Z</updated>
+        <summary type="html"><![CDATA[I studied the fonts of the top 1000 websites. Here’s what I learned. — Michael Li brings the data. San-serif has total dominance. “[…] it is rare to go below 10px or above 24px.” And poor <h5> always being the 
+…
+The post Links on Typography appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pornhub sued for allegedly serving “under-age, non-consensual” videos]]></title>
+        <id>https://arstechnica.com/?p=1774586</id>
+        <link href="https://arstechnica.com/?p=1774586"/>
+        <updated>2021-06-18T13:43:09.000Z</updated>
+        <summary type="html"><![CDATA[“I seek justice for myself and the countless victims who don't come forward.”]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ring gave cops free cameras to build and promote surveillance network]]></title>
+        <id>https://arstechnica.com/?p=1774550</id>
+        <link href="https://arstechnica.com/?p=1774550"/>
+        <updated>2021-06-18T13:00:21.000Z</updated>
+        <summary type="html"><![CDATA[LAPD officers "spread the word" for the startup, helping it gain market share.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Client-Side Routing In Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/client-side-routing-next-js/</id>
+        <link href="https://smashingmagazine.com/2021/06/client-side-routing-next-js/"/>
+        <updated>2021-06-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adebiyi Adedotun)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardware requirements for self-hosting goals]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2nkg8/hardware_requirements_for_selfhosting_goals/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2nkg8/hardware_requirements_for_selfhosting_goals/"/>
+        <updated>2021-06-18T12:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Hi all - I'm new to self-hosting so please correct me if I make any mistakes here.
+ I'm looking into buying some hardware to host some tools on, and I'm here looking for some recommendations on what kind of specs I need to look for in a server.
+ Initially I'm going to look into setting up a matrix synapse instance to bridge to slack, fb messenger and discord, and a system for SMS forwarding. Assuming that goes to plan, I would then like to expand to an implementation of Mycroft.ai and a couple of CCTV cameras and door open / glass break sensors for home security on the same server.
+ Although I will go with the most cost efficient method to achieve these goals, I want to have plenty of scope to get all this up and running smoothly, so price and energy requirements aren't of particular concern. What sort of devices should I be looking into? A single server dealing with all of it, an array of raspberry pis, would I be better off hiring a VPS, etc? 
+ Thanks in advance!
+    submitted by    /u/DehydratedBlinker  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arcade1Up pinball cabinet review: Fine for families, interesting for modders]]></title>
+        <id>https://arstechnica.com/?p=1774443</id>
+        <link href="https://arstechnica.com/?p=1774443"/>
+        <updated>2021-06-18T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[The default package is worth its $600 cost, but do your research before buying.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[codeserver alternative - edit files only]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2necx/codeserver_alternative_edit_files_only/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2necx/codeserver_alternative_edit_files_only/"/>
+        <updated>2021-06-18T11:56:49.000Z</updated>
+        <summary type="html"><![CDATA[Hi
+ I'm looking for some kind of notepad++ / codeserver alternative to edit my xml (yaml) files on my docker host online.
+ does anyone have a docker image/suggestion?
+ I am NOT looking for a nextcloud solution, just a quick way to edit my files on the NAS, online
+ it's cool if it can also recognize yaml / xml etc and show it that way
+    submitted by    /u/jboesh  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple and Google’s AI wizardry promises privacy—at a cost]]></title>
+        <id>https://arstechnica.com/?p=1774415</id>
+        <link href="https://arstechnica.com/?p=1774415"/>
+        <updated>2021-06-18T11:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Upgraded data protection and less reliance on the cloud could lock users in.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket Report: China launches crew mission, SpaceX runs into road troubles]]></title>
+        <id>https://arstechnica.com/?p=1774379</id>
+        <link href="https://arstechnica.com/?p=1774379"/>
+        <updated>2021-06-18T11:00:54.000Z</updated>
+        <summary type="html"><![CDATA["The Space Safari team intends to push the envelope."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine arrests ransomware gang in global cybercriminal crackdown]]></title>
+        <id>https://arstechnica.com/?p=1774423</id>
+        <link href="https://arstechnica.com/?p=1774423"/>
+        <updated>2021-06-18T09:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Arrests of Cl0p hacker group members adds to pressure on other countries to follow suit.]]></summary>
+        <author>
+            <name>Financial Times</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seamless design across apps]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2kdzx/seamless_design_across_apps/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2kdzx/seamless_design_across_apps/"/>
+        <updated>2021-06-18T08:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Hi everybody,
+ I'm wondering if anyone here has been able to create some cool seamless design across all their apps.
+ This because I see that everyone share their custom, personal dashboards, with some really good eye candy, but they lack into do the same with apps.
+ One big advantage about self hosting is that almost every piece of software is web software, allowing us to modify the look with some custom HTML/CSS and even JavaScript without the needed of compiling.
+ So if you take care of the eye candy of your apps, I would be happy to see any of your configs, so feel free to share a picture of that. :D
+ Peace.
+    submitted by    /u/webjukebox  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Static ip route with openvpn]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2is8z/static_ip_route_with_openvpn/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2is8z/static_ip_route_with_openvpn/"/>
+        <updated>2021-06-18T06:44:44.000Z</updated>
+        <summary type="html"><![CDATA[I have openvpn access server on oracle cloud, and local client on my win 7 pc. I want to create a static route so all internet traffic only flows through the VPN, and nothing else. Ive been able to do this with softether and a third-party VPN service, but I cant get it to work with OpenVPN. 
+ Id delete the 0.0.0.0 route. Then I would make a route in cmd with the destination network my VPN and the gateway my local LAN gateway ie: route add [VPN IP] mask 255.255.255.255 192.168.1.1. Id connect to my VPN using softether client, which populates a IPV4 address and default gateway for my VPN adaptor, and in turn generates a route for all traffic to flow through this VPN adaptor, the route shows as: 0.0.0.0 0.0.0.0 [VPN gateway] [VPN interface]. 
+ Trying to replicate this procedure, but with openvpn server and open client I am unable to connect. Note: I am able to connect if I reset the routing table, but this defeats the purpose as I want all traffic to only go through the VPN's IP.
+    submitted by    /u/Firm_Maintenance2009  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[domain registrar with whois protection and dnssec?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2imw3/domain_registrar_with_whois_protection_and_dnssec/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2imw3/domain_registrar_with_whois_protection_and_dnssec/"/>
+        <updated>2021-06-18T06:35:02.000Z</updated>
+        <summary type="html"><![CDATA[hello,
+ i'm looking to find a registrar that offer dnssec (not external) and whois protection, real whois protection not like cloudflare or gandi with data redacted and state/country visible. 
+ tld is .com
+ it seems that namecheap has these requirements but years ago i registered a domain with them and i received emails advertising of their products that i never requested. i would like to keep namecheap as last option.
+ i was looking at google domains but I don't understand if their whois protection is "full" or show state/country.
+ any advice is greatly appreciated.
+    submitted by    /u/tecer0  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caddy2 Reverse proxy on site that already has https]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2gqt9/caddy2_reverse_proxy_on_site_that_already_has/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2gqt9/caddy2_reverse_proxy_on_site_that_already_has/"/>
+        <updated>2021-06-18T04:38:07.000Z</updated>
+        <summary type="html"><![CDATA[I have a site running locally with a https cert for lets call it "test.example.com". As it is running on the same server as my caddy instance it is using port 4433 instead of 443. How would I set up a reverse proxy within caddy to proxy test.example.com:4433 to test.example.com:443 (through caddy) using the https cert that already exists on test.example.com:4433. All the documentation I have seen for caddy reverse proxy is for when you have a http site that you want to reverse proxy and it doesnt have a cert already.
+    submitted by    /u/CaptiveCreeper  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seflhosted Docker Autobuild]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2ftud/seflhosted_docker_autobuild/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2ftud/seflhosted_docker_autobuild/"/>
+        <updated>2021-06-18T03:45:53.000Z</updated>
+        <summary type="html"><![CDATA[As Docker have now discontinued their free Autobuild service https://www.docker.com/blog/changes-to-docker-hub-autobuilds/
+ I was wondering if anyone had some insight on doing a self-hosted version?
+ I'm not all that familiar myself with building Docker images - maybe it's my own fault for relying on this too much. But what I'm after is perhaps hosting my projects on a self hosted Git server (Gitea maybe?) then when that's updated, it gets built and pushed to a self hosted repo.
+    submitted by    /u/psybernoid  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Caved and switched to Amazon SES to send my emails]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2e74p/i_caved_and_switched_to_amazon_ses_to_send_my/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2e74p/i_caved_and_switched_to_amazon_ses_to_send_my/"/>
+        <updated>2021-06-18T02:17:41.000Z</updated>
+        <summary type="html"><![CDATA[For almost 7 years I have run my own email server sending and receiving emails on it's own IP address. A few years ago I switched to Digital Ocean as a VPS to reduce deliverability issues, recently the IP block I was in got blacklisted by zen.spamhaus. Given that I have often suggested people use a SMTP relay I though I would share my experience of not being the target customer any more. They used to advertise SMTP relays as what they are, a relay service, they no longer do that. Now as a selfhoster I felt like a square peg in a round hole.
+ Big players really make it hard for small servers
+ As outlined with this blog post Google is eating out email and the resulting discussion on Hacker News the big players appear to have no interest following the standard rules when it comes to emails. A…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self Signed Certs]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2d0sk/self_signed_certs/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2d0sk/self_signed_certs/"/>
+        <updated>2021-06-18T01:14:35.000Z</updated>
+        <summary type="html"><![CDATA[I have made a .crt and a .key using openssl req -newkey rsa:4096 -x509 -sha256 -days 365 -nodes -out 123.crt -keyout 123.key and was wondering if it is working and if its not how to make it work?
+ https://preview.redd.it/it7yz73fdx571.png?width=321&format=png&auto=webp&s=4f02178f23428cf6b634d625d397e5ff3a80414c
+    submitted by    /u/L6TJASuWarZtpt2b  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exposing Services Externally]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2ci9q/exposing_services_externally/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2ci9q/exposing_services_externally/"/>
+        <updated>2021-06-18T00:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Hello, everyone,
+ Learning lots from this sub, and hoping to pay it forward in the future. Unfortunately I’m here with a dumb question instead regarding self hosting my apps.
+ Let’s say my docker container is running all my apps and is on 192.169.1.1 It’s my understanding that the only way to expose these services outside my network is by forwarding port 80 to that IP in my router settings, correct? Is there any other way? I ask because I don’t want to do this, and just want a little piece of mind after all this tinkering. 
+ I can’t access them from outside my network that I know of, however, I’m running ssl on all of them so technically am I not exposing them somewhat by navigating to something like photoprism.mydomain.com?
+ Thanks for any help,
+    submitted by    /u/Roux85  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can not reach the Main Page of my MediaWiki that's behind a reverse proxy server (Caddy). I can only see the Apache2 Default Page.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o2cfp0/can_not_reach_the_main_page_of_my_mediawiki_thats/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o2cfp0/can_not_reach_the_main_page_of_my_mediawiki_thats/"/>
+        <updated>2021-06-18T00:43:19.000Z</updated>
+        <summary type="html"><![CDATA[The situation is as follows:
+ I have a MediaWiki installed on a Debian server. The Wiki is installed on Apache2
+ For information, the changes I made in the LocalSettings.php file is as follows:
+ $wgScriptPath = "/mediawiki"; $wgServer = "http://192.168.100.5:8080";
+ In the internal network, when I type in the local IP address of the MediaWiki server (192.168.100.5:8080) I get to the default page of Apache where it says that it works.
+ But when I type /mediawiki behind it, (192.168.100.5:8080/mediawiki), I get to the main page of the Wiki.
+ I have put this server behind a reverse proxy (Caddy) so that it's accessible from the outside world. 
+ The Caddyfile config is as follows:
+ mydomain.com:443 { reverse_proxy 192.168.100.5:8080 }
+ But when I type in the domain, I can only see the Apache Default page. I also can not get to the MediaWiki if I put /mediawiki behind the URL.
+ Does anyone know how I can make it so that whenever I go to my domain, that it automatically goes to the main page of the MediaWiki, (which in the local network would be 192.168.100.5:8080/mediawiki as stated earlier). Or does anyone know where I should look? Any help is appreciated.
+ Thank you so much in advance!
+    submitted by    /u/ey38  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Start Your Own ISP]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/o2bfts/start_your_own_isp/</id>
@@ -11289,16 +11750,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auth0]]></title>
-        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</id>
-        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/"/>
-        <updated>2021-05-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
         </author>
     </entry>
 </feed>
