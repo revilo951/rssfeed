@@ -6,6 +6,222 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3ta0e/nginx_proxy_manager_how_to_forward_to_a_specific/",
+          "author": null,
+          "description": "I've got a few things running beind nginx proxy manager and they all work because the basic http(s)://IP:port request locally auto loads the desired location. For example, my nextcloud instance loads /index.php/login.\n I just installed an app (azuracast after reading the other thread), but the way that works is http(s)://x.x.x.x:port loads /login or /dashboard if you are logged in. Thats the admin dashboard but I am trying to expose the \"public\" page which is:\n http(s)://x.x.x.x:port/public/stationName \n And the port is the same for the management dashboard. \n Anyone know how to accomplish that with nginx proxy manager? When trying to use the custom locations setting I still just get directed to the main management page. nginx conf here https://pastebin.com/raw/rKM6kB3F\n    submitted by    /u/T-VOnTheInternet  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3ta0e/nginx_proxy_manager_how_to_forward_to_a_specific/",
+          "publishedOn": "2021-06-20T00:10:21.000Z",
+          "wordCount": 249,
+          "title": "Nginx proxy manager, how to forward to a specific folder?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3ry25/is_there_a_video_version_of_azuracast/",
+          "author": null,
+          "description": "The title says it all - is there a software very similar to AzuraCast but can automate an entire TV Station library instead of Audio. An example of what I'm looking for VDOPanel but an open source alternative \n    submitted by    /u/ihoman202  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3ry25/is_there_a_video_version_of_azuracast/",
+          "publishedOn": "2021-06-19T22:56:37.000Z",
+          "wordCount": 153,
+          "title": "Is there a video version of Azuracast."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3qq2b/oracle_vm_abuse_warning/",
+          "author": null,
+          "description": "I have an account for the oracle free tier, and I've been using one of the hosts to only host a teamspeak server, nothing else. I had the server running for almost a year, with no issues, until I started getting emails about abuse warning with the following message:\n Oracle has received notice of or detected unusual and potentially harmful activity originating from the indicated resource in your tenancy.\n Traffic Details: Outbound Port Scanning, Brute-forcing, Web Exploitation, and/or DDoS \n I unfortunately do not have a support subscription, so I am unable to log a ticket to inquire about it. \n I've tried some of the basic security controls they suggest like making sure OS is up to date, disable password login, change ssh port. I also installed sshguard and fail2ban to help make sure my machine is more secure.\n They have since disabled the host, but I am able to clone the boot volume and then make a new instance from that clone to still have my vm, but then it's around a week or two until it gets disabled and I have to repeat this.\n I have no idea where to start looking or what to do to address this issue? I would greatly appreciate if anyone has any advice or help on what I can do to resolve this.\n    submitted by    /u/buzzlightyear1309  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3qq2b/oracle_vm_abuse_warning/",
+          "publishedOn": "2021-06-19T21:50:55.000Z",
+          "wordCount": 596,
+          "title": "Oracle VM - Abuse warning"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3qnkm/composable_allinone_mail_server/",
+          "author": null,
+          "description": "submitted by    /u/2ViagaraPillsInTheAm  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3qnkm/composable_allinone_mail_server/",
+          "publishedOn": "2021-06-19T21:47:16.000Z",
+          "wordCount": 124,
+          "title": "Composable all-in-one mail server."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3pqj6/adsell_software/",
+          "author": null,
+          "description": "Is there a software that lets you sell ads directly into ad spots into your website?\n Somewhere the advertisers can bid for placement and you can approve winning bids?\n    submitted by    /u/Charuru  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3pqj6/adsell_software/",
+          "publishedOn": "2021-06-19T21:00:19.000Z",
+          "wordCount": 168,
+          "title": "Adsell software?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3n02x/how_can_i_check_smart_data_on_my_raspberry_pi/",
+          "author": null,
+          "description": "So i want to get my smart data off the drives and get some info while the drives are in the hub from amazon and connected to the pi. Smartctl says my smart drives are unsupported and poking online says its because its through usb and this is where im stuck. My drives are for my media server so i dont want to pop them out and into my main pc if i dont have to. Is there any other way to perform these checks? I have 2x 4tb seagate drives\n    submitted by    /u/EliteAppleHacks  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3n02x/how_can_i_check_smart_data_on_my_raspberry_pi/",
+          "publishedOn": "2021-06-19T18:47:28.000Z",
+          "wordCount": 377,
+          "title": "How can I check smart data on my Raspberry Pi using a HDD hub for my drives?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3mffl/self_hosted_vpn_billing_user_management_software/",
+          "author": null,
+          "description": "I have a self-hosted VPN server running Wiregaurd on a DigitalOocean Droplet, the hosting cost of which is split between 8 people. However, there's this one person who just uses the VPN like crazy, and I'm wanting to put a speed limit / data cap per day for everyone.\n Is there any billing/management software for such ? I am not very keen to use wiregaurd, so even if I had to switch to OpenVPN or similar, I'll have no problem.\n    submitted by    /u/drtechwp  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3mffl/self_hosted_vpn_billing_user_management_software/",
+          "publishedOn": "2021-06-19T18:21:27.000Z",
+          "wordCount": 283,
+          "title": "Self Hosted VPN Billing / User Management Software ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3l4yt/is_there_a_selfhosted_tvmovie_recommendations_app/",
+          "author": null,
+          "description": "Basically the title, I'm looking for a way to look for new shows and movies to watch and was wondering if someone has created a project to accomplish this task.\n    submitted by    /u/bloopenguin14  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3l4yt/is_there_a_selfhosted_tvmovie_recommendations_app/",
+          "publishedOn": "2021-06-19T17:27:06.000Z",
+          "wordCount": 216,
+          "title": "Is there a selfhosted TV/Movie recommendations app based on content you already like?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3gzoz/lets_encrypt_ssl_with_godaddy_cpanel_and_home/",
+          "author": null,
+          "description": "I have all of my domains on GoDaddy (not my original choice but it works for everything else so I am not interested in switching) and their Ultimate Linux Hosting package which includes cPanel and SSH access as well as the regular GoDaddy management tools. \n I have a few subdomains that I use for things like Nextcloud, Gitea, etc. that I host on a server in my basement.\n When I try to issue an SSL cert using Let's Encrypt, I have to issue it on GoDaddy and then have to install the certs through cPanel, and then copy those certs from cPanel to my server for HTTPS to work. When I try to issue the certs directly on my server, HTTPS does not work. Basically this is the breakdown:\n  \nSSH into cPanel.\n \nRun acme.sh and create the cert.\n \nCopy the cert information to the SSL manager in cPanel.\n \nCopy those same certs to my SSL folder on my server at home.\n \nUpdate my home webserver's vhost config to point to the correct server.\n \nSSL is now set up and HTTPS should be working correctly. Repeat steps 1-4 to update the cert.\n \n Is this behavior correct or am I doing something wrong? I have an A record in my GoDaddy DNS for each subdomain (nextcloud.domain.tld, git.domain.tld) and don't have any files on GoDaddy itself; if I were to shut off my port forward you wouldn't see anything at all. Yet the SSL certs have to be managed through cPanel first, then copied to my webserver for https to work.\n    submitted by    /u/torchaRg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3gzoz/lets_encrypt_ssl_with_godaddy_cpanel_and_home/",
+          "publishedOn": "2021-06-19T14:15:07.000Z",
+          "wordCount": 405,
+          "title": "Let's Encrypt SSL with GoDaddy, cPanel, and home server"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3gwsf/my_homer_dashboard_4_months_of_work_i_didnt_know/",
+          "author": null,
+          "description": "This is my Homer dashboard, work of about 4 months. I didn't know anything about QNAP, docker or images at all, and now I can say that I'm pretty familiar with it :-)\n I am still looking for a solution/docker image where I can 'drag/drop' files so that they are uploaded directly to my 'nas' (the host on which docker / the image will then run).\n so if you have any suggestions please!\n https://preview.redd.it/mx6saftpc8671.jpg?width=749&format=pjpg&auto=webp&s=2ec05eca1d2765302497e9300258c2e3fdd81167\n    submitted by    /u/jboesh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3gwsf/my_homer_dashboard_4_months_of_work_i_didnt_know/",
+          "publishedOn": "2021-06-19T14:11:00.000Z",
+          "wordCount": 517,
+          "title": "My Homer dashboard (4 months of work) , i didnt know anything about docker/qnap"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3grn9/need_help_auto_updating_docker_containers/",
+          "author": null,
+          "description": "Hey guys. Sorry if this is not the most appropriate subreddit for this type of question, but I feel kinda lost here.\n So, I'm using a RPI4 to self host a discord bot I developed, along with some (micro)services the bot depends on, all running on docker. \n I managed to setup github actions to test, build and deploy the nodejs services on docker hub and everything is working fine. However, I'd like to up the ante a little and accomplish a fully automated deploying system. Right now, after the new docker images are pushed to docker hub, I still need to manually SSH into the RPI and use docker-compose to pull and run the containers again.\n My question is: how can I \"trigger\" my RPI to auto pull the new images (and run the containers again) after gihub actions pushes to docker hub?\n PS: I've heard of watchtower, and while that does work, it's not exactly what I'm looking for. Since it runs on a schedule, it doesn't update the images right after they're pushed to docker hub. Also, I'm aware that docker has put on some limits to pulls/day for free users, so that would make the watchtower rollouts even slower.\n Sorry for the somewhat long post, and thanks in advance!\n    submitted by    /u/seudirce  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3grn9/need_help_auto_updating_docker_containers/",
+          "publishedOn": "2021-06-19T14:03:39.000Z",
+          "wordCount": 577,
+          "title": "Need help auto updating docker containers"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3glu5/what_is_a_good_self_hosted_alternative_to_google/",
+          "author": null,
+          "description": "With google phasing out unlimited storage, and locking features behind a google one subscription, I am looking for a alternative.\n I am looking for a foss alternative to google photos. I would prefer it to have a webapp or apps for Mac, android, iOS, windows- almost everything. I also want the app to function as a gallery app, much like google photos on Android. \n The main feature I am looking for is for Ai face, thing, and place recognition. With pretrained models or self training. (So if it doesn't recognize something I could teach it to with pictures.)\n A lot of the ones I have been looking for don't have the ai feature, which really makes me exit the tab.\n Comment if you find/know of any software like this.\n Thanks!\n    submitted by    /u/HELLOGAMESOFFICIAL  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3glu5/what_is_a_good_self_hosted_alternative_to_google/",
+          "publishedOn": "2021-06-19T13:55:42.000Z",
+          "wordCount": 316,
+          "title": "What is a good, self hosted alternative to google photos?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3g8s2/new_cctv_project_looking_for_beta_testers/",
+          "author": null,
+          "description": "Hello, I've been working on a new open source NVR project. It aims to be fully usable with a mobile browser. Written in Golang, using FFmpeg for video processing. Can be used with DOODS for object detection.\n ​\n GitLab: https://gitlab.com/osnvr/os-nvr\n    submitted by    /u/Curld  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3g8s2/new_cctv_project_looking_for_beta_testers/",
+          "publishedOn": "2021-06-19T13:36:09.000Z",
+          "wordCount": 480,
+          "title": "New CCTV project looking for beta testers"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3fn6w/binaries_for_a_full_stack_selfhosted_application/",
+          "author": null,
+          "description": "Hey guys,\n so recently I asked myself how you build these binary files files for full stack applications.\n Take Plex as an example, if you go on their website you can download a server file as an binary compatible with your system (.exe, .dmg, .sh, etc), which includes the webversion of Plex and the whole backend. So I was wondering how you are able to do that, since it will probably also help with building single docker images instead of stacks which I currently use to combine frontend and backend. \n Does anyone know how its done or know an open source example for the building process?\n Thanks for the help!\n    submitted by    /u/vallezw  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3fn6w/binaries_for_a_full_stack_selfhosted_application/",
+          "publishedOn": "2021-06-19T13:02:52.000Z",
+          "wordCount": 371,
+          "title": "Binaries for a full stack selfhosted application"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3ebcr/form_with_signature_option/",
+          "author": null,
+          "description": "The title is very cryptic, but I'm looking for open source form software, which can be selfhosted and has these features:\n - Logged in users can access the form, fill out the fields, place signature, upload pictures.\n - Make fields manditory and non-manditory\n - A review feature, which allows a user to view all entered data\n - Place two signature fields at the end, after data is reviewed\n - Also allows sending the form to an external user (anonymous user, will not log in, so needs a unique URL), the pre-filled form including one of the signatures should be visible (non-editable), and only allow the second signature to be placed.\n - Logged in users can see the previously filled out forms, edit and resubmit the form/save it\n - Completed forms can be sent to a mailbox in PDF format\n - The anonymous user can fill out an email address at the end of the form, to be able to send the PDF to an extra email address (his own, or the site manager for example)\n - There is a format in which we'd like to make the PDF where the different entered fields can be replaced, I can build it in JS/PHP and also have a Word format.\n The software is used to make work reports after a days work on site, and requires a signature of the worker and the project manager on site. The project manager sometimes needs to review, hence the email-review-feature.\n I've tried DocAssemble, which got me really far, but the last few steps (including reviewing, sending email and returning to the form without having a user to log in) I wasn't able to accomplish, even with some help from the community there, I do use DocAssemble for other forms, I do love the flexibility of it.\n ​\n Any help, opinions and pointers in a direction would be greatly appreciated!\n    submitted by    /u/zeepost  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3ebcr/form_with_signature_option/",
+          "publishedOn": "2021-06-19T11:52:43.000Z",
+          "wordCount": 454,
+          "title": "Form with signature option"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3dgrn/web_dashboard_for_disk_health/",
+          "author": null,
+          "description": "Can anyone suggest or recommend a self-hosted web dashboard where I can see the health of the physical drives in my server? I'm running Ubuntu 20.04.\n    submitted by    /u/radionauto  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3dgrn/web_dashboard_for_disk_health/",
+          "publishedOn": "2021-06-19T10:56:55.000Z",
+          "wordCount": 266,
+          "title": "Web dashboard for disk health"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3c3w2/do_we_have_any_selfhosted_projects_for_the/",
+          "author": null,
+          "description": "Recently, I have success with CapRover to self-hosted WooCommerce, Metabase, MongoDB, Postgres & Custom NodeJS app.\n I imagine we already have a backup software with Web UI, so we can:\n  \ncreate a backup job\n point to some directory or give DB login credentials\n pick the backup time\n set the compression\n set the backup destination, local or remote (S3, FTP, ...)\n  \nDo you know any backup software that has these features? If not, would you support (code or donation) the development of this software?\n    submitted by    /u/dizaime  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3c3w2/do_we_have_any_selfhosted_projects_for_the/",
+          "publishedOn": "2021-06-19T09:23:10.000Z",
+          "wordCount": 573,
+          "title": "Do we have any self-hosted projects for the database (Postgres, MySQL) and files backup?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3bvd5/force_all_traffic_through_vpn/",
+          "author": null,
+          "description": "Goal: force all traffic through VPN only.\n Client: Windows in VM\n VPN: OPENVPN\n I delete the 0.0.0.0 route in the client. I make a route for the destination of my VPN server with my LAN default gateway as the gateway (192.168.1.1). So, in practice when I turn on openvpn, it attempts to connect to the server IP which has a route through my local LAN gateway, which would result in a connection and a new VPN connection established. And when the VPN connection drops, all traffic stops.\n However, I am unable to connect to the VPN server. I can ping it though. I was able to replicate the same scenario in a windows VM with softether client and a third party VPN and can connect successfully. What am I doing wrong?\n    submitted by    /u/Firm_Maintenance2009  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3bvd5/force_all_traffic_through_vpn/",
+          "publishedOn": "2021-06-19T09:04:37.000Z",
+          "wordCount": 842,
+          "title": "Force all traffic through vpn"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3bmqz/nefarious_anyone_good_bad_indifferent/",
+          "author": null,
+          "description": "Is anyone using it and how does it compare to Radarr and Sonarr?\n https://github.com/lardbit/nefarious\n    submitted by    /u/ithakaa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3bmqz/nefarious_anyone_good_bad_indifferent/",
+          "publishedOn": "2021-06-19T08:45:25.000Z",
+          "wordCount": 169,
+          "title": "Nefarious? Anyone? Good? Bad? Indifferent?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o39ok6/has_anyone_got_argo_tunnels_to_multiple_endpoints/",
+          "author": null,
+          "description": "Hello,\n  \nUPDATE: I now have this working. When you are proxying a single host the cloudflared daemon creates the DNS entries for you. When you are using a config file you must create the DNS entries manually. You can either do this at cloudflare.com or use the command line: \n # cloudflared tunnel route dns xxxxxxx-1356-xxxx-af44-237e463731 music.example.nz \n Here is the documentation I missed. Hopefully my mistake means that somebody else gets it easy. :-) \n UPDATE 2: SSH access is a little more complicated as there is no port 22 available on CloudFlare and you can't get to the Docker host via ssh://localhsot:22 from inside a container. There are actually good docs on how to do this, I just missed them. \n  \nI have the sad reality of being stuck behind a CGNAT setup at home, and so CloudFl…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o39ok6/has_anyone_got_argo_tunnels_to_multiple_endpoints/",
+          "publishedOn": "2021-06-19T06:16:41.000Z",
+          "wordCount": 1200,
+          "title": "Has anyone got Argo tunnels to multiple endpoints working?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o36plt/self_hosted_android_mdm/",
+          "author": null,
+          "description": "Hi\n Is anyone aware of a selfhosted mdm docker that manages Android devices ? Looking for away to remotely control and lock my kids tablets\n    submitted by    /u/Snoo71600  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o36plt/self_hosted_android_mdm/",
+          "publishedOn": "2021-06-19T03:04:07.000Z",
+          "wordCount": 217,
+          "title": "Self hosted Android mdm"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o36fol/update_privacy_win_wirehole_now_with_local/",
+          "author": null,
+          "description": "Made the unbound DNS resolver using root hints the default now. \n It should be much faster in general. Take a look at the changes below. Each are documented.\n ​\n https://github.com/IAmStoxe/wirehole\n ​\n Changes:\n https://github.com/IAmStoxe/wirehole/commit/8cac08d3c42ed073d1c6419c1960e72c682078d9\n ​\n https://github.com/IAmStoxe/wirehole/commit/9f5a9ee09f4e16aee95259c7f5c1dea77ac511ff\n    submitted by    /u/PhroznGaming  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o36fol/update_privacy_win_wirehole_now_with_local/",
+          "publishedOn": "2021-06-19T02:46:59.000Z",
+          "wordCount": 509,
+          "title": "[UPDATE | PRIVACY WIN] Wirehole: Now with local resolution of DNS by default."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o35v62/do_you_use_joplin_and_nextcloud/",
+          "author": null,
+          "description": "I am planning to go back to school and looking for a note taking app. Found Joplin and it seems to be a nice app. I have been using it on my laptop and synced it with my Nextcloud account. However, it made a mess on the root folder of my Files directory.\n Is there a way to clean it up and not break the synchonization? Something like a Joplin directory and dump all the *.md files in there instead of the root of the main Files directory.\n ​\n EDIT:\n It is working now or should I say I was able to dump all the the Joplin files into its own directory. I tried this at first before posting, but it didn't work. I might have typo'd url. Anyways, thanks for the folks who suggested it.\n    submitted by    /u/pingmanping  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o35v62/do_you_use_joplin_and_nextcloud/",
+          "publishedOn": "2021-06-19T02:10:51.000Z",
+          "wordCount": 843,
+          "title": "Do you use Joplin and Nextcloud?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o35l2q/own_email_domain/",
+          "author": null,
+          "description": "Hello guys, so I've changed from gmail to protonmail and I *think* I want to step over to own domain.\n Currently I'm using something like this:\n [email1@pm.me](mailto:email1@pm.me) - Personal /Banking account\n [email2@pm.me](mailto:email2@pm.me) - Gaming / Twitch / Steam etc account\n I see a lot of people using custom domainst, but I have a some questions.\n  \nIs possible that someone steals my domain or get my email redirecting to them ?\n Is the price of the domain going to be the same or higher ?\n In protonmail can I do (imagine) 100 alias to the email or I need to pay more than the plus?\n Is the whois privacy safe? Or do i need to cheat in the real information?\n I've seen that some people get their domain hijacked by a company, is that easy to do with every domains? I'll be getting a .me\n Is the only \"disadvantage\" is that we always have to pay it?\n  \n   submitted by    /u/Jorib3ir0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o35l2q/own_email_domain/",
+          "publishedOn": "2021-06-19T01:53:31.000Z",
+          "wordCount": 1926,
+          "title": "Own email domain"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/o33n2t/oracle_cloud_openvpn/",
           "author": null,
           "description": "I created my openvpn server using the openvpn stack on oracle cloud ( https://cloudmarketplace.oracle.com/marketplace/en_US/adf.task-flow?adf.tfId=adhtf&adf.tfDoc=/WEB-INF/taskflow/adhtf.xml&application_id=72305905 )\n Id like to create a static route so all my client traffic only goes through the vpn. However there isnt an option to write these console commands as root such as \"push \"redirect-gateway def1 bypass-dhcp\", it only allows you to ssh in as the user \"openvpnas\". Because of this, is there a way to make these \"redirect-gateway def1\" changes via the openvpn admin portal or fiddling with the oracle \"virtual cloud network\" rules/settings?\n    submitted by    /u/Firm_Maintenance2009  \n [link]   [comments]",
@@ -4869,15 +5085,6 @@
           "publishedOn": "2021-05-21T14:29:16.000Z",
           "wordCount": 295,
           "title": "CSS Hell"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340599",
-          "author": "Chris Coyier",
-          "description": "Jonathan Neal tweeted a heck of a little CSS trick the other day, putting JSON inside CSS and plucking it out with JavaScript. Valid values for custom properties are quite liberal! So this looks for a CSS rule (e.g. a …\nThe post JSON in CSS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/json-in-css/",
-          "publishedOn": "2021-05-20T22:29:53.000Z",
-          "wordCount": 1092,
-          "title": "JSON in CSS"
         }
       ]
     },
@@ -5262,34 +5469,6 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/4d6d809b-0c1a-4074-9eeb-8509dc4d383f/css-container-queries-use-cases-migration-strategies.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
-          "author": "hello@smashingmagazine.com (Shalabh Vyas)",
-          "description": "Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.",
-          "link": "https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/",
-          "publishedOn": "2021-05-21T11:30:00.000Z",
-          "wordCount": 9440,
-          "title": "Building A Rich Text Editor (WYSIWYG) From Scratch",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bafdd817-038e-4e70-a830-de0f5da659c4/building-wysiwyg-editor-javascript-slatejs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
-          "link": "https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/",
-          "publishedOn": "2021-05-20T14:20:00.000Z",
-          "wordCount": 831,
-          "title": "Boost Your Skills Online: Smashing Workshops On Front-End And Design",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
@@ -5990,6 +6169,33 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1773827",
+          "author": "Jennifer Ouellette",
+          "description": "Experiments could enhance our understanding of the origin of prehistoric art in caves",
+          "link": "https://arstechnica.com/?p=1773827",
+          "publishedOn": "2021-06-19T18:23:31.000Z",
+          "wordCount": 2033,
+          "title": "Archaeologists recreated three common kinds of Paleolithic cave lighting"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774420",
+          "author": "Kiona N. Smith",
+          "description": "Two Viking Age warriors from the same family died hundreds of kilometers apart.",
+          "link": "https://arstechnica.com/?p=1774420",
+          "publishedOn": "2021-06-19T13:00:57.000Z",
+          "wordCount": 923,
+          "title": "Two Viking burials, separated by an ocean, contain close kin"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774477",
+          "author": "WIRED",
+          "description": "Researchers try different approaches to solve problem of amplifying negative stereotypes.",
+          "link": "https://arstechnica.com/?p=1774477",
+          "publishedOn": "2021-06-19T12:05:34.000Z",
+          "wordCount": 2021,
+          "title": "The efforts to make text-based AI less racist and terrible"
+        },
         {
           "id": "https://arstechnica.com/?p=1774586",
           "author": "Tim De Chant",
