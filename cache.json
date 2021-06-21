@@ -6,6 +6,177 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4igom/how_to_turn_your_rooted_android_phone_into_a/",
+          "author": null,
+          "description": "Hey y'all. So this started out as a small project, but it ended up being waaay more complicated than I thought it was going to be. I cracked the screen on my Pixel 4a and I found out it was gonna cost $230 to repair. You know what I can buy for $230? Another phone. I def downgraded, but I don't use my phone for much. So then I had this Pixel 4a that wasn't even a year old that Amazon was going to pay me $20-60 for. \n I really just wanted to wipe it and put Linux on it, but apparently that's not actually a thing I can do like I can with a computer. And 4a isn't ported to Ubuntu Touch yet. So I came across Linux Deploy. I've been needing to setup a backup server anyway.\n ANYWAY, this ended up becoming a whole thing because I had to find a work around for just about everything (because of chroot/Android/aarch64/etc.....). And I did! I even got it working with external storage and LVM!! I posted a tutorial on everything (split into two parts, because it gets hairy and LVM is optional). This is Debian in chroot running UrBackup. This project isn't for everyone, especially because you're limited to EXT4 and it only works with Windows and Linux clients (no Mac).\n But if you have an Android phone sitting around and you need a backup server, you can give it a swing:\n https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i\n The biggest con is that you are, at the end of the day, still running Android. You can disable most services and apps, but if you're paranoid about Big Brother Google, this probably isn't for you.\n    submitted by    /u/Significant-Toe3842  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4igom/how_to_turn_your_rooted_android_phone_into_a/",
+          "publishedOn": "2021-06-21T00:03:24.000Z",
+          "wordCount": 403,
+          "title": "How to Turn Your Rooted Android Phone into a Debian Backup Server"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4fy1z/question_about_wikijs_and_files_handling/",
+          "author": null,
+          "description": "Hello,\n I wanted ot ask, is there possibility to make wikijs to store uploaded files (images for instance) as original files, jpg for example? It looks for me, that it is converting them into objects in database and I wonder how to back up them, and I'm afraid that it will slow down my instance soon.\n    submitted by    /u/lord_EarlGray  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4fy1z/question_about_wikijs_and_files_handling/",
+          "publishedOn": "2021-06-20T21:48:33.000Z",
+          "wordCount": 240,
+          "title": "Question about WikiJS and files handling"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4fqnu/trying_and_failing_to_make_rpi_seedbox/",
+          "author": null,
+          "description": "I've got an old RPi 3 that I'm trying to repurpose into a seedbox for my LAN, but I'm not having much luck. Can anyone help me?\n Working\n  \nqBittorrent web ui is accessible from other PCs, and can successfully download Linux ISOs.\n  \nNot Working\n  \nqBittorrent refuses to change the username/password from admin.\n I want to use filebrowser to access the torrented files via HTTP, but it refuses to run at all on the RPi. I think I got the armv7 build to run once, but after trying to install it as a service the way I did with qBittorrent, it crashes no matter how or where I run it.\n Though it felt like better practice to open the programs to Localhost and then proxy them to LAN subdomains using a server, I couldn't figure out Caddy which supposedly would have made this easy\n  \nTo do - Possibly Wireguard remote access in the future? I found a pretty good guide\n Any help or suggestions, particularly with getting Filebrowser (or an alternative) to run would be appreciated!\n Many thanks!\n    submitted by    /u/neusymar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4fqnu/trying_and_failing_to_make_rpi_seedbox/",
+          "publishedOn": "2021-06-20T21:37:59.000Z",
+          "wordCount": 296,
+          "title": "Trying and failing to make RPi seedbox"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4fmop/what_to_host_on_a_vps/",
+          "author": null,
+          "description": "I have a VPS running nextcloud and VPN server. \n What else can I do with this VPS?\n Any productivity apps?\n    submitted by    /u/chaplin2  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4fmop/what_to_host_on_a_vps/",
+          "publishedOn": "2021-06-20T21:32:28.000Z",
+          "wordCount": 188,
+          "title": "What to host on a VPS?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4b3po/fresh_rss_app/",
+          "author": null,
+          "description": "Hi there,\n I use Fresh RSS as my self hosted RSS reader. On my old phone I used readably as an app. Unfortunately it isn't available anymore.\n I tried the normal web view in the mobile browser, the FreshRSS app and FeedMe. All of them I did not quite like the look and feel.\n Which app can you recommend?\n    submitted by    /u/Antihero89  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4b3po/fresh_rss_app/",
+          "publishedOn": "2021-06-20T17:53:28.000Z",
+          "wordCount": 320,
+          "title": "Fresh RSS App"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4av5p/quick_noob_question/",
+          "author": null,
+          "description": "Everyone is talking about making Jails and such. Ik what a jail is but idk how to actually configure them at all aside from plugin installments like Plex. I was able to setup permissions properly for Plex but I have another question besides Plex.\n How do I run shell commands or whatever in a jail? I hear everyone talking about running this command or that command in the jail but I'm sitting here thinking how TF do I do that.\n If anyone can help, it would be incredible.\n Oh and if u happen to know how to setup a java mc server in a jail, please refer me to a link tutorial or something. Even just a quick explanation.\n *yes I am talking about TrueNas - Sorry lol\n    submitted by    /u/3-46pm  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4av5p/quick_noob_question/",
+          "publishedOn": "2021-06-20T17:41:52.000Z",
+          "wordCount": 265,
+          "title": "Quick noob question."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o49pzn/im_running_transmission_and_jackett_on_docker/",
+          "author": null,
+          "description": "But when i tried to run the container with PIA running, the container couldnt create a network, so I turned off the vpn, and created the container, then turned the VPN back on. Is the container running under my vpn or not?\n    submitted by    /u/ricktech15  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o49pzn/im_running_transmission_and_jackett_on_docker/",
+          "publishedOn": "2021-06-20T16:46:45.000Z",
+          "wordCount": 213,
+          "title": "Im running Transmission and Jackett on docker, with PIA running on the machine."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o48vy4/anyone_know_a_selfhosted_cloud_gaming_panel/",
+          "author": null,
+          "description": "I am looking for something which u can selfhost and have a web UI or client where u choose the game and launch it.\n Edit: Something open source would be great!\n    submitted by    /u/Noobie_Action  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o48vy4/anyone_know_a_selfhosted_cloud_gaming_panel/",
+          "publishedOn": "2021-06-20T16:06:02.000Z",
+          "wordCount": 211,
+          "title": "Anyone know a selfhosted cloud gaming panel?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o47419/mistborn_the_alline_one_you_need/",
+          "author": null,
+          "description": "Recently I discovered, a powerfull All-in-one well packed, selfhosted \"system\" you have your wireguard connection, your nextcloud, your sync things nd somme other really cool stuff\n Here the link : https://gitlab.com/cyber5k/mistborn Give me your opinion about it\n    submitted by    /u/doomseur  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o47419/mistborn_the_alline_one_you_need/",
+          "publishedOn": "2021-06-20T14:39:10.000Z",
+          "wordCount": 196,
+          "title": "Mistborn, the all-ine one you need"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o472it/pi2_vs_free_vs_cheap_webhosting/",
+          "author": null,
+          "description": "Hello guys, I have an idea un mind. I’m going to provide free educational content. So I have some question:\n - Could I use a pi2 to self host it?\n - A free hosting service could be good? (Maybe I could get some type of financiation or ads?)\n ​\n *I have a static public IP\n *Pi2 is the only energy-efficient computer\n *Maybe I could have it 24/7\n *I don’t know anyway to hide my ip \n *I don’t need to be in a search engine, as I can give the address to every class\n *Security is a must for my self hosted idea\n *I can get a SIM card with mobile data and host from there despite not being recommended \n I won’t be hosting big files, just pdfs or images. Most of the contents would be linked to external pages (with permission from the author) Using ads won’t be bad I think (I’m a student so I won’t put ads that could distract people) but the ads should be 100% customisable (size, place And content?)\n Thanks again! You guys are the best community\n    submitted by    /u/qOMIDa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o472it/pi2_vs_free_vs_cheap_webhosting/",
+          "publishedOn": "2021-06-20T14:37:00.000Z",
+          "wordCount": 596,
+          "title": "Pi2 vs free vs cheap webhosting"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o46k6c/ssl_certificate_question/",
+          "author": null,
+          "description": "Hi guys, it's my first post, so please be gentle. \n I have a domain name called exampledomain.com that I would like to host a website on and ensure it's encrypted etc using SSL. I'm hosting the website on godaddy at the moment.\n I also have another web server at home that I'd like to expose to the internet securely with SSL. I'd like this address to be store.exampledomain.com\n in GoDaddy's DNS, I have an A record for store that points to my router at home.\n When it comes to SSL certificates, I'm confused how to implement this for both websites and more specifically, what type of cert I'll need. Or will I need two certificates? I currently have a SAN cert with up to 5 SAN's from godaddy.\n Generally, you need to submit a CSR to generate the cert from the server the website is on. So I do this on the server where exampledomain.com sits, then upload the CSR to godaddy and voila; I get my cert.\n However, now I want a cert for store.exampledomain.com so I need to go to my server at home hosting the website and generate a CSR for store. Is it just a matter of rekeying the certificate in GoDaddy now? Will that break the existing certificate for exampledomain.com?\n Any resources you could share that might educate me further would be helpful, also.\n So confused, eager to learn.\n    submitted by    /u/BowlersName  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o46k6c/ssl_certificate_question/",
+          "publishedOn": "2021-06-20T14:12:43.000Z",
+          "wordCount": 927,
+          "title": "SSL Certificate Question"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o464sg/tracking_racersbib_numbers_through_the_course/",
+          "author": null,
+          "description": "tl;dr: looking for kanban or kanban like suggestions, something that lets you display a lot of individual entries (cards/bib/story numbers). See my imgur post for visuals.\n I'm with an amateur radio group that provides communications for various races. Most of our activity takes place in areas with limited cell coverage, just off of wooded trails. Operators at the aid stations write down bib numbers and radio it into the race headquarters. We write down the report and give the time, location, and bib numbers to the race managers who check it off their master list. Family/friends of runners swarm around either us or race managers to find out how their runner is doing on the course. We'd (both us and race managers) would like to put a web page (or desktop app) on a tv screen to show where ru…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o464sg/tracking_racersbib_numbers_through_the_course/",
+          "publishedOn": "2021-06-20T13:53:17.000Z",
+          "wordCount": 602,
+          "title": "Tracking racers/bib numbers through the course."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o44ir0/anyone_know_of_a_selfhosted_alternative_to/",
+          "author": null,
+          "description": "I love the service, but am trying to cut down on my paid subscriptions. Basically, I want the ability to consolidate my news from Reddit, RSS feeds, etc.\n Thanks in advance!\n And Happy Father's Day to the Dads out there\n    submitted by    /u/platynom  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o44ir0/anyone_know_of_a_selfhosted_alternative_to/",
+          "publishedOn": "2021-06-20T12:21:21.000Z",
+          "wordCount": 281,
+          "title": "Anyone know of a self-hosted alternative to mailbrew.com?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o42p9h/is_nfs_w_kerberos_worth_it/",
+          "author": null,
+          "description": "I've recently migrated from a custom built mergerfs on ubuntu system to a Synology device. Whether this is an upgrade or not is in question, but I wanted a level of redundancy, a nicer heat solution and something which would just work so I didn't have to worry about storage when selfhosting. \n I've been using NFS for a while, with user accounts stored in AD. Pre-synology it worked great; realm join and we're off and running. NFS with sec=sys worked wonders because each user had the same uid/gid everywhere.\n My primary use cases are 2 docker hosts. I'd mount the nfs share on each host, then each container runs as a set user and only has access to their own directories. It's magic. One mount and the rest takes care of itself.\n In this new synology world, it's not as easy. It generates different uids than everything else on the network so sec=sys doesn't work. I had a stab at nfs idmapping and it doesn't seem to work. Google is a mixed bag but the consensus is this isn't the answer (and may even be a synology quirk).\n The answer seems to be either; \n  \nchmod -R 777\n manage uids manually (ergh...)\n kerberos\n samba\n  \nI'm new to kerberos but I think I'm beginning to slowly get it. Is it worth it? \n Kerberos & Samba also may mean I need to manually mount each share under different user accounts. This feels cleaner but a relative pain in the arse.\n    submitted by    /u/serenitisoon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o42p9h/is_nfs_w_kerberos_worth_it/",
+          "publishedOn": "2021-06-20T10:24:04.000Z",
+          "wordCount": 923,
+          "title": "Is NFS w. Kerberos worth it?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o42lwf/freedombox_personal_server_at_home/",
+          "author": null,
+          "description": "This project for a complete self-hosted server using totally free/open source software has been around for a long time; lots of apps can be installed on it:\n Run your digital services from your home\n FreedomBox is a private server for non-experts: it lets you install and configure server applications with only a few clicks. It runs on cheap hardware of your choice, uses your internet connection and power, and is under your control.\n    submitted by    /u/dsolomonoff  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o42lwf/freedombox_personal_server_at_home/",
+          "publishedOn": "2021-06-20T10:18:02.000Z",
+          "wordCount": 323,
+          "title": "FreedomBox - Personal Server at Home"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o42cib/cadvisor_take_a_lot_of_ram/",
+          "author": null,
+          "description": "Hey I recently started using Cadvisor in combination with prometheus in Docker images, this works well, however I see that Cadvisor takes up a lot of RAM. probably because it has to monitor a lot of docker images (65 at the moment) and collect and forward information about them.. is there any suggestion how i can reduce this? is there maybe an environment variable i can use or a setting? my docker compose looks like this ( excluded prometheus and the grafana part. but I can share these also if needed)\n cadvisor: image: google/cadvisor network: - internal hostname: cadvisor volume: - /:/rootfs:ro - /var/run:/var/run:rw - /sys:/sys:ro - /var/lib/docker:/var/lib/docker:ro - /cgroup:/cgroup:ro deploy: tags: - org.label-schema.group=monitoring\n    submitted by    /u/jboesh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o42cib/cadvisor_take_a_lot_of_ram/",
+          "publishedOn": "2021-06-20T10:02:34.000Z",
+          "wordCount": 237,
+          "title": "Cadvisor take a lot of ram"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o41bk2/10_seconds_linuxserverio_application_installer/",
+          "author": null,
+          "description": "Hi!\n I've made a small script to easily get you started with LinuxServer.io applications using docker-compose. I personally find it very useful to quickly install an application and try it out. Hopefully it will help you too.\n The script getlsioapp.sh allows you to install a LinuxServer.io application in less than 10 seconds. It will automatically create the necessary volume directories on the host and automatically create the correct docker-compose configuration file. The docker-compose configuration file includes a description of all environment variables, volume- and port mappings.\n More info here.\n Let me know what you think!\n    submitted by    /u/technorabilia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o41bk2/10_seconds_linuxserverio_application_installer/",
+          "publishedOn": "2021-06-20T08:50:49.000Z",
+          "wordCount": 716,
+          "title": "10 seconds LinuxServer.io application installer"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o410co/vps_vpn/",
+          "author": null,
+          "description": "I have nextcloud and other docker containers running . I want them to be accessed outside but even though there os port forwarding option my ISP wont open 443 and 80 port so I decided to go with buying an vps and install wireguard and by that access all containers from anywhere . Now my question is , is there any VPS plan with less storage just for vpn , cheap price and doesnt need my information and accept payment via monero . I have checked orangewebsite njalla 1984hosting but I would need cheap one as I only use bandwidth and not much storage Thanks\n    submitted by    /u/DesperateEmphasis340  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o410co/vps_vpn/",
+          "publishedOn": "2021-06-20T08:30:03.000Z",
+          "wordCount": 475,
+          "title": "Vps vpn"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o3xnv3/self_hosted_calendarreminder_that_works_on_ios/",
+          "author": null,
+          "description": "submitted by    /u/wakeboarder106  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o3xnv3/self_hosted_calendarreminder_that_works_on_ios/",
+          "publishedOn": "2021-06-20T04:35:49.000Z",
+          "wordCount": 183,
+          "title": "Self hosted calendar/reminder that works on IOS and Android, and can be run on an RPI4?"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/o3ta0e/nginx_proxy_manager_how_to_forward_to_a_specific/",
           "author": null,
           "description": "I've got a few things running beind nginx proxy manager and they all work because the basic http(s)://IP:port request locally auto loads the desired location. For example, my nextcloud instance loads /index.php/login.\n I just installed an app (azuracast after reading the other thread), but the way that works is http(s)://x.x.x.x:port loads /login or /dashboard if you are logged in. Thats the admin dashboard but I am trying to expose the \"public\" page which is:\n http(s)://x.x.x.x:port/public/stationName \n And the port is the same for the management dashboard. \n Anyone know how to accomplish that with nginx proxy manager? When trying to use the custom locations setting I still just get directed to the main management page. nginx conf here https://pastebin.com/raw/rKM6kB3F\n    submitted by    /u/T-VOnTheInternet  \n [link]   [comments]",
@@ -5058,33 +5229,6 @@
           "publishedOn": "2021-05-24T13:57:21.000Z",
           "wordCount": 2872,
           "title": "Wrangling Control Over PDFs with the Adobe PDF Embed API"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340991",
-          "author": "Chris Coyier",
-          "description": "Stefan Judis, two days before I mouthed off about using (X, X, X, X) for talking about specificity, has a great blog post not only using that format, but advocating that browser DevTools should show us that value by …\nThe post Should DevTools teach the CSS cascade? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.stefanjudis.com/blog/should-devtools-teach-the-css-cascade/",
-          "publishedOn": "2021-05-21T23:22:54.000Z",
-          "wordCount": 1168,
-          "title": "Should DevTools teach the CSS cascade?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340825",
-          "author": "Adam Rackis",
-          "description": "This post is an accelerated introduction to Svelte from the point of view of someone with solid experience with React. I’ll provide a quick introduction, and then shift focus to things like state management and DOM interoperability, among other things. …\nThe post Svelte for the Experienced React Dev appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svelte-for-the-experienced-react-dev/",
-          "publishedOn": "2021-05-21T14:30:59.000Z",
-          "wordCount": 3658,
-          "title": "Svelte for the Experienced React Dev"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340919",
-          "author": "Chris Coyier",
-          "description": "Collection of common CSS mistakes, and how to fix them\nFrom Stefánia Péter. \nClever idea for a site! Some of them are little mind-twisters that could bite you, and some of them are honing in on best practices that …\nThe post CSS Hell appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://csshell.dev/",
-          "publishedOn": "2021-05-21T14:29:16.000Z",
-          "wordCount": 295,
-          "title": "CSS Hell"
         }
       ]
     },
@@ -6169,6 +6313,42 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1774776",
+          "author": "Jonathan M. Gitlin",
+          "description": "The joint venture with Customcells will focus on cells with silicon anodes.",
+          "link": "https://arstechnica.com/?p=1774776",
+          "publishedOn": "2021-06-20T22:01:24.000Z",
+          "wordCount": 859,
+          "title": "Porsche will build a high-performance battery factory in Germany"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774623",
+          "author": "Jennifer Ouellette",
+          "description": "Ryan Reynolds, Samuel L. Jackson, and Salma Hayek carry film through the rough spots",
+          "link": "https://arstechnica.com/?p=1774623",
+          "publishedOn": "2021-06-20T21:18:52.000Z",
+          "wordCount": 1405,
+          "title": "The Hitman’s Wife’s Bodyguard is the raunchy action/comedy we need right now"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774575",
+          "author": "Nathan Mattise",
+          "description": "It's light(ish) but includes masks, disease-driven death, and humans being bad to each other.",
+          "link": "https://arstechnica.com/?p=1774575",
+          "publishedOn": "2021-06-20T13:30:32.000Z",
+          "wordCount": 1909,
+          "title": "Sweet Tooth review: Evidently The Walking Dead just needed a deerboy"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774406",
+          "author": "WIRED",
+          "description": "The rocket-building game lets you pilot a fusion-propelled craft right now.",
+          "link": "https://arstechnica.com/?p=1774406",
+          "publishedOn": "2021-06-20T10:30:16.000Z",
+          "wordCount": 1539,
+          "title": "Test out next-gen space tech in Kerbal Space Program"
+        },
         {
           "id": "https://arstechnica.com/?p=1773827",
           "author": "Jennifer Ouellette",
