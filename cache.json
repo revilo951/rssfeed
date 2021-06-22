@@ -6,6 +6,186 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o58kvt/any_ideas_about_a_quick_way_to_setup_a_tv_channel/",
+          "author": null,
+          "description": "OK... I self hosted lots of media services, but I have the idea that choice can be a downside. For the older gang here... remember just turning on the TV at 1am when you got home from a night out and discovering an amazing new random film or when you are stuck at home sick watching bad daytime TV because their was no choice?!\n So here is the idea.. I have lots of content (have actually collected lots of bad TV, old commercials, great shows etc) and I would like to simulate TV channels from different places and times (currently have content for channels for \"usa 80's\" \"USA early 90's\" \"UK 80's\" and \"soviet block early 70's\")\n Wanted to ask you guys if you had ideas about setup... I can set this up, but most options seem like a pain!\n In a perfect world (perhaps asking too much!) - docker container - web interface - feed it a m3u or manage it inside? - able to do multiple streams \n Even something that piggyback on jellyfin or plex?\n Any ideas?\n    submitted by    /u/swhazi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o58kvt/any_ideas_about_a_quick_way_to_setup_a_tv_channel/",
+          "publishedOn": "2021-06-21T23:27:15.000Z",
+          "wordCount": 326,
+          "title": "Any ideas about a quick way to setup a TV channel?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o5529q/home_assistant_reverse_proxy_alexa_doubt/",
+          "author": null,
+          "description": "I have a problema web integrating ha with Alexa under a nginx reverse Proxy,anyone had any Idea How to configure the nginx redirects to have bouth my existing redirects and ha api tô Alexa integration? I've configurated some paths i've found like the hue emulation integration that associate ha to Alexa like \"/api/pi/lights\" on Port 80 but It does nota work dont know why\n    submitted by    /u/mzramna  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o5529q/home_assistant_reverse_proxy_alexa_doubt/",
+          "publishedOn": "2021-06-21T20:44:47.000Z",
+          "wordCount": 180,
+          "title": "Home assistant + reverse Proxy + Alexa doubt"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o5453t/vaultwarden_with_nginx_proxy_manager/",
+          "author": null,
+          "description": "Hi everyone,\n I still very new to all this but I am learning every day from all of you.\n Is anyone currently running vaultwarden with nginx proxy manager to manage the route to it and the cert?\n Just looking for a way to set it up. I believe if I set NPM up to use http and port 80 I can get a cert and it seems to work. I'm just wondering if that's the most secure way to run it.\n Previously I was running it using the docker compose documentation on vaultwarden wiki with Caddy for cert management almost exactly the way the documentation suggests. But I wanted to use NPM to point to some other VMs so I had to forward firewall ports 80 and 443 to that VM.\n Thanks for any help you can provide. Sorry if any of my terminology is incorrect!\n    submitted by    /u/TheHesster  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o5453t/vaultwarden_with_nginx_proxy_manager/",
+          "publishedOn": "2021-06-21T20:05:34.000Z",
+          "wordCount": 605,
+          "title": "Vaultwarden with Nginx Proxy Manager?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o531ky/finding_a_new_server/",
+          "author": null,
+          "description": "I am currently looking to upgrade from my tiny Raspberry Pi 4B 8GB Plex server so that I can scale to more powerful virtual servers and to switch over my costly cloud VPS services since seeing people on YouTube use VMWARE’s ESXI so that the server acts just like a virtual machine (NetworkChuck). \n Mostly what I plan on running, a few servers, some on and off: \n  \nMinecraft\n Terraria\n Wordpress\n Valheim (maybe… it gets a little demanding after a while)\n Vaultwarden\n Few other small things\n  \nI don’t want to spend too much (less than 600) but I am willing to spend a little more money if it would make a difference.\n Features I’m looking for:\n  \nEasily removable drives\n Ethernet (of course)\n 64GB ram if possible\n An above average CPU\n Maybe put a little graphics card when I want so I can run plex arcade\n  \nThis looks good to me\n I am looking for a server to slowly remove all the VPSs that I constantly pay for and want to go full self host since I am able to manage them on my own. I just can’t find the right specs and value, if anyone has a few in mind that would help.\n I am educated with the command line but not with ESXI or home/virtual server management. Yes I am looking to run multiple different operating systems and I prefer Ubuntu server.\n    submitted by    /u/Mainstay_Mist  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o531ky/finding_a_new_server/",
+          "publishedOn": "2021-06-21T19:17:46.000Z",
+          "wordCount": 631,
+          "title": "Finding a new server"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o5199r/dedicated_server_in_the_cloud_internet_speed/",
+          "author": null,
+          "description": "Hi there,\n I have been playing around with self hosting this year. I want to take it a step further. I want to host Proxmox. I cannot build a server at home, I need to do it in the Cloud.\n I'm thinking about renting a dedicated server at Hetzner. I can rent it Germany for 47 euros a month, but in Finland it costs 41 euros a month. \n I think it is a lot of money but I think I'm able to do it and I really like all the things I can do if I have a dedicated server. \n ​\n Now, I have used iperf to test the internet connection. When my PC is the client I get about 10Mbit per second (my upload speed at home) with both servers in Germany and Finland. If my PC is the server, and I try iperf on a server in Germany as client I get 75Mbit per second (my download speed at home). If I try the server in Finland as client I get about 60Mbit per second, about 20% less when trying from Germany.\n The ping is 20ms to Germany but 40ms to Finland.\n ​\n I want to host things like, OpenVPN, PiHole, Bitwarden and much more on dedicated server. Basically I want to connect to the VPN server all the time, when I am at home or traveling or work. \n Should I go with more expensive but closer internet connection or less expensive but a bit slower internet connection?\n I would like to go with the cheapest. Since I'm the only user on the dedicated server anyway. Does it matter so much I get a little bit lower bandwidth and a little bit higher ping???\n    submitted by    /u/wulf_rtpo6338  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o5199r/dedicated_server_in_the_cloud_internet_speed/",
+          "publishedOn": "2021-06-21T18:00:34.000Z",
+          "wordCount": 423,
+          "title": "Dedicated Server in the Cloud internet speed question"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o507s2/migrating_from_postfixdovecot_setup_to_dockerized/",
+          "author": null,
+          "description": "Hi all,\n i would like to switch from my current postfix/dovecot/rspamd installation to mailcow. the domain should stay the same, maybe the ip address can stay the same too. What is the best option to migrate as smoothly as possible? I have 4 active email accounts on the server, all are in a maildir format and are stored under home of the respective user (eg. home/user/Maildir)\n I would keep the downtime as low as possible and migrate all mails to Mailcow.\n There's some kind of guide, but I'm unsure if it 'really' works:\n https://github.com/mailcow/mailcow-dockerized/issues/516\n    submitted by    /u/br0kenpipe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o507s2/migrating_from_postfixdovecot_setup_to_dockerized/",
+          "publishedOn": "2021-06-21T17:15:42.000Z",
+          "wordCount": 215,
+          "title": "Migrating from postfix/dovecot setup to dockerized Mailcow on the same domain/IP"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4ykx1/old_gaming_pc_with_external_hard_drives_vs_nas/",
+          "author": null,
+          "description": "Hi everyone!\n With the recent google photos change I've decided that it might be a good time to upgrade my plex server in order to also host a service like Photoprism. The issue is that I'm currently running my plex server on an Alienware X51-R2, which is still running really well, but doesn't have room in the case/motherboard to add more drives and it's likely an absolute pain to transfer the system to a new case and upgrade to a new motherboard. \n So the question I have for you guys is: what would you recommend I do? Should I buy a raid enclosure, external drives, or some other way to extend my storage on my Alienware X51-R2 or should I try to instead buy something like a Synology Nas?\n Some quick system details:\n  \ni5-3330\n 8 GB of Ram\n GeForce GT 640\n 1 TB hard drive\n  \n   submitted by    /u/Doctorimposible  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4ykx1/old_gaming_pc_with_external_hard_drives_vs_nas/",
+          "publishedOn": "2021-06-21T16:04:45.000Z",
+          "wordCount": 875,
+          "title": "Old Gaming PC with external hard drives vs NAS"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4ygec/novice_trying_to_set_up_a_reverse_proxy_with/",
+          "author": null,
+          "description": "Hello, hope you're doing well. I have this problem where I try to get Caddy reverse proxy to work. At port 9000 I have a dockerized MinIO instance running that I want to point to my domain name via an A+Dynamic Record, which has a value of 127.0.0.1.\n My domain is on NameCheap, so I downloaded and installed their DDNS Client v2 and configured everything.\n When trying to access the proxied port(80), it just won't load. Like literally, my Firefox says that there's a problem with loading the page.\n I have tried messing around with my firewall but still nothing. I have opened a thread on Caddy's official forum. Sadly no progress yet.\n Here's the link: https://caddy.community/t/novice-trying-to-setup-reverse-proxy-from-on-node-js-app-from-port-3001-to-80-without-ssl/12815/6\n The only difference is that there I need to set up a Node.js app and here I need to setup MinIO\n    submitted by    /u/michael-grigoryan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4ygec/novice_trying_to_set_up_a_reverse_proxy_with/",
+          "publishedOn": "2021-06-21T15:59:40.000Z",
+          "wordCount": 393,
+          "title": "[novice]: Trying to set up a reverse proxy with Caddy from port 80 to port 9000 but nothing works"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4xbx1/zero_to_code_helm/",
+          "author": null,
+          "description": "Creating Helm Charts, Testing them, creating your own, uploading them to you're own ProGet repository.. \n https://tech.davidfield.co.uk/from-zero-to-code-enhancing-the-kubernetes-experience/\n    submitted by    /u/mightywomble  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4xbx1/zero_to_code_helm/",
+          "publishedOn": "2021-06-21T15:11:22.000Z",
+          "wordCount": 119,
+          "title": "Zero to Code: Helm"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4x9cn/zero_to_code_dynamic_nfs_provisioning/",
+          "author": null,
+          "description": "Trying to write this post was difficult, there is a lot of assumed knowledge in the world of Kubernetes. I'm willing to put my hand up and be educated if I'm wrong anywhere, I will, however, stand by the commands and YAML files work and I've torn everything down and brought it back up again.\n https://tech.davidfield.co.uk/from-zero-to-code-kubernetes-dynamic-nfs-storage/\n    submitted by    /u/mightywomble  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4x9cn/zero_to_code_dynamic_nfs_provisioning/",
+          "publishedOn": "2021-06-21T15:08:24.000Z",
+          "wordCount": 165,
+          "title": "Zero to Code: Dynamic NFS provisioning"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4x90f/cant_find_back_a_post_talking_about_a_push/",
+          "author": null,
+          "description": "Hi there,\n I remember seeing someplace around here a post about a project for a notification service for android (and IOS?) which would be selfhosted. It's not Gotify although it could be relying on Gotify for the notification server.\n I'm sorry it's a bit vague, I know it was posted in the last few months, 4 at most. If it rings a bell to any of you...\n EDIT: https://unifiedpush.org/\n    submitted by    /u/Erwyn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4x90f/cant_find_back_a_post_talking_about_a_push/",
+          "publishedOn": "2021-06-21T15:08:02.000Z",
+          "wordCount": 217,
+          "title": "Can't find back a post talking about a push notification service"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4v2nc/one_proxy_server_from_all_my_self_hosted_apps/",
+          "author": null,
+          "description": "So I have a number of self hosted apps in Proxmox LXC containers, all with unique IP addresses and hostnames.\n Radarr Sonarr Lidarr Etc....\n Instead of setting up ngnix / caddy on all my seperate containers I'm thinking of using a single reverse proxy / load balancer.\n If someone can recommend the best approach it would be really helpful.\n After looking at caddy, I'm leaning towards using it if it's up from the task ? (....also wondering if caddy has a web GUI?)\n Thanks\n    submitted by    /u/ithakaa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4v2nc/one_proxy_server_from_all_my_self_hosted_apps/",
+          "publishedOn": "2021-06-21T13:24:30.000Z",
+          "wordCount": 896,
+          "title": "One Proxy Server from all my self hosted apps?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4trrv/making_a_program_that_allows_for_self_hosted/",
+          "author": null,
+          "description": "Im working on a project that allows you to inject ...\n invisible\n self-hosted\n encrypted\n \n dms\n group chats\n and guilds\n ... into the official discord webclient.\n Currently this does that by intercepting api calls for specific channels that the user sets, and injecting new messages into the websocket!\n Right now I'm cleaning up the code before I release a v1 version (plug and play program - one person hosts and others install and configs their clients)\n What I'm asking for you guys is feedback on how I should steer this project and anythings I should or shouldn't do in particular.\n If you find this concept interesting you can keep an eye on my discord server where I work with others on this project - the invite code is HwNAW2UdYW (I would link it but its so we don't get raided by bots - if u really want the invite DM me and I'll send it tmrw)\n    submitted by    /u/TheBrokenThirds  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4trrv/making_a_program_that_allows_for_self_hosted/",
+          "publishedOn": "2021-06-21T12:18:02.000Z",
+          "wordCount": 360,
+          "title": "Making a program that allows for self hosted discord guilds and more! Looking for suggestions and feedback."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4tnpx/introducing_stabile_roll_your_own_infrastructure/",
+          "author": null,
+          "description": "Hey all,\n We've packaged a Qemu/KVM-based VM orchestration tool, which we've used internally for years, for general consumption. It is a dual-licensed and open source.\n We'd like to engage with a few serious beta-testers. While geared towards commercial usage, it can also run services and virtual servers in a home-lab setting.\n If anyone is up for giving it at spin, take a look at: https://www.origo.io/info/beta/\n    submitted by    /u/onthebackof  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4tnpx/introducing_stabile_roll_your_own_infrastructure/",
+          "publishedOn": "2021-06-21T12:11:39.000Z",
+          "wordCount": 560,
+          "title": "Introducing Stabile - roll your own infrastructure cloud"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4tc18/dockerized_few_apps_to_run_on_windows_container/",
+          "author": null,
+          "description": "I have made few apps to be available as docker images to run on Windows containers.\n https://github.com/jahanarun/container-host/\n Even though they are available Linux docker images, I thought some one would be interested to run these apps on Windows containers.\n Try it out and see if you like it and I would welcome your suggestions as well.\n    submitted by    /u/jahanarun  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4tc18/dockerized_few_apps_to_run_on_windows_container/",
+          "publishedOn": "2021-06-21T11:52:37.000Z",
+          "wordCount": 202,
+          "title": "Dockerized few apps to run on Windows Container"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4t173/static_route_to_pfsense/",
+          "author": null,
+          "description": "Hi all! I've created a virtual switch on ESXi and then a port group for that switch to have my \"LAN\" for my VMs. Set up pfSense and it works fine from both sides (LAN and WAN). Now... Let's pretend that my home network is 192.168.0.0 (which pfSense is connected on the WAN side on 192.168.0.x) and the lan side of pfSense is on another subnet, let's say 192.168.20.0. I can access the Web UI from my home network using 192.168.0.x and through the VMs at the lan address. In order to access the lan side of pfSense from my home network I set up a static route in my PC setting up the WAN pfSense address as a gateway. It doesn't work. I'm sure is a \"dumb\" question, but I really haven't got a clue. Any help? Love you people!\n    submitted by    /u/kamahell87  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4t173/static_route_to_pfsense/",
+          "publishedOn": "2021-06-21T11:33:18.000Z",
+          "wordCount": 250,
+          "title": "Static route to pfSense"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4rg8z/selfhosted_alternative_to_evernote/",
+          "author": null,
+          "description": "I'm a long time user of (the free version of) Evernote. Since a while they have a restriction of 2 devices per (free) account and the fact I'm not hosting it myself makes me wonder if there is a (good) alternative? I will need Windows/Mac clients and iOS. Android support is a plus but not needed now. An export/import function would also be great. Saves me a lot of work... Browser plugin a big plus as well!\n Is there anything out there that does the job as good as Evernote?\n    submitted by    /u/Panja0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4rg8z/selfhosted_alternative_to_evernote/",
+          "publishedOn": "2021-06-21T09:37:20.000Z",
+          "wordCount": 685,
+          "title": "Selfhosted alternative to Evernote?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4r3z4/basic_mdm_for_degoogled_android_and_linux/",
+          "author": null,
+          "description": "From outside, the services i self host are only available through a vpn with a certificate. So I can check who accesses the services but also what devices (i am the one that installs the certificate on the devices).\n I'd like to do the same for when people are inside my house, using my wifi. \n That means restricting the access to my wifi to devices by using a certificate. And also enforcing some security on the device. E.g. 6 digits code, absence of some specific apps, etc. \n Do you guys know how to do this ?\n Edit: no proprietary software please :)\n    submitted by    /u/GrilledGuru  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4r3z4/basic_mdm_for_degoogled_android_and_linux/",
+          "publishedOn": "2021-06-21T09:11:42.000Z",
+          "wordCount": 418,
+          "title": "Basic MDM for degoogled Android and Linux"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4pdwa/vpn_killswitch/",
+          "author": null,
+          "description": "I have a windows machine and a openvpn server (vpn). I need to make a static route to force all traffic only through the VPN so if the VPN drops, my IP is not leaked.\n Ive done this before but using a third party VPN and softether on the windows machine to connect. I would remove the default 0.0.0.0 mask 0.0.0.0 192.168.0.1 route, and create a persistent route to the VPN. When I connect to the VPN, it auto-updates my routing table so my default route goes through the VPN tunnel, and when I turn off the VPN, all traffic ends.\n Unforutnley I cant replicate this for OpenVPN, even after creating a default route to the OpenVPN IP, as well as the tunnel IP it assigns me, it still wont connect. I am unable to establish a connection unless the default 0.0.0.0 mask 0.0.0.0 192.168.0.1 route is active (which I could remove afterwards, but this is a hassle and a leak if I forget)\n So why cant static default routes be made to the OpenVPN server, despite working with other VPN providers?\n    submitted by    /u/Firm_Maintenance2009  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4pdwa/vpn_killswitch/",
+          "publishedOn": "2021-06-21T07:06:52.000Z",
+          "wordCount": 325,
+          "title": "VPN killswitch"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o4jeb6/my_dashy_selfhosted_dashboard_2021_edition_d/",
+          "author": null,
+          "description": "This is my new dashboard using dashy. I really loved self-hosted. It has been a 5 month journey so far!\n ​\n https://preview.redd.it/yxh1bug0pi671.png?width=1873&format=png&auto=webp&s=bae46323fdf8612617add91cf433068f696d2d9d\n    submitted by    /u/ucgo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o4jeb6/my_dashy_selfhosted_dashboard_2021_edition_d/",
+          "publishedOn": "2021-06-21T00:57:10.000Z",
+          "wordCount": 353,
+          "title": "My dashy self-hosted dashboard 2021 edition :-D"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/o4igom/how_to_turn_your_rooted_android_phone_into_a/",
           "author": null,
           "description": "Hey y'all. So this started out as a small project, but it ended up being waaay more complicated than I thought it was going to be. I cracked the screen on my Pixel 4a and I found out it was gonna cost $230 to repair. You know what I can buy for $230? Another phone. I def downgraded, but I don't use my phone for much. So then I had this Pixel 4a that wasn't even a year old that Amazon was going to pay me $20-60 for. \n I really just wanted to wipe it and put Linux on it, but apparently that's not actually a thing I can do like I can with a computer. And 4a isn't ported to Ubuntu Touch yet. So I came across Linux Deploy. I've been needing to setup a backup server anyway.\n ANYWAY, this ended up becoming a whole thing because I had to find a work around for just about everything (because of chroot/Android/aarch64/etc.....). And I did! I even got it working with external storage and LVM!! I posted a tutorial on everything (split into two parts, because it gets hairy and LVM is optional). This is Debian in chroot running UrBackup. This project isn't for everyone, especially because you're limited to EXT4 and it only works with Windows and Linux clients (no Mac).\n But if you have an Android phone sitting around and you need a backup server, you can give it a swing:\n https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i\n The biggest con is that you are, at the end of the day, still running Android. You can disable most services and apps, but if you're paranoid about Big Brother Google, this probably isn't for you.\n    submitted by    /u/Significant-Toe3842  \n [link]   [comments]",
@@ -4763,24 +4943,6 @@
           "publishedOn": "2021-05-26T06:02:55.000Z",
           "wordCount": 417,
           "title": "v1.9.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
-          "author": null,
-          "description": "Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1",
-          "publishedOn": "2021-05-23T05:40:12.000Z",
-          "wordCount": 278,
-          "title": "v1.8.1"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
-          "author": null,
-          "description": "Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a \"pseudo\" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.\nThank you: @LooperXX.",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0",
-          "publishedOn": "2021-05-23T05:12:08.000Z",
-          "wordCount": 341,
-          "title": "v1.8.0"
         }
       ]
     },
@@ -4789,6 +4951,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=342887",
+          "author": "Chris Coyier",
+          "description": "Una is calling it the new responsive. A nod to the era we were most certainly in, the era of responsive design. Where responsive design was fluid grids, flexible media, and media queries, the new responsive is those things …\nThe post Are we in a new era of web design? What do we call it? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://web.dev/new-responsive/",
+          "publishedOn": "2021-06-21T21:22:33.000Z",
+          "wordCount": 2285,
+          "title": "Are we in a new era of web design? What do we call it?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342448",
+          "author": "Preethi",
+          "description": "Let’s forego the usual circles and bars we typically see used in charts for more eccentric shapes. With online presentations more and more common today, a quick way to spruce up your web slides and make them stand out is …\nThe post How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji/",
+          "publishedOn": "2021-06-21T14:32:45.000Z",
+          "wordCount": 1598,
+          "title": "How to Create CSS Charts With Interesting Shapes, Glyphs and Emoji"
+        },
         {
           "id": "https://css-tricks.com/?p=341511",
           "author": "Carter Li",
@@ -5238,6 +5418,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
+          "author": "hello@smashingmagazine.com (Ayobami Ogundiran)",
+          "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
+          "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
+          "publishedOn": "2021-06-21T14:30:00.000Z",
+          "wordCount": 5354,
+          "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
           "author": "hello@smashingmagazine.com (Ottomatias Peura)",
           "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
@@ -5622,6 +5816,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60c81f774dc1a607ed7b2f66",
+          "author": null,
+          "description": "I've been using Vim since the first year I started coding. For all the IDEs/editors that I have used, the Vim plugin is always the very first plugin that I install. I know that Vim can be challenging to work in for people who are not familiar with it.",
+          "link": "https://www.freecodecamp.org/news/how-to-exit-vim/",
+          "publishedOn": "2021-06-21T21:52:43.000Z",
+          "wordCount": 1785,
+          "title": "How to Exit Vim – Vim Save and Quit Command Tutorial"
+        },
+        {
+          "id": "60bce157acb62507dd1d9f11",
+          "author": null,
+          "description": "When you're working with Python lists, you often need to combine data from multiple lists. So how do you do that? In this tutorial, we'll see the different ways you can combine data from multiple lists. We'll also learn how the list methods append() and extend() work through simple examples.",
+          "link": "https://www.freecodecamp.org/news/python-list-methods-append-vs-extend/",
+          "publishedOn": "2021-06-21T21:25:11.000Z",
+          "wordCount": 1085,
+          "title": "Python List Methods – append( ) vs extend( ) in Python Explained with Code Examples"
+        },
+        {
+          "id": "60cccd6e4dc1a607ed7b4f81",
+          "author": null,
+          "description": "Redux is a state management library for front end applications. Developers commonly use it with React through the react-redux package, but it can also stand alone – so you can use it in any front end framework or library, including Vanilla JavaScript.  Redux can really be intimidating at first. It might",
+          "link": "https://www.freecodecamp.org/news/learn-redux-by-making-a-counter-application/",
+          "publishedOn": "2021-06-21T21:01:42.000Z",
+          "wordCount": 1659,
+          "title": "Learn Redux by Making a Counter Application"
+        },
+        {
+          "id": "60d0d0ff6e1a1407b6b0a506",
+          "author": null,
+          "description": "Today you're going to create one of the most important apps you can build for yourself: your developer portfolio. Every React developer or web developer in general needs to be able to show off what they can do to any potential client or employer. That's exactly what we're going to",
+          "link": "https://www.freecodecamp.org/news/build-portfolio-website-react/",
+          "publishedOn": "2021-06-21T18:15:53.000Z",
+          "wordCount": 3729,
+          "title": "How to Build a Portfolio Website with React"
+        },
+        {
+          "id": "60cda7104dc1a607ed7b5588",
+          "author": null,
+          "description": "Figma is a powerful design tool that helps you to create anything: websites, applications, logos, and much more. By learning to use Figma, you'll take your first steps into User Interface Design and and User Experience Design. These skills are essential for building a great portfolio for yourself and potentially",
+          "link": "https://www.freecodecamp.org/news/figma-crash-course/",
+          "publishedOn": "2021-06-21T17:52:21.000Z",
+          "wordCount": 1194,
+          "title": "What is Figma? A Design Crash Course [2021 Tutorial]"
+        },
+        {
+          "id": "60a55b37906c5207e3a7ea78",
+          "author": null,
+          "description": "But where do you store your application's content? Storing the content on the blockchain would be expensive and inefficient. Your blockchain application needs decentralized storage!",
+          "link": "https://www.freecodecamp.org/news/technical-guide-to-ipfs-decentralized-storage-of-web3/",
+          "publishedOn": "2021-06-21T16:38:36.000Z",
+          "wordCount": 3575,
+          "title": "A Technical Guide to IPFS – the Decentralized Storage of Web3"
+        },
+        {
+          "id": "6063b9e19618b008528a9d9a",
+          "author": null,
+          "description": "Today we're gonna learn everything you need to know about the CSS position property along with examples. Let's get started 🎖️ Table of contents What is CSS Position Property?What is the Static Position in CSS?What are the Relative and Absolute Positions in CSS?What is the Fixed Position in",
+          "link": "https://www.freecodecamp.org/news/css-position-property-explained/",
+          "publishedOn": "2021-06-21T16:36:14.000Z",
+          "wordCount": 1153,
+          "title": "How the CSS Position Property Works – Explained with Code Examples"
+        },
         {
           "id": "60b46dbd11ffb70827ef9dea",
           "author": null,
@@ -6313,6 +6570,150 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1775128",
+          "author": "Samuel Axon",
+          "description": "Not long ago, Spielberg was trying to disqualify Netflix films from the Oscars.",
+          "link": "https://arstechnica.com/?p=1775128",
+          "publishedOn": "2021-06-21T21:43:55.000Z",
+          "wordCount": 821,
+          "title": "Steven Spielberg’s production company signs multifilm deal with Netflix"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774658",
+          "author": "Ars Staff",
+          "description": "Now updated with a \"$50 for $40\" gift card deal, OLED TV discounts, and more.",
+          "link": "https://arstechnica.com/?p=1774658",
+          "publishedOn": "2021-06-21T21:37:03.000Z",
+          "wordCount": 4602,
+          "title": "Amazon Prime Day 2021: All the deals that are actually worth your time [Updated]"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775163",
+          "author": "Jim Salter",
+          "description": "The simplest way to avoid C-language coding traps is to avoid coding in C.",
+          "link": "https://arstechnica.com/?p=1775163",
+          "publishedOn": "2021-06-21T21:17:26.000Z",
+          "wordCount": 823,
+          "title": "The ISRG wants to make the Linux kernel memory-safe with Rust"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775157",
+          "author": "Dan Goodin",
+          "description": "The world's most secure consumer OS is bitten by a garden-variety programming bug.",
+          "link": "https://arstechnica.com/?p=1775157",
+          "publishedOn": "2021-06-21T21:02:23.000Z",
+          "wordCount": 1485,
+          "title": "Connecting to malicious Wi-Fi networks can mess with your iPhone"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775142",
+          "author": "Jon Brodkin",
+          "description": "Some Texans who opted into energy-saving plan didn't realize what they agreed to.",
+          "link": "https://arstechnica.com/?p=1775142",
+          "publishedOn": "2021-06-21T20:16:10.000Z",
+          "wordCount": 1442,
+          "title": "Texans regret opting into power plan that remotely raises thermostat temps"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775140",
+          "author": "Jim Salter",
+          "description": "CentOS co-founder Greg Kurtzer's new distro hit general availability today.",
+          "link": "https://arstechnica.com/?p=1775140",
+          "publishedOn": "2021-06-21T19:59:47.000Z",
+          "wordCount": 1233,
+          "title": "CentOS replacement distro Rocky Linux’s first general release is out"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774872",
+          "author": "Doug Johnson",
+          "description": "Many of the drugs we flush could change aquatic animal behavior—theoretically.",
+          "link": "https://arstechnica.com/?p=1774872",
+          "publishedOn": "2021-06-21T19:30:30.000Z",
+          "wordCount": 1324,
+          "title": "We pee or flush drugs into waterways—does that matter to aquatic life?"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774999",
+          "author": "Ron Amadeo",
+          "description": "Massachusetts launched a COVID tracking app, and uh, it was automatically installed?!",
+          "link": "https://arstechnica.com/?p=1774999",
+          "publishedOn": "2021-06-21T18:07:13.000Z",
+          "wordCount": 1578,
+          "title": "Even creepier COVID tracking: Google silently pushed app to users’ phones [Updated]"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775080",
+          "author": "Jonathan M. Gitlin",
+          "description": "We talk to GM about its hydrogen fuel cell strategy.",
+          "link": "https://arstechnica.com/?p=1775080",
+          "publishedOn": "2021-06-21T17:55:41.000Z",
+          "wordCount": 1690,
+          "title": "Planes, trains, but not automobiles—why GM is developing fuel cells"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775031",
+          "author": "Corey Gaskin",
+          "description": "Some of our top smartwatch picks are at their lowest prices yet for Prime Day.",
+          "link": "https://arstechnica.com/?p=1775031",
+          "publishedOn": "2021-06-21T17:40:25.000Z",
+          "wordCount": 1388,
+          "title": "A range of good Garmin smartwatches and Fitbits on sale for Prime Day"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775028",
+          "author": "Sam Machkovech",
+          "description": "Version 1.23 approaches 30 fps on base PS4—but still isn't quite enough for PSN.",
+          "link": "https://arstechnica.com/?p=1775028",
+          "publishedOn": "2021-06-21T17:00:34.000Z",
+          "wordCount": 868,
+          "title": "Sony relists Cyberpunk 2077, includes new warning: Base PS4 “not recommended”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775035",
+          "author": "Beth Mole",
+          "description": "Experts hypothesize that a combination of factors linked to COVID is fueling the surge.",
+          "link": "https://arstechnica.com/?p=1775035",
+          "publishedOn": "2021-06-21T16:05:31.000Z",
+          "wordCount": 827,
+          "title": "“Black fungus” surges in India—thousands blinded, maimed, dead"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775012",
+          "author": "Eric Berger",
+          "description": "\"This is a huge challenge that we need to work together on.\"",
+          "link": "https://arstechnica.com/?p=1775012",
+          "publishedOn": "2021-06-21T15:20:10.000Z",
+          "wordCount": 911,
+          "title": "The Ariane 6 debut is slipping again as Europe hopes for a late 2022 launch"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774458",
+          "author": "Ars Staff",
+          "description": "A few good deals for those not wishing to give business to Amazon on Prime Day.",
+          "link": "https://arstechnica.com/?p=1774458",
+          "publishedOn": "2021-06-21T13:58:01.000Z",
+          "wordCount": 1927,
+          "title": "The best Prime Day 2021 tech deals from everywhere besides Amazon"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774397",
+          "author": "Ars Staff",
+          "description": "We've cut through the noise to find Prime Day's best buys for bargain hunters.",
+          "link": "https://arstechnica.com/?p=1774397",
+          "publishedOn": "2021-06-21T11:05:08.000Z",
+          "wordCount": 2200,
+          "title": "The best Amazon Prime Day 2021 deals under $50 we can find"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1774704",
+          "author": "Jeff Dunn",
+          "description": "One of our favorite sets of true wireless earbuds is deeply discounted as well.",
+          "link": "https://arstechnica.com/?p=1774704",
+          "publishedOn": "2021-06-21T10:00:57.000Z",
+          "wordCount": 1743,
+          "title": "Sony’s excellent WH-1000XM4 headphones are down to a new low for Prime Day"
+        },
         {
           "id": "https://arstechnica.com/?p=1774776",
           "author": "Jonathan M. Gitlin",
