@@ -2,10 +2,543 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-22T00:40:20.472Z</updated>
+    <updated>2021-06-23T00:39:23.836Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I want to start]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o608w5/i_want_to_start/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o608w5/i_want_to_start/"/>
+        <updated>2021-06-22T23:31:25.000Z</updated>
+        <summary type="html"><![CDATA[I want to start self-hosting, and I don't know how to start..I need to know how to start, and which tools to use, and if I need to have a server to start or know.
+    submitted by    /u/iTady74  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate-driven coastal flooding in the US likely to get worse suddenly]]></title>
+        <id>https://arstechnica.com/?p=1775463</id>
+        <link href="https://arstechnica.com/?p=1775463"/>
+        <updated>2021-06-22T23:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Within a few decades, many areas of the US may see a rapid change in frequency.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox cloud upgrade is live: Series X power on your browser for over 260 games]]></title>
+        <id>https://arstechnica.com/?p=1775411</id>
+        <link href="https://arstechnica.com/?p=1775411"/>
+        <updated>2021-06-22T23:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Game Pass Ultimate's $15/mo now goes a lot further, and we break down why.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thecus 4520 NAS Question]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5zalb/thecus_4520_nas_question/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5zalb/thecus_4520_nas_question/"/>
+        <updated>2021-06-22T22:42:18.000Z</updated>
+        <summary type="html"><![CDATA[I recently obtained an older 4 bay NAS from my boss that he said he no longer wanted. I figured, ehh what the heck. It can serve its place somewhere in my network. So, I booted it up at first, being the first time I initially plugged it in, and got a "Booting..." on the LCD. I figured all was well so I moved it to my rack and plugged it in and now its shows "█ █ █ █ █ █ █ █" for some apparent reason. I dont know what happened as there is practically zero documentation pertaining to the issue. I've also tried resetting it but also did not work. 
+ I figured maybe one of yall might've experience the same thing if youve ever had a Thecus NAS.
+    submitted by    /u/MrReaverr  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Once-dreaded Alpha variant is falling fast—Delta and Gamma take over]]></title>
+        <id>https://arstechnica.com/?p=1775434</id>
+        <link href="https://arstechnica.com/?p=1775434"/>
+        <updated>2021-06-22T22:29:39.000Z</updated>
+        <summary type="html"><![CDATA[The Delta coronavirus variant now accounts for 20.6 percent of cases in the US.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “loser, B-grade supervillains” are back in new The Suicide Squad trailer]]></title>
+        <id>https://arstechnica.com/?p=1775366</id>
+        <link href="https://arstechnica.com/?p=1775366"/>
+        <updated>2021-06-22T21:59:36.000Z</updated>
+        <summary type="html"><![CDATA["Your mission is to destroy every trace of something known only as Project Starfish."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[inherit, initial, unset, revert]]></title>
+        <id>https://css-tricks.com/?p=342930</id>
+        <link href="https://css-tricks.com/inherit-initial-unset-revert/"/>
+        <updated>2021-06-22T21:20:20.000Z</updated>
+        <summary type="html"><![CDATA[There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …
+The post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker-compatible self-hosted CI environment for Jamstack sites?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5xldc/dockercompatible_selfhosted_ci_environment_for/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5xldc/dockercompatible_selfhosted_ci_environment_for/"/>
+        <updated>2021-06-22T21:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Greetings,
+ I've been playing with docker a bit on my synology NAS and I think I'm ready to try something a bit more difficult. I'd like to set things up so that three small JAMStack-based (Gatsby and Hexo) websites I have could be built and deployed from my NAS instead of github actions.
+ However, my knowledge of self-hosted build systems is very old (circa 2008). Does anyone have any suggestions for an environment that is working well for you? Currently the code for the sites is hosted on github and deployed to (very) inexpensive hosting via FTP, although that's subject to change as I bring more stuff back to the home network.
+    submitted by    /u/williamwgant  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools]]></title>
+        <id>60d2323d6e1a1407b6b0ac4f</id>
+        <link href="https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/"/>
+        <updated>2021-06-22T21:11:53.000Z</updated>
+        <summary type="html"><![CDATA[Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SiFive’s brand-new P550 is one of the world’s fastest RISC-V CPUs]]></title>
+        <id>https://arstechnica.com/?p=1775200</id>
+        <link href="https://arstechnica.com/?p=1775200"/>
+        <updated>2021-06-22T20:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Today's RISC-V microcontrollers may lead to future RISC-V phones and laptops.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can someone help me understanding what I have to look for to unstuck myself from that situation]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5w92b/can_someone_help_me_understanding_what_i_have_to/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5w92b/can_someone_help_me_understanding_what_i_have_to/"/>
+        <updated>2021-06-22T20:17:56.000Z</updated>
+        <summary type="html"><![CDATA[Hello there !
+ First serious post here, as I'm kind of new to the community. Also, English's not my first language, so please, bear with me.
+ I'm trying my ass off to /r/degoogle my life, and selfhosting must be part of this process as anyway, I need some cloud storage for my work / hobbies.
+ So I got myself a RaspberryPi 4B 4Go and started everything from scratch. It took me like 2 months and several sleepless nights to manage to get a proper Nextcloud instance running, even though I can't get Collabora to work. So I decided to try and install CryptPad.
+ But first, a word about my setup and my "knowledge".
+ My Raspberry runs RaspberryPi OS 64bits (beta), on top off which I installed OMV. Through OMV, I installed Docker and Portainer.
+ The only way I could understand how to deploy a contai…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A week after arrests, Cl0p ransomware group dumps new tranche of stolen data]]></title>
+        <id>https://arstechnica.com/?p=1775362</id>
+        <link href="https://arstechnica.com/?p=1775362"/>
+        <updated>2021-06-22T20:07:09.000Z</updated>
+        <summary type="html"><![CDATA[Leak shows that, like the rest of the ransomware scourge, Cl0p isn't going away.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is mkcert safe to use?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5vwjt/is_mkcert_safe_to_use/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5vwjt/is_mkcert_safe_to_use/"/>
+        <updated>2021-06-22T20:02:29.000Z</updated>
+        <summary type="html"><![CDATA[I'm selfhosting Vaultwarden (formerly known as bitwarden_rs) on docker. The machine (ubuntu) is not reachable from the internet (by design), thus I could't make a Lets Encrypt DNS challenge. 
+ I found mkcert, installed it on the same ubuntu machine and manually added the certs to the docker container. All works for me. I'm just wondering if there are any security concerns with this solution? If so, what are they and how would you proceed instead?
+    submitted by    /u/herrjonk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-Hosted Tools!]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5vsez/selfhosted_tools/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5vsez/selfhosted_tools/"/>
+        <updated>2021-06-22T19:57:35.000Z</updated>
+        <summary type="html"><![CDATA[I was thinking about how apps like Convertio are really good at converting all different kinds of file types, so I was curious, was there a docker container for this type of thing?
+ And on that same topic, are there any tools you would recommend that can be Self-Hosted? What would be cool is Self-Hosted Versions of Prezi, Canva, Pixlr, and PDF2GO, among others.
+    submitted by    /u/dj_raidar_vip  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disable SSL requirement for service workers]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5uuad/disable_ssl_requirement_for_service_workers/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5uuad/disable_ssl_requirement_for_service_workers/"/>
+        <updated>2021-06-22T19:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Can I somehow use service workers (e. g. for PWAs or Notifications) without SSL encryption in my local network? Don't want to install a self signed certificate on every device I visit my service. I already tried --unsafely-treat-insecure-origin-as-secure=<myip> in chrome, but that doesn't makes any difference.
+    submitted by    /u/Im1Random  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are there any good FOSS payroll solutions?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5umvb/are_there_any_good_foss_payroll_solutions/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5umvb/are_there_any_good_foss_payroll_solutions/"/>
+        <updated>2021-06-22T19:06:17.000Z</updated>
+        <summary type="html"><![CDATA[I have a very small company with only 2 employees and I'm looking for a good payroll solution (preferably self-hosted). Something that can help me with payroll taxes, end-of-year tax forms, direct deposits, etc. 
+ Any good tools?
+    submitted by    /u/scootsy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The OnePlus 8 for $349 is the best Prime Day smartphone deal]]></title>
+        <id>https://arstechnica.com/?p=1775281</id>
+        <link href="https://arstechnica.com/?p=1775281"/>
+        <updated>2021-06-22T18:24:32.000Z</updated>
+        <summary type="html"><![CDATA[You can get a phone with 2020 flagship specs and a 90 Hz display for under $400.]]></summary>
+        <author>
+            <name>Corey Gaskin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvel’s Avengers update flashes IP addresses on screen, dev promises fix]]></title>
+        <id>https://arstechnica.com/?p=1775299</id>
+        <link href="https://arstechnica.com/?p=1775299"/>
+        <updated>2021-06-22T17:59:24.000Z</updated>
+        <summary type="html"><![CDATA[Bad news if you're a Twitch streamer on PS5, though dev says fix is incoming.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boston Dynamics is officially part of Hyundai Motor Group]]></title>
+        <id>https://arstechnica.com/?p=1775253</id>
+        <link href="https://arstechnica.com/?p=1775253"/>
+        <updated>2021-06-22T17:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Car manufacturing expertise could supercharge Boston Dynamics' commercial hopes.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After 3 months of getting to know Linux, and accidentally crashing (and wiping) the server twice, I proudly present my Heimdall dashboard. Looking for more suggestions for stuff to add!]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5suam/after_3_months_of_getting_to_know_linux_and/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5suam/after_3_months_of_getting_to_know_linux_and/"/>
+        <updated>2021-06-22T17:46:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/MetallicAchu  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fail2ban email notifications with self hosted emai server ?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5s02s/fail2ban_email_notifications_with_self_hosted/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5s02s/fail2ban_email_notifications_with_self_hosted/"/>
+        <updated>2021-06-22T17:08:07.000Z</updated>
+        <summary type="html"><![CDATA[I've been trying to setup email notifications for fail2ban using https://linuxconfig.org/configuring-gmail-as-sendmail-email-relay this guide.
+ Here's the login conf for my email server :
+  
+host: mail.selfhost.drtech.cc
+ port: 465
+ TLS with authentication required
+  
+I modified the blogpost like so to accommodate my settings :
+ define(\SMART_HOST',`[[mail.wp.ahmads.cc](https://mail.wp.ahmads.cc)]')dnl`
+ define(\RELAY_MAILER_ARGS', `TCP $h 465')dnl`
+ define(\ESMTP_MAILER_ARGS', `TCP $h 465')dnl`
+ define(\confAUTH_OPTIONS', `A p')dnl`
+ TRUST_AUTH_MECH(\EXTERNAL DIGEST-MD5 CRAM-MD5 LOGIN PLAIN')dnl`
+ define(\confAUTH_MECHANISMS', `EXTERNAL GSSAPI DIGEST-MD5 CRAM-MD5 LOGIN PLAIN')dnl`
+ FEATURE(\authinfo',`hash -o /etc/mail/authinfo/wpmail-auth.db')dnl`
+ However, no emails are getting sent out ?
+    submitted by    /u/drtechwp  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Async/Await to Write Better JavaScript Code]]></title>
+        <id>60cac8ff4dc1a607ed7b4592</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/"/>
+        <updated>2021-06-22T16:24:37.000Z</updated>
+        <summary type="html"><![CDATA[There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot]]></title>
+        <id>60c13e71d3126007592d5be2</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/"/>
+        <updated>2021-06-22T16:20:36.000Z</updated>
+        <summary type="html"><![CDATA[The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU launches antitrust probe into Google banning third-party cookies in Chrome]]></title>
+        <id>https://arstechnica.com/?p=1775272</id>
+        <link href="https://arstechnica.com/?p=1775272"/>
+        <updated>2021-06-22T16:19:40.000Z</updated>
+        <summary type="html"><![CDATA[EC says Google hiding user data from advertisers may violate competition rules.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Python to Create a Visual Novel Game in 10 Minutes]]></title>
+        <id>60cfff5a4dc1a607ed7b5e58</id>
+        <link href="https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/"/>
+        <updated>2021-06-22T16:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home VPN without Port forwarding]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5qa1w/home_vpn_without_port_forwarding/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5qa1w/home_vpn_without_port_forwarding/"/>
+        <updated>2021-06-22T15:51:17.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ I'm searching for a way to setup something Like Pritunl (or any other VPN Server) on a local machine, and make it accessible from the outside, so that I can share my Plesk Server and NAS with some friends.
+ I don't have access to the router. I thought about services Like ngrok, but they are quite expensive for such a task, and I have enough VPS Servers and capacity to host something like that myself. 
+ Since I'm fine with hosting it myself I wanted to ask you if you have any advice how to set it up the best way, or any Tutorial you could link me to.
+ Thank you :)
+    submitted by    /u/one-juru  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[These are the 9 worst states to buy an electric car in]]></title>
+        <id>https://arstechnica.com/?p=1775256</id>
+        <link href="https://arstechnica.com/?p=1775256"/>
+        <updated>2021-06-22T15:08:06.000Z</updated>
+        <summary type="html"><![CDATA[Unsurprisingly, EV accessibility is unevenly distributed across the country.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Custom Elements in Svelte]]></title>
+        <id>https://css-tricks.com/?p=342634</id>
+        <link href="https://css-tricks.com/using-custom-elements-in-svelte/"/>
+        <updated>2021-06-22T14:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …
+The post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Rich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If we’re gonna criticize utility-class frameworks, let’s be fair about it]]></title>
+        <id>https://css-tricks.com/?p=342925</id>
+        <link href="https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/"/>
+        <updated>2021-06-22T14:33:41.000Z</updated>
+        <summary type="html"><![CDATA[I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …
+The post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monero emerges as crypto of choice for cybercriminals]]></title>
+        <id>https://arstechnica.com/?p=1775246</id>
+        <link href="https://arstechnica.com/?p=1775246"/>
+        <updated>2021-06-22T13:35:57.000Z</updated>
+        <summary type="html"><![CDATA[Untraceable "privacy coin" is rising in popularity among ransomware gangs.]]></summary>
+        <author>
+            <name>Financial Times</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congress isn’t happy about SpaceX’s lunar lander and may vent this week]]></title>
+        <id>https://arstechnica.com/?p=1775212</id>
+        <link href="https://arstechnica.com/?p=1775212"/>
+        <updated>2021-06-22T13:03:47.000Z</updated>
+        <summary type="html"><![CDATA["I would simply say, Congress supports SLS and Orion."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nextcloud Talk access outside LAN]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5ksz8/nextcloud_talk_access_outside_lan/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5ksz8/nextcloud_talk_access_outside_lan/"/>
+        <updated>2021-06-22T11:24:59.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/AmIDoingSomethingNow  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selfhosted Wiki for a company with easy configuration]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5kppn/selfhosted_wiki_for_a_company_with_easy/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5kppn/selfhosted_wiki_for_a_company_with_easy/"/>
+        <updated>2021-06-22T11:19:47.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys,
+ ​
+ i already did a bit of research. My Company is looking for a documentation/wiki software which is self hosted and mostly free. We need advanced permission management, Active Directory support and it should be easy to use and to setup.
+ ​
+ I installed xwiki and wikijs. Both look kinda easy, but wikijs is the handling for users a bit difficulty in my opinion. XWiki looks like from 1990 but I guess its all dependable on extensions there. Overall it seems also to be way more complicated.
+ ​
+ Any hints on hidden gems or similiar?
+    submitted by    /u/TheBadBossy  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trader dashboard]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5j8j5/trader_dashboard/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5j8j5/trader_dashboard/"/>
+        <updated>2021-06-22T09:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Hi there!
+ I was wondering if there is any self hosted trading dashboard, to follow ETF, cryptocurrencies, etc.
+ So far I didn't find anything, maybe I am not using the proper terms though...
+ ​
+ To be more precise, a simple HTML5 dashboard with an admin panel where we can set some ETF we want to follow, would be enough. 
+    submitted by    /u/Adesfire  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing With Code: A Modern Approach To Design (Development Challenges)]]></title>
+        <id>https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/</id>
+        <link href="https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/"/>
+        <updated>2021-06-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxy providers - How do they track data]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5iiei/proxy_providers_how_do_they_track_data/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5iiei/proxy_providers_how_do_they_track_data/"/>
+        <updated>2021-06-22T08:55:35.000Z</updated>
+        <summary type="html"><![CDATA[Hey I have a simple question,
+ I wonder how proxy sellers (luminati, proxy-cheap ...) track user data usage (how many gb they use) without the user having the SSL certificate installed on his computer.
+ They cannot know the size of the requests made by the user, am I wrong?
+    submitted by    /u/Synopsice  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self hosted feature flag and remote config service - Flagsmith]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5hyug/self_hosted_feature_flag_and_remote_config/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5hyug/self_hosted_feature_flag_and_remote_config/"/>
+        <updated>2021-06-22T08:17:40.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/AlexBV1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Readarr for Local Install For Any System (Plus Prebuilt non-Docker Release)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5hutz/how_to_build_readarr_for_local_install_for_any/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5hutz/how_to_build_readarr_for_local_install_for_any/"/>
+        <updated>2021-06-22T08:10:07.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/DevilsDesigns  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-hosted alternative to Looker]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5hf7h/selfhosted_alternative_to_looker/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5hf7h/selfhosted_alternative_to_looker/"/>
+        <updated>2021-06-22T07:41:02.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/lupsikpupsik  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to setup the netplan for Ubuntu Server 20.04 for bridged connection running as VM?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5gku8/how_to_setup_the_netplan_for_ubuntu_server_2004/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5gku8/how_to_setup_the_netplan_for_ubuntu_server_2004/"/>
+        <updated>2021-06-22T06:47:14.000Z</updated>
+        <summary type="html"><![CDATA[I want to setup the netplan for a bridged network adapter in Ubuntu Server 20.04 running as a guest on a Windows 10 Desktop. The network adapter is currently not working as expected, it doesn't use an IP adress. I want to use the server as part of the network of the host machine directly connencted to the router. I want to ssh into the server with an Ubuntu Desktop 20.04 also using network bridge where everything works fine.
+ I want to use the server as a storage for SnipeIT and it needs to be setup on a server with internet connectivity and a static IP adress. I will also install ApacherServer on it.
+ Current netplan setup
+ How does the netplan need to be setup? Which parameters do I need to use?
+    submitted by    /u/Sakazuki27  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best way to manage your domain name]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5g5fh/best_way_to_manage_your_domain_name/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5g5fh/best_way_to_manage_your_domain_name/"/>
+        <updated>2021-06-22T06:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Hi there guys, hope you're all good! :)
+ I'm hosting multiple services at home, and was wondering what would be the best way to manage the domain names. At the moment, i'm just creating an A record for every services pointing to the same IP and use NPM to redirect them to the correct port/service. So it looks like jellyfin.domain.com, this.domain.com, than.domain.com... I'm sure there is an easier way ? Using a wildcard maybe ? And having NPM doing the redirection ?
+    submitted by    /u/diminou91  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Companies Contributing to Open Source - 2011/2021]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5fxk9/top_companies_contributing_to_open_source_20112021/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5fxk9/top_companies_contributing_to_open_source_20112021/"/>
+        <updated>2021-06-22T06:05:47.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/cuffia_azzurra_2  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I would like to have my domain name redirect to my localhost jellyfin server]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5a7d4/i_would_like_to_have_my_domain_name_redirect_to/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5a7d4/i_would_like_to_have_my_domain_name_redirect_to/"/>
+        <updated>2021-06-22T00:49:25.000Z</updated>
+        <summary type="html"><![CDATA[to preface i am a complete noob when it comes to networking and frankly i'm amazed that I have reached even this point of getting my jellyfin server to function.
+ Ok so what i would really like to do is to share my jellyfin server library to friends and family without having them to type in my local ip address apparently that isnt safe and somehow my overseas friend is unable to access even if he enters my local ip address to the search bar.
+ what i have now is my jellyfin server and a domain name that i bought from domain.com which seems to already come with the letsencrypt SSL thing is that really the case?
+ From what i can tell from researching online there is a whole thing about using Caddy, Xampp, Apache etc which is all very confusing and im unable to make heads or tails about it.
+ I would like help to know if there is any resource that clearly shows the steps i need to set up a reverse proxy for the specific use case that i would like to achieve. And even then is reverse proxy even what i need for this case or there is another workaround of redirecting localhost to my domain name?
+    submitted by    /u/halguy5577  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help with NAS access]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o5a5nb/help_with_nas_access/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o5a5nb/help_with_nas_access/"/>
+        <updated>2021-06-22T00:47:01.000Z</updated>
+        <summary type="html"><![CDATA[So, I have a little setup issue I’m trying to work through and need some help. I have successfully setup my Rpi4 as a Wireguard server with Pihole also installed. I have created a few clients and all can connect to the pi no problem. Here’s the issue I'm having trouble with- I have a Synology server I’m trying to setup for external connection ONLY through the PiVPn. I bought a USB-Ethernet adapter and plugged the Syno into it (the Pi) but I cannot connect to it when I do, not even locally. I would like to disable Syno’s quickconnect as it’s a security hole and I want to shut any ports that are not absolutely necessary. How can I utilize the Pi as a VPN gateway to the NAS as a client? (Before anyone asks why I didn't just use the Syno as a VPN server- I had the Pi and wanted to make good use of it as well as PiHole) 
+ Thanks so much in advance!
+    submitted by    /u/npd353  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Any ideas about a quick way to setup a TV channel?]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/o58kvt/any_ideas_about_a_quick_way_to_setup_a_tv_channel/</id>
@@ -13008,16 +13541,6 @@ The post Wrangling Control Over PDFs with the Adobe PDF Embed API appeared first
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Raymond Camden</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
-        <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
-        <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
-        <updated>2021-05-24T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
