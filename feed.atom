@@ -2,10 +2,489 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T00:33:42.774Z</updated>
+    <updated>2021-06-25T00:46:28.189Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Networking issue]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7b8wf/networking_issue/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7b8wf/networking_issue/"/>
+        <updated>2021-06-24T23:11:03.000Z</updated>
+        <summary type="html"><![CDATA[I probably did this to myself but I cannot figure this out and once again my Google fu is coming up short. 
+ I have the following:
+ A home pc for photo editing, video editing, day to day work/internet etc A gaming pc that’s purely for gaming A work windows laptop A MacBook
+ Also my server “farm” consists of 3 Ubuntu servers. 
+ Last night I noticed my internet was lagging and downloading large amounts of data and I couldn’t figure out why. Usually it’s sonarr or radarr or sometimes it’s someone downloading tv shows off of Plex. 
+ When I ruled out that none of that was happening I installed wire shark and another program to see if I could see what was happening. I couldn’t. 
+ So just for giggles I rebooted every server. And that didn’t help so figured it was one of my other devices. I shut t…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s all the data on myocarditis cases linked to COVID-19 vaccines]]></title>
+        <id>https://arstechnica.com/?p=1776140</id>
+        <link href="https://arstechnica.com/?p=1776140"/>
+        <updated>2021-06-24T22:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Experts stress the need for everyone to get vaccinated as the Delta variant spreads.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“I’m totally screwed.” WD My Book Live users wake up to find their data deleted]]></title>
+        <id>https://arstechnica.com/?p=1776180</id>
+        <link href="https://arstechnica.com/?p=1776180"/>
+        <updated>2021-06-24T22:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Storage-device maker advises customers to unplug My Book Lives from the Internet ASAP.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The human family tree keeps getting more complicated]]></title>
+        <id>https://arstechnica.com/?p=1776089</id>
+        <link href="https://arstechnica.com/?p=1776089"/>
+        <updated>2021-06-24T21:17:34.000Z</updated>
+        <summary type="html"><![CDATA[Newly described bones have a mix of Neanderthal and older features.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Methods for rebuilding Plex media collection]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o79vcn/methods_for_rebuilding_plex_media_collection/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o79vcn/methods_for_rebuilding_plex_media_collection/"/>
+        <updated>2021-06-24T20:58:25.000Z</updated>
+        <summary type="html"><![CDATA[Posting here at the recommendation on another subreddit. 
+ I have about 1500 movie/TV Series library all on DVD's/BD. I took the time to rip the entire library. I took my time and it took me about 3 years to rip and convert it. Unfortunately a good 2/3 of the files were corrupted because of a bad RAID set up I was using at the time. I have since upgraded to a 4K TV and set up the latest Apple TV and I wanted to rebuild my library. I'm wondering if there's a better way to do this. Not only is ripping/transcoding time consuming, but now that I finally own a 4K HDR TV, there's no pointing re-ripping my DVD collection. I have hard copies, so I think licensing isn't an issue. I also have a spreadsheet with name of every movie I own with IMDB link. Is there a better way to do this? Torrent? How would I automate this on my TrueNAS and just have it slowly rebuild it overtime...mostly unattended of course. Is this possible?
+    submitted by    /u/luckyal1979  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Question Regarding Using Cellphone Data Plan Via Hotspots Based For Self Hosted Projects]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o79pmh/question_regarding_using_cellphone_data_plan_via/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o79pmh/question_regarding_using_cellphone_data_plan_via/"/>
+        <updated>2021-06-24T20:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Hey there,
+ I was thinking to host a few projects using a cellphone internet data plan as a failover when my actual internet is out.
+ Can anyone point me in the right direction as to a good device to route a cellphone internet plan, and basically make a hotspot for home usage?
+ I think I looked this up before, and the decent one I think is like $500, but I can't remember the dang name of the device.
+ Also, are there even cellphone providers that allow this?
+ Thanks!
+    submitted by    /u/BackToPlebbit69  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House committee approves bill that could break up Amazon, Apple, and Google]]></title>
+        <id>https://arstechnica.com/?p=1776055</id>
+        <link href="https://arstechnica.com/?p=1776055"/>
+        <updated>2021-06-24T20:40:37.000Z</updated>
+        <summary type="html"><![CDATA[Judiciary Committee takes on Big Tech, but full House and Senate votes remain.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node Red/Home Asistant/Guacomole/Grafna/ntopng Lan Issue]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o796py/node_redhome_asistantguacomolegrafnantopng_lan/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o796py/node_redhome_asistantguacomolegrafnantopng_lan/"/>
+        <updated>2021-06-24T20:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Hi All,
+ ​
+ I run docker on my synology nas along with a few containers, including the above. Within the containers i sometimes have a hard time accessing lan devices. For instance, if i am using node red and i put a tp link kasa node, it finds nothing. If i were to run node red on my raspberry pi and apply the same node it finds all my lan tp link smart plugs. Besides adding the containers to a macvlan on the synology nas, is there any other way to get around this issue? I created a macvlan, but now the issue is whenever i connect to my home vpn (it runs on the same nas as docker) i can not access those ips on the macvlan.
+ ​
+ Thank you.
+    submitted by    /u/kritikosxamos  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers are using unknown user accounts to target Zyxel firewalls and VPNs]]></title>
+        <id>https://arstechnica.com/?p=1776057</id>
+        <link href="https://arstechnica.com/?p=1776057"/>
+        <updated>2021-06-24T20:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Authentication bypass attacks allow hackers to change breach network security.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DroneMap: Self-hosted web app to explore DJI drone footage geographically]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o78sev/dronemap_selfhosted_web_app_to_explore_dji_drone/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o78sev/dronemap_selfhosted_web_app_to_explore_dji_drone/"/>
+        <updated>2021-06-24T20:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Hi there!
+ Over the past week or two I have been working on a web application that allows you to explore your DJI drone footage on a map! I am finally confident enough to tell you about it, so that those interested can test it and try it for themselves. 
+ In order for it to work the footage has to have been shot with the subtitle telemetry settings enabled.
+ https://github.com/vimodev/dronemap
+ https://hub.docker.com/r/vimodev/dronemap
+ Features
+  
+Footage directory scanning
+ Automatic parsing and analysis of DJI footage
+ Exploration of extracted datapoints on a map
+ Filtering map markers based on footage attributes
+ Watching raw footage from which data points originated
+  
+Screenshots
+ Example usage.
+ Satellite view.
+ OpenStreetMap view.
+ Inspecting a datapoint.
+ ​
+ Viewing datapoint origin in original footage.
+ Remarks
+  
+The styling is lackluster due to my personal disregard for design. It can of course be improved in due time.
+ It has been developed with and tested for DJI Mini 2 footage only. I have no other footage available to me. I am running with the assumption that other DJI footage is in the same format with regards to the subtitled data points DJI optionally includes.
+ If you encounter any issues please submit them on github.
+  
+   submitted by    /u/Placeless  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google delays FLoC rollout until 2023]]></title>
+        <id>https://arstechnica.com/?p=1775951</id>
+        <link href="https://arstechnica.com/?p=1775951"/>
+        <updated>2021-06-24T19:48:09.000Z</updated>
+        <summary type="html"><![CDATA[With regulators, privacy advocates, and major websites condemning FLoC, Google relents.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DirectStorage on Windows 11: Next-gen gaming performance, with PC requirements]]></title>
+        <id>https://arstechnica.com/?p=1775968</id>
+        <link href="https://arstechnica.com/?p=1775968"/>
+        <updated>2021-06-24T19:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Here's what you'll need to get some (but not all) of Series X's jumps on a Win11 PC.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Omar Sy shines brighter than ever as gentleman thief in Lupin Part 2]]></title>
+        <id>https://arstechnica.com/?p=1770375</id>
+        <link href="https://arstechnica.com/?p=1770375"/>
+        <updated>2021-06-24T18:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Surprise Netflix hit is based on character created by French novelist Maurice LeBlanc.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security of Cloud Firewalls]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o76ycr/security_of_cloud_firewalls/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o76ycr/security_of_cloud_firewalls/"/>
+        <updated>2021-06-24T18:30:52.000Z</updated>
+        <summary type="html"><![CDATA[I am just wondering about something, if we have an EC2 instance with Public IP, IP Tables enabled and for example I want to expose a single service on one port, accessible only from my VPN with Static IP, will it be safe if I only open ONE port only for the PublicIP of the VPN machine?
+ In summary I am asking if the cloud firewall (security list) will be enough to protect my machine with Public IP...
+    submitted by    /u/LeastDelay7908  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 is much more than a new theme slapped onto Windows 10]]></title>
+        <id>https://arstechnica.com/?p=1775943</id>
+        <link href="https://arstechnica.com/?p=1775943"/>
+        <updated>2021-06-24T18:07:02.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11 should be a free upgrade for most licensed Windows 10 users.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Common React Mistakes You Might Be Making – And How to Fix Them]]></title>
+        <id>60d3ee396e1a1407b6b0b6ef</id>
+        <link href="https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/"/>
+        <updated>2021-06-24T17:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking to self-host videos]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o751zh/looking_to_selfhost_videos/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o751zh/looking_to_selfhost_videos/"/>
+        <updated>2021-06-24T16:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Hi there! I'm really new into this but I'm looking for solutions to self-host videos that users can watch. The only requirement is that users have to be logged in to view them and some sort of comment system should be available. Is there anything out there? Preferably a free solution (not counting the costs for hosting it).
+    submitted by    /u/Zaseth  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenTelemetry to Understand Software Performance]]></title>
+        <id>60d4b5e96e1a1407b6b0bac4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-opentelemetry/"/>
+        <updated>2021-06-24T16:50:36.000Z</updated>
+        <summary type="html"><![CDATA[If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamic DNS Service: Free Alternatives?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7478c/dynamic_dns_service_free_alternatives/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7478c/dynamic_dns_service_free_alternatives/"/>
+        <updated>2021-06-24T16:17:42.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone, first time posting to this sub. I've spent the last week scouring the interwebs and I haven't found anyone talking about what I'm trying to do. Any help would be very greatly appreciated. 
+ I'm trying to connect two remote locations together. Both locations have a dynamic IP address. Everything I've seen so far has suggested using a Dynamic DNS service or buying a domain name and using a free Dynamic DNS. Those are great ideas but I know there's got to be a way to do this for free. If it can't be done, then it can't be done, but purely on principle I feel like it's total bullshit that there's no free alternatives that don't rely on the whim of an ISP or third party services. 
+ This is what I was thinking, neither IP changes all that frequently, maybe once every month or 2. Additionally, it seems very unlikely that both IP's would change at exactly the same time. Would it be possible to run an automatic process at both locations that would constantly update their IP's to one another? 
+ So we have location A and location B that constantly talk to each other and update the IP address. At location A, the IP address changes. Now, location B doest know the new IP address of location A. Because the two IP's didn't change at the same time, location A still knows the IP address of location B and subsequently can send the updated IP address. 
+ Anyone know if anything like this exists or have any ideas for free alternatives? 
+ On a side note, I have an old TPlink Archer A9 that I'm not using, it has a free Built-in ddns with tp-link. I switched over to an edge router. Is there anyway I could put the A9 in a DMZ on the network and have it only for updating the ddns? Could I switch to IPV6?
+ Honestly, any free and automated ideas would be perfect. Would love to hear what you guys and gals think!
+ Thanks again
+    submitted by    /u/chooseausername69251  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chapter 9: Community]]></title>
+        <id>https://css-tricks.com/?p=342818</id>
+        <link href="https://css-tricks.com/chapter-9-community/"/>
+        <updated>2021-06-24T14:30:11.000Z</updated>
+        <summary type="html"><![CDATA[In April of 2009, Yahoo! shut down GeoCities. Practically overnight, the once beloved service had its signup page replaced with a vague message announcing its closure.
+We have decided to discontinue the process of allowing new customers to sign up 
+…
+The post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Jay Hoffmann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise Of Design Thinking As A Problem Solving Strategy]]></title>
+        <id>https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/</id>
+        <link href="https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/"/>
+        <updated>2021-06-24T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Josh Singer)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for alternative to archivebox.io]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o71a7o/looking_for_alternative_to_archiveboxio/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o71a7o/looking_for_alternative_to_archiveboxio/"/>
+        <updated>2021-06-24T13:50:54.000Z</updated>
+        <summary type="html"><![CDATA[I'm hosting a private instance of ArchiveBox, a great way to safe and preserve internet articles offline. It is however increasingly unusable when websites are behind a cookie-wall.
+ Is there a similar self-hosted private offline webpage archiving solution that is specifically designed to accept all cookies (and preferably block ads from being archived as well)? For example, The Internet Archive (archive.org) does this somewhat better.
+    submitted by    /u/Redsandro  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So everyone is posting about their dashboard, here is mine]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o719bu/so_everyone_is_posting_about_their_dashboard_here/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o719bu/so_everyone_is_posting_about_their_dashboard_here/"/>
+        <updated>2021-06-24T13:49:34.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/wntsmk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[And the journey begins…]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o712f8/and_the_journey_begins/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o712f8/and_the_journey_begins/"/>
+        <updated>2021-06-24T13:38:52.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/nicnic2001  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for self-hosted imgsli.com alternative]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o70tyc/looking_for_selfhosted_imgslicom_alternative/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o70tyc/looking_for_selfhosted_imgslicom_alternative/"/>
+        <updated>2021-06-24T13:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys I'm looking for self hosted website when I can upload and compare images like you can do with imgsli just self hosted. Best with docker and some account system so I can give access to friends.
+    submitted by    /u/Madiator2011  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ideas - no promises. What service do you wish was hosted on alltheviruses.com? Wanting to give back to the community, and couldn't help but buy a funny domain.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o70i92/ideas_no_promises_what_service_do_you_wish_was/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o70i92/ideas_no_promises_what_service_do_you_wish_was/"/>
+        <updated>2021-06-24T13:07:08.000Z</updated>
+        <summary type="html"><![CDATA[Long story short was in the title. 
+ I recently purchased https://www.alltheviruses.com and am looking to provide some "lightly used" service that would beneficial to the community. 
+ I could host a url shortener, but that's not a very short url..
+ I could run a Pilk instance https://pilk.root.gg/#/ but I think that could be misused.
+ I am willing to simply host a site that explains the differences between malware and viruses. 
+ Point is I own it for a year, and wouldn't mind giving back to the community at large. What services do you wish you had? What level of service would you be willing to trust such a outlandish url? How many of you thought it was just as funny as I?
+    submitted by    /u/Fimeg  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyundai’s 2022 Tucson Hybrid is a charming and efficient crossover]]></title>
+        <id>https://arstechnica.com/?p=1775917</id>
+        <link href="https://arstechnica.com/?p=1775917"/>
+        <updated>2021-06-24T12:13:45.000Z</updated>
+        <summary type="html"><![CDATA[There's a lot to like about this 38 mpg crossover, which starts at under $30,000.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kasm Workspaces - Container Streaming Platform]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o6zmal/kasm_workspaces_container_streaming_platform/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o6zmal/kasm_workspaces_container_streaming_platform/"/>
+        <updated>2021-06-24T12:11:52.000Z</updated>
+        <summary type="html"><![CDATA[Kasm Workspaces delivers interactive access to GUI applications and desktop environments running in docker containers. The containers are streamed directly to the browser. The platform is similar to Citrix and VMware Horizon, but entirely container based. 
+ ​
+ ​
+ Kasm Workspaces
+ ​
+ The quickest way to see what we are about is to launch a demo session using any of the following links. No install - No sign-up - just solve a captcha. 
+  
+Ubuntu Bionic Desktop
+ Google Chrome
+ Visual Studio Code
+  
+(Note: Traffic filtering and timeout features are enabled to limit abuse)
+ While Workspaces is a commercial product, we have roots in /r/selfhosted and /r/homelab style communities so it’s always been a priority to offer a free, self-hosted, easy-to-install, feature rich community edition. 
+ ​
+ The core components of the platform are also open source.
+  
+KasmVNC in the streaming tech used to deliver interactive access to the containers via the browser. (https://github.com/kasmtech/KasmVNC)
+ All of our application and desktop images are open source as well. (https://github.com/kasmtech/workspaces-images) - (https://github.com/kasmtech/workspaces-core-images)
+  
+​
+ Folks commonly use Workspaces for….
+  
+Secure and private internet access leveraging disposable browser containers.
+ Remote access solution for VDI (ahem CDI) / Development / Bastion Hosts / Training environments
+ Integrate into existing platforms/environments by leveraging our API
+ Slaying demons in hell
+  
+​
+ If you'd like to run Workspaces yourself, you can Download and Install the software on popular Linux distros. I hope this provides something of value to this community and I appreciate any feedback. 
+ Thanks to the mods for allowing me to post. 
+ Source: am co-founder and developer. https://www.kasmweb.com
+    submitted by    /u/justin_kasmweb  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast 9 film review: Fast and furious enough, but buckle up for potholes]]></title>
+        <id>https://arstechnica.com/?p=1775692</id>
+        <link href="https://arstechnica.com/?p=1775692"/>
+        <updated>2021-06-24T10:45:44.000Z</updated>
+        <summary type="html"><![CDATA[An explosive excuse to return to theaters, even if it misses some of the F&F point.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My dashboard, only kept the service that I use on a daily basis.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o6wupw/my_dashboard_only_kept_the_service_that_i_use_on/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o6wupw/my_dashboard_only_kept_the_service_that_i_use_on/"/>
+        <updated>2021-06-24T08:41:46.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/stat1c_  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self hosted equivalent similar to Shodan Monitor]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o6w69h/self_hosted_equivalent_similar_to_shodan_monitor/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o6w69h/self_hosted_equivalent_similar_to_shodan_monitor/"/>
+        <updated>2021-06-24T07:46:40.000Z</updated>
+        <summary type="html"><![CDATA[I recently heard about Shodan Monitor, a service that monitors open ports on given IPs, however I was hoping to see if anyone knew of something similar that could be self hosted. 
+ I'm aware I could have nmap run periodically and diff the changes which would send an alert but I wondered if a tool already existed or as a part of an already existing NMS. It'd just be nice to have features like history and and nice web interface, like Shodan Monitor has.
+    submitted by    /u/PartibleDyer  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is there something like this that I can selfhost?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o6u92e/is_there_something_like_this_that_i_can_selfhost/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o6u92e/is_there_something_like_this_that_i_can_selfhost/"/>
+        <updated>2021-06-24T05:18:08.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/hinzwifi  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying to self-host on synclounge but I don't know what I'm doing. please help.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o6t8aq/trying_to_selfhost_on_synclounge_but_i_dont_know/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o6t8aq/trying_to_selfhost_on_synclounge_but_i_dont_know/"/>
+        <updated>2021-06-24T04:08:01.000Z</updated>
+        <summary type="html"><![CDATA[I'm trying to set up synclounge following these instructions: https://docs.synclounge.tv/self-hosted/synology/ . I guess I'm getting thrown off by the giant censored parts that say "IP/DDNS" and "Port". What do I put in there? I tried putting the synology IP address in there and nothing happened. I literally have no clue what I'm doing and know nothing about setting up this kind of stuff. I tried looking for other resources but the two or three websites I could find about this just used the same pictures lol. Can somebody hold my hand and walk me through how to set this up? If not, that's fine. I've been trying to figure this out for hours and coming here was my last resort. I'll probably just give up on it.
+    submitted by    /u/crescentmoonclown  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying to remember the name of an rsync extension that allows for versioning]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o6t3z4/trying_to_remember_the_name_of_an_rsync_extension/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o6t3z4/trying_to_remember_the_name_of_an_rsync_extension/"/>
+        <updated>2021-06-24T04:00:14.000Z</updated>
+        <summary type="html"><![CDATA[I came across this a while ago and just can't find it anymore. IIRC it works by adding a folder called .backups or something in the destination folder you're syncing to and storing older versions (or deltas?) of the directory there.
+ I think it was called "rsync-diff" or "rsync-backup" or something but that doesn't bring anything up. Thanks in advance if anyone knows something.
+ Edit: aah I just found it! It's called rsnapshot
+    submitted by    /u/gratz  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If I Set Up Guacamole with 2FA behind a reverse proxy (e.g., NGINX Proxy Manager), do I still need a VPN server? Why/why not?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o6pv2l/if_i_set_up_guacamole_with_2fa_behind_a_reverse/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o6pv2l/if_i_set_up_guacamole_with_2fa_behind_a_reverse/"/>
+        <updated>2021-06-24T00:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Hello. Pretty much my entire question is in the subject line:
+ If I Set Up Guacamole with 2FA behind a reverse proxy (e.g., NGINX Proxy Manager), do I still need a VPN server? Why/why not?
+ I realize using a VPN would be the most secure way to go about things, but I'm still pretty new to self-hosting, and I'm not entirely clear on what security vulnerabilities I'd be at risk for if I just set things up like this:
+ remote client <--> public internet <--> https://guacamole.exampledomain.com (Cloudflare proxied domain with Cloudflare-issued SSL certificate) <--> NGINX Proxy Manager (reverse proxy) on RPI serving HTTPS connections <--> guacamole server with Google Authenticator/2FA on RPI (docker) <--> servers behind Guacamole.
+ Assuming nothing evil is happening with the SSL certificate on my guacamole subdomain, where is the security risk that makes a VPN necessary? Is the concern packet sniffing while connected to the public internet at a Starbucks (that is, the use case for VPN generally), or is there something specifically insecure about running guacamole this way?
+    submitted by    /u/sinisterpisces  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter Media Download]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/o6ppr6/twitter_media_download/</id>
@@ -13986,89 +14465,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Carie Fisher)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here is my stats dashboard display monitoring my ARM single boards and Docker containers. It's also a desk clock!]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nle53r/here_is_my_stats_dashboard_display_monitoring_my/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nle53r/here_is_my_stats_dashboard_display_monitoring_my/"/>
-        <updated>2021-05-26T10:58:17.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/xpduyson  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.9.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
-        <updated>2021-05-26T06:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is "experimental" due to these caveats:
-
-This feature is currently only available through custom template.
-iTunes has no strict format requirement for duration. The unit is most likely seconds but can be "hh:mm:ss" or "mm:ss" for some sources. A future version may expose a human readable string to the template.
-No image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.
-You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
-Fixed: the articles in template data were not sorted.
-Thank you @Zenigata]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep Calm and Hack The Box – Valentine]]></title>
-        <id>60ac3a2711ffb70827ef6aec</id>
-        <link href="https://www.freecodecamp.org/news/keep-calm-and-hack-the-box-valentine/"/>
-        <updated>2021-05-25T22:43:11.000Z</updated>
-        <summary type="html"><![CDATA[Walkthrough for Hack The Box Valentine machine]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chakra UI and React-Hook-Form –How to Build Beautiful Forms]]></title>
-        <id>60a93b0011ffb70827ef5b0d</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-react-hook-form-with-chakra-ui/"/>
-        <updated>2021-05-25T20:26:38.000Z</updated>
-        <summary type="html"><![CDATA[In HTML, it’s the default behavior for forms to redirect to a new page whenever they're submitted. So in order to provide dynamic functionality, React uses a strategy called controlled components. If you have recently gone through a React course, you probably didn't like this part, because there are]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Portfolio-Worthy Work – Web Design Best Practices for New Developers]]></title>
-        <id>608706aedd38b9088c2c012c</id>
-        <link href="https://www.freecodecamp.org/news/web-design-best-practices-for-new-developers/"/>
-        <updated>2021-05-25T16:51:37.000Z</updated>
-        <summary type="html"><![CDATA[If you're a beginner developer, it can be difficult to find ways to use your limited knowledge to support yourself. And at the same time, you won't be able to hone your skills if you aren't using them full time.  It's a precarious spot that I remember being in when]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I Learned Building a Word Game App With Nuxt on Google Play]]></title>
-        <id>https://css-tricks.com/?p=340759</id>
-        <link href="https://css-tricks.com/what-i-learned-building-a-word-game-app-with-nuxt-on-google-play/"/>
-        <updated>2021-05-25T14:25:06.000Z</updated>
-        <summary type="html"><![CDATA[I fell in love with coding the moment I created my first CSS :hover effect. Years later, that initial bite into interactivity on the web led me to a new goal: making a game.
-Table of contents
-What’s the game 
-…
-The post What I Learned Building a Word Game App With Nuxt on Google Play appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Josh Collinsworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/</id>
-        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/"/>
-        <updated>2021-05-25T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tobias Günther)</name>
         </author>
     </entry>
 </feed>
