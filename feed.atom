@@ -2,10 +2,445 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T00:46:28.189Z</updated>
+    <updated>2021-06-26T00:41:22.949Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cheap dedicated server advise]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7y0a6/cheap_dedicated_server_advise/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7y0a6/cheap_dedicated_server_advise/"/>
+        <updated>2021-06-25T22:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Hello evebody,
+ I am looking for a cheap dedicated server. Obviously very low end. So far the best price seems to be on kimsufi.com. I wonder whether I missed something even better. 
+ I am not bound to any specific architecture (ie: ARM would work).
+    submitted by    /u/RenatoPensato  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Even mild COVID in young people often leads to long-term symptoms, study finds]]></title>
+        <id>https://arstechnica.com/?p=1776542</id>
+        <link href="https://arstechnica.com/?p=1776542"/>
+        <updated>2021-06-25T22:02:51.000Z</updated>
+        <summary type="html"><![CDATA[Common symptoms among young adults included fatigue and cognitive problems.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unsplash source]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7xm7t/unsplash_source/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7xm7t/unsplash_source/"/>
+        <updated>2021-06-25T22:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Looking for a self host random image server. I've looked at: https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#photo-and-video-galleries and I'm not sure any of those provide a feature where you can access a consistent URL and a random image is returned. 
+ Reason is I would like more control over what images are displayed, and reduce the latency associated with accessing a remote API.
+    submitted by    /u/MegaHashes  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We have our best look yet at supervillain Mandarin in new Shang-Chi trailer]]></title>
+        <id>https://arstechnica.com/?p=1776441</id>
+        <link href="https://arstechnica.com/?p=1776441"/>
+        <updated>2021-06-25T21:18:22.000Z</updated>
+        <summary type="html"><![CDATA["Throughout my life, the Ten Rings gave my family power."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s how Android apps on Windows 11 are going to work]]></title>
+        <id>https://arstechnica.com/?p=1776088</id>
+        <link href="https://arstechnica.com/?p=1776088"/>
+        <updated>2021-06-25T21:07:26.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is building an Android framework on top of the Windows Subsystem for Linux.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden silent on municipal broadband as he makes $65B deal with Republicans]]></title>
+        <id>https://arstechnica.com/?p=1776429</id>
+        <link href="https://arstechnica.com/?p=1776429"/>
+        <updated>2021-06-25T20:48:39.000Z</updated>
+        <summary type="html"><![CDATA[No word yet, but GOP likely wouldn't agree to deal if it favored public networks.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s what you’ll need to upgrade to Windows 11]]></title>
+        <id>https://arstechnica.com/?p=1776394</id>
+        <link href="https://arstechnica.com/?p=1776394"/>
+        <updated>2021-06-25T20:05:16.000Z</updated>
+        <summary type="html"><![CDATA[The TPM requirement has many Windows 10 users worried—often unnecessarily.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFC flaws let researchers hack an ATM by waving a phone]]></title>
+        <id>https://arstechnica.com/?p=1776333</id>
+        <link href="https://arstechnica.com/?p=1776333"/>
+        <updated>2021-06-25T19:52:13.000Z</updated>
+        <summary type="html"><![CDATA[Flaws in card-reader technology can wreak havoc with point-of-sale systems and more.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cold-case files: Archaeologists discover 3,000-year-old victim of shark attack]]></title>
+        <id>https://arstechnica.com/?p=1776215</id>
+        <link href="https://arstechnica.com/?p=1776215"/>
+        <updated>2021-06-25T19:15:22.000Z</updated>
+        <summary type="html"><![CDATA[Young adult male lost an arm and a leg before dying of shock and blood loss.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calibre-Web sending emails to kindle doesn't work]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7ubme/calibreweb_sending_emails_to_kindle_doesnt_work/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7ubme/calibreweb_sending_emails_to_kindle_doesnt_work/"/>
+        <updated>2021-06-25T19:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I need your help with debugging this problem.
+ I have just set SMTP server on my Calibre-Web instance (docker image from linuxserver.io) due to instruction from this link. After clicking on "save" button, a green comment appeared saying that settings are saved. After clicking on "Save and sent Test email" red comment appeared saying: "Please configure your email address first..." This is confusing, because settings were saved successfully and look like this.
+ When I try to send any ebook to kindle (this email address was white listed in amazon settings), a green comment appears saying, that task was successfully enqueued. Tasks section tells that task was failed.
+ logs look like this:
+ [2021-06-25 18:58:54,857] ERROR {cps.tasks.mail:148} Connection unexpectedly closed [2021-06-25 19:03:15,873] ERROR {cps.tasks.mail:148} Connection unexpectedly closed 
+ I've no idea what needs to be checked and what is broken. Everything else works just fine for this server.
+    submitted by    /u/lord_EarlGray  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[self hosted forms?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7uadg/self_hosted_forms/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7uadg/self_hosted_forms/"/>
+        <updated>2021-06-25T19:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Im looking for a self hosted forms system like google forms but with the obvious being self hosted on my own machine. Ive tried multiple different way to get ohmyform working but have been completely unsucessful and wanted to reach out and see what reddit could bring. If anyone knows of any solution preferably free it would be of great help. I need to be able to create different forms and be able to allow certain people to view the responses.
+    submitted by    /u/Jacobh1245  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Custom Property Brain Twisters]]></title>
+        <id>https://css-tricks.com/?p=342718</id>
+        <link href="https://css-tricks.com/custom-property-brain-twisters/"/>
+        <updated>2021-06-25T18:39:46.000Z</updated>
+        <summary type="html"><![CDATA[I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.
+The post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WD My Book Live deletes all users data. - AKA: You should listen when someone like me tells you to build your own (True/Free)NAS and not use garbage appliance storage you have zero control over.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7sef8/wd_my_book_live_deletes_all_users_data_aka_you/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7sef8/wd_my_book_live_deletes_all_users_data_aka_you/"/>
+        <updated>2021-06-25T17:30:58.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/BloodyIron  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home server or vps/dedicated server]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7sdny/home_server_or_vpsdedicated_server/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7sdny/home_server_or_vpsdedicated_server/"/>
+        <updated>2021-06-25T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Hi, Kind of new to the sub, but not to hosting. Wondering what the consensus is for the members here, are you hosting at home or on a vps/dedicated server?
+ I've got a mix myself, but I'm looking to replace google photos right now and wondering if I should buy a new server for home to add more space or get another vps?
+    submitted by    /u/fisch14  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChoreRewards - Any frontend devs want to help?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7s745/chorerewards_any_frontend_devs_want_to_help/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7s745/chorerewards_any_frontend_devs_want_to_help/"/>
+        <updated>2021-06-25T17:20:53.000Z</updated>
+        <summary type="html"><![CDATA[I started making ChoreRewards a few weeks ago, which is essentially a reward system build for children. If the child does a chore, they get points which they can then use to "purchase" items. 
+ It's purpose is to give children the sense of accomplishment, as they will be able to mark their chores as "done" and to teach the value of money; should I purchase X now, or save up my "points" and purchase Y? 
+ Anyway, V0.1 of the backend is almost ready and I thought I'd see if there are any frontend devs who want to help me build it out? 
+ I can do frontend, by which I mean I can muddle around and make something functional; but I don't have a UX bone in my body.
+ Happy to discuss more about the project, answer questions, or tell me you're interested in the project itself if you think it might be something you can use when it's ready!
+    submitted by    /u/DaddyDeveloper  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self Hosted iCloud alternatives]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7q4wc/self_hosted_icloud_alternatives/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7q4wc/self_hosted_icloud_alternatives/"/>
+        <updated>2021-06-25T15:37:10.000Z</updated>
+        <summary type="html"><![CDATA[I'm not sure if this has been discussed recently, but I am looking for an iCloud alternative for my Apple devices. I know there are lots of services that can replace some individually (like using NextCloud), but I am looking for what the best options are. One thing that I am really wanting is something similar to iMazing which looks like an amazing product but just a little outside my use case (and if something else will do it for free, all the better).
+ What I like about iMazing is that I can backup and manage all of my data (messages, photos, apps, the works) from a remote location with a UI that is very similar to iTunes. I'm trying to set up a family backup of photos and iPhones for my parents and siblings and so having that ease of use is key. The downside of iMazing is that the unlimited plan only lets me have 2 computers with keys so only myself and one other household can manage their devices or I can get lifetime keys for 10 devices but I need more future proofing because we will have more iPhones in the family inevitably. 
+ What is your setup for iOS backup and management for your home setups and specifically what is your ideal photo backup setup that you use for those people who aren't tech savvy (i.e parents/siblings).
+    submitted by    /u/wmsmckay  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Sync Server]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7px95/firefox_sync_server/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7px95/firefox_sync_server/"/>
+        <updated>2021-06-25T15:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Is anyone running this currently? I'm wondering how does authentication work? Do I still authenticate through Mozilla and then sync on my own server? Is there a way to migrate data currently on my mozilla account to my own sync server?
+    submitted by    /u/AbleSugar  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cancel Pending API Requests to Show Correct Data]]></title>
+        <id>https://css-tricks.com/?p=342911</id>
+        <link href="https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/"/>
+        <updated>2021-06-25T14:33:33.000Z</updated>
+        <summary type="html"><![CDATA[I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.
+One problem quickly became evident: …
+The post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Georgi Nikoloff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking for an alternative to repomanager]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7org4/looking_for_an_alternative_to_repomanager/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7org4/looking_for_an_alternative_to_repomanager/"/>
+        <updated>2021-06-25T14:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Hello,
+ I am running a small hypervisor with about 50 vm's for me and some friends.
+ One of them pointed me at sonatype's repomanager that would let me cache registries like apt, yum, dnf, npm, docker etc. 
+ This would speed up lots of things in our environment. However it seem like there is no CE of this product and it costs a yearly subscription fee.
+ Is there a simular product like repomanager I could use?
+ Any reccomendations welcome :)
+ Cheers,
+ Ori
+    submitted by    /u/orilicious  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jellyfin and VPN]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7okpa/jellyfin_and_vpn/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7okpa/jellyfin_and_vpn/"/>
+        <updated>2021-06-25T14:16:13.000Z</updated>
+        <summary type="html"><![CDATA[I'm looking to setup jellyfin and know I want accessibility off my home network. Have folks setup both Jellyfin and a VPN solution on the same device or is it better to have them on separate devices in my network?
+ Thanks
+    submitted by    /u/moobaala  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Competition watchdog to probe Google and Amazon over fake reviews]]></title>
+        <id>https://arstechnica.com/?p=1776256</id>
+        <link href="https://arstechnica.com/?p=1776256"/>
+        <updated>2021-06-25T13:10:24.000Z</updated>
+        <summary type="html"><![CDATA[UK regulators say tech groups may not be doing enough to protect consumers.]]></summary>
+        <author>
+            <name>Financial Times</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hosting steamcmd games with DSL Lite]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7m15g/hosting_steamcmd_games_with_dsl_lite/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7m15g/hosting_steamcmd_games_with_dsl_lite/"/>
+        <updated>2021-06-25T11:43:41.000Z</updated>
+        <summary type="html"><![CDATA[I am hosting a game server for some friends at home. In order for my friends to join, I had to do some trickery like described in this thread. This works fine for Terraria and Minecraft. 
+ The problem is that I can't seem to get this working with steamcmd games. I have tried this with Garrys Mod, Valheim and Ark Survival.
+ I can join these games locally, but joining from outside the network is not possible.
+ Ark Docker: 
+ version: '3' services: ark: image: jkread/arkserver:latest container_name: ark3 network_mode: bridge restart: always ports: - 7777:7777 - 7777:7777/udp - 7778:7778 - 7778:7778/udp - 7779:7779 - 7779:7779/udp - 27015:27015 - 27015:27015/udp volumes: - /home/myuser/container/ark3/ark:/ark - /home/myuser/container/ark3/steam:/home/steam environment: - TZ=Europe/Berlin - am_a…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Multi-Author Blog With Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/"/>
+        <updated>2021-06-25T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Dom Habersack)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rocket Report: China to copy SpaceX’s Super Heavy? Vulcan slips to 2022]]></title>
+        <id>https://arstechnica.com/?p=1776079</id>
+        <link href="https://arstechnica.com/?p=1776079"/>
+        <updated>2021-06-25T11:00:53.000Z</updated>
+        <summary type="html"><![CDATA["We saw something we didn’t understand and didn’t expect to happen."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google to Android devs: Support more form factors, get a higher sales cut]]></title>
+        <id>https://arstechnica.com/?p=1775882</id>
+        <link href="https://arstechnica.com/?p=1775882"/>
+        <updated>2021-06-25T10:45:51.000Z</updated>
+        <summary type="html"><![CDATA[Google entices multimillion-dollar media apps with a 15 percent Play Store fee.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best (simple) way to stream media from RPI to chromecast?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7ky9a/best_simple_way_to_stream_media_from_rpi_to/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7ky9a/best_simple_way_to_stream_media_from_rpi_to/"/>
+        <updated>2021-06-25T10:24:33.000Z</updated>
+        <summary type="html"><![CDATA[I've got a raspberry pi 4 with some media in it. What's the best way to stream those media to a chromecast?
+ I would like to avoid plex, kodi, jellyfin etc. because I dont really need all their features. I Just want a way to pick up my smarphone and stream the medias to my crhomecast. The simplier the better. 
+ What's about an android filemager accessing via ssh my pi and stream from vlc?
+    submitted by    /u/gaggina  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSD/2.5HD/3.5HD Reliability and Raid level comparison ?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7ktrn/ssd25hd35hd_reliability_and_raid_level_comparison/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7ktrn/ssd25hd35hd_reliability_and_raid_level_comparison/"/>
+        <updated>2021-06-25T10:14:31.000Z</updated>
+        <summary type="html"><![CDATA[From a reliability pov, how do these 3 compare ? - typical 1TO 2.5 SATA SSD - cheapest 2TO 2.5 SATA HDD - cheapest 4TO 3.5 SATA HDD
+ I use raidz3 (ZFS RAID with 3 drives for parity) on my 3.5 hard drives. 
+ What would you use in comparison for 2.5 HD and SSDs ?
+    submitted by    /u/GrilledGuru  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Run A UX Audit For A Major EdTech Platform (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/"/>
+        <updated>2021-06-25T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mark Lankmilier)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help in setting up a reverse proxy server]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7kbda/help_in_setting_up_a_reverse_proxy_server/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7kbda/help_in_setting_up_a_reverse_proxy_server/"/>
+        <updated>2021-06-25T09:32:24.000Z</updated>
+        <summary type="html"><![CDATA[I'm building some servers using proxmox which will include Pi-Hole, Jellyfin (which should be accessible from outside the network), cloud storage, a wiki... To access Jellyfin from the outside I was planning on using reverse proxy on the same container I was holding Jellyfin, but I'm thinking of having a server do all the proxy of the whole network (so I can avoid having to write down the ports every time I have to enter the interface of something).
+ But I have no idea how to do that. First I'm doubting whether I should use Nginx, Apache, Caddy (since I've heard it's fairly easy to setup) or something like Traefik, and once chosen that how I'd have to make it so everything goes through the proxy to then be redirected.
+ Any tips or suggestions?
+    submitted by    /u/Stasky-X  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which is the best self-hosted wiki for a SBC (Odroid-XU4)?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7jusi/which_is_the_best_selfhosted_wiki_for_a_sbc/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7jusi/which_is_the_best_selfhosted_wiki_for_a_sbc/"/>
+        <updated>2021-06-25T08:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+ I have an Odroid-XU4 with Ubuntu 18.04.5. I am currently using it as self-hosted cloud with Nextcloud. Now I would like to implement a wiki. I have seen DokuWiki, Wiki.js, and BookStack. However, I can't find any tutorial for installing any of them on a RPI/Odroid. 
+ Which self-hosted wiki might be better suited for an Odroid-XU4? Do you know any resource for helping me with the installation?
+ Thanks in advanced!
+    submitted by    /u/cascoded1903  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Failed DMARC and SPF from IP addresses from Kenya, Laos and Brazil]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7jc53/failed_dmarc_and_spf_from_ip_addresses_from_kenya/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7jc53/failed_dmarc_and_spf_from_ip_addresses_from_kenya/"/>
+        <updated>2021-06-25T08:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Hi guys, 
+ some time Last night I received a dmarc report from mail.ru. According to the report, three IP addresses from Laos and Kenya tried to send e-mails impersonating my domain name, as SPF and DKIM all failed.
+ A friend of mine, who also self hosts his email did also receive a dmarc report for his domain, also from mail.ru.
+ I guess someones currently trying to mass-impersonate?
+ Are there any of you guys, that also received such a report? 
+ As far as I know there is not much I can do prevent them from pulling this kind of shit, is it?
+ Does stuff like this happen often? I've only been selfhosting my email for about a year now and I've never seen a dmarc report that I didn't trigger myself...
+ The IP addresses are: 
+  
+115.84.76.144
+ 41.90.244.243
+ 154.79.254.144
+ 45.164.140.147
+ 90.189.165.5
+  
+Cheers,
+    submitted by    /u/Wixxkrabbe  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selfhosted IMAP/SMTP Autoresponder]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7ham9/selfhosted_imapsmtp_autoresponder/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7ham9/selfhosted_imapsmtp_autoresponder/"/>
+        <updated>2021-06-25T05:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Hi there!
+ I'm looking for a selfhosted autoresponder for multiple mail accounts from different providers. 
+ Not all of them are offering decent autoresponder settings on the server side.
+ The autoresponder would have to check for new emails over imap and then send autoresponds over smtp.
+ Basically just like an email client with filters, but running on a 24-7 server - and not interfering with the actual email clients.
+ Does anyone know a good solution?
+ Thanks in advance
+ edit: my google searches return a lot of newsletter tools. I'm not looking for anything newsletter related. Just a simple "I'm on vacation" Message on incoming email.
+ in Germany we use the term autoresponder for it. This maybe wrong. I'm looking for a tool that sends "out of office" notices
+    submitted by    /u/soooker  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recommend me a setup for a centralized life management and visualization?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/o7d5p6/recommend_me_a_setup_for_a_centralized_life/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/o7d5p6/recommend_me_a_setup_for_a_centralized_life/"/>
+        <updated>2021-06-25T00:59:29.000Z</updated>
+        <summary type="html"><![CDATA[I dream of having some sort of home page with metrics about personal goals, calendar events, and other services. Because I'd like it to be open-source, I looked into Nextcloud, which is awesome but it lacks goal-tracking and a wiki, which I'd really like to have. I have also looked into "Personal Management System", which looks really interesting, but it lacks the community behind Nextcloud in order to earn my trust to use it in the long run. Ideally it would be awesome to be able to visualize all aspects of life, while retrieving this data from the top services of each category. Imagine a home page with a Kanboard from WeKan, storage from Nextcloud, goal tracking (maybe Nomie?), some notes in form of a wiki...
+ ​
+ What sort of set up would you recommend that satisfies this, or at least gets close to it? Sorry if I make some mistakes, English is not my first language.
+ ​
+ ** Maybe someone may suggest that I should contribute to some of these projects in order to create the features I wish to see. I would love to, however at this moment in time I lack the necessary skills.
+ ** EDIT **
+ Let me clarify for those who didn't get the gist of what I'm trying to communicate: I'm looking for something analogous to what Android/iOS is to Widgets. 
+ You have a main screen that show information and functionalities from the system or third party services/apps that are easily visualized and/or manipulated. So far I found Nextcloud+nextcloud apps to satisfy most of these needs, but I still miss some resources as mentioned above. Thank you!
+ ​
+    submitted by    /u/uxK86wCiuWq11av  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Networking issue]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/o7b8wf/networking_issue/</id>
@@ -14133,338 +14568,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nearly 50,000 IPs compromised in Kubernetes clusters by TeamTNT]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nm687n/nearly_50000_ips_compromised_in_kubernetes/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nm687n/nearly_50000_ips_compromised_in_kubernetes/"/>
-        <updated>2021-05-27T12:22:58.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/tyguy609  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We got our first ride in the electric Lucid Air sedan]]></title>
-        <id>https://arstechnica.com/?p=1768044</id>
-        <link href="https://arstechnica.com/?p=1768044"/>
-        <updated>2021-05-27T12:10:07.000Z</updated>
-        <summary type="html"><![CDATA[The stylish and spacious electric sedan goes into production later this year.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groupware webmail solution with multibox imap and unified inbox]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nm5ehe/groupware_webmail_solution_with_multibox_imap_and/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nm5ehe/groupware_webmail_solution_with_multibox_imap_and/"/>
-        <updated>2021-05-27T11:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Hi,
- We are using OnlyOffice self hosted but only as groupware email solution - we have around 100 users, and every user has 2-5 external mailboxes connected via imap to external mail server. OnlyOffice mail app is very nice with pre-fetching all new mails to database, with index/search and unified inbox. But we are looking forward to move to any other software. We tried:
-  
-Nextcloud - great app, but with very slow any buggy mail app (without pre-fetch/search).
- Groupoffice - nice, but no pre-fetch too.
- Railloop / Roundcube / Sogo / etc - not an option, because we need to create a users first, and then connect external imap accounts.
- Cypth - is good php project but also without pre-fetch / search index. 
- Zimbra / all other full stack mail solution - not an option, because we are using existing external mail server and don't want to move mx'es to our new self hosted.
-  
-So, we are looking for any webmail groupware which is able to:
-  
-Create users to login into we system (not into the mailbox) using any 2FA.
- Connect external imap mailboxes to users accounts.
- Pre-fetch all new mail via imap from external server with indexing / search.
- It's ok to have a paid solution, but it must be self hosted and (easily) customisable.
-  
-Many thanks for any suggestions!
-    submitted by    /u/omgte  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selfhosting notebook.ai?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nm4myc/selfhosting_notebookai/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nm4myc/selfhosting_notebookai/"/>
-        <updated>2021-05-27T10:43:35.000Z</updated>
-        <summary type="html"><![CDATA[Has anyone tried running a selfhosted instance of notebook.ai? From their readme it seems like you're meant to run it on your machine just for development. They do have a Dockerfile, but it seems to also be just for local dev.
- Does anyone run it? How is the performance? Did you have to use AWS s3 or does it store files locally?
-    submitted by    /u/killermenpl  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build And Launch Responsive Websites Faster With Editor X]]></title>
-        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
-        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
-        <updated>2021-05-27T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking for a self hosted chat program with good user permissions.]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nm3alp/looking_for_a_self_hosted_chat_program_with_good/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nm3alp/looking_for_a_self_hosted_chat_program_with_good/"/>
-        <updated>2021-05-27T09:03:57.000Z</updated>
-        <summary type="html"><![CDATA[My friends are finally considering moving away from Discord after recent drama, and I've been searching for a suitable program for a few months. I have looked at and rejected Mattermost (doesn't have the permissions I need) and Rocket.Chat (has half the permissions but runs too slow). 
- What I really need is a chat server that can be used to restrict file uploads to specific rooms or user roles, and, at the very least, has the capability to create an 'arrivals' system, where users show up to a single room before being invited to the chat at large. My friends have servers which have had persistent trolls, and I really don't want to have to clear out Cartel videos from unrelated chats every day. 
- I'm currently looking at Matrix and Zulip, but it's unclear if either are capable of this, and it might not be possible.
-    submitted by    /u/BaseTurd818  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailscale, a drop-dead easy alternative to VPN and Wireguard]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nm1nab/tailscale_a_dropdead_easy_alternative_to_vpn_and/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nm1nab/tailscale_a_dropdead_easy_alternative_to_vpn_and/"/>
-        <updated>2021-05-27T07:00:17.000Z</updated>
-        <summary type="html"><![CDATA[If you haven't used it, Tailscale solves so many problems with connectivity / port forwarding / security. Run it on all your machines and log in, and they're all connected and their hostnames resolve (i.e. http://mycomputer:8080). It solves One Problem, with absolutely zero config headache. I see a lot of people recommending setting up VPN or Wireguard and, if you don't mind that Tailscale isn't fully selfhosted, it solves that problem in a much easier way
- It is also great for security because it means that lots of services that you'd want to make a public endpoint for (i.e. Bitwarden) can now be accessed via Tailscale instead, which means that your public surface area for e.g. a VPS can be extremely small or even zero (i.e. no inbound ports)
- I have no association with the project btw, I'm solely an extremely happy free-tier user
-    submitted by    /u/kitanokikori  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forward multiple ports over SSH [in one command]]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nlzpgt/forward_multiple_ports_over_ssh_in_one_command/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nlzpgt/forward_multiple_ports_over_ssh_in_one_command/"/>
-        <updated>2021-05-27T04:41:58.000Z</updated>
-        <summary type="html"><![CDATA[This is something I wasn't aware of, SSH can set up multiple forwards in a single invocation: https://til.hashrocket.com/posts/xjdjzsrgui-forward-multiple-ports-over-ssh
-    submitted by    /u/codingbrokeme  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony lists PC version of Uncharted 4 in investor report]]></title>
-        <id>https://arstechnica.com/?p=1768029</id>
-        <link href="https://arstechnica.com/?p=1768029"/>
-        <updated>2021-05-27T03:20:23.000Z</updated>
-        <summary type="html"><![CDATA[Listed under "more PC releases planned" amid strong returns for Horizon's port.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaultwarden is accessible to the whole world - hosted on this little thing. Doesn’t that amaze you?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nlvuyg/vaultwarden_is_accessible_to_the_whole_world/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nlvuyg/vaultwarden_is_accessible_to_the_whole_world/"/>
-        <updated>2021-05-27T00:45:56.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/nicnic2001  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastest file transfer program (parallel connections)?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nlu20d/fastest_file_transfer_program_parallel_connections/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nlu20d/fastest_file_transfer_program_parallel_connections/"/>
-        <updated>2021-05-26T23:09:28.000Z</updated>
-        <summary type="html"><![CDATA[I want to transfer several tar files (each ~ 2 GB) from:
-  
-Ubuntu server => Windows 10 PC
- 
-Ubuntu server => Ubuntu server
- 
- The server does have a 450 Mbits uplink connection and I'm looking for a program that actually uses the full bandwidth of the uplink, with parallel connections automatically. So, if you initiate a transfer, it should really saturate the uplink with as many parallel connections until the 450 Mbits bandwidth is used to the fullest.
-    submitted by    /u/LeastTakenUsername  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists induced hallucinations in mice to learn more about human psychosis]]></title>
-        <id>https://arstechnica.com/?p=1762625</id>
-        <link href="https://arstechnica.com/?p=1762625"/>
-        <updated>2021-05-26T23:02:37.000Z</updated>
-        <summary type="html"><![CDATA[Study uncovered a surprising link between how human and mouse minds malfunction.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10 21H1 available now, improves document load times]]></title>
-        <id>https://arstechnica.com/?p=1767945</id>
-        <link href="https://arstechnica.com/?p=1767945"/>
-        <updated>2021-05-26T21:56:21.000Z</updated>
-        <summary type="html"><![CDATA[The changes in 21H1 are mostly minor—much bigger things are coming in October.]]></summary>
-        <author>
-            <name>Jim Salter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS]]></title>
-        <id>60a44b9f906c5207e3a7e098</id>
-        <link href="https://www.freecodecamp.org/news/giphy-api-tutorial/"/>
-        <updated>2021-05-26T21:44:01.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[These offline, disc-based games require an online check-in on Xbox Series X]]></title>
-        <id>https://arstechnica.com/?p=1767928</id>
-        <link href="https://arstechnica.com/?p=1767928"/>
-        <updated>2021-05-26T21:23:02.000Z</updated>
-        <summary type="html"><![CDATA[One-time connection required for configuration on Xbox One and Smart Delivery discs.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No, it doesn’t just crash Safari. Apple has yet to fix exploitable flaw]]></title>
-        <id>https://arstechnica.com/?p=1767876</id>
-        <link href="https://arstechnica.com/?p=1767876"/>
-        <updated>2021-05-26T20:04:35.000Z</updated>
-        <summary type="html"><![CDATA[WebKit bug that was fixed upstream has yet to find its way into Apple products.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arm’s Cortex X2-based CPUs are 30 percent faster and more efficient]]></title>
-        <id>https://arstechnica.com/?p=1767742</id>
-        <link href="https://arstechnica.com/?p=1767742"/>
-        <updated>2021-05-26T19:36:50.000Z</updated>
-        <summary type="html"><![CDATA[Arm is also floating a laptop chip design with eight Cortex X2 cores.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia tried to spread dangerous lies about Pfizer vaccine, France suspects]]></title>
-        <id>https://arstechnica.com/?p=1767847</id>
-        <link href="https://arstechnica.com/?p=1767847"/>
-        <updated>2021-05-26T19:20:40.000Z</updated>
-        <summary type="html"><![CDATA[French officials likened the lies to campaigns run by Russia's Internet Research Agency.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple TV 4K gets 8 out of 10 repairability score in iFixit’s latest teardown]]></title>
-        <id>https://arstechnica.com/?p=1767833</id>
-        <link href="https://arstechnica.com/?p=1767833"/>
-        <updated>2021-05-26T19:03:43.000Z</updated>
-        <summary type="html"><![CDATA[The Apple TV 4K itself is surprisingly easy to service. Its remote? Not so much.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-hosting an XMPP server as an alternative to WhatsApp or Signal]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nlo4e7/selfhosting_an_xmpp_server_as_an_alternative_to/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nlo4e7/selfhosting_an_xmpp_server_as_an_alternative_to/"/>
-        <updated>2021-05-26T18:37:16.000Z</updated>
-        <summary type="html"><![CDATA[So I decided to setup an XMPP server and was surprised how simple it was. I've tried hosting email, cloud storage etc... before but the XMPP service I used called Prosody was super straight forward. I wrote up the basic steps if anyone was considering getting off private messaging apps.
- Guide: https://articles.eoincoogan.com/xmpp.html
-    submitted by    /u/esper12345  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide]]></title>
-        <id>60abe7fb11ffb70827ef63a6</id>
-        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/"/>
-        <updated>2021-05-26T18:01:00.000Z</updated>
-        <summary type="html"><![CDATA[If you're a developer, you've probably come across the term "open source." If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Basic Terraform Syntax in 20 minutes]]></title>
-        <id>606f4f5fd5756f080ba96b65</id>
-        <link href="https://www.freecodecamp.org/news/terraform-syntax-for-beginners/"/>
-        <updated>2021-05-26T18:00:52.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awesome Standalone (Web Components)]]></title>
-        <id>https://css-tricks.com/?p=339759</id>
-        <link href="https://css-tricks.com/awesome-standalone-web-components/"/>
-        <updated>2021-05-26T17:56:34.000Z</updated>
-        <summary type="html"><![CDATA[In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …
-The post Awesome Standalone (Web Components) appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on Web Components]]></title>
-        <id>https://css-tricks.com/?p=340901</id>
-        <link href="https://css-tricks.com/links-on-web-components/"/>
-        <updated>2021-05-26T17:56:12.000Z</updated>
-        <summary type="html"><![CDATA[How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a 
-…
-The post Links on Web Components appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GraphQL API Using Laravel]]></title>
-        <id>60abc59d11ffb70827ef6304</id>
-        <link href="https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/"/>
-        <updated>2021-05-26T16:34:32.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js]]></title>
-        <id>60aced0011ffb70827ef6d96</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/"/>
-        <updated>2021-05-26T14:12:27.000Z</updated>
-        <summary type="html"><![CDATA[In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Thorough Analysis of CSS-in-JS]]></title>
-        <id>https://css-tricks.com/?p=340705</id>
-        <link href="https://css-tricks.com/a-thorough-analysis-of-css-in-js/"/>
-        <updated>2021-05-26T14:08:49.000Z</updated>
-        <summary type="html"><![CDATA[Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.
-We tested 10 different …
-The post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Andrei Pfeiffer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
-        <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
-        <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
-        <updated>2021-05-26T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Carie Fisher)</name>
         </author>
     </entry>
 </feed>

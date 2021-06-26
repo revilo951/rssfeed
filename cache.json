@@ -6,6 +6,177 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7y0a6/cheap_dedicated_server_advise/",
+          "author": null,
+          "description": "Hello evebody,\n I am looking for a cheap dedicated server. Obviously very low end. So far the best price seems to be on kimsufi.com. I wonder whether I missed something even better. \n I am not bound to any specific architecture (ie: ARM would work).\n    submitted by    /u/RenatoPensato  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7y0a6/cheap_dedicated_server_advise/",
+          "publishedOn": "2021-06-25T22:22:01.000Z",
+          "wordCount": 243,
+          "title": "Cheap dedicated server advise"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7xm7t/unsplash_source/",
+          "author": null,
+          "description": "Looking for a self host random image server. I've looked at: https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#photo-and-video-galleries and I'm not sure any of those provide a feature where you can access a consistent URL and a random image is returned. \n Reason is I would like more control over what images are displayed, and reduce the latency associated with accessing a remote API.\n    submitted by    /u/MegaHashes  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7xm7t/unsplash_source/",
+          "publishedOn": "2021-06-25T22:00:43.000Z",
+          "wordCount": 154,
+          "title": "Unsplash source"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7ubme/calibreweb_sending_emails_to_kindle_doesnt_work/",
+          "author": null,
+          "description": "Hi, I need your help with debugging this problem.\n I have just set SMTP server on my Calibre-Web instance (docker image from linuxserver.io) due to instruction from this link. After clicking on \"save\" button, a green comment appeared saying that settings are saved. After clicking on \"Save and sent Test email\" red comment appeared saying: \"Please configure your email address first...\" This is confusing, because settings were saved successfully and look like this.\n When I try to send any ebook to kindle (this email address was white listed in amazon settings), a green comment appears saying, that task was successfully enqueued. Tasks section tells that task was failed.\n logs look like this:\n [2021-06-25 18:58:54,857] ERROR {cps.tasks.mail:148} Connection unexpectedly closed [2021-06-25 19:03:15,873] ERROR {cps.tasks.mail:148} Connection unexpectedly closed \n I've no idea what needs to be checked and what is broken. Everything else works just fine for this server.\n    submitted by    /u/lord_EarlGray  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7ubme/calibreweb_sending_emails_to_kindle_doesnt_work/",
+          "publishedOn": "2021-06-25T19:10:01.000Z",
+          "wordCount": 361,
+          "title": "Calibre-Web sending emails to kindle doesn't work"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7uadg/self_hosted_forms/",
+          "author": null,
+          "description": "Im looking for a self hosted forms system like google forms but with the obvious being self hosted on my own machine. Ive tried multiple different way to get ohmyform working but have been completely unsucessful and wanted to reach out and see what reddit could bring. If anyone knows of any solution preferably free it would be of great help. I need to be able to create different forms and be able to allow certain people to view the responses.\n    submitted by    /u/Jacobh1245  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7uadg/self_hosted_forms/",
+          "publishedOn": "2021-06-25T19:08:13.000Z",
+          "wordCount": 298,
+          "title": "self hosted forms?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7sef8/wd_my_book_live_deletes_all_users_data_aka_you/",
+          "author": null,
+          "description": "submitted by    /u/BloodyIron  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7sef8/wd_my_book_live_deletes_all_users_data_aka_you/",
+          "publishedOn": "2021-06-25T17:30:58.000Z",
+          "wordCount": 322,
+          "title": "WD My Book Live deletes all users data. - AKA: You should listen when someone like me tells you to build your own (True/Free)NAS and not use garbage appliance storage you have zero control over."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7sdny/home_server_or_vpsdedicated_server/",
+          "author": null,
+          "description": "Hi, Kind of new to the sub, but not to hosting. Wondering what the consensus is for the members here, are you hosting at home or on a vps/dedicated server?\n I've got a mix myself, but I'm looking to replace google photos right now and wondering if I should buy a new server for home to add more space or get another vps?\n    submitted by    /u/fisch14  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7sdny/home_server_or_vpsdedicated_server/",
+          "publishedOn": "2021-06-25T17:30:00.000Z",
+          "wordCount": 719,
+          "title": "Home server or vps/dedicated server"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7s745/chorerewards_any_frontend_devs_want_to_help/",
+          "author": null,
+          "description": "I started making ChoreRewards a few weeks ago, which is essentially a reward system build for children. If the child does a chore, they get points which they can then use to \"purchase\" items. \n It's purpose is to give children the sense of accomplishment, as they will be able to mark their chores as \"done\" and to teach the value of money; should I purchase X now, or save up my \"points\" and purchase Y? \n Anyway, V0.1 of the backend is almost ready and I thought I'd see if there are any frontend devs who want to help me build it out? \n I can do frontend, by which I mean I can muddle around and make something functional; but I don't have a UX bone in my body.\n Happy to discuss more about the project, answer questions, or tell me you're interested in the project itself if you think it might be something you can use when it's ready!\n    submitted by    /u/DaddyDeveloper  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7s745/chorerewards_any_frontend_devs_want_to_help/",
+          "publishedOn": "2021-06-25T17:20:53.000Z",
+          "wordCount": 334,
+          "title": "ChoreRewards - Any frontend devs want to help?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7q4wc/self_hosted_icloud_alternatives/",
+          "author": null,
+          "description": "I'm not sure if this has been discussed recently, but I am looking for an iCloud alternative for my Apple devices. I know there are lots of services that can replace some individually (like using NextCloud), but I am looking for what the best options are. One thing that I am really wanting is something similar to iMazing which looks like an amazing product but just a little outside my use case (and if something else will do it for free, all the better).\n What I like about iMazing is that I can backup and manage all of my data (messages, photos, apps, the works) from a remote location with a UI that is very similar to iTunes. I'm trying to set up a family backup of photos and iPhones for my parents and siblings and so having that ease of use is key. The downside of iMazing is that the unlimited plan only lets me have 2 computers with keys so only myself and one other household can manage their devices or I can get lifetime keys for 10 devices but I need more future proofing because we will have more iPhones in the family inevitably. \n What is your setup for iOS backup and management for your home setups and specifically what is your ideal photo backup setup that you use for those people who aren't tech savvy (i.e parents/siblings).\n    submitted by    /u/wmsmckay  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7q4wc/self_hosted_icloud_alternatives/",
+          "publishedOn": "2021-06-25T15:37:10.000Z",
+          "wordCount": 563,
+          "title": "Self Hosted iCloud alternatives"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7px95/firefox_sync_server/",
+          "author": null,
+          "description": "Is anyone running this currently? I'm wondering how does authentication work? Do I still authenticate through Mozilla and then sync on my own server? Is there a way to migrate data currently on my mozilla account to my own sync server?\n    submitted by    /u/AbleSugar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7px95/firefox_sync_server/",
+          "publishedOn": "2021-06-25T15:26:20.000Z",
+          "wordCount": 615,
+          "title": "Firefox Sync Server"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7org4/looking_for_an_alternative_to_repomanager/",
+          "author": null,
+          "description": "Hello,\n I am running a small hypervisor with about 50 vm's for me and some friends.\n One of them pointed me at sonatype's repomanager that would let me cache registries like apt, yum, dnf, npm, docker etc. \n This would speed up lots of things in our environment. However it seem like there is no CE of this product and it costs a yearly subscription fee.\n Is there a simular product like repomanager I could use?\n Any reccomendations welcome :)\n Cheers,\n Ori\n    submitted by    /u/orilicious  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7org4/looking_for_an_alternative_to_repomanager/",
+          "publishedOn": "2021-06-25T14:25:56.000Z",
+          "wordCount": 339,
+          "title": "Looking for an alternative to repomanager"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7okpa/jellyfin_and_vpn/",
+          "author": null,
+          "description": "I'm looking to setup jellyfin and know I want accessibility off my home network. Have folks setup both Jellyfin and a VPN solution on the same device or is it better to have them on separate devices in my network?\n Thanks\n    submitted by    /u/moobaala  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7okpa/jellyfin_and_vpn/",
+          "publishedOn": "2021-06-25T14:16:13.000Z",
+          "wordCount": 527,
+          "title": "Jellyfin and VPN"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7m15g/hosting_steamcmd_games_with_dsl_lite/",
+          "author": null,
+          "description": "I am hosting a game server for some friends at home. In order for my friends to join, I had to do some trickery like described in this thread. This works fine for Terraria and Minecraft. \n The problem is that I can't seem to get this working with steamcmd games. I have tried this with Garrys Mod, Valheim and Ark Survival.\n I can join these games locally, but joining from outside the network is not possible.\n Ark Docker: \n version: '3' services: ark: image: jkread/arkserver:latest container_name: ark3 network_mode: bridge restart: always ports: - 7777:7777 - 7777:7777/udp - 7778:7778 - 7778:7778/udp - 7779:7779 - 7779:7779/udp - 27015:27015 - 27015:27015/udp volumes: - /home/myuser/container/ark3/ark:/ark - /home/myuser/container/ark3/steam:/home/steam environment: - TZ=Europe/Berlin - am_a…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7m15g/hosting_steamcmd_games_with_dsl_lite/",
+          "publishedOn": "2021-06-25T11:43:41.000Z",
+          "wordCount": 364,
+          "title": "Hosting steamcmd games with DSL Lite"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7ky9a/best_simple_way_to_stream_media_from_rpi_to/",
+          "author": null,
+          "description": "I've got a raspberry pi 4 with some media in it. What's the best way to stream those media to a chromecast?\n I would like to avoid plex, kodi, jellyfin etc. because I dont really need all their features. I Just want a way to pick up my smarphone and stream the medias to my crhomecast. The simplier the better. \n What's about an android filemager accessing via ssh my pi and stream from vlc?\n    submitted by    /u/gaggina  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7ky9a/best_simple_way_to_stream_media_from_rpi_to/",
+          "publishedOn": "2021-06-25T10:24:33.000Z",
+          "wordCount": 278,
+          "title": "Best (simple) way to stream media from RPI to chromecast?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7ktrn/ssd25hd35hd_reliability_and_raid_level_comparison/",
+          "author": null,
+          "description": "From a reliability pov, how do these 3 compare ? - typical 1TO 2.5 SATA SSD - cheapest 2TO 2.5 SATA HDD - cheapest 4TO 3.5 SATA HDD\n I use raidz3 (ZFS RAID with 3 drives for parity) on my 3.5 hard drives. \n What would you use in comparison for 2.5 HD and SSDs ?\n    submitted by    /u/GrilledGuru  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7ktrn/ssd25hd35hd_reliability_and_raid_level_comparison/",
+          "publishedOn": "2021-06-25T10:14:31.000Z",
+          "wordCount": 265,
+          "title": "SSD/2.5HD/3.5HD Reliability and Raid level comparison ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7kbda/help_in_setting_up_a_reverse_proxy_server/",
+          "author": null,
+          "description": "I'm building some servers using proxmox which will include Pi-Hole, Jellyfin (which should be accessible from outside the network), cloud storage, a wiki... To access Jellyfin from the outside I was planning on using reverse proxy on the same container I was holding Jellyfin, but I'm thinking of having a server do all the proxy of the whole network (so I can avoid having to write down the ports every time I have to enter the interface of something).\n But I have no idea how to do that. First I'm doubting whether I should use Nginx, Apache, Caddy (since I've heard it's fairly easy to setup) or something like Traefik, and once chosen that how I'd have to make it so everything goes through the proxy to then be redirected.\n Any tips or suggestions?\n    submitted by    /u/Stasky-X  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7kbda/help_in_setting_up_a_reverse_proxy_server/",
+          "publishedOn": "2021-06-25T09:32:24.000Z",
+          "wordCount": 903,
+          "title": "Help in setting up a reverse proxy server"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7jusi/which_is_the_best_selfhosted_wiki_for_a_sbc/",
+          "author": null,
+          "description": "Hi,\n I have an Odroid-XU4 with Ubuntu 18.04.5. I am currently using it as self-hosted cloud with Nextcloud. Now I would like to implement a wiki. I have seen DokuWiki, Wiki.js, and BookStack. However, I can't find any tutorial for installing any of them on a RPI/Odroid. \n Which self-hosted wiki might be better suited for an Odroid-XU4? Do you know any resource for helping me with the installation?\n Thanks in advanced!\n    submitted by    /u/cascoded1903  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7jusi/which_is_the_best_selfhosted_wiki_for_a_sbc/",
+          "publishedOn": "2021-06-25T08:54:55.000Z",
+          "wordCount": 289,
+          "title": "Which is the best self-hosted wiki for a SBC (Odroid-XU4)?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7jc53/failed_dmarc_and_spf_from_ip_addresses_from_kenya/",
+          "author": null,
+          "description": "Hi guys, \n some time Last night I received a dmarc report from mail.ru. According to the report, three IP addresses from Laos and Kenya tried to send e-mails impersonating my domain name, as SPF and DKIM all failed.\n A friend of mine, who also self hosts his email did also receive a dmarc report for his domain, also from mail.ru.\n I guess someones currently trying to mass-impersonate?\n Are there any of you guys, that also received such a report? \n As far as I know there is not much I can do prevent them from pulling this kind of shit, is it?\n Does stuff like this happen often? I've only been selfhosting my email for about a year now and I've never seen a dmarc report that I didn't trigger myself...\n The IP addresses are: \n  \n115.84.76.144\n 41.90.244.243\n 154.79.254.144\n 45.164.140.147\n 90.189.165.5\n  \nCheers,\n    submitted by    /u/Wixxkrabbe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7jc53/failed_dmarc_and_spf_from_ip_addresses_from_kenya/",
+          "publishedOn": "2021-06-25T08:11:55.000Z",
+          "wordCount": 1160,
+          "title": "Failed DMARC and SPF from IP addresses from Kenya, Laos and Brazil"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7ham9/selfhosted_imapsmtp_autoresponder/",
+          "author": null,
+          "description": "Hi there!\n I'm looking for a selfhosted autoresponder for multiple mail accounts from different providers. \n Not all of them are offering decent autoresponder settings on the server side.\n The autoresponder would have to check for new emails over imap and then send autoresponds over smtp.\n Basically just like an email client with filters, but running on a 24-7 server - and not interfering with the actual email clients.\n Does anyone know a good solution?\n Thanks in advance\n edit: my google searches return a lot of newsletter tools. I'm not looking for anything newsletter related. Just a simple \"I'm on vacation\" Message on incoming email.\n in Germany we use the term autoresponder for it. This maybe wrong. I'm looking for a tool that sends \"out of office\" notices\n    submitted by    /u/soooker  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7ham9/selfhosted_imapsmtp_autoresponder/",
+          "publishedOn": "2021-06-25T05:32:10.000Z",
+          "wordCount": 355,
+          "title": "Selfhosted IMAP/SMTP Autoresponder"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o7d5p6/recommend_me_a_setup_for_a_centralized_life/",
+          "author": null,
+          "description": "I dream of having some sort of home page with metrics about personal goals, calendar events, and other services. Because I'd like it to be open-source, I looked into Nextcloud, which is awesome but it lacks goal-tracking and a wiki, which I'd really like to have. I have also looked into \"Personal Management System\", which looks really interesting, but it lacks the community behind Nextcloud in order to earn my trust to use it in the long run. Ideally it would be awesome to be able to visualize all aspects of life, while retrieving this data from the top services of each category. Imagine a home page with a Kanboard from WeKan, storage from Nextcloud, goal tracking (maybe Nomie?), some notes in form of a wiki...\n ​\n What sort of set up would you recommend that satisfies this, or at least gets close to it? Sorry if I make some mistakes, English is not my first language.\n ​\n ** Maybe someone may suggest that I should contribute to some of these projects in order to create the features I wish to see. I would love to, however at this moment in time I lack the necessary skills.\n ** EDIT **\n Let me clarify for those who didn't get the gist of what I'm trying to communicate: I'm looking for something analogous to what Android/iOS is to Widgets. \n You have a main screen that show information and functionalities from the system or third party services/apps that are easily visualized and/or manipulated. So far I found Nextcloud+nextcloud apps to satisfy most of these needs, but I still miss some resources as mentioned above. Thank you!\n ​\n    submitted by    /u/uxK86wCiuWq11av  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o7d5p6/recommend_me_a_setup_for_a_centralized_life/",
+          "publishedOn": "2021-06-25T00:59:29.000Z",
+          "wordCount": 707,
+          "title": "Recommend me a setup for a centralized life management and visualization?"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/o7b8wf/networking_issue/",
           "author": null,
           "description": "I probably did this to myself but I cannot figure this out and once again my Google fu is coming up short. \n I have the following:\n A home pc for photo editing, video editing, day to day work/internet etc A gaming pc that’s purely for gaming A work windows laptop A MacBook\n Also my server “farm” consists of 3 Ubuntu servers. \n Last night I noticed my internet was lagging and downloading large amounts of data and I couldn’t figure out why. Usually it’s sonarr or radarr or sometimes it’s someone downloading tv shows off of Plex. \n When I ruled out that none of that was happening I installed wire shark and another program to see if I could see what was happening. I couldn’t. \n So just for giggles I rebooted every server. And that didn’t help so figured it was one of my other devices. I shut t…",
@@ -5422,87 +5593,6 @@
           "publishedOn": "2021-05-27T13:37:01.000Z",
           "wordCount": 871,
           "title": "Infrastructure as Code"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nm687n/nearly_50000_ips_compromised_in_kubernetes/",
-          "author": null,
-          "description": "submitted by    /u/tyguy609  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nm687n/nearly_50000_ips_compromised_in_kubernetes/",
-          "publishedOn": "2021-05-27T12:22:58.000Z",
-          "wordCount": 209,
-          "title": "Nearly 50,000 IPs compromised in Kubernetes clusters by TeamTNT"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nm5ehe/groupware_webmail_solution_with_multibox_imap_and/",
-          "author": null,
-          "description": "Hi,\n We are using OnlyOffice self hosted but only as groupware email solution - we have around 100 users, and every user has 2-5 external mailboxes connected via imap to external mail server. OnlyOffice mail app is very nice with pre-fetching all new mails to database, with index/search and unified inbox. But we are looking forward to move to any other software. We tried:\n  \nNextcloud - great app, but with very slow any buggy mail app (without pre-fetch/search).\n Groupoffice - nice, but no pre-fetch too.\n Railloop / Roundcube / Sogo / etc - not an option, because we need to create a users first, and then connect external imap accounts.\n Cypth - is good php project but also without pre-fetch / search index. \n Zimbra / all other full stack mail solution - not an option, because we are using existing external mail server and don't want to move mx'es to our new self hosted.\n  \nSo, we are looking for any webmail groupware which is able to:\n  \nCreate users to login into we system (not into the mailbox) using any 2FA.\n Connect external imap mailboxes to users accounts.\n Pre-fetch all new mail via imap from external server with indexing / search.\n It's ok to have a paid solution, but it must be self hosted and (easily) customisable.\n  \nMany thanks for any suggestions!\n    submitted by    /u/omgte  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nm5ehe/groupware_webmail_solution_with_multibox_imap_and/",
-          "publishedOn": "2021-05-27T11:33:30.000Z",
-          "wordCount": 355,
-          "title": "Groupware webmail solution with multibox imap and unified inbox"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nm4myc/selfhosting_notebookai/",
-          "author": null,
-          "description": "Has anyone tried running a selfhosted instance of notebook.ai? From their readme it seems like you're meant to run it on your machine just for development. They do have a Dockerfile, but it seems to also be just for local dev.\n Does anyone run it? How is the performance? Did you have to use AWS s3 or does it store files locally?\n    submitted by    /u/killermenpl  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nm4myc/selfhosting_notebookai/",
-          "publishedOn": "2021-05-27T10:43:35.000Z",
-          "wordCount": 174,
-          "title": "Selfhosting notebook.ai?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nm3alp/looking_for_a_self_hosted_chat_program_with_good/",
-          "author": null,
-          "description": "My friends are finally considering moving away from Discord after recent drama, and I've been searching for a suitable program for a few months. I have looked at and rejected Mattermost (doesn't have the permissions I need) and Rocket.Chat (has half the permissions but runs too slow). \n What I really need is a chat server that can be used to restrict file uploads to specific rooms or user roles, and, at the very least, has the capability to create an 'arrivals' system, where users show up to a single room before being invited to the chat at large. My friends have servers which have had persistent trolls, and I really don't want to have to clear out Cartel videos from unrelated chats every day. \n I'm currently looking at Matrix and Zulip, but it's unclear if either are capable of this, and it might not be possible.\n    submitted by    /u/BaseTurd818  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nm3alp/looking_for_a_self_hosted_chat_program_with_good/",
-          "publishedOn": "2021-05-27T09:03:57.000Z",
-          "wordCount": 317,
-          "title": "Looking for a self hosted chat program with good user permissions."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nm1nab/tailscale_a_dropdead_easy_alternative_to_vpn_and/",
-          "author": null,
-          "description": "If you haven't used it, Tailscale solves so many problems with connectivity / port forwarding / security. Run it on all your machines and log in, and they're all connected and their hostnames resolve (i.e. http://mycomputer:8080). It solves One Problem, with absolutely zero config headache. I see a lot of people recommending setting up VPN or Wireguard and, if you don't mind that Tailscale isn't fully selfhosted, it solves that problem in a much easier way\n It is also great for security because it means that lots of services that you'd want to make a public endpoint for (i.e. Bitwarden) can now be accessed via Tailscale instead, which means that your public surface area for e.g. a VPS can be extremely small or even zero (i.e. no inbound ports)\n I have no association with the project btw, I'm solely an extremely happy free-tier user\n    submitted by    /u/kitanokikori  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nm1nab/tailscale_a_dropdead_easy_alternative_to_vpn_and/",
-          "publishedOn": "2021-05-27T07:00:17.000Z",
-          "wordCount": 725,
-          "title": "Tailscale, a drop-dead easy alternative to VPN and Wireguard"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nlzpgt/forward_multiple_ports_over_ssh_in_one_command/",
-          "author": null,
-          "description": "This is something I wasn't aware of, SSH can set up multiple forwards in a single invocation: https://til.hashrocket.com/posts/xjdjzsrgui-forward-multiple-ports-over-ssh\n    submitted by    /u/codingbrokeme  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nlzpgt/forward_multiple_ports_over_ssh_in_one_command/",
-          "publishedOn": "2021-05-27T04:41:58.000Z",
-          "wordCount": 181,
-          "title": "Forward multiple ports over SSH [in one command]"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nlvuyg/vaultwarden_is_accessible_to_the_whole_world/",
-          "author": null,
-          "description": "submitted by    /u/nicnic2001  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nlvuyg/vaultwarden_is_accessible_to_the_whole_world/",
-          "publishedOn": "2021-05-27T00:45:56.000Z",
-          "wordCount": 803,
-          "title": "Vaultwarden is accessible to the whole world - hosted on this little thing. Doesn’t that amaze you?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nlu20d/fastest_file_transfer_program_parallel_connections/",
-          "author": null,
-          "description": "I want to transfer several tar files (each ~ 2 GB) from:\n  \nUbuntu server => Windows 10 PC\n \nUbuntu server => Ubuntu server\n \n The server does have a 450 Mbits uplink connection and I'm looking for a program that actually uses the full bandwidth of the uplink, with parallel connections automatically. So, if you initiate a transfer, it should really saturate the uplink with as many parallel connections until the 450 Mbits bandwidth is used to the fullest.\n    submitted by    /u/LeastTakenUsername  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nlu20d/fastest_file_transfer_program_parallel_connections/",
-          "publishedOn": "2021-05-26T23:09:28.000Z",
-          "wordCount": 289,
-          "title": "Fastest file transfer program (parallel connections)?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nlo4e7/selfhosting_an_xmpp_server_as_an_alternative_to/",
-          "author": null,
-          "description": "So I decided to setup an XMPP server and was surprised how simple it was. I've tried hosting email, cloud storage etc... before but the XMPP service I used called Prosody was super straight forward. I wrote up the basic steps if anyone was considering getting off private messaging apps.\n Guide: https://articles.eoincoogan.com/xmpp.html\n    submitted by    /u/esper12345  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nlo4e7/selfhosting_an_xmpp_server_as_an_alternative_to/",
-          "publishedOn": "2021-05-26T18:37:16.000Z",
-          "wordCount": 793,
-          "title": "Self-hosting an XMPP server as an alternative to WhatsApp or Signal"
         }
       ]
     },
@@ -5536,6 +5626,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=342718",
+          "author": "Chris Coyier",
+          "description": "I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.\nThe post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/custom-property-brain-twisters/",
+          "publishedOn": "2021-06-25T18:39:46.000Z",
+          "wordCount": 652,
+          "title": "Custom Property Brain Twisters"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342911",
+          "author": "Georgi Nikoloff",
+          "description": "I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.\nOne problem quickly became evident: …\nThe post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/",
+          "publishedOn": "2021-06-25T14:33:33.000Z",
+          "wordCount": 993,
+          "title": "How to Cancel Pending API Requests to Show Correct Data"
+        },
         {
           "id": "https://css-tricks.com/?p=342818",
           "author": "Jay Hoffmann",
@@ -5985,33 +6093,6 @@
           "publishedOn": "2021-05-27T14:23:23.000Z",
           "wordCount": 2327,
           "title": "Rethinking Postgres in a Post-Server World"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339759",
-          "author": "Chris Coyier",
-          "description": "In his last An Event Apart talk, Dave made a point that it’s really only just about right now that Web Components are becoming a practical choice for production web development. For example, it has only been about a year …\nThe post Awesome Standalone (Web Components) appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/awesome-standalone-web-components/",
-          "publishedOn": "2021-05-26T17:56:34.000Z",
-          "wordCount": 1168,
-          "title": "Awesome Standalone (Web Components)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340901",
-          "author": "Chris Coyier",
-          "description": "How we use Web Components at GitHub — Kristján Oddsson talks about how GitHub is using web components. I remember they were very early adopters, and it says here they released a <relative-time> component in 2014! Now they’ve got a \n…\nThe post Links on Web Components appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-web-components/",
-          "publishedOn": "2021-05-26T17:56:12.000Z",
-          "wordCount": 747,
-          "title": "Links on Web Components"
-        },
-        {
-          "id": "https://css-tricks.com/?p=340705",
-          "author": "Andrei Pfeiffer",
-          "description": "Wondering what’s even more challenging than choosing a JavaScript framework? You guessed it: choosing a CSS-in-JS solution. Why? Because there are more than 50 libraries out there, each of them offering a unique set of features.\nWe tested 10 different …\nThe post A Thorough Analysis of CSS-in-JS appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-thorough-analysis-of-css-in-js/",
-          "publishedOn": "2021-05-26T14:08:49.000Z",
-          "wordCount": 3672,
-          "title": "A Thorough Analysis of CSS-in-JS"
         }
       ]
     },
@@ -6020,6 +6101,34 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
+          "author": "hello@smashingmagazine.com (Dom Habersack)",
+          "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
+          "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
+          "publishedOn": "2021-06-25T11:30:00.000Z",
+          "wordCount": 5443,
+          "title": "Creating A Multi-Author Blog With Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
+          "author": "hello@smashingmagazine.com (Mark Lankmilier)",
+          "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
+          "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
+          "publishedOn": "2021-06-25T10:00:00.000Z",
+          "wordCount": 3522,
+          "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
           "author": "hello@smashingmagazine.com (Josh Singer)",
@@ -6396,34 +6505,6 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2c5dbb73-94e1-486f-9daa-351699faaa2d/peacock-extension.png",
             "length": "0",
             "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/",
-          "author": "hello@smashingmagazine.com (Miroslav Bekyarov)",
-          "description": "While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.",
-          "link": "https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/",
-          "publishedOn": "2021-05-27T09:30:00.000Z",
-          "wordCount": 2676,
-          "title": "How To Build And Launch Responsive Websites Faster With Editor X",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e3eaf20c-08e9-4f1c-829b-f0bbd7309e0d/21-build-launch-responsive-websites-editorx.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
-          "author": "hello@smashingmagazine.com (Carie Fisher)",
-          "description": "Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.",
-          "link": "https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/",
-          "publishedOn": "2021-05-26T13:20:00.000Z",
-          "wordCount": 1547,
-          "title": "Accessible SVGs: Perfect Patterns For Screen Reader Users",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/35bf2e3a-ae5b-49a3-843a-318b4c81f5af/accessible-svg-patterns.jpg",
-            "length": "0",
-            "type": "image/jpg"
           }
         }
       ]
@@ -7197,51 +7278,6 @@
           "publishedOn": "2021-05-27T15:16:34.000Z",
           "wordCount": 1399,
           "title": "How to Make a Bouncing Basketball in Unity with Materials and Textures 🏀"
-        },
-        {
-          "id": "60a44b9f906c5207e3a7e098",
-          "author": null,
-          "description": "In this tutorial you will create an app that generates dynamic animated text using Giphy's API with ReactJS. After that I'll go over some of the other API features Giphy provides that you can use to make other interesting projects. You can find the code for the tutorial here. Video",
-          "link": "https://www.freecodecamp.org/news/giphy-api-tutorial/",
-          "publishedOn": "2021-05-26T21:44:01.000Z",
-          "wordCount": 2014,
-          "title": "Giphy API Tutorial – How to Generate Animated Text GIFs with ReactJS"
-        },
-        {
-          "id": "60abe7fb11ffb70827ef63a6",
-          "author": null,
-          "description": "If you're a developer, you've probably come across the term \"open source.\" If you've ever wondered what it's all about and how to contribute, you are in exactly the right place.  I put aside all my fears about how and what to contribute during Hacktoberfest 2020, and made",
-          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/",
-          "publishedOn": "2021-05-26T18:01:00.000Z",
-          "wordCount": 2359,
-          "title": "How to Contribute to Open Source  Projects – A Beginner&#x27;s Guide"
-        },
-        {
-          "id": "606f4f5fd5756f080ba96b65",
-          "author": null,
-          "description": "In this article, I'll give you a brief overview of the configuration syntax of Terraform.  Terraform's docs provide the most comprehensive look at its syntax. But this article should serve as a condensed quick start introduction that'll give new users a simplified overview. We'll focus on the basic structures without",
-          "link": "https://www.freecodecamp.org/news/terraform-syntax-for-beginners/",
-          "publishedOn": "2021-05-26T18:00:52.000Z",
-          "wordCount": 3782,
-          "title": "Learn Basic Terraform Syntax in 20 minutes"
-        },
-        {
-          "id": "60abc59d11ffb70827ef6304",
-          "author": null,
-          "description": "In this article, I'll walk you through how to set up your own GraphQL API using PHP and Laravel. Two years ago, I started working professionally as a backend developer. And I was very intimidated by all the technology I didn't yet know. Words like Docker, Kubernetes, and GraphQL seemed",
-          "link": "https://www.freecodecamp.org/news/build-a-graphql-api-using-laravel/",
-          "publishedOn": "2021-05-26T16:34:32.000Z",
-          "wordCount": 3054,
-          "title": "How to Build a GraphQL API Using Laravel"
-        },
-        {
-          "id": "60aced0011ffb70827ef6d96",
-          "author": null,
-          "description": "In this video course I show you how to build three popular games using the latest game development library for JavaScript called Kaboom.js. This course is exciting for two reasons: First of all, I am going to be introducing a new technology designed especially for game development in JavaScript.",
-          "link": "https://www.freecodecamp.org/news/how-to-build-mario-zelda-and-space-invaders-with-kaboom-js/",
-          "publishedOn": "2021-05-26T14:12:27.000Z",
-          "wordCount": 1273,
-          "title": "How to Build Super Mario Bros, Zelda, and Space Invaders with Kaboom.js"
         }
       ]
     },
@@ -7250,6 +7286,96 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1776542",
+          "author": "Beth Mole",
+          "description": "Common symptoms among young adults included fatigue and cognitive problems.",
+          "link": "https://arstechnica.com/?p=1776542",
+          "publishedOn": "2021-06-25T22:02:51.000Z",
+          "wordCount": 859,
+          "title": "Even mild COVID in young people often leads to long-term symptoms, study finds"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776441",
+          "author": "Jennifer Ouellette",
+          "description": "\"Throughout my life, the Ten Rings gave my family power.\"",
+          "link": "https://arstechnica.com/?p=1776441",
+          "publishedOn": "2021-06-25T21:18:22.000Z",
+          "wordCount": 1249,
+          "title": "We have our best look yet at supervillain Mandarin in new Shang-Chi trailer"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776088",
+          "author": "Ron Amadeo",
+          "description": "Microsoft is building an Android framework on top of the Windows Subsystem for Linux.",
+          "link": "https://arstechnica.com/?p=1776088",
+          "publishedOn": "2021-06-25T21:07:26.000Z",
+          "wordCount": 1624,
+          "title": "Here’s how Android apps on Windows 11 are going to work"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776429",
+          "author": "Jon Brodkin",
+          "description": "No word yet, but GOP likely wouldn't agree to deal if it favored public networks.",
+          "link": "https://arstechnica.com/?p=1776429",
+          "publishedOn": "2021-06-25T20:48:39.000Z",
+          "wordCount": 1461,
+          "title": "Biden silent on municipal broadband as he makes $65B deal with Republicans"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776394",
+          "author": "Jim Salter",
+          "description": "The TPM requirement has many Windows 10 users worried—often unnecessarily.",
+          "link": "https://arstechnica.com/?p=1776394",
+          "publishedOn": "2021-06-25T20:05:16.000Z",
+          "wordCount": 1637,
+          "title": "Here’s what you’ll need to upgrade to Windows 11"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776333",
+          "author": "WIRED",
+          "description": "Flaws in card-reader technology can wreak havoc with point-of-sale systems and more.",
+          "link": "https://arstechnica.com/?p=1776333",
+          "publishedOn": "2021-06-25T19:52:13.000Z",
+          "wordCount": 1588,
+          "title": "NFC flaws let researchers hack an ATM by waving a phone"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776215",
+          "author": "Jennifer Ouellette",
+          "description": "Young adult male lost an arm and a leg before dying of shock and blood loss.",
+          "link": "https://arstechnica.com/?p=1776215",
+          "publishedOn": "2021-06-25T19:15:22.000Z",
+          "wordCount": 1425,
+          "title": "Cold-case files: Archaeologists discover 3,000-year-old victim of shark attack"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776256",
+          "author": "Financial Times",
+          "description": "UK regulators say tech groups may not be doing enough to protect consumers.",
+          "link": "https://arstechnica.com/?p=1776256",
+          "publishedOn": "2021-06-25T13:10:24.000Z",
+          "wordCount": 864,
+          "title": "Competition watchdog to probe Google and Amazon over fake reviews"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776079",
+          "author": "Eric Berger",
+          "description": "\"We saw something we didn’t understand and didn’t expect to happen.\"",
+          "link": "https://arstechnica.com/?p=1776079",
+          "publishedOn": "2021-06-25T11:00:53.000Z",
+          "wordCount": 1614,
+          "title": "Rocket Report: China to copy SpaceX’s Super Heavy? Vulcan slips to 2022"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775882",
+          "author": "Ron Amadeo",
+          "description": "Google entices multimillion-dollar media apps with a 15 percent Play Store fee.",
+          "link": "https://arstechnica.com/?p=1775882",
+          "publishedOn": "2021-06-25T10:45:51.000Z",
+          "wordCount": 886,
+          "title": "Google to Android devs: Support more form factors, get a higher sales cut"
+        },
         {
           "id": "https://arstechnica.com/?p=1776140",
           "author": "Beth Mole",
@@ -10003,87 +10129,6 @@
           "publishedOn": "2021-05-27T15:47:03.000Z",
           "wordCount": 1310,
           "title": "Wolves create a “landscape of fear,” slowing deer-car collisions"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1768044",
-          "author": "Jonathan M. Gitlin",
-          "description": "The stylish and spacious electric sedan goes into production later this year.",
-          "link": "https://arstechnica.com/?p=1768044",
-          "publishedOn": "2021-05-27T12:10:07.000Z",
-          "wordCount": 1461,
-          "title": "We got our first ride in the electric Lucid Air sedan"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1768029",
-          "author": "Kyle Orland",
-          "description": "Listed under \"more PC releases planned\" amid strong returns for Horizon's port.",
-          "link": "https://arstechnica.com/?p=1768029",
-          "publishedOn": "2021-05-27T03:20:23.000Z",
-          "wordCount": 1185,
-          "title": "Sony lists PC version of Uncharted 4 in investor report"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1762625",
-          "author": "Jennifer Ouellette",
-          "description": "Study uncovered a surprising link between how human and mouse minds malfunction.",
-          "link": "https://arstechnica.com/?p=1762625",
-          "publishedOn": "2021-05-26T23:02:37.000Z",
-          "wordCount": 1430,
-          "title": "Scientists induced hallucinations in mice to learn more about human psychosis"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1767945",
-          "author": "Jim Salter",
-          "description": "The changes in 21H1 are mostly minor—much bigger things are coming in October.",
-          "link": "https://arstechnica.com/?p=1767945",
-          "publishedOn": "2021-05-26T21:56:21.000Z",
-          "wordCount": 1002,
-          "title": "Windows 10 21H1 available now, improves document load times"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1767928",
-          "author": "Kyle Orland",
-          "description": "One-time connection required for configuration on Xbox One and Smart Delivery discs.",
-          "link": "https://arstechnica.com/?p=1767928",
-          "publishedOn": "2021-05-26T21:23:02.000Z",
-          "wordCount": 1797,
-          "title": "These offline, disc-based games require an online check-in on Xbox Series X"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1767876",
-          "author": "Dan Goodin",
-          "description": "WebKit bug that was fixed upstream has yet to find its way into Apple products.",
-          "link": "https://arstechnica.com/?p=1767876",
-          "publishedOn": "2021-05-26T20:04:35.000Z",
-          "wordCount": 959,
-          "title": "No, it doesn’t just crash Safari. Apple has yet to fix exploitable flaw"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1767742",
-          "author": "Ron Amadeo",
-          "description": "Arm is also floating a laptop chip design with eight Cortex X2 cores.",
-          "link": "https://arstechnica.com/?p=1767742",
-          "publishedOn": "2021-05-26T19:36:50.000Z",
-          "wordCount": 1091,
-          "title": "Arm’s Cortex X2-based CPUs are 30 percent faster and more efficient"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1767847",
-          "author": "Beth Mole",
-          "description": "French officials likened the lies to campaigns run by Russia's Internet Research Agency.",
-          "link": "https://arstechnica.com/?p=1767847",
-          "publishedOn": "2021-05-26T19:20:40.000Z",
-          "wordCount": 1060,
-          "title": "Russia tried to spread dangerous lies about Pfizer vaccine, France suspects"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1767833",
-          "author": "Samuel Axon",
-          "description": "The Apple TV 4K itself is surprisingly easy to service. Its remote? Not so much.",
-          "link": "https://arstechnica.com/?p=1767833",
-          "publishedOn": "2021-05-26T19:03:43.000Z",
-          "wordCount": 824,
-          "title": "Apple TV 4K gets 8 out of 10 repairability score in iFixit’s latest teardown"
         }
       ]
     }
