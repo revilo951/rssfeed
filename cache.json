@@ -6,6 +6,204 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9xa76/are_there_any_selfhostable_projects_for_fetching/",
+          "author": null,
+          "description": "In the process of planning a linux server build and wanted to see if this was possible. Searched a variety of homelab reddits and couldn't find anything of note. I understand licensing things probably prohibit something like this from being available.\n    submitted by    /u/StaticUnion  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9xa76/are_there_any_selfhostable_projects_for_fetching/",
+          "publishedOn": "2021-06-29T00:39:00.000Z",
+          "wordCount": 160,
+          "title": "Are there any self-hostable projects for fetching sports scores/standings?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9v5mc/resilio_sync/",
+          "author": null,
+          "description": "Gurus\n Is anyone, or has anyone, used Resilio Sync and experienced any issues with loosing files or the sync process failing for whatever reason ?\n Im about to install if for my syncing needs and a colleague in the office is claiming it will distroy my files.\n In any other circumstance, if it was anyone else making that statement, I would probably drop the project but this guy has been wrong on so many other occasions i just need to be sure \n View Poll\n    submitted by    /u/ithakaa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9v5mc/resilio_sync/",
+          "publishedOn": "2021-06-28T22:37:44.000Z",
+          "wordCount": 198,
+          "title": "Resilio Sync ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9ulop/rescued_from_e_waste_at_work_what_shall_i_do_with/",
+          "author": null,
+          "description": "submitted by    /u/cs75  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9ulop/rescued_from_e_waste_at_work_what_shall_i_do_with/",
+          "publishedOn": "2021-06-28T22:07:43.000Z",
+          "wordCount": 155,
+          "title": "Rescued from e waste at work. What shall I do with them?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9ueq2/most_customizable_music_server/",
+          "author": null,
+          "description": "I'm an ID3tag nut. I'm used to scripting something like foobar2000 to display my library exactly how I want it and use a lot of non standard tags.\n Is there anything out there that is already well built but lets you get under the hood like this? \n I was a longtime Madsonic user (that subsonic fork that still charges people for an app that hasn't updated since 2019) and as far as I know it's not possible there.\n    submitted by    /u/KR4BBYP4TTY  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9ueq2/most_customizable_music_server/",
+          "publishedOn": "2021-06-28T21:57:54.000Z",
+          "wordCount": 184,
+          "title": "Most customizable music server?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9u630/ipfs_link_to_help_host_decentralized_monero_nodes/",
+          "author": null,
+          "description": "ipns://bafzaajaiaejcaebiqdpn5f22gc7hrifqkeaknr3vm6gcsba2nxkgnw57hcvlleel\n    submitted by    /u/nerd7473  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9u630/ipfs_link_to_help_host_decentralized_monero_nodes/",
+          "publishedOn": "2021-06-28T21:44:47.000Z",
+          "wordCount": 117,
+          "title": "IPFS link to help host decentralized Monero nodes."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9u2i0/smtp_service/",
+          "author": null,
+          "description": "I recently set up a NAS running OpenMediaVault. It has an option to send email notifications for various things if you provide it with an SMTP server. Is there a good preferably free place I can find an smtp server for very low volume usage? I very much do not want to self-host an email server for such a minor use.\n    submitted by    /u/JohannesVanDerWhales  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9u2i0/smtp_service/",
+          "publishedOn": "2021-06-28T21:39:09.000Z",
+          "wordCount": 207,
+          "title": "SMTP service?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9s5xy/dietpi_vs_yunohost_for_a_sbc_rpi3b/",
+          "author": null,
+          "description": "I have been running Nextcloud off of Diepti on my RPi3B+ for the past 3 years, and the experience has always been excellent so far: packages are well optimised, updates have rarely caused any issue, and the system image is very minimal and decently performant on my low specc'ed SBC. \n I have recently happened to look again at Yunohost, and the project seems to have really matured in the past 4 years. I am tempted to switch to their solution, especially to benefit from the plentiful stack of packages available and optimised. \n My question for you fellow self-hosters is this: has anyone had any experience with Yunohost, and specifically their Nextcloud package, on a RPi? Does it work well enough? Have you had the chance to compare it with Dietpi's version?\n    submitted by    /u/eed00  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9s5xy/dietpi_vs_yunohost_for_a_sbc_rpi3b/",
+          "publishedOn": "2021-06-28T20:02:05.000Z",
+          "wordCount": 340,
+          "title": "Dietpi vs Yunohost for a SBC [RPi3B+]?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9rcnm/base_os_setup_checklist/",
+          "author": null,
+          "description": "I'm currently running openmediavault on my home server to host a few docker containers and share files. I'm considering moving to another distro to learn to setup this stuff myself, and to not be tied into one particular distro. \n One thing I did like about OMV (and other pre-made self-hosting distros) is that all the important pieces are already put into place for you. Are there any self-hosting server checklists so I don't forget to do something important?\n    submitted by    /u/lifestronaut  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9rcnm/base_os_setup_checklist/",
+          "publishedOn": "2021-06-28T19:21:24.000Z",
+          "wordCount": 271,
+          "title": "Base OS setup checklist?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9qt1k/released_v210_of_cryptofolio_an_opensource/",
+          "author": null,
+          "description": "For more photos and info: https://xtrendence.github.io/Cryptofolio/\n Dockerhub: https://hub.docker.com/r/xtrendence/cryptofolio\n So since the previous release (about a month ago), the download count has reached 16,000+, and a wide variety of features have been added. This release adds and fixes the following:\n New Features:\n  \nHoldings can now be based on transactions. There are 3 settings for this: \n Disabled, which causes transactions not to affect holdings in any way. This is perfect if you're too lazy to record your transactions and just want to keep track of your holdings.\n Mixed, where you can edit your holdings, but transactions also affect them and are added/subtracted based on the transaction type (buy/sell).\n Override, which causes your holdings to be entirely based on transactio…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9qt1k/released_v210_of_cryptofolio_an_opensource/",
+          "publishedOn": "2021-06-28T18:54:45.000Z",
+          "wordCount": 1630,
+          "title": "Released V.2.1.0 of Cryptofolio, an open-source, self-hosted, cross-platform portfolio solution for tracking crypto holdings in a privacy-focused way."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9q77f/connect_portainer_to_docker_on_synology_using_the/",
+          "author": null,
+          "description": "submitted by    /u/nashosted  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9q77f/connect_portainer_to_docker_on_synology_using_the/",
+          "publishedOn": "2021-06-28T18:24:21.000Z",
+          "wordCount": 173,
+          "title": "Connect Portainer to Docker on Synology using the Portainer Edge Agent Fast and Easy"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9q3dw/make_use_of_old_phones/",
+          "author": null,
+          "description": "I have some old phones (smartphones: iPhone 4s, Galaxy S3, ...) and want to use them for something at home, any ideas?\n ... beside using them as security cameras, giving them away to someone else or selling them;)\n    submitted by    /u/gren_dizer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9q3dw/make_use_of_old_phones/",
+          "publishedOn": "2021-06-28T18:19:10.000Z",
+          "wordCount": 629,
+          "title": "Make use of old phones"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9os5u/working_on_my_server_from_off_the_network/",
+          "author": null,
+          "description": "Hello everyone! I am new to the world of self-hosting and server mgmt but I want to learn, so here I am, and I have some questions.\n For some context, I've recently turned an old laptop of mine into a LAMP server and I've gotten it set up with my custom domain and everything. However, I've noticed that I cannot access my custom website or anything from my server unless I'm on the same network that my server is on. \n I've set up an OpenVPN server on it, and it works when I'm on the network, but my connection times out when I try to connect from another network.\n Basically, I'd like to be able to work on/have full admin access to my server when I'm at work or something but I don't really know what I'm doing.\n Thank you in advance for yourself!\n    submitted by    /u/ShepDogCS  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9os5u/working_on_my_server_from_off_the_network/",
+          "publishedOn": "2021-06-28T17:14:01.000Z",
+          "wordCount": 510,
+          "title": "Working on my server from off the network?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9opxj/it_looks_like_it_is_about_to_give_up_the_ghost/",
+          "author": null,
+          "description": "I have been running at home the Debian based NextcloudPI curl instance on an old Dell laptop for several years. It is a Core 2 Duo T9900 that was repurposed with Debian. Performance with that has been adequate until recently. Since upgrading the unit to Debian 10 and the NextcloudPI curl version it has started to get flakey as heck. The 1 TB drive is more then enough for my needs but I think I need to put this on a new platform. I would like to stay away from Raspberry Pi itself as the hardware as I would like to use a plain SATA (or small ssd) drive.\n Any suggestions\n    submitted by    /u/Pa28-181  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9opxj/it_looks_like_it_is_about_to_give_up_the_ghost/",
+          "publishedOn": "2021-06-28T17:10:55.000Z",
+          "wordCount": 426,
+          "title": "It looks like it is about to give up the ghost."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9obgn/looking_to_move_to_something_more_lightweight/",
+          "author": null,
+          "description": "Hey everyone, \n I'm looking to move to a more lightweight hypervisor/docket host. At the moment I am currently using Windows Server 2019 with HyperV. I've been looking into Proxmox and UnRaid, but I am open to everyone's opinions. Right now I have VMs for some game servers, a web server, SQL server, Home Assistant, and a couple of others. What do you guys recommend.\n    submitted by    /u/cgsnascar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9obgn/looking_to_move_to_something_more_lightweight/",
+          "publishedOn": "2021-06-28T16:51:52.000Z",
+          "wordCount": 365,
+          "title": "Looking to move to something more lightweight"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9nx98/selfhosting_nextcloud_on_unraid_behind_cgnat/",
+          "author": null,
+          "description": "Hey guys/girls\n Ive seen a heap of stuff online that this is possible but every avenue that i go down seems to be a failure.\n I have CGNAT at home so unfortunately i cannot port forward. I also have cloudflared (tunnelling service from cloudflare) which i use to route my domain name to my *arr's and NPM to. However uploading/downloading non html content through the tunnel is a violation of the ToS of cloudflare so I cannot use that service for UL/DL from/to Nextcloud.\n Enter Zerotier. As it looks from other forums/blogs and websites this looks to be the solution to my CGNAT problem, HOWEVER, I cannot for the life of me figure out the correct steps to set this up. Ive been following these steps:\n 1) create my zerotier network and attach my clients to it to assign their own ZT IP addresses a…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9nx98/selfhosting_nextcloud_on_unraid_behind_cgnat/",
+          "publishedOn": "2021-06-28T16:32:32.000Z",
+          "wordCount": 744,
+          "title": "Selfhosting Nextcloud on Unraid behind CGNAT using Zerotier"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9loxw/anyone_managed_running_a_google_docs_replacement/",
+          "author": null,
+          "description": "I have to admin I'm still learning a lot, but I have tried a lot of them without any success. I can't seem to manage to run collabora or onlyoffice, even within Nextcloud. Same with Cryptpad.\n Does anyone know a good and easy to install alternative to run with docker on an arm64 ?\n    submitted by    /u/Tiritibambix  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9loxw/anyone_managed_running_a_google_docs_replacement/",
+          "publishedOn": "2021-06-28T14:44:59.000Z",
+          "wordCount": 365,
+          "title": "Anyone managed running a google docs replacement on Rpi+RaspberryOS 64bits ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9iksl/tastyigniter_v304_released/",
+          "author": null,
+          "description": "After many many months of development, TastyIgniter is available as a stable online food ordering and management software for restaurants!\n ​\n https://forum.tastyigniter.com/d/2520-tastyigniter-v304-suya-released\n    submitted by    /u/sampoyigi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9iksl/tastyigniter_v304_released/",
+          "publishedOn": "2021-06-28T11:44:46.000Z",
+          "wordCount": 169,
+          "title": "TastyIgniter v3.0.4 released"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9hl91/can_someone_recommend_me_a_self_hosted_photo/",
+          "author": null,
+          "description": "if possible, one that:\n  \nruns on linux\n is not too resoures intensive\n does not require port forwarding\n does not rely on any server except my own pc\n encrypted\n has an android app\n  \n   submitted by    /u/Hananelroe  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9hl91/can_someone_recommend_me_a_self_hosted_photo/",
+          "publishedOn": "2021-06-28T10:33:17.000Z",
+          "wordCount": 367,
+          "title": "can someone recommend me a self hosted photo backup app?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9gdk1/homer_dashboard_login_option/",
+          "author": null,
+          "description": "I'm currently using Homer as the dashboard on my homepage, but I would like to require a password to access it. Is this a possible option? Any responses would be appreciated.\n    submitted by    /u/Fit_Back_1948  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9gdk1/homer_dashboard_login_option/",
+          "publishedOn": "2021-06-28T08:58:25.000Z",
+          "wordCount": 251,
+          "title": "Homer Dashboard - Login option?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9fd7f/released_selfhosted_server_independent_imap_smtp/",
+          "author": null,
+          "description": "praul/autoreply\n https://preview.redd.it/r2yftz94my771.png?width=766&format=png&auto=webp&s=2542b2cab8aa8527d9754e03a87affe0a4520824\n Follow up to: https://www.reddit.com/r/selfhosted/comments/o7ham9/selfhosted_imapsmtp_autoresponder/\n Background: I have several mail accounts, that don't support proper out-of-office / vacation notices. I was pretty sure, I would find an easy imap&smtp-based solution that could run on my own server. I did find.... nothing.\n Well not quite, I did find a gist on github, that essentally gave me a solid foundation to push this further myself.\n Long story short, here is: praul/autoreply (https://github.com/praul/autoreply)\n You can run this in a docker-container or baremetal on python. It supports multiple mail accounts, date-time ranges and re-reply timeouts.\n …",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9fd7f/released_selfhosted_server_independent_imap_smtp/",
+          "publishedOn": "2021-06-28T07:34:10.000Z",
+          "wordCount": 624,
+          "title": "Released: Selfhosted server independent imap smtp out-of-office autoreply"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9dmae/firefly_iii_personal_finance_manager_install/",
+          "author": null,
+          "description": "submitted by    /u/CrestedCracker  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9dmae/firefly_iii_personal_finance_manager_install/",
+          "publishedOn": "2021-06-28T05:17:54.000Z",
+          "wordCount": 257,
+          "title": "FireFly III Personal Finance Manager Install Guide, for those that asked :)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/o9bfki/video_series_im_doing_on_selfhosting/",
+          "author": null,
+          "description": "It's something I'm trying out to get people not technically inclined to get more into self-hosting. I'm open to criticism... honestly looking for feedback and to improve here.\n Starting with OMV: https://www.youtube.com/watch?v=txYRFjuxxbs\n Setting up DokuWiki: https://www.youtube.com/watch?v=CzdJvD0Vg2Q\n If this isn't welcome, I'm sorry, just delete it.\n    submitted by    /u/thebottle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/o9bfki/video_series_im_doing_on_selfhosting/",
+          "publishedOn": "2021-06-28T02:51:41.000Z",
+          "wordCount": 514,
+          "title": "Video series I'm doing on selfhosting"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/o9930e/linuxserverio/",
           "author": null,
           "description": "I've pulled a couple of the docker images hosted on Linuxserver.io and they seem pretty decent. I was going to install a few more, but I thought I would ask here first if anyone has had any discussion experience, positive or negative, with Linuxserver.io. \n https://www.linuxserver.io/\n It's straight docker builds. I usually like to pull from repositories but these docker images sure do make it easy.\n    submitted by    /u/CDarwin7  \n [link]   [comments]",
@@ -5422,132 +5620,6 @@
           "publishedOn": "2021-05-30T12:52:36.000Z",
           "wordCount": 500,
           "title": "2 home internet lines. How to route private vs public services?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/no979o/chevereto_v320_released_final_release/",
-          "author": null,
-          "description": "Dear reddit,\n I'm Rodolfo Berrios, creator of Chevereto which is a self-hosted image sharing solution.\n Chevereto V3.20 has been released, which is the final release in V3.X as Chevereto V4 will be released on September 2021! This release closes the cycle started in 2014 and brings massive user interface improvements, deprecates JS based effects, brings container support (real deal), improves performance, fixes tons of bugs and introduces a new testing standard. Check the Release announcement for a more granular description of the changes implemented in this one and the feedback that we got.\n 💖 Chevereto is very small 2-person team from Chile and for about a while we have been building our next-gen stuff which we will start to unwrap very soon.\n Feel free to ask me your questions, also suggest me stuff you will like to see in Chevereto 😉\n Bonus: Chevereto-Free users will be happy to know that there are Future plans for Chevereto-Free\n    submitted by    /u/chevereto  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/no979o/chevereto_v320_released_final_release/",
-          "publishedOn": "2021-05-30T11:26:55.000Z",
-          "wordCount": 391,
-          "title": "Chevereto V3.20 released (final release)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/no3k3t/novell_netware_type_screensaver_for_linux/",
-          "author": null,
-          "description": "I know I am dating myself here, but does anybody here remember the old Novell Netware screensavers? It has a red snake that runs around, and depending on CPU and IO load, the length of the snake changes. It's great being able to just briefly glance at a montior from far away, to see how much load my system is going through. Also, if you have more than one CPU core, you can have a different colored snake for the other core. \n My question is, does such a similar screensaver exist for Linux shells? I remember back in the late 90s, there was a Windows type screensaver for it, but it was really blurry and nowhere as authentic as the original.\n    submitted by    /u/monsterbrz  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/no3k3t/novell_netware_type_screensaver_for_linux/",
-          "publishedOn": "2021-05-30T04:38:18.000Z",
-          "wordCount": 295,
-          "title": "Novell Netware type screensaver for Linux?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nnzh9x/tiddlywiki_a_nonlinear_personal_web_notebook_that/",
-          "author": null,
-          "description": "submitted by    /u/beleeee_dat  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nnzh9x/tiddlywiki_a_nonlinear_personal_web_notebook_that/",
-          "publishedOn": "2021-05-30T00:09:27.000Z",
-          "wordCount": 181,
-          "title": "TiddlyWiki, a non-linear personal web notebook that anyone can use and keep forever, independently of any corporation."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nnyiwk/beat_lightweight_file_server_for_raspberry_pi_3b/",
-          "author": null,
-          "description": "So as the title suggests, I'm looking for a lightweight nextcloud alternative, I used nextcloud but it's not for me. It's just too slow and I just need to access my files and don't need any other knicks and knacks. \n I have a smb server established but it only works on my network and not outside it, if somehow it works outside that'd be great\n Any suggestions ?\n    submitted by    /u/intechm0  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nnyiwk/beat_lightweight_file_server_for_raspberry_pi_3b/",
-          "publishedOn": "2021-05-29T23:10:24.000Z",
-          "wordCount": 240,
-          "title": "Beat lightweight file server for Raspberry pi 3B+"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nny5pu/vm_services/",
-          "author": null,
-          "description": "So I just switched my NVR which now just leaves my VM with all my Docker stuff and unraid. I'm now debating on just doing bare metal Ubuntu on my r720 and then hosting everything on there. Wondering if any one has done a similar setup, not sure how i can do unraid beside Ubuntu or if it's possible. Also open to an advice on not doing this and keeping esxi.\n    submitted by    /u/killahb33  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nny5pu/vm_services/",
-          "publishedOn": "2021-05-29T22:49:49.000Z",
-          "wordCount": 234,
-          "title": "VM services"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nnx86w/what_can_i_do_better_with_my_docker_configuration/",
-          "author": null,
-          "description": "Hello: right now I've got two containers that are running. A seafile container, and a gitlab container. I use nginx on the host system to proxy these, one of these containers (seafile) I installed using docker-compose, the others I have not (gitlab had a longish string for installation you needed to use). I didn't publish the ports, but left them default. When I look at posts I see people using lots of other docker containers to monitor/manage/configure their docker containers, and I'm a bit confused. I will be adding more containers for sure, so I'm trying to figure out the best way to do this. These are services I'm using just for myself. What is the best unified way to manage these that isn't going to get me super far into the weeds learning a ton of new technologies?\n I also have various other questions: Is there a way to somehow have a reverse proxy that publishes itself that the docker containers register themselves with? Will this support letsencrypt/etc? Right now, I have a subdomain per docker container because that was the easiest way to configure nginx reverse proxying, but if there's a service that I can use to do this that would be helpful. I'm not opposed to swapping nameservers.\n I'm sorry this post is super scrambled and all over the place, I've spent a day trying to learn this and find myself more and more confused as I go along. Any tips/ideas would be welcome. Thanks,\n    submitted by    /u/sorressean  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nnx86w/what_can_i_do_better_with_my_docker_configuration/",
-          "publishedOn": "2021-05-29T21:57:34.000Z",
-          "wordCount": 539,
-          "title": "What can I do better with my docker configuration?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nnv4t0/stepbystep_tutorial_to_selfhost_matrixelement/",
-          "author": null,
-          "description": "I know someone already posted about this here but it seemed like the only response that was given was either \"please sign up for my hosting service\" or just how to install matrix. I was wondering if anyone had a tutorial to self host both matrix and element on the same machine not using docker?\n    submitted by    /u/TotallyShayshon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nnv4t0/stepbystep_tutorial_to_selfhost_matrixelement/",
-          "publishedOn": "2021-05-29T20:00:15.000Z",
-          "wordCount": 430,
-          "title": "Step-by-step tutorial to self-host Matrix/Element"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nnt7zk/how_would_i_go_about_exposing_selfhosted_services/",
-          "author": null,
-          "description": "First of all, sorry it this isn't the right sub for this kind of question, feel free to direct me to a better suited sub. \n So, I've tried a few tutorials in the past that go about it, but I've never managed to get it fully working, most that I got is making a apparently working wg tunel between my RPi & the VPS. Then I let it go... \n Now, about a year later however, I've decided to give it another shot, and I'm hoping I'll find someone willing to help me, if some unexpected trouble arise, that quick googling couldn't easily solve. \n So, my current \"setup\":\n I'm behind cg NAT, so no public IP, obviously.\n ​\n I wanted to start off clean, so:\n I have RPI4 available, I can install any supported os that you'd recommend, tho I'm pretty much counting on Raspbian lite (just that the last time I had to compile the wg for it from scratch, so, I hope i won't need to do that again...). \n I have my lite VPS running CentOS 7, also in a completely clean state, so far only purpose would be hosting the wg server. \n I'd normally just go with the \"first\" tutorial that google would find, but given that it pretty much didn't work out last time(s) I've been trying it, here I am, writing this post... \n So, if somebody has got a \"tried & true, verified working and not 3 years old\" tutorial working, for exactly this purpose, (exposing services from LAN) I'm down to just following it. \n But since I want to get it finally fully working this time, I figured I'll make a post, since honestly, I know a bit of Linux, and stuff, but god damn, sometimes I feel like I'm dense af... \n So... anybody with a bit of spare time to help this noobish fool, set this up?\n    submitted by    /u/Msprg  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nnt7zk/how_would_i_go_about_exposing_selfhosted_services/",
-          "publishedOn": "2021-05-29T18:20:05.000Z",
-          "wordCount": 548,
-          "title": "How would I go about exposing selfhosted services, using VPS, Raspi & WireGurad?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nnr5g2/help_wanted_for_getting_started/",
-          "author": null,
-          "description": "I really, really want to learn more about servers, server infrastructure, virtualization, security etc. I'm a noob for now—I can mainly follow the discussions here but the only self-hosting I've done is a local instance of Searx (a meta-search engine) through Docker. I'm also somewhat versed in Linux and somewhat comfortable around a command-line interface. I'm a student in an area unrelated to computer science, but in the future I would really like to be a cloud engineer (and maybe even more in the future a DevOps!). \n The reason I'm explaining my background is to show why I would want to self-host services in the first place. I believe it would be a great way of learning things in practice PLUS it would give me the means to completely de-google and have privacy-respecting tools at my dis…",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nnr5g2/help_wanted_for_getting_started/",
-          "publishedOn": "2021-05-29T16:36:07.000Z",
-          "wordCount": 864,
-          "title": "Help wanted for getting started"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nnqgzc/multiple_servers_yunohost_nextcloud_and_reverse/",
-          "author": null,
-          "description": "Hello !\n I'm pretty new to the self-hosted world and I'm learning pretty slowly but steadily.\n I'm trying several options and one I'd like is hosting yunohost on my RPi3B and a dedicated RPi4B for NextcloudPi only (I know I can host NC with YNH but I find it slower).\n My YNH instance is accessible from outside, everything works fine. I tried installing the redirect app to use it as a reverse proxy to access my NCPi from outside, but I guess I don't know how to configure it as it forwards to my local address (192.168.1.x) and I can only access it from home.\n I have a dedicated domain name for my NCPi instance.\n Can anyone guide me ? I don't know where to look...\n    submitted by    /u/Tiritibambix  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nnqgzc/multiple_servers_yunohost_nextcloud_and_reverse/",
-          "publishedOn": "2021-05-29T16:02:50.000Z",
-          "wordCount": 250,
-          "title": "Multiple servers : Yunohost, Nextcloud and reverse proxy"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nnqgqz/need_help_with_security/",
-          "author": null,
-          "description": "Using unraid now and want to allow access to a torrent clients gui over the internet and also allow file transfer over the net. As I understand I can port forward the web GUI. How can I secure against attacks?\n Also want to be able to transfer files from the unraid box over the net.\n I have read that a reverse proxy is the way to go. Is there an easy solution for non techies?\n Any help appreciated.\n    submitted by    /u/jayyywhattt  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nnqgqz/need_help_with_security/",
-          "publishedOn": "2021-05-29T16:02:30.000Z",
-          "wordCount": 356,
-          "title": "Need help with security."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nnqajw/would_like_to_know_suggestions_on_planning_a/",
-          "author": null,
-          "description": "I'm planning on making a self hosted Bitwarden setup on possibly a RPi Zero (which I would like to know if it's capable of running the server on its own without any other program running), but I want to minimize all the situations in which I might get locked out of it or my house / I get robbed and the passwords get leaked, for example, using a UPS to keep the RPi on when the power goes out for up to two weeks, making encrypted backups every 14 days or hiding the system inside a wall. I'm also looking for it to be accessible by the devices I set it to be and outside of my network.\n    submitted by    /u/optimixta5  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nnqajw/would_like_to_know_suggestions_on_planning_a/",
-          "publishedOn": "2021-05-29T15:53:58.000Z",
-          "wordCount": 702,
-          "title": "Would like to know suggestions on planning a Bitwarden setup"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nnoixu/what_should_i_host/",
-          "author": null,
-          "description": "Hello, recently I have acquired a couple of old servers. I'm plan on setting them up to be a docker swarm or kubernetes cluster since those are two things I'd like to learn. Beyond that however I have no clue on what to actually host. I already have a Cloudbox instance running on some other servers, so please don't suggest anything that that has bundled with it.\n    submitted by    /u/burner_lIo7qlaoCy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nnoixu/what_should_i_host/",
-          "publishedOn": "2021-05-29T14:24:41.000Z",
-          "wordCount": 872,
-          "title": "What should I host?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nnn6x2/selfhosted_dailyrotation/",
-          "author": null,
-          "description": "Does anyone know of something simliar to https://www.dailyrotation.com/\n    submitted by    /u/biftekau  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nnn6x2/selfhosted_dailyrotation/",
-          "publishedOn": "2021-05-29T13:10:53.000Z",
-          "wordCount": 119,
-          "title": "selfhosted dailyrotation"
         }
       ]
     },
@@ -5581,6 +5653,42 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=343040",
+          "author": "Chris Coyier",
+          "description": "I think we’re all largely aware of named colors in CSS:\ncolor: OldLace;\nbackground: rebeccapurple;\nI guess you’d just call those “named colors” in CSS. \nThose aren’t the only kind of named colors there are though. Some of them …\nThe post System *Things appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/system-things/",
+          "publishedOn": "2021-06-28T22:14:22.000Z",
+          "wordCount": 959,
+          "title": "System *Things"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343139",
+          "author": "Chris Coyier",
+          "description": "Sara digs into a bug I happened to have mentioned back in 2012 where fluid type didn’t resize when the browser window resized. Back then, it affected Chrome 20 and Safari 6, but the bug still persists today in Safari …\nThe post Working around the viewport-based fluid typography bug in Safari appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.sarasoueidan.com/blog/safari-fluid-typography-bug-fix/",
+          "publishedOn": "2021-06-28T21:17:26.000Z",
+          "wordCount": 937,
+          "title": "Working around the viewport-based fluid typography bug in Safari"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342971",
+          "author": "Ryan Mulligan",
+          "description": "Not news to any web developer in 2021: CSS Grid is an incredibly powerful tool for creating complex, distinct two-dimensional modern web layouts.\nRecently, I have been experimenting with CSS Grid and alignment properties to create component layouts that …\nThe post Positioning Overlay Content with CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/positioning-overlay-content-with-css-grid/",
+          "publishedOn": "2021-06-28T14:25:33.000Z",
+          "wordCount": 2338,
+          "title": "Positioning Overlay Content with CSS Grid"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343072",
+          "author": "Chris Coyier",
+          "description": "To make some terminology clear here:\nCMS = Content Management System\nCRM = Customer Relationship Management\nBoth are essentially database-backed systems for managing data. HubSpot is both, and much more. Where a CMS might be very focused on content and …\nThe post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/scaling-organizations-should-consider-building-a-website-backed-by-a-crm-platform/",
+          "publishedOn": "2021-06-28T13:29:00.000Z",
+          "wordCount": 738,
+          "title": "Scaling Organizations Should Consider Building a Website Backed by a CRM Platform"
+        },
         {
           "id": "https://css-tricks.com/?p=342718",
           "author": "Chris Coyier",
@@ -6021,6 +6129,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
+          "author": "hello@smashingmagazine.com (Manuel Matuzović)",
+          "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
+          "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
+          "publishedOn": "2021-06-28T10:30:00.000Z",
+          "wordCount": 2474,
+          "title": "Creating Custom Emmet Snippets In VS Code",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
           "author": "hello@smashingmagazine.com (Dom Habersack)",
           "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
@@ -6405,6 +6527,60 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60d61acc6e1a1407b6b0bd46",
+          "author": null,
+          "description": "In this article, you will learn how to securely access secret API keys using Netlify functions in a React app.  Netlify provides rich features that help you easily deploy Single Page Applications built using frameworks like React, Vue and Angular among others. This takes away the burden of coding and",
+          "link": "https://www.freecodecamp.org/news/how-to-access-secret-api-keys-using-netlify-functions-in-a-react-app/",
+          "publishedOn": "2021-06-28T21:17:02.000Z",
+          "wordCount": 3681,
+          "title": "How to Securely Access Secret API keys using Netlify Functions in a React App"
+        },
+        {
+          "id": "60d9766b6e1a1407b6b0cb4f",
+          "author": null,
+          "description": "If you're working with Natural Language Processing, knowing how to deploy a model is one of the most important skills you'll need to have. Model deployment is the process of integrating your model into an existing production environment. The model will receive input and predict an output for decision-making for",
+          "link": "https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/",
+          "publishedOn": "2021-06-28T20:35:12.000Z",
+          "wordCount": 2818,
+          "title": "How to Deploy an NLP Model with FastAPI"
+        },
+        {
+          "id": "60d07b4578f45307fee80aef",
+          "author": null,
+          "description": "Every developer needs a good development enviroment, whether you're into mobile development or web apps or even if you're just learning your first programming language.  Just like any beginning developer, when I began to learn coding I needed some guidance on how to get started. And one of the most",
+          "link": "https://www.freecodecamp.org/news/what-is-an-ide-in-programming-an-ide-definition-for-developers/",
+          "publishedOn": "2021-06-28T20:04:28.000Z",
+          "wordCount": 2258,
+          "title": "What is an IDE in Programming? An IDE Definition for Developers"
+        },
+        {
+          "id": "60d675ac6e1a1407b6b0bea1",
+          "author": null,
+          "description": "In JavaScript, people often confuse closures with lexical scope. Lexical scope is an important part of closures, but it is not a closure by itself. Closures are an advanced concept that is also a frequent topic of technical interviews. You should have a foundational understanding of functions before attempting to",
+          "link": "https://www.freecodecamp.org/news/javascript-closure-lexical-scope/",
+          "publishedOn": "2021-06-28T18:45:21.000Z",
+          "wordCount": 740,
+          "title": "JavaScript Closure Tutorial – How Closures and Lexical Scope Work in JS"
+        },
+        {
+          "id": "60d4d3d86e1a1407b6b0bb25",
+          "author": null,
+          "description": "A design system is a set of standards, reusable components, and patterns used to create visual consistency throughout different projects and pages. Figma is a vector graphics editor and prototyping tool. We just released a course on the freeCodeCamp.org channel that will teach you how to build a design",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-create-a-design-system-in-figma/",
+          "publishedOn": "2021-06-28T13:50:35.000Z",
+          "wordCount": 67249,
+          "title": "Learn How to Create a Design System in Figma"
+        },
+        {
+          "id": "60d4ea756e1a1407b6b0bb71",
+          "author": null,
+          "description": "Ok. I'm not suggesting that everyone needs to become a fully-credentialed data scientist. But these days, learning core data skills may provide as much value as basic financial literacy or knowledge of a simple coding language. This isn't just about your career: data has grown far beyond the world of",
+          "link": "https://www.freecodecamp.org/news/why-you-should-learn-data-analytics/",
+          "publishedOn": "2021-06-28T13:44:39.000Z",
+          "wordCount": 806,
+          "title": "Why You Should Learn Data Analytics"
+        },
         {
           "id": "60d3ee396e1a1407b6b0b6ef",
           "author": null,
@@ -7132,6 +7308,114 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1776882",
+          "author": "Beth Mole",
+          "description": "Despite unproven efficacy, Biogen set the drug’s list price at $56,000 per year.",
+          "link": "https://arstechnica.com/?p=1776882",
+          "publishedOn": "2021-06-28T23:07:12.000Z",
+          "wordCount": 1041,
+          "title": "Controversial Alzheimer’s drug could cost US $334B—nearly half of DoD budget"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776858",
+          "author": "Jon Brodkin",
+          "description": "AT&T to investors: Fiber is the best! AT&T to gov't: Don't give rural people fiber!",
+          "link": "https://arstechnica.com/?p=1776858",
+          "publishedOn": "2021-06-28T21:31:28.000Z",
+          "wordCount": 1906,
+          "title": "AT&T gives investors and gov’t wildly different takes on need for fiber Internet"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776840",
+          "author": "Sam Machkovech",
+          "description": "Requires $15/mo Game Pass Ultimate sub; follows last week's Series X server upgrade.",
+          "link": "https://arstechnica.com/?p=1776840",
+          "publishedOn": "2021-06-28T19:55:08.000Z",
+          "wordCount": 1209,
+          "title": "Xbox Game Streaming exits beta, now works on all iOS devices, web browsers"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776833",
+          "author": "John Timmer",
+          "description": "A new analysis checks the water available in different planets' atmospheres.",
+          "link": "https://arstechnica.com/?p=1776833",
+          "publishedOn": "2021-06-28T19:42:24.000Z",
+          "wordCount": 1508,
+          "title": "Venus’ clouds too dry, acidic for life"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776791",
+          "author": "Jim Salter",
+          "description": "Want voice recognition but don't trust Alexa? The Linux Foundation has your back.",
+          "link": "https://arstechnica.com/?p=1776791",
+          "publishedOn": "2021-06-28T18:31:15.000Z",
+          "wordCount": 1027,
+          "title": "The Linux Foundation is working to improve voice recognition ethics"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776719",
+          "author": "Jennifer Ouellette",
+          "description": "First three episodes will debut on September 24, with weekly episodes after that.",
+          "link": "https://arstechnica.com/?p=1776719",
+          "publishedOn": "2021-06-28T18:05:26.000Z",
+          "wordCount": 1339,
+          "title": "We finally have a release date and new teaser for Apple TV+ series Foundation"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776745",
+          "author": "Tim De Chant",
+          "description": "Retailer lets bots manage many HR decisions for its Flex delivery program.",
+          "link": "https://arstechnica.com/?p=1776745",
+          "publishedOn": "2021-06-28T16:40:03.000Z",
+          "wordCount": 1432,
+          "title": "Amazon is using algorithms with little human intervention to fire Flex workers"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776683",
+          "author": "Eric Berger",
+          "description": "Nauka will be the largest module the Russians have sent to the ISS.",
+          "link": "https://arstechnica.com/?p=1776683",
+          "publishedOn": "2021-06-28T16:10:00.000Z",
+          "wordCount": 986,
+          "title": "Why is Russia launching a new module to the space station if it’s pulling out?"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776701",
+          "author": "Ron Amadeo",
+          "description": "Five percent faster peak CPU clock and ambiguous AI improvements launch a new SKU.",
+          "link": "https://arstechnica.com/?p=1776701",
+          "publishedOn": "2021-06-28T15:19:45.000Z",
+          "wordCount": 663,
+          "title": "Qualcomm does the bare minimum for the new Snapdragon 888 Plus SoC"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1662472",
+          "author": "Ars Staff",
+          "description": "From the archives: Revisit the work of a classic gaming emulation titan who died this week.",
+          "link": "https://arstechnica.com/?p=1662472",
+          "publishedOn": "2021-06-28T15:06:47.000Z",
+          "wordCount": 2686,
+          "title": "How SNES emulators got a few pixels from complete perfection"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776584",
+          "author": "Jennifer Ouellette",
+          "description": "SN 2018zd meets all the criteria for an \"electron-capture\" supernova.",
+          "link": "https://arstechnica.com/?p=1776584",
+          "publishedOn": "2021-06-28T15:00:16.000Z",
+          "wordCount": 1433,
+          "title": "Newly discovered supernova may be same type as the one observed in 1054"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776585",
+          "author": "Jonathan M. Gitlin",
+          "description": "There's a dizzying combination of configurations, but they all feel unstoppable.",
+          "link": "https://arstechnica.com/?p=1776585",
+          "publishedOn": "2021-06-28T10:00:54.000Z",
+          "wordCount": 1150,
+          "title": "On-road and off-road in the all-new Ford Bronco"
+        },
         {
           "id": "https://arstechnica.com/?p=1776504",
           "author": "WIRED",
@@ -9714,60 +9998,6 @@
           "publishedOn": "2021-05-30T12:45:24.000Z",
           "wordCount": 1084,
           "title": "The SolarWinds hackers aren’t back—they never went away"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1768676",
-          "author": "WIRED",
-          "description": "Researchers applied AI techniques to make portions of Seattle look more like Beijing",
-          "link": "https://arstechnica.com/?p=1768676",
-          "publishedOn": "2021-05-30T12:15:13.000Z",
-          "wordCount": 1140,
-          "title": "Deepfake maps could really mess with your sense of the world"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1768662",
-          "author": "Ars Staff",
-          "description": "Giraffes: Scary high blood pressure, yet few of the issues plaguing people with hypertension.",
-          "link": "https://arstechnica.com/?p=1768662",
-          "publishedOn": "2021-05-30T11:45:09.000Z",
-          "wordCount": 1466,
-          "title": "Heads up! The cardiovascular secrets of giraffes"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1768704",
-          "author": "Dan Goodin",
-          "description": "Amazon's experiment wireless mesh networking turns users into guinea pigs.",
-          "link": "https://arstechnica.com/?p=1768704",
-          "publishedOn": "2021-05-29T19:10:00.000Z",
-          "wordCount": 1271,
-          "title": "Amazon devices will soon automatically share your Internet with neighbors"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1768575",
-          "author": "Kiona N. Smith",
-          "description": "Men, women, and children were repeatedly wounded in skirmishes along the Upper Nile.",
-          "link": "https://arstechnica.com/?p=1768575",
-          "publishedOn": "2021-05-29T15:45:35.000Z",
-          "wordCount": 1254,
-          "title": "Ancient cemetery tells a tale of constant, low-level warfare"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1768406",
-          "author": "Ars Staff",
-          "description": "Including deals on the MacBook Air, wireless headphones, and PlayStation games.",
-          "link": "https://arstechnica.com/?p=1768406",
-          "publishedOn": "2021-05-29T15:16:23.000Z",
-          "wordCount": 2987,
-          "title": "The best Memorial Day sales we can find on laptops, video games, and more tech"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1768636",
-          "author": "Ars Staff",
-          "description": "The beloved video game is relaxing. The board game? Not as much.",
-          "link": "https://arstechnica.com/?p=1768636",
-          "publishedOn": "2021-05-29T15:00:19.000Z",
-          "wordCount": 1579,
-          "title": "Stardew Valley: The Board Game—a loving production but a mixed review from Grandpa"
         }
       ]
     }
