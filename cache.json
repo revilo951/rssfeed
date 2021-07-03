@@ -6,6 +6,204 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocn5ru/seafile_cant_upload_files_over_1_mb/",
+          "author": null,
+          "description": "Just deployed Seafile through Nginx and Docker compose on a fresh Debian installation. I couldn't upload files over 1 MB. It stays on Uploading (0%) until I cancel. Was able to upload small files fine.\n ​\n Followed this tutorial to setup: seafile\n    submitted by    /u/KLiEhZhIAROKzA  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocn5ru/seafile_cant_upload_files_over_1_mb/",
+          "publishedOn": "2021-07-03T00:22:26.000Z",
+          "wordCount": 155,
+          "title": "Seafile: Can't upload files over 1 MB"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocli10/alternatives_to_cauldron/",
+          "author": null,
+          "description": "Im looking for a FOSS alternative to Cauldron./ https://www.cloudron.io/ does anyone know of one? I wanna user radarr nzbtget plex media server couch potato and a few others to build a test server for the business I am thinkng about going into. I want to test it out with a free one first to make sure the hardware can handle it\n    submitted by    /u/jpoblocki77  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocli10/alternatives_to_cauldron/",
+          "publishedOn": "2021-07-02T22:49:16.000Z",
+          "wordCount": 177,
+          "title": "Alternatives to Cauldron"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocizar/best_way_to_auto_deploy_ubuntu_servers/",
+          "author": null,
+          "description": "I've built up a few bare metal boxes over the years that serve me well. A media server here, server with containers there, a NAS in the corner, etc. I quite like this set up because they are tucked away where no one can hurt them or spill anything on them, except when I need to reinstall something or troubleshoot with a keyboard and monitor. Can't do much about the latter, but I'm curious what my options are for installing Ubuntu on a headless server are? I've used Ansible to configure them post install, but never used anything like pxe or Ubuntu auto install before. Always stuck a USB into the device and did it manually. Any ideas?\n    submitted by    /u/NGL_ItsGood  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocizar/best_way_to_auto_deploy_ubuntu_servers/",
+          "publishedOn": "2021-07-02T20:42:29.000Z",
+          "wordCount": 309,
+          "title": "Best way to auto deploy Ubuntu servers?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ociyus/looking_for_a_server_that_can_handle_those/",
+          "author": null,
+          "description": "(I can't post to r/homelab) a git repo for a growing project of 400GB, I guess this and the next can fit in 4tb due to data optimisation.\n 2 wordpress websites and a forum (2core, 4GB RAM dedicated for those)\n 3 small services for now such as bug tracker, but might add more (1core 1gb RAMdedicated for those)\n What are my quiet server options?\n    submitted by    /u/GoaScientist  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ociyus/looking_for_a_server_that_can_handle_those/",
+          "publishedOn": "2021-07-02T20:41:53.000Z",
+          "wordCount": 304,
+          "title": "Looking for a server that can handle those services"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocfu6e/looking_for_a_selfhosted_karaokesingstar_app/",
+          "author": null,
+          "description": "Hello! :)\n My husband and I are big fans of those old SingStar games for PS2, and I was wondering if anyone has anything similar that we can selfhost? We like being able to have the lyrics scroll, and a gamification aspect like rating vocal input to a microphone would be awesome! :P\n Thank you so much! :)\n    submitted by    /u/Sexy_Saffron  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocfu6e/looking_for_a_selfhosted_karaokesingstar_app/",
+          "publishedOn": "2021-07-02T18:14:33.000Z",
+          "wordCount": 250,
+          "title": "Looking for a self-hosted Karaoke/SingStar app!"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocf2n4/monitor_internet_usage_per_app/",
+          "author": null,
+          "description": "Looking for an app, with a web UI that’s able to tell me internet usage per app or process, e.g Plex. \n Thanks!\n    submitted by    /u/agneev  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocf2n4/monitor_internet_usage_per_app/",
+          "publishedOn": "2021-07-02T17:37:05.000Z",
+          "wordCount": 185,
+          "title": "Monitor internet usage per app"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocergi/i_integrated_thunderbird_into_nextcloud_for_some/",
+          "author": null,
+          "description": "here's a screenshot of what i mean: https://kebles.com/pasted_image001.png\n i know it's nothing technically astounding but i found this kinda novel and wanted to share it because i'm going to attempt to rely on this setup as my daily mail/contacts/tasks/other stuff client. here's my goofy little writeup! https://kebles.com/wanderbird.html\n any questions or feedback feel free to ask, i figured if i'm competent enough to understand what's going on others probably will too but i'm sure i'm awful at explaining bits, but i want to learn how to FOSS in this manner more anyway. \n my instance is hosted from a shitty old laptop running ubuntu 4c/4t, with data off a usb3 ssd, it's plenty fast even over wan. \n hope this gives someone more fun ideas!\n    submitted by    /u/_kebles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocergi/i_integrated_thunderbird_into_nextcloud_for_some/",
+          "publishedOn": "2021-07-02T17:21:30.000Z",
+          "wordCount": 741,
+          "title": "i integrated thunderbird into nextcloud for some reason and it's kinda cooler than you'd think!"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocebhe/help_setting_up_emscripten_retroarch_build_for/",
+          "author": null,
+          "description": "At this time what I am stuck on is this from the readme\n \"If you want to add your game directory so it serves content to your users you need to do the following:\n  \nAdd the dir to your web server\n Generate an index with this script, save it inside the folder you want to serve https://github.com/jvilk/BrowserFS/blob/master/tools/XHRIndexer.coffee\n Add a new mount in the setupFileSystem function, look for the xfs blocks and unconmment them and tweak them accordingly\"\n  \nMy problem is I can't find the XHRIndexer.coffee to do this\n I would like to probably write my own little tutorial after I get this set up to help others since documentation and general information about this whole thing is pretty sparse.\n Any help is greatly appreciated\n    submitted by    /u/Harles93  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocebhe/help_setting_up_emscripten_retroarch_build_for/",
+          "publishedOn": "2021-07-02T16:59:46.000Z",
+          "wordCount": 239,
+          "title": "Help Setting up emscripten retroarch build for browser based emulation"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oce36a/imdb_follow_specific_titles/",
+          "author": null,
+          "description": "Anyone know if any self-hosted solutions for following certain IMDb pages? e.g. certain movie title, or actor. I tried to search for people using IMDbpy but couldn't find anything for tracking specific titles/actors. Mostly people use full IMDb data sets and API for pulling either all info, or for \"I have watched this\" lists.\n Would love to one day find something that'll be able to send a notification:\n -Keanu Reeves got added to Matrix 5\n -Matrix 5 release date set for xx/xx/xx\n I think the official app allows you to follow and get the notifications, but would like to not rely on Amazon's app for this one.\n    submitted by    /u/techma2019  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oce36a/imdb_follow_specific_titles/",
+          "publishedOn": "2021-07-02T16:47:53.000Z",
+          "wordCount": 342,
+          "title": "IMDb follow specific titles?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocbzwb/is_there_a_feed_reader_that_is_easy_to_installno/",
+          "author": null,
+          "description": "Something that is installed and started without seting up web server or dbs\n like plex, jellyfin\n i been selfhosting without docker and without problems, i dont wanna install docker-compose only for this\n im looking for alternatives before learning how to setup tt rss\n    submitted by    /u/angelss197200  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocbzwb/is_there_a_feed_reader_that_is_easy_to_installno/",
+          "publishedOn": "2021-07-02T15:06:25.000Z",
+          "wordCount": 806,
+          "title": "Is there a feed reader that is easy to install(no docker)?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocbr87/updated_steps_for_vaultwarden_native_installation/",
+          "author": null,
+          "description": "Hi, updated my instructions from bitwarden_rs to Vaultwarden. Please report errors if needed.\n Dependencies required: brew (https://brew.sh/) postgreSQL: brew install postgresql nodejs12: brew install node@12 node-sass: brew install node-sass rust dev version: brew install rustup-init nginx: brew install nginx vaultwarden for macOS with postgreSQL ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ git clone https://github.com/dani-garcia/vaultwarden ./vaultwarden cd vaultwarden git checkout \"$(git tag --sort=v:refname | tail -n1)\" cargo build --features postgresql --release Congratulation, you have built a macOS binary for vaultwarden For web-vault (if you need it) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ git clone https://github.com/bitwarden/web.git web-vault cd web-vault Open a web browser and go to https://…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocbr87/updated_steps_for_vaultwarden_native_installation/",
+          "publishedOn": "2021-07-02T14:55:02.000Z",
+          "wordCount": 759,
+          "title": "Updated steps for Vaultwarden native installation (no docker) for OSX (or others with tweaks)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocbovy/any_recommendations_for_a_selfhosted/",
+          "author": null,
+          "description": "This might be a bit hard to explain, but I'm basically looking for something like DEVONagent/Google Alerts/Visualping, etc.\n I have a couple webpages I'd like to monitor for any changes, and a couple search queries that I'd like to run every once in a while and get a list of new results, etc.\n Is there something I could self-host like that?\n    submitted by    /u/Theon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocbovy/any_recommendations_for_a_selfhosted/",
+          "publishedOn": "2021-07-02T14:51:44.000Z",
+          "wordCount": 259,
+          "title": "Any recommendations for a self-hosted website/search query monitor?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocbbpn/how_to_install_osmc_exodus_self_hosted_media/",
+          "author": null,
+          "description": "submitted by    /u/An_Lachan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocbbpn/how_to_install_osmc_exodus_self_hosted_media/",
+          "publishedOn": "2021-07-02T14:33:24.000Z",
+          "wordCount": 139,
+          "title": "How To Install OSMC & Exodus (Self hosted media centre)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocb6bb/self_hosted_golf_app/",
+          "author": null,
+          "description": "Hey guys, does anyone know if a self hosted golf app that I can use on my phone and will sync back to my NAS? I don't need much - scores / putts and a handicap calculator would be amazing. Currently using swingu - used to be swing x swing.\n    submitted by    /u/the_cosworth  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocb6bb/self_hosted_golf_app/",
+          "publishedOn": "2021-07-02T14:25:42.000Z",
+          "wordCount": 168,
+          "title": "Self hosted golf app"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oc9s16/the_9_most_common_security_threats_to_mobile/",
+          "author": null,
+          "description": "submitted by    /u/robertinoc  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oc9s16/the_9_most_common_security_threats_to_mobile/",
+          "publishedOn": "2021-07-02T13:10:11.000Z",
+          "wordCount": 370,
+          "title": "The 9 Most Common Security Threats to Mobile Devices in 2021"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oc92mc/continuous_network_enumeration_tool_like_fing/",
+          "author": null,
+          "description": "Is there something similar out there? I am not talking about a vulnerability scanner.\n    submitted by    /u/tonystarkco  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oc92mc/continuous_network_enumeration_tool_like_fing/",
+          "publishedOn": "2021-07-02T12:29:24.000Z",
+          "wordCount": 265,
+          "title": "Continuous network enumeration tool like Fing"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oc8zp0/updating_rocketchat/",
+          "author": null,
+          "description": "Is anyone using RocketChat? If so, have you updated it before? I followed the published process, but it has not updated the installation. Thanks!\n    submitted by    /u/Fit_Back_1948  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oc8zp0/updating_rocketchat/",
+          "publishedOn": "2021-07-02T12:24:25.000Z",
+          "wordCount": 249,
+          "title": "Updating RocketChat?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oc8won/hashicorp_vault_plugin_for_totp2fa_xpost_rdevops/",
+          "author": null,
+          "description": "submitted by    /u/candiddevmike  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oc8won/hashicorp_vault_plugin_for_totp2fa_xpost_rdevops/",
+          "publishedOn": "2021-07-02T12:19:20.000Z",
+          "wordCount": 128,
+          "title": "HashiCorp Vault Plugin for TOTP/2FA [x-post /r/devops]"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oc8gmc/scalable_selfhosted_storage/",
+          "author": null,
+          "description": "I've decided to start chasing my old dream of having all my data \"in the cloud\" and accessed uniformly across my devices but without relying on infrastructure that is not in my control.\n Today I have some of it on a dedicated server running a Pydio instance, I have been pondering moving 100% of my data there (documents and media) but that got me thinking about the current pain points:\n  \nPydio: Pydio is reliable but functionality is not great and I don't like the mobile app.\n Backup: My backups are handled by custom scripts that I am not fully happy with and are a pain to restore.\n Availability: I am dependent on that one server being up. If there is any issue with it, I am screwed out of my files.\n  \nI would like to get a second server that can remain up while the other one is down. Ultimately, I would like it to be able to scale so that I have a third server at home, and not have to change anything to the infrastrucure.\n So in essence, I am asking for a scalable distributed filesystem that would handle replication transparently across the nodes and abstract the storage so that I can either access it in an unique way from various cloud storage server instances (e.g. NextCloud) or by mounting it directly from my client home machines.\n Right now I am looking at object storage like OpenIO, CEPH or MinIO, however I get the feeling that they are intended for high performance servers and what I have may not cut it, especially with regards to network latency.\n I don't need high performance when writing, but I would like to be able to stream video from it; so if the solution can do full replication instead of striping, that would allow streaming from the local node only and we should be good.\n Am I looking in the right direction? Anyone attempting such an architecture?\n    submitted by    /u/octopusnodes  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oc8gmc/scalable_selfhosted_storage/",
+          "publishedOn": "2021-07-02T11:50:29.000Z",
+          "wordCount": 1052,
+          "title": "Scalable self-hosted storage"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oc7peb/godomaininvalid_link_manager/",
+          "author": null,
+          "description": "Hi,\n I´m looking for a \"nice\" manager for some links, like an UI in which you can manage redirect links so it is a webserver which you can connect to your domain via A-Record so I can easily create a redirect from thisservice/sample to sample.invalid.\n EDIT: clarification: I want this to be accessible from WAN\n Thank you\n    submitted by    /u/zugadam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oc7peb/godomaininvalid_link_manager/",
+          "publishedOn": "2021-07-02T10:58:26.000Z",
+          "wordCount": 245,
+          "title": "go.domain.invalid link manager"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oc6cw9/question_selfhosted_solution_for_finance_tracking/",
+          "author": null,
+          "description": "Hi self-hosters,\n I'm looking for a self-hosted replacement for the likes of Emma and Yolt here in the UK. I've looked at Firefly III but understandably it cannot support syncing from any bank/credit card around the world.\n ​\n Did anybody solve this well?\n Is there a community maintained set of integrations for Firefly III I could tap into and contribute?\n ​\n I hate having my transaction records synced to a third party company I do not trust, and I need the automation of categorization these apps give. So time to solve this properly.\n    submitted by    /u/mkronberg  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oc6cw9/question_selfhosted_solution_for_finance_tracking/",
+          "publishedOn": "2021-07-02T09:10:07.000Z",
+          "wordCount": 280,
+          "title": "[Question] Self-Hosted solution for finance tracking - bank account scanner"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oc5rjs/wiretrustee_v008_vs_tailscale_and_zerotier/",
+          "author": null,
+          "description": "New release:\n A few days ago we released a new version of Wiretrustee, v0.0.8. This version brings two major improvements and OS support for Windows:\n Performance improvements:\n  \nWiretrustee can detect peers in the same internal network or with public IPs without restricted NAT, and it will connect Wireguard peers directly without the need for a local go-proxy.\n Kernel Wireguard detection. The native Wireguard (shipped with Linux as a kernel module) will be used if available.\n  \nWindows support\n  \nAdded windows service installation\n  \nThe documentation was updated to guide you through the Windows support. As we are using https://www.wintun.net/ to manage the interface, the client needs to be executed as a service, so we decided to add the service command which includes the install, stop, …",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oc5rjs/wiretrustee_v008_vs_tailscale_and_zerotier/",
+          "publishedOn": "2021-07-02T08:20:27.000Z",
+          "wordCount": 904,
+          "title": "Wiretrustee v0.0.8 vs Tailscale and ZeroTier"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/obz2ms/filerun_webdav_and_joplin/",
           "author": null,
           "description": "I had been using Seafile as my WebDAV server for Joplin. I decided to use FileRun exclusively. WebDAV works, I can access it from a variety of applications and operating systems. However Joplin doesn't appear to like it. I suspect it's the \"@Home\" in the WebDAV URL. I have also tried \"%40Home\" and get a different error when I sync. When I click on \"Check Synchronization Configuration\" in Joplin I see success. It's when I synchronize that I see errors.\n ​\n The \"@Home\" URL...\n Last error: Error: Could not upgrade from version 0 to version 1: MKCOL ./sync/: Unknown error 2 (403): You are not allowed to use this folder name!\n ​\n The \"%40Home\" URL...\n Last error: Error: href /filerun/dav.php/@Home/Joplin/locks/ not in baseUrl https://mydomain.tld/filerun/dav.php/%40Home/Joplin nor relativeBaseUrl /filerun/dav.php/%40Home/Joplin\n    submitted by    /u/jcm4atx  \n [link]   [comments]",
@@ -5332,267 +5530,6 @@
           "publishedOn": "2021-06-03T12:56:45.000Z",
           "wordCount": 1575,
           "title": "Netmaker v0.5 - Support for most devices (Windows, Mac, iPhone, Android) as clients to your private mesh network."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrc6gq/central_web_applications_access/",
-          "author": null,
-          "description": "Looking for some open source software for something I can selfhost that gives me access to multiple of my other web applications, similar to Nextcloud External Sites app.\n So it would just embed the sites. My Google-fu has failed me on this one to find anything good.\n    submitted by    /u/mikkel1156  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrc6gq/central_web_applications_access/",
-          "publishedOn": "2021-06-03T12:22:59.000Z",
-          "wordCount": 267,
-          "title": "Central web applications access"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrbw9a/intel_nuc_esxi_and_vms_or_ws2016_docker/",
-          "author": null,
-          "description": "Hi\n I've got an i5 NUC with 16GB RAM. Running ESXI currently, hosting a Windows Server instance that runs some custom software (twitter bots etc) and then 3x Ubuntu VMs (UniFi Controller, Home Assistant, Pi-Hole).\n Wondering if I'm making the most efficient use of my NUC? I mean, I figure I'm probably not but I'm not entirely sure what the best way forward is.\n I see I can run Docker on Windows... I'm assuming it'd host all my above services?\n    submitted by    /u/andcoffeforall  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrbw9a/intel_nuc_esxi_and_vms_or_ws2016_docker/",
-          "publishedOn": "2021-06-03T12:07:47.000Z",
-          "wordCount": 407,
-          "title": "Intel NUC - ESXi and VMs, or WS2016 & Docker?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrai0f/suggestions_ssh_clientless_docker/",
-          "author": null,
-          "description": "Hi,\n does anyone know a good ssh client-less application that i can deploy with docker? preferably one that is fast and well secured of course.\n at the moment I use oznu/guacamole but unfortunately that is no longer supported\n thanks in advance for the suggestions\n    submitted by    /u/jboesh  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrai0f/suggestions_ssh_clientless_docker/",
-          "publishedOn": "2021-06-03T10:48:46.000Z",
-          "wordCount": 296,
-          "title": "suggestions ssh client-less docker?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nraa8x/hosting_sourcehut_git_on_a_ubuntu_server_or/",
-          "author": null,
-          "description": "I'm looking to host git.sr.ht on my server but from their documentation I noticed they only have repositories for Alpine Linux, Arch and Debian and I'm using Ubuntu.\n I've picked sourcehut because I really like the UI, I actually have no idea how light it is but I'm looking into having something similar as I find other alternatives having a lot of clutter, and uneeded features for me since I'm planing to have a small self hosted repository for some of my project.\n Are there any unofficial package repo for sourcehut for Ubuntu or are there any alternatives with a simple interfacte?\n    submitted by    /u/vraciu_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nraa8x/hosting_sourcehut_git_on_a_ubuntu_server_or/",
-          "publishedOn": "2021-06-03T10:34:30.000Z",
-          "wordCount": 333,
-          "title": "Hosting sourcehut git on a ubuntu server or finding an alternative."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nr9eb5/anyone_successfully_syncing_photoprism_with/",
-          "author": null,
-          "description": "Can't get the sync function to work. No matter what I use as a server URL at Photoprism, it eventually says \"can't connect\". I followed the documentations on both Photoprism and Nextcloud. No joy. Photoprism runs in Docker on Ubuntu server. Nextcloud runs on LXC container. Both on Proxmox ( same node ). Both work perfectly fine when using their web interfaces... But I'd love to be able to use WebDav syncing between them.. What should I look for? What I could be missing? Thank you in advance for any tips!\n    submitted by    /u/wazazoski  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nr9eb5/anyone_successfully_syncing_photoprism_with/",
-          "publishedOn": "2021-06-03T09:34:50.000Z",
-          "wordCount": 310,
-          "title": "Anyone successfully syncing Photoprism with Nextcloud? I can't get my setup to work..."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nr8n19/where_to_start/",
-          "author": null,
-          "description": "Hello everyone. I just discovered this sub Reddit and this is absolutely what I wanted. Let me explain, I'm a huge Google client. I started to use Google photo to store unlimited pictures so I thought if Google have all of my pictures and data about me let it be useful and use it everywhere. Since Google photo is not unlimited anymore I want to self host my own stuff like a pi hole, a Nas, a domotic assistant, a node express test server etc. \n So my question for you is, where to start. I see that a lot of you are hosting many things. Are you using one or many raspberry pi, are you using more powerful . I want to be able to add a \"module\"(self hosted server) one by one without breaking everything, so I can make the transition smoother.\n Note that I don't want to get rid of Google but I don't want to depend on it \n Sorry if someone already explained it on a post, thanks you for helping me.\n    submitted by    /u/Mr_Shinbly  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nr8n19/where_to_start/",
-          "publishedOn": "2021-06-03T08:42:35.000Z",
-          "wordCount": 3113,
-          "title": "Where to start"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nr8iq0/alternatives_to_nextcloud/",
-          "author": null,
-          "description": "Hey,\n I'm building a solution for a client. They like the look of NextCloud but I'm concerned about stories I've heard about poor performance. They will primarily be using it to catalogue large amounts of photo and video files (10-20TB).\n Main features are photo & video galleries, project/group based permissions, text chat, simple task management, and calendaring. NextCloud seems like a great fit for this but interested if anyone has any other suggestions which I could investigate as possible options?\n Many thanks, Adam.\n    submitted by    /u/adamshand  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nr8iq0/alternatives_to_nextcloud/",
-          "publishedOn": "2021-06-03T08:34:13.000Z",
-          "wordCount": 1285,
-          "title": "Alternatives to NextCloud?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nr4y9s/help_setting_up_a_vpn_to_access_my_home_network/",
-          "author": null,
-          "description": "I currently have a raspberry pi running some containers and an old Mac running Airmessage. I want to be able to access my home network via VPN. I am unable to port forward for non-technical reasons (housemates, etc). I have a Digitalocean instance that I am planning to utilize as part of this. How do I set up a VPN (probably with pivpn) to access my home network without port forwarding? Does anyone have any guides I can look at? Would I need to use a reverse proxy?\n I am well-versed with the Linux command line and general programming concepts.\n    submitted by    /u/euehsbalapwj  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nr4y9s/help_setting_up_a_vpn_to_access_my_home_network/",
-          "publishedOn": "2021-06-03T04:35:53.000Z",
-          "wordCount": 1008,
-          "title": "Help setting up a VPN to access my home network"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqz7m9/going_the_wrong_way_completely_selfhosted_now/",
-          "author": null,
-          "description": "Except for a small cloud instance serving as a WireGuard tunnel server, all my (personal side project) stuff is now self-hosted at home again for the first time in a long time. :-)\n    submitted by    /u/codingbrokeme  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqz7m9/going_the_wrong_way_completely_selfhosted_now/",
-          "publishedOn": "2021-06-02T23:16:59.000Z",
-          "wordCount": 181,
-          "title": "Going the wrong way, completely selfhosted now (nearly)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqygjw/nginx_proxy_manager_npm_setup_with_different/",
-          "author": null,
-          "description": "This might not be possible but I can't seem to find the right keywords to find any answers online. I have NPM running in a Docker container via OMV and have a dozen or so subdomains working for all the different Docker containers. They all point nicely to different services running on different ports on the server and I'm very happy with how smoothly it's been going creating new Let's Encrypt certs and whatever.\n What I'm trying to do now is use the domain that I own to create a subdomain that points to a Docker container NOT on that same server. To be specific, I have a Linode server that's running something I want to be able to access at a subdomain that I own. I setup NPM on that Linode Docker in hopes that I could tie my domain.com to that as well and assign subdomains on that server but it's not working and I assume it's because I am already using that domain in the NPM container running on my home server. \n ​\n Currently:\n subdomain1.domain.com points to 192.168.1.100:1234\n subdomain2.domain.com points to 192.168.1.200:1235\n and so on, and so on.\n ​\n I would like to add:\n subdomain3.domain.com points to 75.65.55.45:1234\n    submitted by    /u/fivetwentyseven  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqygjw/nginx_proxy_manager_npm_setup_with_different/",
-          "publishedOn": "2021-06-02T22:41:02.000Z",
-          "wordCount": 477,
-          "title": "NGINX Proxy Manager (NPM) Setup with Different Server IPs but Same Domain"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqyffp/what_apps_you_hosting/",
-          "author": null,
-          "description": "I know this has been asked more than a few times throughout the history of this sub but always nice to see what others are hosting in the present day. \n My list all hosted In proxmox containers except where noted\n Nginx reverse proxy Nextcloud Mail in a box -VPS Matrix/synapse Coturn -VPS Homer dashboard Apache web server Standard notes FreshRSS Wireguard Open LDAP Guacamole SFP toolbox Homebridge—>moving to home assistant DNS primary and secondary Vaultwarden\n    submitted by    /u/st0rmw0rm  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqyffp/what_apps_you_hosting/",
-          "publishedOn": "2021-06-02T22:39:35.000Z",
-          "wordCount": 405,
-          "title": "What apps you hosting?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqyaul/how_do_i_create_playlists_to_use_with_supysonic/",
-          "author": null,
-          "description": "I can't find any guides on this. I don't feel like switching to a different server app if I don't have to. I'm using ultrasonic on my phone to access my library.\n    submitted by    /u/PM-ME-YOUR_LABIA  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqyaul/how_do_i_create_playlists_to_use_with_supysonic/",
-          "publishedOn": "2021-06-02T22:33:17.000Z",
-          "wordCount": 164,
-          "title": "How do I create playlists to use with supysonic?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqx9hq/selfhosted_voipphone_system/",
-          "author": null,
-          "description": "Hi all,\n I am in the early stages of setting up a business and am looking to shed some costs off our expenses and run our own VoIP server. We run everything else ourselves including web services, mail services, file storage services etc, however looking at moving to our own phone system.\n I am a server administrator by trade so have a good knowledge of this sort of stuff, however when it comes to VoIP, my knowledge is very limited.\n What is needed to set up a VoIP server? Is it worth it?\n I assume I will need to configure the server itself, and purchase a number - how is routing handled? What other things will I need to consider? It will be running on a dedicated server hosted by OVH\n Requirements would need to be free/open-sourced or low-cost and maintained. UK numbers, and have the ability to run via a smartphone and/or a desktop PC (softphone)\n If it comes down to it, I will just continue the subscription with Skype\n Any info would be amazing, thank you!\n EDIT: It would be mostly inbound for receiving support calls\n    submitted by    /u/Stellar404  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqx9hq/selfhosted_voipphone_system/",
-          "publishedOn": "2021-06-02T21:45:43.000Z",
-          "wordCount": 502,
-          "title": "Self-Hosted VoIP/Phone system"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqx8jo/dashboardbookmark_manager/",
-          "author": null,
-          "description": "Hello,\n I'm currently develop a small application for have a dashboard/bookmark manager (a bit in the same style as Homer).\n The application is relatively simple at the moment, but I will add some features in the coming days/weeks (RSS flow, weather, browser extension for add bookmarks).\n For the moment, I don't like the appearance very much, and I would like it to be a little more customizable (color, text size, ...).\n The application is develop in Golang and available in docker hub.\n The source code is available in Github : https://github.com/Labbs/domo\n A Kanban is available for the features I want to put and I am open to suggestions for improvements.https://github.com/Labbs/domo/projects/1\n ​\n ​\n https://preview.redd.it/yw4zjvigax271.png?width=1470&format=png&auto=webp&s=26beafbf9ca1fe6f1363c021fc07b7a66053ded4\n    submitted by    /u/Le-Black-Sheep  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqx8jo/dashboardbookmark_manager/",
-          "publishedOn": "2021-06-02T21:44:35.000Z",
-          "wordCount": 215,
-          "title": "Dashboard/Bookmark manager"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqwg8x/docker_setup_raspberry_pi_4_8_gb_can_someone/",
-          "author": null,
-          "description": "I have a Raspberry Pi 4 with 8 GB of ram running Alpine Linux and would like to install something like HTPC Beginner. Only simpler to install and one with docker containers. I use Alpine Linux to limit the read and write to the SD card.\n    submitted by    /u/Solid_Rhino  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqwg8x/docker_setup_raspberry_pi_4_8_gb_can_someone/",
-          "publishedOn": "2021-06-02T21:10:02.000Z",
-          "wordCount": 239,
-          "title": "Docker setup Raspberry Pi 4 (8 GB) Can someone recommend a docker setup like HTPC Beginner only simpler to set up?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqufwi/new_here_and_loving_it_i_have_some_questions_and/",
-          "author": null,
-          "description": "This is an excellent subreddit and im glad i found it. I have some questions, i have done some research, but i figured this would be easier.\n I found navidrome a few weeks ago after dealing with constant nightmares with plex and emby. Not only does navidrome work flawlessly, but it's simple. \n The first question is what is considered the best music server to run in a container on docker? All i really need is artist, albums, genres, playlist, etc. all the basics. Navidrome doesnt have genre as of this moment but i am paired to it via play:sub on ios and it has genres. I am really going to be using navidrome on my phone when i am not home. When i am home i will be using kodi. \n The next question is about photos and videos stored on my nas. I used to use plex for music and for my photos and videos. They destroyed both music and photos and videos. Alot of the time, the videos would not play. I basically want something how plex worked. That has an app i can open and view my pics and videos fast. Right now i am using jellyfin just for my pics and videos, but it's a bit slow. I want the container to only read pics and videos, with no write access. I saw people recommending photo view which i can not install on docker synology. I also saw photoprism, but figured i would post this to what is the best route to go.\n Any other self hosted container recommendations would be great as well ! \n Thank you!\n    submitted by    /u/kritikosxamos  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqufwi/new_here_and_loving_it_i_have_some_questions_and/",
-          "publishedOn": "2021-06-02T19:43:12.000Z",
-          "wordCount": 451,
-          "title": "New here and loving it. I have some questions and recommendations"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nquft9/setting_up_a_new_nextcloud_instance_pros_and_cons/",
-          "author": null,
-          "description": "I am setting up a new Nextcloud instance in Digital Oceans and I am debating whether or not to use the Spaces storage option available on Digital Oceans or the third party storage option Wasabi. I noticed that Wasabi is 10x cheaper than Spaces, however I have seen some people say that it may not be ideal if I want to stream media remotely without downloading it. I plan on storing home movies and photos on this cloud instance, so I am not sure if Spaces would be more ideal or if there is some third affordable option that is even better?\n    submitted by    /u/Xopher001  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nquft9/setting_up_a_new_nextcloud_instance_pros_and_cons/",
-          "publishedOn": "2021-06-02T19:43:05.000Z",
-          "wordCount": 363,
-          "title": "Setting up a new Nextcloud instance, pros and cons of using Digital Oceans Spaces vs Wasabi?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqu9qc/selfhosted_solution_for_securely_archiving_phone/",
-          "author": null,
-          "description": "I'm interested in saving some or all of the sensor data from my android phone for historical purposes. Security is key so I need end-to-end encryption.\n Is there an existing android app that dumps all sensor data somewhere? It would be great if I could be able to pull up a database for keystrokes, gps location, accelerometer, possibly audio but this might require a fair amount of processing and bandwidth.\n Not intended to be some type of clandestine data collection operation. Simply my own way to store phone history.\n    submitted by    /u/srj55  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqu9qc/selfhosted_solution_for_securely_archiving_phone/",
-          "publishedOn": "2021-06-02T19:35:54.000Z",
-          "wordCount": 217,
-          "title": "Selfhosted solution for securely archiving phone sensor/location data"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqu2u2/selfhosted_sms_gateway_or_something_similar/",
-          "author": null,
-          "description": "Hello all! \n I recently have been tasked with integrating SMS notifications into a wordpress website to give users updates on their orders and deliveries. \n As this is a delivery service, texting needs to be relatively immediate to avoid the drivers needing to wait outside the recipient's home. \n That being said, we are looking to have 2-way conversations using the phone number we've ALREADY established with the clients for the business. So after much research I have found this service: \n https://bulkgate.com\n They have a great functionality called \"Mobile Connect\" that allows you to essentially start a server on your phone to handle the sending / receiving of messages and then relay that info back to their server / api. \n Realistically this is EXACTLY what I need (especially with their WooSMS plugin) however, sometimes the messages can take nearly 10 minutes to arrive. It's random and has no rhyme or reason as to why it takes longer, so it's difficult to debug. \n I was hoping to discover if a similar service exists or If I can self-host my own gateway like Bulkgate has done to use my cell phone to send messages. \n I have seen this https://play.google.com/store/apps/details?id=com.gsmmodem but have not gotten it to work and truly this would need a significant amount of development from this point. \n Anyone have any ideas?\n    submitted by    /u/eternalcold  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqu2u2/selfhosted_sms_gateway_or_something_similar/",
-          "publishedOn": "2021-06-02T19:27:35.000Z",
-          "wordCount": 581,
-          "title": "Self-hosted SMS gateway or something similar?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqsypm/get_browsers_to_add_http_to_lan_tld/",
-          "author": null,
-          "description": "So I host a lot of local services on .lan TLDs and I'd like to be able to navigate to them without having to type in http://.\n Right now when I type in \"nodered.lan\" it defaults to going to a search page. I'd like my browsers to recognize .lan as a domain and treat it as such.\n Primary browser is Edgium and secondary is Firefox.\n I haven't had much luck figuring this out.\n    submitted by    /u/lenaxia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqsypm/get_browsers_to_add_http_to_lan_tld/",
-          "publishedOn": "2021-06-02T18:41:29.000Z",
-          "wordCount": 545,
-          "title": "Get browsers to add http:// to .lan TLD"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqrhlv/invoice_ninja_easy_install/",
-          "author": null,
-          "description": "At the moment, I am trying to start setting up business services, however, when I attempted to follow DB Tech's Guide, I come to find out the Docker container that he used no longer exists anymore, and I have been racking my brain trying to get this self-hosted. Any tips?\n    submitted by    /u/dj_raidar_vip  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqrhlv/invoice_ninja_easy_install/",
-          "publishedOn": "2021-06-02T17:39:19.000Z",
-          "wordCount": 204,
-          "title": "Invoice Ninja Easy Install?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqr5qf/has_anyone_used_or_heard_of_nocodb_it_is/",
-          "author": null,
-          "description": "submitted by    /u/Zash_Redd  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqr5qf/has_anyone_used_or_heard_of_nocodb_it_is/",
-          "publishedOn": "2021-06-02T17:25:14.000Z",
-          "wordCount": 372,
-          "title": "Has anyone used or heard of Nocodb? It is alternative to airtable. Thing is I have been kept looking for airtable alternative for months and recently found Nocodb. It shows 10k GitHub stars. I just want to know is it legit or knows about it because I haven't heard of it earlier."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqpydv/using_proget_on_linux_as_a_private_docker/",
-          "author": null,
-          "description": "While my usual go-to for a self-hosted repo would be Nexus3, I've been using ProGet on Linux for this recent project and it's pretty simple..\n https://tech.davidfield.co.uk/setting-up-proget-as-a-private-docker-repository/\n    submitted by    /u/mightywomble  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqpydv/using_proget_on_linux_as_a_private_docker/",
-          "publishedOn": "2021-06-02T16:34:31.000Z",
-          "wordCount": 159,
-          "title": "Using ProGet on Linux as a Private Docker Repository."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqpnwt/a_question_about_vaultwarden_smtp_via_gmail/",
-          "author": null,
-          "description": "Hello everyone, i was wondering if any of you had any experience with VaultWarden behind caddy, and smtp through gmail?\n btw if this question is not suitable for this /r let me know and I'll delete it.\n ​\n so if any of you had any similar configs or can point me in the right direction to find my answer I would be very grateful. \n I configured everything from a docker run command, and then found out you can enable the admin page, and tried from there, but both methods were not successful in sending a test email.\n ​\n ​\n https://preview.redd.it/bif8y6tmov271.png?width=1259&format=png&auto=webp&s=c90258ea6ad38c95473212fd23772b72b5b662cd\n this is the config, I tried the tls port and forcing tls, nothing helped.\n ​\n thanks for reading to the end, have a great day!\n    submitted by    /u/Scepterus  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqpnwt/a_question_about_vaultwarden_smtp_via_gmail/",
-          "publishedOn": "2021-06-02T16:22:05.000Z",
-          "wordCount": 382,
-          "title": "A question about VaultWarden SMTP via Gmail"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqp9mv/rofolia_selfhosted_collaborative/",
-          "author": null,
-          "description": "Hi folks, I released Rofolia which is a self-hosted collaborative database/spreadsheet hybrid. It is meant as a self-hosted alternative to Airtable or Google Sheets.\n Rofolia supports:\n  \nReal time collaboration\n Linking records between tables and creating links from existing values\n Grouping and sorting, including nested grouping\n Applying formulas per row\n Api access for reading and writing\n  \nTry it out at: https://rofolia.com\n This walkthrough shows most of the available features in action: https://rofolia.com/power_demo.html\n    submitted by    /u/thegeeznet  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqp9mv/rofolia_selfhosted_collaborative/",
-          "publishedOn": "2021-06-02T16:04:27.000Z",
-          "wordCount": 185,
-          "title": "Rofolia: self-hosted collaborative database/spreadsheet hybrid"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqmi08/i_shared_about_the_trolls_in_our_opensource/",
-          "author": null,
-          "description": "submitted by    /u/opensourcecolumbus  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqmi08/i_shared_about_the_trolls_in_our_opensource/",
-          "publishedOn": "2021-06-02T14:02:13.000Z",
-          "wordCount": 122,
-          "title": "I shared about the trolls in our open-source project meeting and I'm overwhelmed with the support. The learning - \"You are not alone, reach out to the community\". r/selfhosted members have helped me with this project. Thank you."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nql52n/budibase_09_release_build_and_selfhost_internal/",
-          "author": null,
-          "description": "Budibase apps screen\n Hey everyone. Joe here, cofounder of Budibase.\n For those of you who don't know what Budibase is, it's an open-source low code platform for building internal tools. I thought I'd reach out and let you know we just released a major new version.\n The May release of Budibase transforms the development experience for every single Budibase user. It is also the beginning of a new and exciting journey that involves Budibase moving to the browser.\n Here's a summary of the changelog and new features:\n  \nRun Budibase via the browser in your self-hosted cloud\n We will no longer actively develop on the Electron Budibase builder\n A new Admin UI\n Improved user management\n Built-in email support\n Google Auth - users can sign in with Google\n New, fresh, accessible UI\n New data provider component (with sorting/filtering/UX/perf enhancements)\n New table component (remove and add columns)\n New formula data type\n Import Options as part of the CSV import\n Add code to automations\n CRON automation\n  \nIf you'd like to find out more about the release, check out the following links:\n Link to release notes: https://github.com/Budibase/budibase/discussions/1557\n Link to our Github repo: https://github.com/Budibase/budibase\n Thank you for reading, and I'm more than happy to answer any questions y'all may have.\n    submitted by    /u/jo_ranamo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nql52n/budibase_09_release_build_and_selfhost_internal/",
-          "publishedOn": "2021-06-02T12:55:09.000Z",
-          "wordCount": 802,
-          "title": "Budibase 0.9 release - Build and self-host internal tools in minutes (Open source alt to Mendix, Retool, Outsystems)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nql23f/encrypting_files_and_removing_metadata_for_cloud/",
-          "author": null,
-          "description": "So for the past while I've been attempting to secure my files the best I can on my server. I know that files and data on enterprise cloud servers are encrypted (or at least I hope they are) and so I've tried to implement this just using GPG. I'm currently hosting my own Nextcloud instance but before that I was using one of the public servers that offer a certain amount of storage for free. I made a habit of removing metadata, compressing and encrypting the files so that I know that only I can access them but this became quite time consuming.\n I decided to setup some shell scripts to automate this for myself and I figured other people who are self-hosting or using a public Nextcloud server might be interested too. I wrote a basic guide on the steps I would go through and how this script can automate it to save time if anyone's interested.\n The Mat2 CLI alone is a great addition as it strips all the metadata from you files and it works recursively so it's fairly simple to use.\n Guide: https://articles.eoincoogan.com/protect_data.html\n Git Repo for scripts: https://github.com/CoogyEoin/Cosaint\n    submitted by    /u/esper12345  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nql23f/encrypting_files_and_removing_metadata_for_cloud/",
-          "publishedOn": "2021-06-02T12:50:42.000Z",
-          "wordCount": 510,
-          "title": "Encrypting Files and Removing Metadata For Cloud Storage"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nqkyuo/cp_self_host_mail_server_having_delivery_issue/",
-          "author": null,
-          "description": "submitted by    /u/kaushik_ray_1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nqkyuo/cp_self_host_mail_server_having_delivery_issue/",
-          "publishedOn": "2021-06-02T12:45:58.000Z",
-          "wordCount": 1235,
-          "title": "[CP] Self host mail server having delivery issue."
         }
       ]
     },
@@ -5617,6 +5554,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=343435",
+          "author": "Chris Coyier",
+          "description": "The name zero-width space is antithetical, but it’s not without uses. In text, maybe you’d use it around slashes because you want to be sure the words are treated individually but not have any physical space around the slash:…\nThe post Zero-Width Space appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/zero-width-space/",
+          "publishedOn": "2021-07-02T20:39:04.000Z",
+          "wordCount": 750,
+          "title": "Zero-Width Space"
+        },
+        {
+          "id": "https://css-tricks.com/?p=342995",
+          "author": "Sarah Drasner",
+          "description": "Like it or not, meetings are essential to a good working environment and communication. Therefore, it’s crucial that we work on making them as productive as possible. Today we’ll explore myriad ways to keep meetings coordinated, well documented, and talk …\nThe post Good Meetings appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/good-meetings/",
+          "publishedOn": "2021-07-02T14:41:26.000Z",
+          "wordCount": 3441,
+          "title": "Good Meetings"
+        },
         {
           "id": "https://css-tricks.com/?p=342994",
           "author": "Chris Coyier",
@@ -6102,33 +6057,6 @@
           "publishedOn": "2021-06-03T14:25:19.000Z",
           "wordCount": 865,
           "title": "Monitoring Lighthouse Scores and Core Web Vitals with DebugBear"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341724",
-          "author": "Chris Coyier",
-          "description": "How do I debug Safari on iOS?\nThese are my general steps, starting with not even using iOS Safari.\n1. Is this just a small-screen problem?\nLemme just use the device mode in Chrome quick.\nNote that this does a …\nThe post Debugging iOS Safari appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/debugging-ios-safari/",
-          "publishedOn": "2021-06-02T21:15:28.000Z",
-          "wordCount": 974,
-          "title": "Debugging iOS Safari"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341442",
-          "author": "Dmitry Mayorov",
-          "description": "Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …\nThe post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-crash-course-in-wordpress-block-filters/",
-          "publishedOn": "2021-06-02T13:35:53.000Z",
-          "wordCount": 4169,
-          "title": "A Crash Course in WordPress Block Filters"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341572",
-          "author": "Chris Coyier",
-          "description": "PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …\nThe post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/",
-          "publishedOn": "2021-06-02T13:35:40.000Z",
-          "wordCount": 1058,
-          "title": "Are Custom Properties a “Menu of What Will Change”?"
         }
       ]
     },
@@ -6137,6 +6065,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/email-testing-flow/",
+          "author": "hello@smashingmagazine.com (Andriy Zapisotskyi)",
+          "description": "With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.",
+          "link": "https://smashingmagazine.com/2021/07/email-testing-flow/",
+          "publishedOn": "2021-07-02T10:30:00.000Z",
+          "wordCount": 4207,
+          "title": "Email Testing Flow As It Should Be",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57a53d31-9651-4d88-b2fe-f8de70c08da1/email-testing-flow.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
           "author": "hello@smashingmagazine.com (Ramona Schwering)",
@@ -6514,20 +6456,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
-          "author": "hello@smashingmagazine.com (Shawn Wildermuth)",
-          "description": "Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.",
-          "link": "https://smashingmagazine.com/2021/06/managing-shared-state-vue3/",
-          "publishedOn": "2021-06-03T10:30:00.000Z",
-          "wordCount": 3496,
-          "title": "Managing Shared State In Vue 3",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0a70815d-28e5-44af-8306-0e992e99593a/managing-shared-state-vue3.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -6536,6 +6464,15 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60de3cf127f80207bcdbc9af",
+          "author": null,
+          "description": "We just published demos of several upcoming freeCodeCamp features and community initiatives. You can read about them here, and watch the entire Summit in the video embedded below. Here's what we cover in this jam-packed one hour community update.Announcement #1: Campfire ModeWe've built a new mode where you can",
+          "link": "https://www.freecodecamp.org/news/freecodecamp-july-2021-summit/",
+          "publishedOn": "2021-07-02T04:55:18.000Z",
+          "wordCount": 641,
+          "title": "freeCodeCamp July 2021 Summit – Campfire Mode, Data Science Curriculum, Chapter, and Other New Features"
+        },
         {
           "id": "60dc72b527f80207bcdbbd8f",
           "author": null,
@@ -7291,69 +7228,6 @@
           "publishedOn": "2021-06-03T16:21:19.000Z",
           "wordCount": 2747,
           "title": "Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?"
-        },
-        {
-          "id": "60afce3011ffb70827ef869c",
-          "author": null,
-          "description": "Git has a feature to \"sign\" commits, but what is signing, and what are the benefits? TL;DR: If you don't care for the details, and just need to get commit signing setup quickly, skip to How to Sign Commits. Signing, or code signing specifically, is the process of using",
-          "link": "https://www.freecodecamp.org/news/what-is-commit-signing-in-git/",
-          "publishedOn": "2021-06-02T23:14:01.000Z",
-          "wordCount": 2282,
-          "title": "What is Commit Signing in Git?"
-        },
-        {
-          "id": "60b3a25211ffb70827ef9b39",
-          "author": null,
-          "description": "In this article, you will learn about environment variables in Vanilla JavaScript. You'll also learn how to serve API keys to your application through the Netlify build command. What are JavaScript environment variables?Environment variables are very common when you're using JavaScript frameworks like React or Vue for creating frontend",
-          "link": "https://www.freecodecamp.org/news/how-to-use-environment-variables-in-vanillajs/",
-          "publishedOn": "2021-06-02T22:54:18.000Z",
-          "wordCount": 1415,
-          "title": "How to Use Environment Variables in VanillaJS"
-        },
-        {
-          "id": "60b3ccee11ffb70827ef9bc0",
-          "author": null,
-          "description": "One of the most difficult things about getting started in a new career as a developer is figuring out exactly what you should be learning – and then translating that into an effective plan. There are so many resources out there for learning, so lack of information is not the problem.",
-          "link": "https://www.freecodecamp.org/news/how-to-design-your-own-learning-plan-for-any-tech-stack/",
-          "publishedOn": "2021-06-02T21:18:15.000Z",
-          "wordCount": 2365,
-          "title": "How to Design Your Own Learning Plan for Any Tech Stack"
-        },
-        {
-          "id": "60a699b0906c5207e3a7f5ab",
-          "author": null,
-          "description": "Configuring your .vimrc file lets you use the full power of Vim. With a customized .vimrc file you can increase your Vim powers tenfold. In this article I will show you a few ways you can customize your .vimrc file. I will go over: Basic SettingsPluginsFoldingVimscriptStatus lineFirst create the following",
-          "link": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/",
-          "publishedOn": "2021-06-02T20:44:22.000Z",
-          "wordCount": 3441,
-          "title": "Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More"
-        },
-        {
-          "id": "60b0f11411ffb70827ef8dbc",
-          "author": null,
-          "description": "Often times you might want your system to communicate with other web servers to get information. For example, let's say a new user wants to sign up for an account on your website. And instead of having to manually fill out a form to send their information to your system,",
-          "link": "https://www.freecodecamp.org/news/how-to-make-api-calls-with-fetch/",
-          "publishedOn": "2021-06-02T19:39:05.000Z",
-          "wordCount": 1155,
-          "title": "Fetch API – How to Make a GET Request and POST Request in JavaScript"
-        },
-        {
-          "id": "60b4ff4711ffb70827ef9eb2",
-          "author": null,
-          "description": "What is Vue.js? Vue.js is a progressive JavaScript frontend framework written by Evan You. It's one of the most powerful and easy to learn frameworks, and it has over 9.5 million downloads per month.  In September 2020, Vue 3 core was released. The new Vue.js release",
-          "link": "https://www.freecodecamp.org/news/migrate-from-vue2-to-vue3-with-example-project/",
-          "publishedOn": "2021-06-02T19:14:53.000Z",
-          "wordCount": 2649,
-          "title": "How to Migrate from Vue v.2 to Vue v.3 with a Simple Example Project"
-        },
-        {
-          "id": "60b51f6e11ffb70827ef9f7c",
-          "author": null,
-          "description": "Today we're going to build and run an ice cream shop and learn asynchronous JavaScript at the same time. Along the way, you'll learn how to use: CallbacksPromisesAsync / AwaitHere's what we'll cover in this article:What is Asynchronous JavaScript?Synchronous vs Asynchronous JavaScriptHow Callbacks Work in JavaScriptHow Promises Work in",
-          "link": "https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/",
-          "publishedOn": "2021-06-02T14:45:18.000Z",
-          "wordCount": 3302,
-          "title": "JavaScript Async/Await Tutorial – Learn Callbacks, Promises, and Async/Await in JS by Making Ice Cream 🍧🍨🍦"
         }
       ]
     },
@@ -7362,6 +7236,132 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1777983",
+          "author": "Jim Salter",
+          "description": "dRAID vdevs resilver very quickly, using spare capacity rather than spare disks.",
+          "link": "https://arstechnica.com/?p=1777983",
+          "publishedOn": "2021-07-02T23:11:16.000Z",
+          "wordCount": 2015,
+          "title": "OpenZFS 2.1 is out—let’s talk about its brand-new dRAID vdevs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778045",
+          "author": "Dan Goodin",
+          "description": "Researchers uncovered 9 apps that used a sneaking method to pilfer credentials.",
+          "link": "https://arstechnica.com/?p=1778045",
+          "publishedOn": "2021-07-02T21:00:28.000Z",
+          "wordCount": 975,
+          "title": "Apps with 5.8 million Google Play downloads stole users’ Facebook passwords"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777987",
+          "author": "Jon Brodkin",
+          "description": "Large carriers deploy STIR/SHAKEN. Small carriers, old landlines are still problems.",
+          "link": "https://arstechnica.com/?p=1777987",
+          "publishedOn": "2021-07-02T19:38:58.000Z",
+          "wordCount": 1595,
+          "title": "US hits anti-robocall milestone but annoying calls won’t stop any time soon"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777775",
+          "author": "Jennifer Ouellette",
+          "description": "The only non-Lego components are the lenses, salvaged from smartphone cameras.",
+          "link": "https://arstechnica.com/?p=1777775",
+          "publishedOn": "2021-07-02T19:32:35.000Z",
+          "wordCount": 1563,
+          "title": "German scientists built a high-resolution microscope out of Lego bricks"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777958",
+          "author": "Samuel Axon",
+          "description": "The first interview with Qualcomm CEO Cristiano Amon lays out the strategy.",
+          "link": "https://arstechnica.com/?p=1777958",
+          "publishedOn": "2021-07-02T19:05:41.000Z",
+          "wordCount": 756,
+          "title": "Qualcomm plans to design an M1 competitor for PCs—sans ARM"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777964",
+          "author": "Beth Mole",
+          "description": "This isn't the first time the deadly bacteria has surfaced in the US unexpectedly.",
+          "link": "https://arstechnica.com/?p=1777964",
+          "publishedOn": "2021-07-02T18:26:04.000Z",
+          "wordCount": 1689,
+          "title": "New, deadly bacteria may be lurking in US; CDC warns of three puzzling cases"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777911",
+          "author": "Kyle Orland",
+          "description": "Nintendo seeks permanent injunction after Storman fails to make $50/month payment.",
+          "link": "https://arstechnica.com/?p=1777911",
+          "publishedOn": "2021-07-02T17:00:33.000Z",
+          "wordCount": 1152,
+          "title": "Despite $2.1M ruling, RomUniverse owner considers bringing back ROM site"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777860",
+          "author": "Ron Amadeo",
+          "description": "Flagship OnePlus phones get three major OS updates, four years of security updates.",
+          "link": "https://arstechnica.com/?p=1777860",
+          "publishedOn": "2021-07-02T16:41:08.000Z",
+          "wordCount": 893,
+          "title": "OnePlus now has one of the best Android update schedules"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777873",
+          "author": "Tim De Chant",
+          "description": "Will they just throw more algorithms at the problem?",
+          "link": "https://arstechnica.com/?p=1777873",
+          "publishedOn": "2021-07-02T16:22:27.000Z",
+          "wordCount": 1434,
+          "title": "Facebook, Twitter pledge to fight abuse of women but leave lots of room for failure"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777861",
+          "author": "Jonathan M. Gitlin",
+          "description": "Tesla says it has  done an outstanding job navigating supply challenges.",
+          "link": "https://arstechnica.com/?p=1777861",
+          "publishedOn": "2021-07-02T14:51:42.000Z",
+          "wordCount": 594,
+          "title": "Tesla has great quarter, delivers more than 200,000 EVs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777780",
+          "author": "Dan Goodin",
+          "description": "Deleting data from Echo Dots—and other IoT devices from Amazon and elsewhere—is hard.",
+          "link": "https://arstechnica.com/?p=1777780",
+          "publishedOn": "2021-07-02T12:55:52.000Z",
+          "wordCount": 2890,
+          "title": "Thinking about selling your Echo Dot—or any IoT device? Read this first"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777573",
+          "author": "Jonathan M. Gitlin",
+          "description": "The US automaker is investing in closed-loop extraction from the Salton Sea.",
+          "link": "https://arstechnica.com/?p=1777573",
+          "publishedOn": "2021-07-02T12:00:22.000Z",
+          "wordCount": 680,
+          "title": "General Motors looks to California for its next lithium supply"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776268",
+          "author": "Jeff Dunn",
+          "description": "If you want something different to play, allow us to highlight some deeper cuts.",
+          "link": "https://arstechnica.com/?p=1776268",
+          "publishedOn": "2021-07-02T11:30:05.000Z",
+          "wordCount": 4827,
+          "title": "30 under $25: A collection of good hidden gem games from Steam’s Summer Sale"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777764",
+          "author": "Eric Berger",
+          "description": "\"I am not allowed to talk about that.\"",
+          "link": "https://arstechnica.com/?p=1777764",
+          "publishedOn": "2021-07-02T11:00:36.000Z",
+          "wordCount": 2244,
+          "title": "Rocket Report: Super Heavy rolls to launch site, Funk will get to fly"
+        },
         {
           "id": "https://arstechnica.com/?p=1777776",
           "author": "Eric Berger",
@@ -10115,159 +10115,6 @@
           "publishedOn": "2021-06-03T13:51:35.000Z",
           "wordCount": 887,
           "title": "Virgin Galactic announces another human-tended science flight"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769479",
-          "author": "Dan Goodin",
-          "description": "Criminals use high-pressure tactics to extort victims.",
-          "link": "https://arstechnica.com/?p=1769479",
-          "publishedOn": "2021-06-03T12:40:12.000Z",
-          "wordCount": 2072,
-          "title": "Attack on meat supplier came from REvil, ransomware’s most cutthroat gang"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769340",
-          "author": "Jonathan M. Gitlin",
-          "description": "An intriguing and much more unusual alternative to the six-figure supercar.",
-          "link": "https://arstechnica.com/?p=1769340",
-          "publishedOn": "2021-06-03T10:45:41.000Z",
-          "wordCount": 1600,
-          "title": "This Range Rover Classic restomod runs on Tesla power"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769190",
-          "author": "Sam Machkovech",
-          "description": "Arrives in No Man's Sky's demanding VR mode, and we have numbers, image comparisons.",
-          "link": "https://arstechnica.com/?p=1769190",
-          "publishedOn": "2021-06-03T10:30:53.000Z",
-          "wordCount": 2019,
-          "title": "No Man’s Sky gets an impressive VR-DLSS performance boost—let’s test it"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769141",
-          "author": "Jennifer Ouellette",
-          "description": "French physicist Gabriel Lippmann created the first color photographs in 1891.",
-          "link": "https://arstechnica.com/?p=1769141",
-          "publishedOn": "2021-06-03T10:00:37.000Z",
-          "wordCount": 1440,
-          "title": "Physicists unlock multispectral secrets of earliest color photographs"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769277",
-          "author": "Eric Berger",
-          "description": "\"The Venus community is absolutely elated.\"",
-          "link": "https://arstechnica.com/?p=1769277",
-          "publishedOn": "2021-06-02T22:41:12.000Z",
-          "wordCount": 1097,
-          "title": "Venus is so very nice, NASA is going there twice"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769115",
-          "author": "Ron Amadeo",
-          "description": "Thanks to nearly identical code bases, Huawei can update \"Android\" to \"HarmonyOS.\"",
-          "link": "https://arstechnica.com/?p=1769115",
-          "publishedOn": "2021-06-02T22:05:51.000Z",
-          "wordCount": 1953,
-          "title": "Huawei officially replaces Android with HarmonyOS, which is also Android"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769275",
-          "author": "Jon Brodkin",
-          "description": "Verizon says it'll reverse subsidy restriction after \"complex\" billing-system update.",
-          "link": "https://arstechnica.com/?p=1769275",
-          "publishedOn": "2021-06-02T20:45:43.000Z",
-          "wordCount": 1405,
-          "title": "Verizon says forcing people off old plans to get FCC subsidy isn’t “upselling”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769282",
-          "author": "Tim De Chant",
-          "description": "Regulator concerned that Tesla's lawyers were not reviewing CEO's tweets.",
-          "link": "https://arstechnica.com/?p=1769282",
-          "publishedOn": "2021-06-02T20:05:22.000Z",
-          "wordCount": 1329,
-          "title": "SEC struggling to rein in Elon Musk’s tweets, letters reveal"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769175",
-          "author": "John Timmer",
-          "description": "People who overrate their media saviness share more misleading material.",
-          "link": "https://arstechnica.com/?p=1769175",
-          "publishedOn": "2021-06-02T19:45:18.000Z",
-          "wordCount": 1273,
-          "title": "Dunning-Kruger meets fake news"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769137",
-          "author": "Samuel Axon",
-          "description": "This is the first we've heard of an operating system called homeOS.",
-          "link": "https://arstechnica.com/?p=1769137",
-          "publishedOn": "2021-06-02T19:18:52.000Z",
-          "wordCount": 805,
-          "title": "Apple’s “homeOS” slip fits with prior rumors about new smart home products"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1768873",
-          "author": "Ars Staff",
-          "description": "Dealmaster also has early Prime Day deals, free video games, and Instant Pots.",
-          "link": "https://arstechnica.com/?p=1768873",
-          "publishedOn": "2021-06-02T18:57:15.000Z",
-          "wordCount": 2930,
-          "title": "Take $15 off a 12-month PlayStation Plus subscription today"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769155",
-          "author": "Corey Gaskin",
-          "description": "Garmin's LTE-connected watch is about safety while running. It's not for talking.",
-          "link": "https://arstechnica.com/?p=1769155",
-          "publishedOn": "2021-06-02T18:45:59.000Z",
-          "wordCount": 1887,
-          "title": "One week with Garmin’s newly announced Forerunner 945 LTE and Forerunner 55"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769148",
-          "author": "Jim Salter",
-          "description": "If you're willing to watch some ads, you can knock $5/mo off your service cost.",
-          "link": "https://arstechnica.com/?p=1769148",
-          "publishedOn": "2021-06-02T17:53:27.000Z",
-          "wordCount": 712,
-          "title": "HBO Max now offers a (partially) ad-supported service tier"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769140",
-          "author": "Kyle Orland",
-          "description": "Dream says he \"didn’t have any intention of cheating\" in controversial speedruns.",
-          "link": "https://arstechnica.com/?p=1769140",
-          "publishedOn": "2021-06-02T17:42:32.000Z",
-          "wordCount": 1720,
-          "title": "After months of drama, Minecraft speedrunner Dream admits he used mods"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769122",
-          "author": "Corey Gaskin",
-          "description": "The two-day sale event is back to its midsummer timeframe, on the heels of an announced MGM acquisition.",
-          "link": "https://arstechnica.com/?p=1769122",
-          "publishedOn": "2021-06-02T15:17:14.000Z",
-          "wordCount": 758,
-          "title": "Amazon Prime Day 2021 runs June 21-22, and a few deals are already live"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769100",
-          "author": "Eric Berger",
-          "description": "\"Compared to our competitors, we are in the kindergarten of fundraising.\"",
-          "link": "https://arstechnica.com/?p=1769100",
-          "publishedOn": "2021-06-02T14:00:33.000Z",
-          "wordCount": 945,
-          "title": "Launcher raises $11 million, ramps up hiring for 2024 flight"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1763439",
-          "author": "Sam Machkovech",
-          "description": "$1,199 MSRP is arguably worth it—in a universe where MSRP means anything, at least.",
-          "link": "https://arstechnica.com/?p=1763439",
-          "publishedOn": "2021-06-02T13:00:13.000Z",
-          "wordCount": 2061,
-          "title": "Review: Nvidia RTX 3080 Ti is a powerhouse—but good luck finding it at $1,199 MSRP"
         }
       ]
     }
