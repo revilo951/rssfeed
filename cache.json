@@ -6,6 +6,195 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/od8wle/on_premise_centralized_note_taking_app/",
+          "author": null,
+          "description": "Hello, I am a System Administrator and want to have a centralized backup of all notes created by agents who are working from home, at one place so that we can analyze and monitor if they are saving customer sensitive data that company policy prohibits.\n ​\n Any IDEAS!\n    submitted by    /u/Zealousideal_Ad_9695  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/od8wle/on_premise_centralized_note_taking_app/",
+          "publishedOn": "2021-07-03T23:36:28.000Z",
+          "wordCount": 264,
+          "title": "On Premise Centralized Note Taking App"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/od86e2/im_looking_for_an_email_program_that_can_help_me/",
+          "author": null,
+          "description": "submitted by    /u/Tyrannosaurus_Rox_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/od86e2/im_looking_for_an_email_program_that_can_help_me/",
+          "publishedOn": "2021-07-03T22:51:46.000Z",
+          "wordCount": 380,
+          "title": "I'm looking for an email program that can help me organize and deduplicate several very large mbox files"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/od851f/any_free_service_offering_the_ability_to_send/",
+          "author": null,
+          "description": "Does anyone here use the free tier of Google Cloud or Oracle Cloud, where they basically give you a VPS with an IPv4 address - does that work for SMTP and can you set up custom reverse DNS records?\n I am currently using a VPS at vultr for that, but as other services that ran on the VPS are no longer needed, I am looking for a free/cheaper alternative (but I'd like to keep a custom reverse DNS record).\n    submitted by    /u/PLANTROON  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/od851f/any_free_service_offering_the_ability_to_send/",
+          "publishedOn": "2021-07-03T22:49:35.000Z",
+          "wordCount": 264,
+          "title": "Any free service offering the ability to send e-mails to port 25 with custom reverse DNS?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/od73mb/suggestions_for_writing_a_bot_for_rocketchat/",
+          "author": null,
+          "description": "I noticed /r/rocketchat subreddit is owned by \"AutoModerator\", and submissions are restricted. \n I self host a rocketchat instance and I'm interested in finding a bot framework to use with it write a bot.\n hubot appears to possbly be abandoned ( not sure )\n the Rocketchat bot tutorials depend on botkit.ai ... which was sold to Microsoft, so now you can't get an API key for it.\n thanks\n    submitted by    /u/resolvconf  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/od73mb/suggestions_for_writing_a_bot_for_rocketchat/",
+          "publishedOn": "2021-07-03T21:47:55.000Z",
+          "wordCount": 190,
+          "title": "suggestions for writing a bot for Rocketchat?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/od4khj/need_advice_on_qemukvm_web_based_client_and_a_few/",
+          "author": null,
+          "description": "I'm trying to build a homeNAS. I've been using synology but I wasn't too happy and I think I'll roll my own. So far I can achieve the following:\n  \nI am leaning towards Arch Linux (have used Ubuntu, Void, Artix but liked Arch based in terms of lightweightedness and customizability).\n \nI can install root on ZFS and add other storages on ZFS. I can manually set up snapshot cycles using sanoid.\n \nwhatever complicated software I want to run, I run in docker if possible.\n \nI have tried TrueNAS Scale, and 21.06 beta isn't quite ready yet.\n \n I, however, am not going to dig around in CLI and config file all day long. I have a few things I'd prefer to have some \"service\" running on web GUI if possible.\n Things are: 4. Web-based file manager. I use TinyFileManager or FileRun 5. docker management. I use portainer. 6. server health monitoring. i can use cockpit.\n Things I'm looking for:\n A. I really would like to ask for advice for a KVM-QEMU web-based admin, kinda like virt-manager, but run totally on the web interface with display on web-VNC--like what TrueNAS Scale or Synology DSM offers. I'm looking at this list from KVM site and would appreciate any pointers.\n B. Web GUI to manage my scheduled snapshots (commanding sanoid basically).\n I'd appreciate any recommendation for solving A & B above.\n Thanks a lot for any advice in advance! Cheers!\n    submitted by    /u/kongkr1t  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/od4khj/need_advice_on_qemukvm_web_based_client_and_a_few/",
+          "publishedOn": "2021-07-03T19:23:59.000Z",
+          "wordCount": 427,
+          "title": "need advice on qemu-kvm web based client and a few others"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/od3wvs/my_domains_stopped_working_why/",
+          "author": null,
+          "description": "submitted by    /u/cberm725  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/od3wvs/my_domains_stopped_working_why/",
+          "publishedOn": "2021-07-03T18:48:23.000Z",
+          "wordCount": 381,
+          "title": "My domains stopped working. Why?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/od2b91/self_hosting_your_own_matrix_server_on_a/",
+          "author": null,
+          "description": "submitted by    /u/Svengalio  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/od2b91/self_hosting_your_own_matrix_server_on_a/",
+          "publishedOn": "2021-07-03T17:22:11.000Z",
+          "wordCount": 658,
+          "title": "Self hosting your own Matrix server on a Raspberry Pi"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/od1yv9/req_can_some_help_me_identify_selfhosted_php/",
+          "author": null,
+          "description": "Hi, few month ago there was some PHP reddit clone - selfhosted, i cant the hell remember the name but i think it has the domain of *.pw and urls like *.pw/t/* it has also something with free speech maybe\n it was promoted also on /r/piracy and/or /r/torrents /r/trackers\n Please help me, thx! :-)\n    submitted by    /u/momoax  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/od1yv9/req_can_some_help_me_identify_selfhosted_php/",
+          "publishedOn": "2021-07-03T17:03:55.000Z",
+          "wordCount": 242,
+          "title": "[REQ] Can some help me identify selfhosted PHP reddit clone site?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/od02v3/docker_setup_without_port_forwarding/",
+          "author": null,
+          "description": "I currently use Jellyfin using docker to stream my media on other devices at home. I would soon need this media to be accessible through remote connections. \n The main problem that I'm facing right now is that my ISP does not support port forwarding.\n Questions:\n  \nWill using a VPN on my machine help me enable remote connections? \n If so, which VPN should I consider for free(at least initially) use? \n Would it cause any issues if I later switch to reverse proxy (for adding Nextcloud)?\n \n I also read somewhere that I can use an ec2 instance to route my traffic through ssh. Is this possible? Any drawbacks, experiences?\n  \nIf VPN, ec2 traffic routing is not the solution to this, is there an alternative?\n [Sorry for the newbie questions, couldn't find many articles on it]\n    submitted by    /u/distbeliever  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/od02v3/docker_setup_without_port_forwarding/",
+          "publishedOn": "2021-07-03T15:22:15.000Z",
+          "wordCount": 554,
+          "title": "Docker set-up without port forwarding"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocztfx/matrix_alternative/",
+          "author": null,
+          "description": "Currently i am using matrix. But recently i found out that the protocol leaks a lot of metadata and most of it ends up at matrix.org and vector.im . This concerns me and i don't think i will be using matrix until this is solved.\n Other alternatives are XMPP but i hate the fact that the clients seems so incompatible with each other. I know of snikket but i don't like the fact that it runs in docker(but i would use it if i have to) and they don't have a desktop client yet. There is also signal, but they are turning a bit shady these days when they hid commits for a year. And also despite being open source, to self host signal is extremely hard, which i don't like. And also the crypto currency stuff surrounding signal.\n The only other alternative i know of is a fork of matrix(called Grid) that is currently only a protocol specification.\n What else can i use?\n  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocztfx/matrix_alternative/",
+          "publishedOn": "2021-07-03T15:08:27.000Z",
+          "wordCount": 798,
+          "title": "Matrix alternative."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocwpqv/gps_tracking_software/",
+          "author": null,
+          "description": "I am looking for a self hosted GPS tracking software. Have you tried self hosted software for this one, please recommend.\n    submitted by    /u/nikhil_webfosters  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocwpqv/gps_tracking_software/",
+          "publishedOn": "2021-07-03T11:59:26.000Z",
+          "wordCount": 219,
+          "title": "GPS tracking software"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocwlvq/best_way_to_compress_images_and_transcode_videos/",
+          "author": null,
+          "description": "I want to compress all my images (by lowering the quality or resolution) and transcode all my videos. I also want to be able to do this regulars for videos and images that are backed up.\n Is there a good way to do it? \n I've read about Tdarr but from what I've read it is only for videos. I'd prefer to use one solution for both actions or to hear about a solution for images and I'll use both.\n Thanks!\n    submitted by    /u/braverthanbrave  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocwlvq/best_way_to_compress_images_and_transcode_videos/",
+          "publishedOn": "2021-07-03T11:51:27.000Z",
+          "wordCount": 286,
+          "title": "Best way to compress images and transcode videos?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocwbte/fast_selfhosted_vpn_with_compression_to_client/",
+          "author": null,
+          "description": "I have a remote (Digital Ocean) server with a fast internet connection. I have a openvpn server set up so I can connect my devices when traveling.\n Often I'm on slow local hotel/countryside wifi connection so I can't benefit from the fast server-side internet link, being limited by the local speed.\n Is it possible to set up some type of MITM compression on the server (like Opera or Google do/used to to) where pages are compressed on the server before being sent to the client?\n Problem I see is that with webpages being https, the server can't downscale images etc that take up the most bandwidth.\n Any ideas? Or just not possible?\n    submitted by    /u/jakethepeg111  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocwbte/fast_selfhosted_vpn_with_compression_to_client/",
+          "publishedOn": "2021-07-03T11:31:02.000Z",
+          "wordCount": 581,
+          "title": "Fast selfhosted VPN with compression to client devices on slow networks - possible?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocu59l/looking_for_a_ms_word_lookalike_markdownlatex/",
+          "author": null,
+          "description": "I'm trying to find a web editor that looks like MS Word and saves as Markdown or LaTeX files. With \"looks like MS Word\" I mean that it only shows the \"rendered\" file and allows you to edit it without showing any language specific syntax.\n It's going to be used by my parents and some other older family members so the more it works like what they know (in this case MS Word) the better. I would like to avoid getting calls about \"asterisks appearing when I make something bold\" if possible\n Should be selfhosted and preferably it should save the files on the server but I can work around this point if need be.\n Thanks\n    submitted by    /u/trurufroth  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocu59l/looking_for_a_ms_word_lookalike_markdownlatex/",
+          "publishedOn": "2021-07-03T08:36:03.000Z",
+          "wordCount": 390,
+          "title": "Looking for a MS Word look-a-like Markdown/LaTeX editor"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocqg1j/psa_docker_bypasses_ufw/",
+          "author": null,
+          "description": "This is probably not news to most of you pros but if not, here you go. \n Docker will bypass UFW firewall by default. \n See this article for details and how to fix. \n I was going crazy trying to figure out why my server was so slow and why the load averages were so high. I was, unknowingly, running a crypto miner. I felt okay to play since I thought I was behind UFW and a Caddy reverse proxy. I guess not so much!\n    submitted by    /u/jwink3101  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocqg1j/psa_docker_bypasses_ufw/",
+          "publishedOn": "2021-07-03T03:53:04.000Z",
+          "wordCount": 1475,
+          "title": "PSA: Docker bypasses UFW"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocptqb/nginx_always_return_dummy_cert_file/",
+          "author": null,
+          "description": "Hi, I've been using nginx proxy manager on Home assistant, but every time i put on a new host and use a cloudflare/let's encrypt SSL the configuration points to the dummy cert. Is there a way to make it right? I've tried to remove the dummy cert file but that make the container to not go up.\n    submitted by    /u/rodgama  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocptqb/nginx_always_return_dummy_cert_file/",
+          "publishedOn": "2021-07-03T03:12:18.000Z",
+          "wordCount": 221,
+          "title": "Nginx always return dummy cert file"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocofkj/offline_map_tiles/",
+          "author": null,
+          "description": "Hi,First time poster to this sub so excuse me if I break any rules.\n I've been working on my own Home Dashboard and I was wondering what the best way to get map tiles off of OpenStreetMap/Leaflet providers for offline viewing, I've tried scripts but those are too slow or result in a block from the server. Would anyone here know how to download map tiles for offline viewing, tried searching online but can't find anything.\n Thanks\n    submitted by    /u/notVince00  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocofkj/offline_map_tiles/",
+          "publishedOn": "2021-07-03T01:42:40.000Z",
+          "wordCount": 242,
+          "title": "Offline Map Tiles"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oco7bo/was_using_pritunl_too_slow_looking_for/",
+          "author": null,
+          "description": "Hey guys,\n I'm looking for a vpn to access my local network resources remotely. I was using pritunl but it's too slow and doesn't have very many good docker containers. I did like that pritunl had an easy to configure gui. Looking for something that preferably can be run as an easy to deploy docker container. Thanks for any and all insight.\n    submitted by    /u/ricktech15  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oco7bo/was_using_pritunl_too_slow_looking_for/",
+          "publishedOn": "2021-07-03T01:27:40.000Z",
+          "wordCount": 298,
+          "title": "Was using pritunl, too slow. Looking for alternatives"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oco2az/is_there_any_finance_selfhosted_app_to_manage/",
+          "author": null,
+          "description": "I'm looking for something that will show me how much I spend in subscriptions (and other finance activities) and warn me when those are about to expire/renew via email/pushbullet/whatever.\n I want to be able to see how an annual subscription translates into a monthly pay and viceversa for example, and see how much I spend both monthly/annually, too.\n I was looking into Firefly III earlier but couldn't see anything about this, does anyone have an idea?\n    submitted by    /u/Stasky-X  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oco2az/is_there_any_finance_selfhosted_app_to_manage/",
+          "publishedOn": "2021-07-03T01:18:27.000Z",
+          "wordCount": 308,
+          "title": "Is there any finance self-hosted app to manage subscriptions?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oco1b4/suggestions_on_rails/",
+          "author": null,
+          "description": "Does anyone have any good suggestions for rails for this case?\n https://www.amazon.com/dp/B008RS2O7O/\n    submitted by    /u/Efadd1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oco1b4/suggestions_on_rails/",
+          "publishedOn": "2021-07-03T01:16:38.000Z",
+          "wordCount": 163,
+          "title": "Suggestions on rails."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ocnn9e/selective_file_sync_server_with_simple/",
+          "author": null,
+          "description": "I'm thinking maybe syncthing, but I really dislike web UIs or GUIs in general for setting these things up. Plain-text config files are easier to maintain and to deploy automatically.\n Is there an alternative that would allow me to have 2-3 clients to two-way sync files from a subset of the folders in the main server? Preferably a low-configuration alternative, where a short config file can specify the server IP and which folders I want to sync and where to store them in the client. Handling file history for some folders (server configuration) is a nice bonus.\n If this is possible with syncthing can someone point me to some good resources?\n Thanks in advance!\n ETA: FOSS is preferred :)\n    submitted by    /u/panzerex  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ocnn9e/selective_file_sync_server_with_simple/",
+          "publishedOn": "2021-07-03T00:52:11.000Z",
+          "wordCount": 250,
+          "title": "Selective file sync server with simple configuration files for clients"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/ocn5ru/seafile_cant_upload_files_over_1_mb/",
           "author": null,
           "description": "Just deployed Seafile through Nginx and Docker compose on a fresh Debian installation. I couldn't upload files over 1 MB. It stays on Uploading (0%) until I cancel. Was able to upload small files fine.\n ​\n Followed this tutorial to setup: seafile\n    submitted by    /u/KLiEhZhIAROKzA  \n [link]   [comments]",
@@ -5350,186 +5539,6 @@
           "publishedOn": "2021-06-04T13:42:51.000Z",
           "wordCount": 487,
           "title": "Borgbackup repository providers"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/ns3fy2/is_anyone_hosting_a_non_docker_installation_of/",
-          "author": null,
-          "description": "I'm running LXCs exclusively so hit me up if you're the guy.\n    submitted by    /u/ithakaa  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/ns3fy2/is_anyone_hosting_a_non_docker_installation_of/",
-          "publishedOn": "2021-06-04T12:01:45.000Z",
-          "wordCount": 174,
-          "title": "Is anyone hosting a non docker installation of hackershare?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/ns1big/advice_for_wireguard_setup/",
-          "author": null,
-          "description": "Hi, I have previously deployed wireguard using the linuxserver/wireguard docker image, and it was easy to set up with the objective of reaching my home server while away.\n Now, I'm looking to set up a vpn to connect some servers in the cloud into a subnet, without actually using the main wg server as a gateway (to avoid pinging traffic back and forth) - what I'm looking to achieve is to have different server computers accessible via a VPN network only, without proxying the traffic (ie clients use their respective gateways). Is this possible with wg? How should I set this up?\n I'm unsure as to how to set this up using docker. Nor do I have much experience with the 'ip' or networking packages. How would one set this up using docker? What prerequisite knowledge is important for a successful implementation here?\n I have read the official docs but was not able to see how to achieve the gateway criteria, and also did not have full understanding of the underlying 'ip' commands. Happy to get pointed to the right resources to achieve this.\n    submitted by    /u/ApocalypseAce  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/ns1big/advice_for_wireguard_setup/",
-          "publishedOn": "2021-06-04T09:51:05.000Z",
-          "wordCount": 581,
-          "title": "Advice for wireguard setup"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/ns14uk/any_selfhosted_web_analytics_that_dont_get_you/",
-          "author": null,
-          "description": "submitted by    /u/phpadam  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/ns14uk/any_selfhosted_web_analytics_that_dont_get_you/",
-          "publishedOn": "2021-06-04T09:38:48.000Z",
-          "wordCount": 256,
-          "title": "Any Self-Hosted Web Analytics that don't get you banned on Google Ads?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/ns0pbd/self_hosting_a_very_light_weight_forumsoftware/",
-          "author": null,
-          "description": "What is a very light weight forum software? As in light for the consumer/user.\n There's a somewhat popular forum I'm on that is sorta at the point where it will fly apart(and managment has taken the \"I can do what I want with my 100k user forum, even if that means changing what its based on and about, go build your own\"stance) but a decent chunk of the users have dial up like internet speeds. As a result, we are looking for something very light.\n Why not use the same software that that forum is using? Because it hasn't recieved any updates since 2011 and its recommended OS Windows server 2003.\n I have the internet capabilities, along with a pile of hardware sitting around and the others have knowledge in running and self hosting sites, but we can't seem to find something light to run, or something that light.\n Please let me know if this is the wrong place to ask, but it seemed like it was worth a shot to ask here.\n    submitted by    /u/TheGleanerBaldwin  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/ns0pbd/self_hosting_a_very_light_weight_forumsoftware/",
-          "publishedOn": "2021-06-04T09:10:19.000Z",
-          "wordCount": 578,
-          "title": "Self hosting a very light weight forum(software recommendations)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrzum3/piwigo_lychee_photoprism_librephotos_your_final/",
-          "author": null,
-          "description": "[POST is updating when having news, do not know how to underline what added :(]\n Hi everybody,\n I know that lot of discussions are around about this subjects, but here I would like to collect real esperiences: your requirements, what have you tested, positive and negative aspects and what (and why) finally you have chosen and are using. So, not just short suggestions, but \"evidences\". I think this could be more useful for people like me that are starting to face the problem. In the title I named the most famous tools in my opinions.\n As I will do, you may also post a work-in-progress situation.\n First, my one.\n REQUIREMENTS\n I'm looking for a stable, lightweight, easy-to-install solution with a related, eventually third parties, app (just browsing features, but it has should be an app... I…",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrzum3/piwigo_lychee_photoprism_librephotos_your_final/",
-          "publishedOn": "2021-06-04T08:12:10.000Z",
-          "wordCount": 1603,
-          "title": "Piwigo | Lychee | PhotoPrism | librephotos | ... : your final evaluations, experiences and choices (while looking for google photo replacement)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrx37z/google_keep_alternative/",
-          "author": null,
-          "description": "So, I've been using Google Keep for the better part of 3 years, and I've been trying to Self Host basically anything as a learning experience.\n I currently use Paperwork, which is great, but that's more of an Evernote clone, not exactly the post it note, quick jotdown style of Google Keep. \n Thought I'd ask the great people on this sub c:\n    submitted by    /u/dj_raidar_vip  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrx37z/google_keep_alternative/",
-          "publishedOn": "2021-06-04T05:03:56.000Z",
-          "wordCount": 620,
-          "title": "Google Keep Alternative?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrvo31/minecraft_server_hosting/",
-          "author": null,
-          "description": "I’ve been playing Minecraft for well over 10 years now, me and my buddies got into it when you were kids and it’s always stuck with us even into adulthood. Back when I was younger I would host servers on my dad‘s computer for the 5 to 10 of us that there were I wouldn’t run into any issues.\n Today, and on several other occasions in the recent college years, I have had the desire to create a server for a larger friend group around 30 players. However I would always run into an issue of “server overloaded, can’t keep up.” \n I have a fairly decent sized home lab and in my head it should be able to handle anything I threw at it. I’ve got two R720s in an R620 each server filled with 8 GB modules to the brim in a Proxmox cluster. But even if I threw 128GB of RAM and 32 cores, it would chug when …",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrvo31/minecraft_server_hosting/",
-          "publishedOn": "2021-06-04T03:37:34.000Z",
-          "wordCount": 1743,
-          "title": "Minecraft Server Hosting"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrvkdu/cloudflare_tunnels/",
-          "author": null,
-          "description": "Would I be able to host a exchange server behind a CGNAT with cloudflare tunnels. Opening all port 25,443,576 and getting DKIM to work. Is this possible to do or would I need a VPS with a VPN?\n    submitted by    /u/CoolGaM3r215  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrvkdu/cloudflare_tunnels/",
-          "publishedOn": "2021-06-04T03:31:27.000Z",
-          "wordCount": 185,
-          "title": "Cloudflare tunnels"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrskub/smtp_server_for_forwarding_mail_to_other/",
-          "author": null,
-          "description": "So I am hosting multiple apps with docker and not all of them support direct notification to those that I use like telegram and discord. Most of them only supports sending notification through smtp. Is there an app or container that can receive mail and forward them through telegram or discord? I am looking to write this myself on python since there's a library called apprise that supports sending notification to most notification channels that I use, so I just need to work the smtp server and formatting the notification.\n    submitted by    /u/indomiethief  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrskub/smtp_server_for_forwarding_mail_to_other/",
-          "publishedOn": "2021-06-04T00:46:08.000Z",
-          "wordCount": 244,
-          "title": "SMTP server for forwarding mail to other notification channels (Discord, telegram, etc.)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrqn3n/anyone_know_what_this_log_means_21624367180/",
-          "author": null,
-          "description": "submitted by    /u/playerunknown12  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrqn3n/anyone_know_what_this_log_means_21624367180/",
-          "publishedOn": "2021-06-03T23:07:08.000Z",
-          "wordCount": 226,
-          "title": "Anyone know what this log means 216.243.67.180 - - [05/Jan/2021:05:08:34 -0700] “GET /blog.php?id=1' UNION select 2, \"<?php system($\\_REQUEST\\['cmd'\\]); ?>\" INTO OUTFILE '/var/www/html/webshell.php” 404 0 “-“ “Mozilla/5.0 (compatible; DotBot/1.1; http://www.dotbootless.com/)” i am doing an assgmnt"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrpsa7/looking_for_a_data_analytics_app_for/",
-          "author": null,
-          "description": "Hi all,\n I had a quick question for you. I currently have a \"master tracker\" in excel where I track every single transaction/item as an expense. This excel file has with the following fields:\n  \nDate of Transaction\n Aggregate Vendor (e.g., Grocery Store, Health Food Store, Dollar Store)\n Specific Vendor (e.g., specific store name under the aggregate vendor - Krogers, Dollarama, etc)\n Region/Location (e.g., location of store or transaction - Dallas, Hamilton, etc)\n ID Category for transaction (e.g. GR for Groceries, VEH for vehicle related, CLT - for clothing related)\n Aggregate Item - high level category for the specific item I purchased (e.g., Fruits, Toys and Video Games)\n Specific Item being purchased (e.g., Pears, Mario 64)\n Amount of the purchase (e.g., $6.99)\n Quantity of the purchas…",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrpsa7/looking_for_a_data_analytics_app_for/",
-          "publishedOn": "2021-06-03T22:26:43.000Z",
-          "wordCount": 525,
-          "title": "Looking for a Data Analytics App for Expenses/Transaction Data"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrowqs/easy_to_use_linked_notespostits_with_image/",
-          "author": null,
-          "description": "A number of years ago I saw a note taking app on someone else's PC which looked like yellow post-its, but each had a name. It would basically function like a post-it shaped wiki with references between notes and aliases for notes.\n If you used another note's name in the text of your note it would automatically hyperlink to it wiki-style. You could also create a new note from text in your current note and that text would always hyperlink to that note. You could also have aliases so various versions of text would link to the same note. \n At least this is what I remember about it, but for the life of me I can't find it again now. It was on a linux machine, but I think it might have had a poor windows port at the time. \n Is there something similar, which would maybe allow the creation of stuff like mind maps, indexes, collate the notes into books, etc., but which can be hosted as a web app? I've looked at a number of apps in the awesome selfhosted list, but, at least from the descriptions, none seem to fit the bill. Tidlywiki seems to come close, but I'm not so sure from what I've tried of it so far.\n PS. Ideally it should allow for easy upload of images, preferably in-line pasting of screenshots.\n    submitted by    /u/dragonatorul  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrowqs/easy_to_use_linked_notespostits_with_image/",
-          "publishedOn": "2021-06-03T21:46:37.000Z",
-          "wordCount": 398,
-          "title": "Easy to use linked notes/post-its with image pasting and inline linking to other notes/pages?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrokl8/homer_dashboard_authentication/",
-          "author": null,
-          "description": "Has anyone got any tips/ideas/suggestions on adding authentication to homer?\n Currently have my homer dashboard setup using a simple nginx web server. \n Was wondering if there's anything out there that I can use to add a simple authentication/login page to my homer dashboard. So when you browse to https:homer.domain.abc > Login page > homer dashboard. \n I'm after something a bit more \"pretty\" then the simple http auth pop up box.\n    submitted by    /u/TheILupo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrokl8/homer_dashboard_authentication/",
-          "publishedOn": "2021-06-03T21:31:35.000Z",
-          "wordCount": 269,
-          "title": "Homer Dashboard Authentication"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nroh2b/looking_for_monitoring_solution/",
-          "author": null,
-          "description": "Hi,\n I am looking for a monitoring solution running on probably one of my raspberry pies. It would be great if it can send an email in case of a host down and maybe temp is getting to high. Services and not hosts only and maybe a dashboard would be nice. At work we have Icinga but not sure if that is a bit overkill for my 5 raspberries. \n Any idea of a cool docker Container solution for me?\n    submitted by    /u/h3rd3n  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nroh2b/looking_for_monitoring_solution/",
-          "publishedOn": "2021-06-03T21:27:15.000Z",
-          "wordCount": 453,
-          "title": "Looking for Monitoring solution"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrn5ky/is_there_a_software_or_program_that_is_a_mix_of/",
-          "author": null,
-          "description": "Hi all,\n Not sure if posting in the right thread but thought i would give it a shot. Been searching the web for hours on end trying to find a company that offers both a project management like https://asana.com/ but also has a video review system built in like frame.io. I'm not sure if such a program exists but if anyone does know of any, your help would be very much appreciated! Thanks\n    submitted by    /u/Idea_Cultural  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrn5ky/is_there_a_software_or_program_that_is_a_mix_of/",
-          "publishedOn": "2021-06-03T20:29:15.000Z",
-          "wordCount": 286,
-          "title": "Is there a software or program that is a mix of project management and video review?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrn21x/temperature_sensor_for_home/",
-          "author": null,
-          "description": "I don't know if this is necessarily the best sub to post this to, but from the subs that I am subscribed to it seems like it would fit best. As I work to grow my homelab setup, I am looking for a selfhosted smart home, specifically one I can use to monitor temperature throughout my home via some sort of connected sensor. Is this something anyone has tried or knows of a solution for? Apologies if this should have been posted somewhere else. I really appreciate any help.\n    submitted by    /u/THEderfiddler  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrn21x/temperature_sensor_for_home/",
-          "publishedOn": "2021-06-03T20:25:03.000Z",
-          "wordCount": 294,
-          "title": "Temperature Sensor for Home"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nri46m/fill_in_the_blanks_you_may_be_using_but_should_be/",
-          "author": null,
-          "description": "submitted by    /u/lateant  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nri46m/fill_in_the_blanks_you_may_be_using_but_should_be/",
-          "publishedOn": "2021-06-03T16:52:52.000Z",
-          "wordCount": 1190,
-          "title": "Fill in the blanks: You may be using _______, but should be using _______."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrhfl6/why_are_all_the_selfhostable_nvr_softwares_so/",
-          "author": null,
-          "description": "Seriously.\n NVR software to monitor/record cameras seems pretty basic but of all the options, none are easy or good, I'd say.\n Ignoring all the windows only crap for obvious reasons\n Zoneminder: Extremely difficult to set up, even in docker, and once you do get it set up it's ugly as sin and hard to put on a different port.\n Shinobi: The \"best\" option but the dev is apparently a huge dick, their documentation is laughable, the UI is bad and again, very difficult to dockerize.\n Kerberos.io: Sounded great, easy to use docker, nice UI, ONE CAMERA PER DOCKER INSTANCE. Seems to be intentional to drive people toward their enterprise (paid) option.\n Unifi-video: Before it was killed, it was a ubiquiti product (avoid, awful support now, unfortunately), and very difficult to host or dockerize reasonably, especially if you want to use SSL or GOD FORBID put it behind a reverse proxy.\n    submitted by    /u/gburgwardt  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrhfl6/why_are_all_the_selfhostable_nvr_softwares_so/",
-          "publishedOn": "2021-06-03T16:22:58.000Z",
-          "wordCount": 845,
-          "title": "Why are all the self-hostable NVR softwares so horrible"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrg6m6/how_do_you_keep_uidsgids_consistent_across_your/",
-          "author": null,
-          "description": "I've been using FreeIPA for a long time now but it seems way overkill for my environment. Basically the only thing I use it for is keeping UIDs and GIDs consistent across all my VMs and machines, and making it so I don't have to copy my ssh keys everywhere.\n Is there some simpler way to do this? I've considered making an ansible role that just has all the users and groups I need, but that seems like it might be a bit brittle.\n    submitted by    /u/Posting____At_Night  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrg6m6/how_do_you_keep_uidsgids_consistent_across_your/",
-          "publishedOn": "2021-06-03T15:28:22.000Z",
-          "wordCount": 624,
-          "title": "How do you keep UIDs/GIDs consistent across your self hosted infra?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nrcv23/netmaker_v05_support_for_most_devices_windows_mac/",
-          "author": null,
-          "description": "Hi /r/SelfHosted,\n Once again, I want to state my sincere thanks to the community for your support and feedback on Netmaker. We love hearing about new use cases and ideas on how to improve the platform. Many comments from Reddit have led to new enhancements.\n With that, I'd like to introduce Netmaker v0.5. It's a pretty big update. Here's a YouTube video if you want the TL;DR.\n For those unfamiliar, Netmaker is a platform for creating dynamic virtual networks using WireGuard. It takes machines running in different locations (home, office, cloud, data center), and puts them into a single flat network where they can talk to each other dynamically and securely.\n Here's the major update: External Clients\n This has been frequently requested, because our mesh networking agent (netclient) is rest…",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nrcv23/netmaker_v05_support_for_most_devices_windows_mac/",
-          "publishedOn": "2021-06-03T12:56:45.000Z",
-          "wordCount": 1575,
-          "title": "Netmaker v0.5 - Support for most devices (Windows, Mac, iPhone, Android) as clients to your private mesh network."
         }
       ]
     },
@@ -6039,24 +6048,6 @@
           "publishedOn": "2021-06-04T14:37:59.000Z",
           "wordCount": 1327,
           "title": "Can I :has()"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341584",
-          "author": "Temani Afif",
-          "description": "A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …\nThe post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/",
-          "publishedOn": "2021-06-03T14:25:57.000Z",
-          "wordCount": 4971,
-          "title": "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341494",
-          "author": "Chris Coyier",
-          "description": "DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.\nIt’ll start running tests, and you’ve immediately got performance charts you can …\nThe post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/",
-          "publishedOn": "2021-06-03T14:25:19.000Z",
-          "wordCount": 865,
-          "title": "Monitoring Lighthouse Scores and Core Web Vitals with DebugBear"
         }
       ]
     },
@@ -6441,20 +6432,6 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20dc2361-e5a5-4a78-b380-2f5942ecfba8/building-geocoding-app-vue-mapbox.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
-          "author": "hello@smashingmagazine.com (Nwani Victory)",
-          "description": "Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.",
-          "link": "https://smashingmagazine.com/2021/06/getting-started-webpack/",
-          "publishedOn": "2021-06-04T10:00:00.000Z",
-          "wordCount": 4138,
-          "title": "Getting Started With Webpack",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/66ba7a41-2a37-471b-9c60-66a3162d8f05/webpack-dependency-graph-opt.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
@@ -7165,69 +7142,6 @@
           "publishedOn": "2021-06-04T18:01:00.000Z",
           "wordCount": 2225,
           "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
-        },
-        {
-          "id": "60b98ebfacb62507dd1d8ec4",
-          "author": null,
-          "description": "Are you looking for a way to apply Python and machine learning to a real-world application? You should consider Bioinformatics. Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data, in particular when the data sets are large and complex. We just released a course",
-          "link": "https://www.freecodecamp.org/news/python-for-bioinformatics-use-machine-learning-and-data-analysis-for-drug-discovery/",
-          "publishedOn": "2021-06-04T02:32:22.000Z",
-          "wordCount": 390,
-          "title": "Python for Bioinformatics: Use Machine Learning and Data Analysis for Drug Discovery"
-        },
-        {
-          "id": "60b11ff811ffb70827ef8f94",
-          "author": null,
-          "description": "Let’s say you plan to build a website. Before you start, you want to set up a few tools to make your life easier. But which tools should you have? The JavaScript ecosystem is changing so fast that it can be overwhelming to pick the best tools to use.",
-          "link": "https://www.freecodecamp.org/news/how-to-set-up-a-front-end-development-project/",
-          "publishedOn": "2021-06-03T21:44:03.000Z",
-          "wordCount": 3978,
-          "title": "JavaScript Tutorial – How to Set Up a Front End Development Project"
-        },
-        {
-          "id": "60afd68611ffb70827ef86d8",
-          "author": null,
-          "description": "Schofield's Laws of Computing are principles that anyone who works with computers should know. They're focused on data portability, integrity, and security.  Jack Schofield was a British journalist who wrote for The Guardian. During that time, he wrote three particular articles called \"Schofield's Laws of Computing\". Jack didn't create these",
-          "link": "https://www.freecodecamp.org/news/schofields-laws-of-computing/",
-          "publishedOn": "2021-06-03T18:46:12.000Z",
-          "wordCount": 1588,
-          "title": "Schofield&#x27;s Laws of Computing – What they Are and Why You Should Know Them"
-        },
-        {
-          "id": "60b7c02cacb62507dd1d7b80",
-          "author": null,
-          "description": "Let’s suppose you’re planning to visit your neighborhood store to stock up on essentials. What is the first thing you’d do?  Have the answer already? Yes, you'd probably write down a shopping list! Python also has a built-in data structure called List that’s very similar to",
-          "link": "https://www.freecodecamp.org/news/lists-in-python-comprehensive-guide/",
-          "publishedOn": "2021-06-03T18:42:20.000Z",
-          "wordCount": 1748,
-          "title": "Lists in Python – A Comprehensive Guide"
-        },
-        {
-          "id": "60affbe411ffb70827ef8951",
-          "author": null,
-          "description": "A Hackintosh is a non-Mac computer system, made with PC parts, that runs the macOS operating system. In this tutorial, you will learn how to create a Hackintosh. You will learn how to install macOS Big Sur (or any other version of macOS) using OpenCore. The main benefit of a",
-          "link": "https://www.freecodecamp.org/news/build-a-hackintosh/",
-          "publishedOn": "2021-06-03T18:07:17.000Z",
-          "wordCount": 2708,
-          "title": "How to Build a Hackintosh - Install MacOS Big Sur on a PC Using OpenCore"
-        },
-        {
-          "id": "60aa708711ffb70827ef5f4b",
-          "author": null,
-          "description": "If you're new to cloud technologies, you might be confused about the difference between serverless technologies and managed services.  So in this article you'll learn what these terms mean and what the main differences are.    What Are Managed Services? A managed service let the end-user focus on using a service",
-          "link": "https://www.freecodecamp.org/news/serverless-fully-managed-service-difference/",
-          "publishedOn": "2021-06-03T16:51:37.000Z",
-          "wordCount": 1453,
-          "title": "Serverless vs Fully Managed Services: What&#x27;s the Difference?"
-        },
-        {
-          "id": "5fff3d3098be260817e495bd",
-          "author": null,
-          "description": "Cryptography is the science of using codes and ciphers to protect messages. And encryption involves encoding messages so that only the intended recipient can understand the meaning of the message. It's often used to protect data in transit. Encryption is a two way function – that is, you need to be",
-          "link": "https://www.freecodecamp.org/news/what-is-a-block-cipher/",
-          "publishedOn": "2021-06-03T16:21:19.000Z",
-          "wordCount": 2747,
-          "title": "Cipher Definition – What is a Block Cipher and How Does it Work to Protect Your Data?"
         }
       ]
     },
@@ -7236,6 +7150,42 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1131697",
+          "author": "Sebastian Anthony",
+          "description": "From the archives: There's a surprising amount of cool tech for a 140-year-old event.",
+          "link": "https://arstechnica.com/?p=1131697",
+          "publishedOn": "2021-07-03T13:35:38.000Z",
+          "wordCount": 1710,
+          "title": "Wimbledon: The tech behind the world’s top tennis tournament"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778022",
+          "author": "Ars Contributors",
+          "description": "Sleep deficits are robbing poor people and racial minorities of health and earning power.",
+          "link": "https://arstechnica.com/?p=1778022",
+          "publishedOn": "2021-07-03T13:00:48.000Z",
+          "wordCount": 2058,
+          "title": "The great sleep divide"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778005",
+          "author": "Ars Contributors",
+          "description": "Lawmakers are poised to decide the fate of this massive project.",
+          "link": "https://arstechnica.com/?p=1778005",
+          "publishedOn": "2021-07-03T12:30:35.000Z",
+          "wordCount": 1851,
+          "title": "A $26-billion plan to save the Houston area from rising seas"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1777985",
+          "author": "WIRED",
+          "description": "Moscow's Fancy Bear group has been on a password-guessing spree this whole time.",
+          "link": "https://arstechnica.com/?p=1777985",
+          "publishedOn": "2021-07-03T11:00:33.000Z",
+          "wordCount": 1329,
+          "title": "Russian hackers are trying to brute-force hundreds of networks"
+        },
         {
           "id": "https://arstechnica.com/?p=1777983",
           "author": "Jim Salter",
@@ -9998,123 +9948,6 @@
           "publishedOn": "2021-06-04T14:53:22.000Z",
           "wordCount": 1200,
           "title": "Facebook extends Trump ban, ends exemptions for politicians’ posts [Updated]"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769834",
-          "author": "Dan Goodin",
-          "description": "Directive comes as ransomware is exposing the fragility of critical supply chains.",
-          "link": "https://arstechnica.com/?p=1769834",
-          "publishedOn": "2021-06-04T11:55:35.000Z",
-          "wordCount": 750,
-          "title": "Ransomware will now get priority treatment at the Justice Department"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769761",
-          "author": "Eric Berger",
-          "description": "\"Listen to customers, don't listen to pundits and market analysts.\"",
-          "link": "https://arstechnica.com/?p=1769761",
-          "publishedOn": "2021-06-04T11:00:34.000Z",
-          "wordCount": 2173,
-          "title": "Rocket Report: SpaceX breaks streak of used launches, FAA clears Electron"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769720",
-          "author": "Samuel Axon",
-          "description": "Software is usually the focus, but we'll probably see a new Mac chip.",
-          "link": "https://arstechnica.com/?p=1769720",
-          "publishedOn": "2021-06-03T23:19:30.000Z",
-          "wordCount": 1351,
-          "title": "What to expect from WWDC 2021: iOS 15, M2, and more"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769691",
-          "author": "John Timmer",
-          "description": "A revised genetic code is a pathway for bacteria to do things that seem unnatural.",
-          "link": "https://arstechnica.com/?p=1769691",
-          "publishedOn": "2021-06-03T21:06:56.000Z",
-          "wordCount": 1679,
-          "title": "Researchers rewire the genetics of E. coli, make it virus-proof"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769621",
-          "author": "Jon Brodkin",
-          "description": "Justices reject US gov's broad interpretation of Computer Fraud and Abuse Act.",
-          "link": "https://arstechnica.com/?p=1769621",
-          "publishedOn": "2021-06-03T19:46:52.000Z",
-          "wordCount": 2105,
-          "title": "Supreme Court reins in definition of crime under controversial hacking law"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769554",
-          "author": "Jennifer Ouellette",
-          "description": "\"You're going on a journey through memory. All you have to do is follow my voice.\"",
-          "link": "https://arstechnica.com/?p=1769554",
-          "publishedOn": "2021-06-03T19:33:25.000Z",
-          "wordCount": 1228,
-          "title": "Warner Bros. releases trailer for noir-esque sci-fi thriller Reminiscence"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769531",
-          "author": "Ron Amadeo",
-          "description": "Samsung is killing the OG hub, along with most of the original appeal of SmartThings.",
-          "link": "https://arstechnica.com/?p=1769531",
-          "publishedOn": "2021-06-03T18:29:34.000Z",
-          "wordCount": 1065,
-          "title": "Samsung will shut down the v1 SmartThings hub this month"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769551",
-          "author": "Sam Machkovech",
-          "description": "Comes after attempts to differentiate from Xbox's cross-gen \"Smart Delivery\" plans.",
-          "link": "https://arstechnica.com/?p=1769551",
-          "publishedOn": "2021-06-03T18:03:11.000Z",
-          "wordCount": 1359,
-          "title": "Sony’s “generations matter” mantra crumbles: Gran Turismo 7 will be cross-gen"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769303",
-          "author": "Doug Johnson",
-          "description": "Researchers find evidence of a huge shark die-off but aren't sure what happened.",
-          "link": "https://arstechnica.com/?p=1769303",
-          "publishedOn": "2021-06-03T18:00:10.000Z",
-          "wordCount": 1302,
-          "title": "The world saw a shark-pocalypse 19 million years ago, and we don’t know why"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769534",
-          "author": "Jim Salter",
-          "description": "\"Don't expect to see major changes or awkward synergies,\" said site co-founder.",
-          "link": "https://arstechnica.com/?p=1769534",
-          "publishedOn": "2021-06-03T17:41:58.000Z",
-          "wordCount": 729,
-          "title": "Stack Overflow sold to tech investor Prosus for $1.8 billion"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769545",
-          "author": "Tim De Chant",
-          "description": "Both have the potential to alter air travel as we know it.",
-          "link": "https://arstechnica.com/?p=1769545",
-          "publishedOn": "2021-06-03T17:28:44.000Z",
-          "wordCount": 1351,
-          "title": "Aviation in 2030: Fuel-guzzling supersonic planes or electric air taxis?"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769532",
-          "author": "Jonathan M. Gitlin",
-          "description": "Part engineering exercise, part safety demonstration.",
-          "link": "https://arstechnica.com/?p=1769532",
-          "publishedOn": "2021-06-03T16:58:36.000Z",
-          "wordCount": 1492,
-          "title": "Here’s why Toyota converted this Corolla to hydrogen and went racing"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769492",
-          "author": "Eric Berger",
-          "description": "\"We're going to finish our test flight program this year.\"",
-          "link": "https://arstechnica.com/?p=1769492",
-          "publishedOn": "2021-06-03T13:51:35.000Z",
-          "wordCount": 887,
-          "title": "Virgin Galactic announces another human-tended science flight"
         }
       ]
     }
