@@ -6,6 +6,141 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odvjh9/ups_or_powerbank_for_a_raspberry_pi_4/",
+          "author": null,
+          "description": "Hi guys!\n My electricity sometimes cuts off for a few seconds, and it's enough for my pi 4 to brutally reboot.\n In order to prevent this, is a powerbank kept attached to the electric plug enough, with the pi 4 plugged on it? Or should I get an actual UPS?\n In either case, which model do you advise?\n Many thanks to anyone who helps :)\n    submitted by    /u/schklom  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odvjh9/ups_or_powerbank_for_a_raspberry_pi_4/",
+          "publishedOn": "2021-07-04T23:32:58.000Z",
+          "wordCount": 177,
+          "title": "UPS or powerbank for a raspberry pi 4?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odudx6/wake_on_lan_can_power_up_nas_but_cannot_resume/",
+          "author": null,
+          "description": "Hi,\n My NAS' motherboard is an Asrock j4105-itx. I can use wake on LAN to power up the NAS, that's great. But if the NAS has been sent to suspend, the magic packet won't power up the NAS.\n I'm thinking that a workaround could be to use hibernate instead of suspend, the rare times I need to make sure the NAS is all quiet.\n But is my problem a common thing among people who use WOL?\n Thank you.\n    submitted by    /u/jimi_hendrisk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odudx6/wake_on_lan_can_power_up_nas_but_cannot_resume/",
+          "publishedOn": "2021-07-04T22:21:43.000Z",
+          "wordCount": 218,
+          "title": "wake on LAN: can power up NAS, but cannot resume from suspend"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odtah8/https_and_letsencrypt_reverse_proxy_or_direct/",
+          "author": null,
+          "description": "I'm setting up a WikiJS with Keycloak. Keycloak says it generally sits behind a reverse proxy, so I was wondering if that is standard practice. Do people generally apply the HTTPS and the LetsEncrypt certificate on say an Nginx proxy, or should it be applied directly to Keycloak/WikiJS?\n    submitted by    /u/meowman3000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odtah8/https_and_letsencrypt_reverse_proxy_or_direct/",
+          "publishedOn": "2021-07-04T21:19:07.000Z",
+          "wordCount": 281,
+          "title": "HTTPS and LetsEncrypt - Reverse Proxy or Direct?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odsgtk/heimdall_cpuram_usage/",
+          "author": null,
+          "description": "Has anyone noticed how much resources Heimdall uses? Is there anyway to limit it\n    submitted by    /u/buyythedip  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odsgtk/heimdall_cpuram_usage/",
+          "publishedOn": "2021-07-04T20:33:50.000Z",
+          "wordCount": 158,
+          "title": "Heimdall CPU/RAM usage?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odqpiy/linux_and_docker_container_data_help_needed/",
+          "author": null,
+          "description": "I've had all my docker containers in the Synology's docker app with their data in bind mounts. It was easy to backup because it was just file system folders and files.\n Now I've made the jump to Ubuntu server (I'm a Linux novice) and installed all my favorites containers there.\n Most of them are with bind mounts, but I was forced to make a docker volume for a Postgres database.\n I've read that volumes are the recommended way to store persistent data.\n Can you guys help me understand and answer the following, please?\n  \nShould I only work with volumes and not bind mounts?\n How do I easily and automatically take a backup of my container data (preferably to my NAS)?\n Is it something like https://hub.docker.com/p/loomchild/volume-backup or https://hub.docker.com/r/futurice/docker-volume-backup? Can you recommend something else?\n How do you edit various files in the volumes, when the data is located in /var/lib/docker/volumes/, and you have to sudo all the time? I would prefer to have the folder mounted in something like Visual Studio Code, but I don't have access with my user (without sudo).\n  \nThanks!\n    submitted by    /u/soilage  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odqpiy/linux_and_docker_container_data_help_needed/",
+          "publishedOn": "2021-07-04T18:58:06.000Z",
+          "wordCount": 550,
+          "title": "Linux and Docker container data. Help needed"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odqmdg/heimdall_problems/",
+          "author": null,
+          "description": "Hello everybody,\n I recently setup heimdall. And decided to as I do with all my other sites set it to go thru my nginx reverse proxy. But there is a weird thing, when I try to visit it it gives me an items and apps button and a login button. But these all redirect to http://127.0.0.1:8888(Port of heimdall).\n Do you guys have any idears what could cause this as this only happens when it's being directed thru my reverse proxy. As when I just go straight to the IP from my PC it works.\n (My setup)Heimdall port 8888 set to 80 on the container port.Nginx reverse proxy with the below settings.\n server {\n listen 80;\n server_name subdomain.domain.xyz;\n ​\n location / {\n proxy_pass http://127.0.0.1:8888;\n }\n }\n And it gives the below problem\n ​\n https://preview.redd.it/e2hhrr38t8971.png?width=1920&format=png&auto=webp&s=5504c575691ca4376cc8677d29e38c478784e78e\n ​\n Edit: I was able to fix it by switching from NGINX to Caddy which i had wanted to do for a long time so win win I guess.\n    submitted by    /u/Stetsed  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odqmdg/heimdall_problems/",
+          "publishedOn": "2021-07-04T18:53:24.000Z",
+          "wordCount": 258,
+          "title": "Heimdall problems?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odqhol/photostore/",
+          "author": null,
+          "description": "Hi All, \n I have been working for a while on a side project I call Photostore. Photostore is a self-hosted mobile photo/video backup solution. Kind of like a really boiled down version of Google Photos (without machine learning or any public cloud connectivity). There are two parts to the app:\n  \nThe frontend - written in Flutter which compiles to iOS, Android and Web. \n The backend - a Python/FastAPI API server app that can be configured with a Postgres or SQLite DB. (Dockerfile provided in the project)\n  \nSo far the Photostore app has the ability to: \n  \nBackup mobile photos and view mobile photos for multiple devices (each device is identified by a custom identifier defined per device)\n Mobile videos can be backed up as well, but can not currently be played through the app\n All server p…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odqhol/photostore/",
+          "publishedOn": "2021-07-04T18:46:17.000Z",
+          "wordCount": 646,
+          "title": "Photostore"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odpoca/keeping_my_server_up_after_blackouts/",
+          "author": null,
+          "description": "I have turned an old PC that I had at home into a small Nextcloud Server (running on Ubuntu) It works fine, but when there is a blackout (they are kind of frequent in my area) it shuts down (obviously) and doesn’t turn on again when electricity is back.\n Since I’m often far from home (where this server is) I would like it to turn on automatically (or remotely) when electricity is back, so that I won’t need always someone to do it physically. \n Any idea on how to achieve this? How did you solved this problem with your servers?\n    submitted by    /u/Elodran  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odpoca/keeping_my_server_up_after_blackouts/",
+          "publishedOn": "2021-07-04T18:03:20.000Z",
+          "wordCount": 885,
+          "title": "Keeping my server up after blackouts"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odok34/is_there_a_self_hosted_alternative_to_azure_web/",
+          "author": null,
+          "description": "submitted by    /u/_jobhunt_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odok34/is_there_a_self_hosted_alternative_to_azure_web/",
+          "publishedOn": "2021-07-04T17:05:11.000Z",
+          "wordCount": 177,
+          "title": "Is there a self hosted alternative to Azure Web PubSub?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odlqhy/self_hosted_recommendations/",
+          "author": null,
+          "description": "Hello all! I will put this into words as best as I can! I am currently starting to teach some classes that require the students to sign some waivers and sign some paperwork. I want to be able to assign each students paperwork to a profile for them so that I have the ability to search the student name and pull up their paperwork. I tired looking into some student information systems but it seems like it may be a little much for what I want. If anyone has any suggestions that would be great!\n    submitted by    /u/joe9624  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odlqhy/self_hosted_recommendations/",
+          "publishedOn": "2021-07-04T14:39:15.000Z",
+          "wordCount": 413,
+          "title": "Self Hosted recommendations."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odl28o/realtime_collaborative_text_editor/",
+          "author": null,
+          "description": "I'm searching for a collaborative text editor that updates in real time while typing and comes with a minimal set of features. Something like Pad but without the need for node.js (PHP only).\n    submitted by    /u/tobidwest  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odl28o/realtime_collaborative_text_editor/",
+          "publishedOn": "2021-07-04T14:02:59.000Z",
+          "wordCount": 264,
+          "title": "Real-time collaborative text editor"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odisl1/python_rclone_backup_script_with_telegram/",
+          "author": null,
+          "description": "submitted by    /u/lucanello  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odisl1/python_rclone_backup_script_with_telegram/",
+          "publishedOn": "2021-07-04T11:41:30.000Z",
+          "wordCount": 264,
+          "title": "Python Rclone Backup Script with Telegram, InfluxDB and Grafana Reporting"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odg2ej/help_in_making_a_cs_go_server/",
+          "author": null,
+          "description": "submitted by    /u/fartymcfluffy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odg2ej/help_in_making_a_cs_go_server/",
+          "publishedOn": "2021-07-04T08:12:17.000Z",
+          "wordCount": 247,
+          "title": "Help in making a cs go server"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oddh5o/wireguardinitramfs_for_debian_bullseye_eg/",
+          "author": null,
+          "description": "Heya folks,\n Just posted the first rev of wireguard-initramfs for debian bullseye.\n This enables you to setup a wireguard network during kernel init, enabling remote crypt FS unlocking via dropbear over wireguard, removing the need to expose ports or services on the remote network; additionally this enables you to create a remote box that is fully encrypted with no local key material outside of the boot wireguard client private key.\n Hope someone else finds this useful!\n    submitted by    /u/TheDrMonocles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oddh5o/wireguardinitramfs_for_debian_bullseye_eg/",
+          "publishedOn": "2021-07-04T04:48:13.000Z",
+          "wordCount": 995,
+          "title": "wireguard-initramfs for debian bullseye (e.g. dropbear over wireguard) [working]"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/odcfdd/firework_sequencingsimulation_software/",
+          "author": null,
+          "description": "Happy 4th of July to all of my American Self Hosters! \n Does anyone know of a sequencing software where you could create a fireworks show with a visual preview? \n I have thought about using something like Vixen to do this, but there is no preview of what the show would look like, and the use case for that software is for holiday lights. \n Any help would be much appreciated. Thank you!\n    submitted by    /u/Thewball  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/odcfdd/firework_sequencingsimulation_software/",
+          "publishedOn": "2021-07-04T03:33:52.000Z",
+          "wordCount": 268,
+          "title": "Firework Sequencing/Simulation Software"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/od8wle/on_premise_centralized_note_taking_app/",
           "author": null,
           "description": "Hello, I am a System Administrator and want to have a centralized backup of all notes created by agents who are working from home, at one place so that we can analyze and monitor if they are saving customer sensitive data that company policy prohibits.\n ​\n Any IDEAS!\n    submitted by    /u/Zealousideal_Ad_9695  \n [link]   [comments]",
@@ -5404,141 +5539,6 @@
           "publishedOn": "2021-06-05T14:11:59.000Z",
           "wordCount": 1231,
           "title": "Another randos critique of Google Photo replacement options"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nss1jd/document_management_who_does_what_best/",
-          "author": null,
-          "description": "First, this sub is great and I find that people are helpful and not snobby. I even started listening to the podcast and enjoy it. So to everyone here: thank you. \n I've got Paperless-ng up and running in Docker and even though there were some bumps, the experience really helped me to learn about how Docker works. Before Paperless-ng, I created a bash script to do the scanning and OCR for me (props to OCRmyPDF, it works great), but I didn't have any learning or tagging system. So far it seems to work well, but I wanted to hear about other document management systems and their various strengths and weaknesses. Does one work better at invoices or does another seem to hang up on certain languages?\n    submitted by    /u/zebutron  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nss1jd/document_management_who_does_what_best/",
-          "publishedOn": "2021-06-05T09:34:27.000Z",
-          "wordCount": 661,
-          "title": "Document Management: who does what best?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nsouqd/nextcloud_docker_on_pi/",
-          "author": null,
-          "description": "I have installed nextcloud in several ways on raspberry pi4 4gb ram using nextcloud pi , custom install and docker . Docker end setup was awesome and simple but the ip it uses cant be accessed on another device under same network . It timesout any way to access it , I am noobie in this but note that my router ip and public ip are different as I believe its from router within router so I know portforwarding doesnt work . Is there anyway to portforward in secure and private way as I know there are sites like portmap.io but need best privacy respecting now ? Also is it just different issue that I cant access outside pi on same network\n    submitted by    /u/DesperateEmphasis340  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nsouqd/nextcloud_docker_on_pi/",
-          "publishedOn": "2021-06-05T05:48:44.000Z",
-          "wordCount": 438,
-          "title": "Nextcloud docker on pi"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nsncul/question_regarding_selfhosted_webscraping_projects/",
-          "author": null,
-          "description": "Hey there,\n I am in the process of building a home server, and wanted to know if anyone knew any cool webscraping projects they've deployed.\n For some reason, the idea to reach out and ping different internet servers for information or to gather data, etc, sounds like a ton of fun. Its just an ocean of servers, and there's gotta be some cool stuff to find (FTP, directories, etc).\n Any projects involving Archive.org , Wayback Machine, etc would be super cool too.\n Or if you guys have any previous webscraper or webcrawler projects you'd like to share for reference, I'm all ears. I ask because I used to be super into this to make Twitter bots that did this, and wanted to get back into this but more so for my personal website, and for my home server too.\n ​\n Thanks as always!\n    submitted by    /u/BackToPlebbit69  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nsncul/question_regarding_selfhosted_webscraping_projects/",
-          "publishedOn": "2021-06-05T04:12:38.000Z",
-          "wordCount": 400,
-          "title": "Question Regarding Self-Hosted Webscraping Projects"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nsna5y/question_regarding_bird_watching_selfhosted/",
-          "author": null,
-          "description": "Hey everyone,\n I've gone the gambit of trying to debate how to go about this, but wanted your take on this to see if there is anything decent to do some bird watching.\n Are there any decent, easily deployable, bird watching projects to do secure streams of an outside bird feeder?\n This sounds really dumb, but the one great thing about working from home sometimes is that one of the bird feeders gets swarmed with some really cool looking birds (we're talking cardinals, blue jays, etc) and I would love it if I could deploy a decent webcam that could do motion capture for this kind of thing.\n I would deploy it on a site too if its secure as well, but wanted it to be a bit hacker proof in that I don't want anyone to be able to just control the camera. \n I kind of was thinking to have something that would be able to just record previously recorded video which I could then dump onto a video file on my site later, so it would stream initially on LAN, and then be dumped to a file on my site for public viewing later.\n Any ideas?\n ​\n I'm open to getting a Pi (Zero, 3, 4, etc) with related power banks. Its just the idea of how to power it over a whole week is what has kept me from actually doing it.\n ​\n Thanks as always!\n    submitted by    /u/BackToPlebbit69  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nsna5y/question_regarding_bird_watching_selfhosted/",
-          "publishedOn": "2021-06-05T04:08:11.000Z",
-          "wordCount": 542,
-          "title": "Question Regarding Bird Watching Self-Hosted Projects"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nsjhpr/forum_wiki_and_site_for_a_small_community/",
-          "author": null,
-          "description": "I want to set up a site for a community conservation group. \n We need :\n  \nForums for discussing what we want to do\n A Wiki for documenting locations, tools, and techniques\n A small public facing website so that people can find out about what we're doing\n Single sign on\n A mobile phone app. At least for the forum.\n  \nIs this doable? If so what's the easiest way to do it?\n    submitted by    /u/aboy021  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nsjhpr/forum_wiki_and_site_for_a_small_community/",
-          "publishedOn": "2021-06-05T00:27:13.000Z",
-          "wordCount": 192,
-          "title": "Forum, Wiki, and Site, for a small community"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nsiowe/how_to_setup_a_vpn_to_access_a_web_server_behind/",
-          "author": null,
-          "description": "I have a raspberry pi 4 running in my home which I use for selfhosting tools I use. Sadly my ISP sucks and I'm behind a CGNAT. My rpi4 doesn't have a public ip and is not directly accessible from the internet.\n Some time ago I read on this sub that its possible to make your server accessible using a VPN forward your requests.\n I'm still noob at this so can you tell how do I do this?\n    submitted by    /u/HarambeTownley  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nsiowe/how_to_setup_a_vpn_to_access_a_web_server_behind/",
-          "publishedOn": "2021-06-04T23:43:24.000Z",
-          "wordCount": 346,
-          "title": "How to setup a VPN to access a web server behind a CGNAT?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nsifez/anyone_build_their_own_home_dashboard/",
-          "author": null,
-          "description": "Anyone out there build something like a dashboard or magicmirror for their home themselves?\n If you did, tell me about and link your source code if you got some.\n    submitted by    /u/AnUncreativeName10  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nsifez/anyone_build_their_own_home_dashboard/",
-          "publishedOn": "2021-06-04T23:29:09.000Z",
-          "wordCount": 212,
-          "title": "Anyone build their own home dashboard?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nseicg/initial_server_useapplication_help/",
-          "author": null,
-          "description": "I am inheriting a PowerEdge R420 with Windows Server 2019 Standard from a client who had an infrastructure refresh. I am not sure of the specs on it but wanted to know if I could get recommendations on whether or not it is worth keeping and what I could use it for in a residential setting. Thanks for all recommendations - I am very new to server-based use cases and applications.\n    submitted by    /u/beretsandberettas  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nseicg/initial_server_useapplication_help/",
-          "publishedOn": "2021-06-04T20:20:50.000Z",
-          "wordCount": 304,
-          "title": "Initial server use/application help"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nscynj/looking_for_homeserver_virtualisation_maybe_cloud/",
-          "author": null,
-          "description": "Hi,\n so currently i am looking for parts for a new homeserver build for my VMs.\n So my plan for 24/7 running VMs is:\n  \n2-3x Win 10 VMs with light workloads (1-2 core, 4-6gb Ram each)\n 2x Linux VMs (Plex and Nextcloud) (1 core, 2-4gb Ram each)\n as well as some Linux VMs for testing Stuff (1 core, 1-2gb Ram each)\n  \nAs Os i was planing to go with ProxMox, budget is around 800€ without any Storage or GPUs but adjustable. Further i had the idea to maybe convert the server to a cloud gaming host later on (2 gaming VMs with a GPU passed through each) bc of that the server should have plenty of PCiE Slots. Pls also consider the long therm costs (power usage), also i dont care if normal pc case or rack. \n My first Idea was to build the server:\n CPU: AMD Ryzen 3700x (268€)\n Ram: Corsair Vengeance …",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nscynj/looking_for_homeserver_virtualisation_maybe_cloud/",
-          "publishedOn": "2021-06-04T19:14:17.000Z",
-          "wordCount": 756,
-          "title": "Looking for Homeserver (Virtualisation & maybe cloud Gaming) under 700€ (WITHOUT GPU and Storage)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nsbfzq/autotagging_porn_videosclips/",
-          "author": null,
-          "description": "Hi selfhosted, I’m looking for something that can take a bucket of videos or photos and do some sort of image recognition on them and tag them accordingly. Specifically, porn clips and photos. I have a bucket of video clips from various tube sites that I’ve saved with almost no tagging and metadata, and with fairly generic titles that don’t include any details on the performer/actress/etc. \n I also have a lot of properly named full videos from torrents, etc, that have performers/dates/company/etc. Those should be easy to organize in something like Stash, etc. \n This may be harder for videos, I understand. But for photos, is there something like this, but self-hosted? Like will it recognize things like blonde, brunette, etc?\n I have a newer Synology along with a few Linux boxes (i5 4th Gen, etc) and I’m familiar enough with Docker. Does what I’m looking for exist?\n    submitted by    /u/rcocuban  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nsbfzq/autotagging_porn_videosclips/",
-          "publishedOn": "2021-06-04T18:06:05.000Z",
-          "wordCount": 552,
-          "title": "Auto-tagging porn videos/clips"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nsarvj/iam_policy_and_credentials_how_secure_are_they/",
-          "author": null,
-          "description": "For a while I've had a nextcloud server running at home, but I am moving it to a self managed cloud server with an S3 Bucket mounted as external storage. I think this is much more secure in the long term , or in the event of a disaster or move.\n However I am very concerned with the security of my bucket. It isn't public, I am using an IAM policy to control access to the data on it. However I am aware that a few years ago there were several major data breaches at companies which relied on S3 Buckets. Reading up on this they seem to have been caused by user misconfiguration, but there was at least one instance where hackers were able to access the IAM credentials thru Server Side Request Forgery. \n My set up isn't nearly as complex as it was for these large corporations - should I be concerned? Is an IAM policy enough or is there something else I can do to secure my data? I know that nextcloud already has a feature that lets you encrypt data , is that enough?\n Also, what storage provider do you guys prefer?\n    submitted by    /u/Xopher001  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nsarvj/iam_policy_and_credentials_how_secure_are_they/",
-          "publishedOn": "2021-06-04T17:36:35.000Z",
-          "wordCount": 457,
-          "title": "IAM Policy and Credentials - how secure are they?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/ns86xf/stupid_question_about_pki_and_ca_selfhosted_if_i/",
-          "author": null,
-          "description": "Otherwise, how can they consider my CA valid?\n    submitted by    /u/wireless82  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/ns86xf/stupid_question_about_pki_and_ca_selfhosted_if_i/",
-          "publishedOn": "2021-06-04T15:44:37.000Z",
-          "wordCount": 495,
-          "title": "stupid question about PKI and CA selfhosted: if I had one, I would have to import my root CA certificates on all devices...?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/ns5ubn/how_to_start_photoprism_with_windows_docker/",
-          "author": null,
-          "description": "I'm having trouble making Photoprism automatically start with windows. I know the command is docker run --restart=always however I cant figure out what to put after that. Simply putting photoprism afterwards said the container could not be found. I tried docker run --restart=always photoprism/photoprism which seemed to work, but then started something called flamboyant_neumann with the name photoprism, not the actual photoprism docker (see photo)\n What command should I use? I have the container ID number but Idk what the name would be.\n P.S. I'm using Windows because I am trained in Batch and Powershell. I know its worse, but Im more comfortable with it for my own home server.\n    submitted by    /u/LinuxIsFree  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/ns5ubn/how_to_start_photoprism_with_windows_docker/",
-          "publishedOn": "2021-06-04T14:01:53.000Z",
-          "wordCount": 546,
-          "title": "How to start Photoprism with Windows Docker"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/ns5m77/basic_questions_how_do_you_get_your_selfhosted/",
-          "author": null,
-          "description": "Hi,\n I have an Intel NUC. I'd like to use it to deploy a lot of self-hosted apps, both from open source as well as my own server application. For example, I'd like to set up a sourcegraph server so I can search over some of my repositories easily, and other kinds of servers and databases too (elasticsearch, kibana, redis, influxdb, prometheus, postgresql, maybe a docker registry or something) to get more experience and exposure.\n I'm struggling with some of the basics about starting, running, and deploying self-hosted apps. For example:\n  \nHow do I keep my apps running all the time, even if \n If my Intel NUC gets shut down (like, after a reboot), how do I get all the applications I was running back up again, ideally with zero fuss?\n How do I make sure all the apps I want keep running?\n How do I deploy changes to the apps? Ideally I could do this from my macbook which I use for development, and again with as little fuss as possible. In the best case, I can push a change to my GitHub repo, have a jenkins server running on my NUC run CI/CD tests, then deploy to the NUC.\n Do y'all run Docker or Kubernetes or something to run lots of apps at once?\n Also, is there a chat room or something where I can ask questions in low-latency? Like a slack or discord room you would suggest? (I haven't used IRC yet, so I'd prefer to stick to Slack or Discord).\n  \nThank you.\n    submitted by    /u/gollyned  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/ns5m77/basic_questions_how_do_you_get_your_selfhosted/",
-          "publishedOn": "2021-06-04T13:51:41.000Z",
-          "wordCount": 675,
-          "title": "Basic questions: how do you get your self-hosted apps deployed and always running?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/ns5for/borgbackup_repository_providers/",
-          "author": null,
-          "description": "I know, the point of self-hosting is to self-host. I just don't really wanna spin up a server with 1TB of storage. Anyway, looking for some storage providers which support Borg repositories. BorgBase and Hetzner look attractive. Rsync.net is cheap and Hetzner is who hosts my VPS, so, it would make sense to spin up a Storage Box in the same place as my VPS (free internal traffic). Problem with these storage providers is that I'd need it to be on my VPN (WireGuard). I know they give a public IPv4 address so I could forward that in my DNS, but, I'd prefer it if it were on my VPN and private. I can't decide between Rsync.net and Hetzner; what's your experience with either one?\n ​\n Further on from that, I'm sure there are some other providers which no one knows about, those ones are usually the best. Any alternative providers you know?\n    submitted by    /u/nicnic2001  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/ns5for/borgbackup_repository_providers/",
-          "publishedOn": "2021-06-04T13:42:51.000Z",
-          "wordCount": 487,
-          "title": "Borgbackup repository providers"
         }
       ]
     },
@@ -5563,6 +5563,15 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=343496",
+          "author": "Chris Coyier",
+          "description": "It’s CSS-Tricks birthday! Somehow that keeps coming around every year. It’s that time where I reflect upon that past year. It’s like the annual vibe check. \nI’m writing this just days after my current home state of Oregon has …\nThe post The Fourteenth Fourth appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-fourteenth-fourth/",
+          "publishedOn": "2021-07-04T13:29:01.000Z",
+          "wordCount": 1842,
+          "title": "The Fourteenth Fourth"
+        },
         {
           "id": "https://css-tricks.com/?p=343435",
           "author": "Chris Coyier",
@@ -6030,24 +6039,6 @@
           "publishedOn": "2021-06-07T14:13:50.000Z",
           "wordCount": 1453,
           "title": "VS Code Extensions for HTML"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341793",
-          "author": "Chris Coyier",
-          "description": "Colin Oakley:\n• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)\n• Agnostic — Build \n…\nThe post Principles for user-centered front-end development appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b",
-          "publishedOn": "2021-06-04T20:36:46.000Z",
-          "wordCount": 1039,
-          "title": "Principles for user-centered front-end development"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341968",
-          "author": "Chris Coyier",
-          "description": "I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …\nThe post Can I :has() appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://bkardell.com/blog/canihas.html",
-          "publishedOn": "2021-06-04T14:37:59.000Z",
-          "wordCount": 1327,
-          "title": "Can I :has()"
         }
       ]
     },
@@ -7106,42 +7097,6 @@
           "publishedOn": "2021-06-07T15:01:26.000Z",
           "wordCount": 1547,
           "title": "Angular NgClass Example – How to Add Conditional CSS Classes"
-        },
-        {
-          "id": "60b3480c11ffb70827ef9a88",
-          "author": null,
-          "description": "If you're building a React app, you want your users to be able to search and get exact results. And if you are getting tons of items from an API, then you need to create a way for users to be able to find various items easily.",
-          "link": "https://www.freecodecamp.org/news/search-and-filter-component-in-reactjs/",
-          "publishedOn": "2021-06-04T21:34:33.000Z",
-          "wordCount": 2174,
-          "title": "How to Search and Filter Components in React"
-        },
-        {
-          "id": "60ba33d7acb62507dd1d9050",
-          "author": null,
-          "description": "Scikit-learn is one of the most popular open-source and free machine learning libraries for Python.  The scikit-learn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction. Many data scientists, machine learning engineers, and researchers rely on this library for",
-          "link": "https://www.freecodecamp.org/news/machine-learning-python-new-scikit-learn-features-you-should-know/",
-          "publishedOn": "2021-06-04T20:58:07.000Z",
-          "wordCount": 1544,
-          "title": "Machine Learning in Python – The Top New Scikit-Learn 0.24 Features You Should Know"
-        },
-        {
-          "id": "60b8f5c7acb62507dd1d8500",
-          "author": null,
-          "description": "I deployed a Discord bot to a 1000+ user server. In the first hour, Deployment Hell struck and my bot crashed. In the next hour, I brought it back, surviving and even thriving in Deployment Hell. In this post, I'll show you how.",
-          "link": "https://www.freecodecamp.org/news/recovering-from-deployment-hell-what-i-learned-from-deploying-my-discord-bot-to-a-1000-user-server/",
-          "publishedOn": "2021-06-04T20:41:29.000Z",
-          "wordCount": 2163,
-          "title": "How to Recover from Deployment Hell – What I Learned After My Discord Bot Crashed on a 1000+ User Server"
-        },
-        {
-          "id": "60b2a4c611ffb70827ef9842",
-          "author": null,
-          "description": "TypeScript has taken the development world by storm. No wonder it has over 15 million weekly downloads on npm. But what is TypeScript, and what do you need to know about it?  In this article, I am going answer those questions. By the end you'll have a grasp of the",
-          "link": "https://www.freecodecamp.org/news/learn-typescript-basics/",
-          "publishedOn": "2021-06-04T18:01:00.000Z",
-          "wordCount": 2225,
-          "title": "Learn TypeScript Basics in this Beginner&#x27;s Guide"
         }
       ]
     },
@@ -7150,6 +7105,42 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1778113",
+          "author": "Jennifer Ouellette",
+          "description": "Josh Ruben's second film is a worthy successor to  An American Werewolf in London",
+          "link": "https://arstechnica.com/?p=1778113",
+          "publishedOn": "2021-07-04T17:54:50.000Z",
+          "wordCount": 1677,
+          "title": "Review: Warmly satirical Werewolves Within is comic horror with a heart"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1776798",
+          "author": "Ars Staff",
+          "description": "If your local library has reopened, here's what to sign out immediately.",
+          "link": "https://arstechnica.com/?p=1776798",
+          "publishedOn": "2021-07-04T15:01:55.000Z",
+          "wordCount": 1447,
+          "title": "The comics, award-winning sci-fi, and nonfiction we’re reading this summer"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778075",
+          "author": "Kiona N. Smith",
+          "description": "Homo longi's place in our extended family tree is far from settled.",
+          "link": "https://arstechnica.com/?p=1778075",
+          "publishedOn": "2021-07-04T14:00:34.000Z",
+          "wordCount": 2027,
+          "title": "Is the “Dragon Man” skull actually from a new hominin species?"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1775207",
+          "author": "John Timmer",
+          "description": "What do you get from an electric bike that costs more than some scooters?",
+          "link": "https://arstechnica.com/?p=1775207",
+          "publishedOn": "2021-07-04T13:30:51.000Z",
+          "wordCount": 1700,
+          "title": "Getting what you pay for? A spin on the design-focused electric bike"
+        },
         {
           "id": "https://arstechnica.com/?p=1131697",
           "author": "Sebastian Anthony",
@@ -9849,105 +9840,6 @@
           "publishedOn": "2021-06-05T13:00:31.000Z",
           "wordCount": 1215,
           "title": "Reducing poverty can actually lower energy demand, finds research"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1770108",
-          "author": "Financial Times",
-          "description": "Supply constraints and soaring demand have made vehicle prices a key number for the Fed.",
-          "link": "https://arstechnica.com/?p=1770108",
-          "publishedOn": "2021-06-05T12:15:39.000Z",
-          "wordCount": 1227,
-          "title": "“Kind of crazy”—how the booming US used car market is driving inflation"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1770060",
-          "author": "WIRED",
-          "description": "COVID-19 crushed movie chains—A Quiet Place Part II’s box office shows a potential way out.",
-          "link": "https://arstechnica.com/?p=1770060",
-          "publishedOn": "2021-06-05T11:30:42.000Z",
-          "wordCount": 967,
-          "title": "There’s hope for American movie theaters after all"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1770201",
-          "author": "Beth Mole",
-          "description": "China is now giving 20 million doses a day despite low efficacy.",
-          "link": "https://arstechnica.com/?p=1770201",
-          "publishedOn": "2021-06-04T23:05:12.000Z",
-          "wordCount": 996,
-          "title": "Early adopters of Chinese vaccines see case surges; China plows ahead anyway"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769901",
-          "author": "Jennifer Ouellette",
-          "description": "We might one day be able to predict which puppies will make the best service dogs.",
-          "link": "https://arstechnica.com/?p=1769901",
-          "publishedOn": "2021-06-04T23:03:44.000Z",
-          "wordCount": 1573,
-          "title": "Puppies’ ability to communicate with people is present almost from birth"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1770163",
-          "author": "Samuel Axon",
-          "description": "Get your updates about iOS, macOS, and more here on June 7 at 10am Pacific.",
-          "link": "https://arstechnica.com/?p=1770163",
-          "publishedOn": "2021-06-04T22:01:30.000Z",
-          "wordCount": 706,
-          "title": "Liveblog: All the news from Apple’s WWDC 2021 keynote on 6/7 at 10 a.m."
-        },
-        {
-          "id": "https://arstechnica.com/?p=1770063",
-          "author": "Dan Goodin",
-          "description": "Code execution flaw in vCenter is exploited to install web shell on unpatched machines.",
-          "link": "https://arstechnica.com/?p=1770063",
-          "publishedOn": "2021-06-04T20:17:57.000Z",
-          "wordCount": 1083,
-          "title": "This is not a drill: VMware vuln with 9.8 severity rating is under attack"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769904",
-          "author": "Eric Berger",
-          "description": "\"A rocket can get around the world in 90 minutes, and an airplane cannot.\"",
-          "link": "https://arstechnica.com/?p=1769904",
-          "publishedOn": "2021-06-04T19:00:34.000Z",
-          "wordCount": 1177,
-          "title": "Yes, the military is serious about rocketing supplies around the planet"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769900",
-          "author": "Sam Machkovech",
-          "description": "Oil massages, mantras, zombie kidnappings, and more—with ROM-hacked footage to prove it.",
-          "link": "https://arstechnica.com/?p=1769900",
-          "publishedOn": "2021-06-04T18:40:47.000Z",
-          "wordCount": 1461,
-          "title": "“Deleted” Nintendo floppy recovered 26 years later, full of Earthbound secrets"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769919",
-          "author": "John Timmer",
-          "description": "Can an animal without hands recognize when humans are using sleight-of-hand tricks?",
-          "link": "https://arstechnica.com/?p=1769919",
-          "publishedOn": "2021-06-04T18:18:30.000Z",
-          "wordCount": 1282,
-          "title": "Researchers perform magic tricks for birds, who are not amused"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769883",
-          "author": "Ron Amadeo",
-          "description": "Android ad tracking still isn't opt-in, though, so not much will change.",
-          "link": "https://arstechnica.com/?p=1769883",
-          "publishedOn": "2021-06-04T17:49:45.000Z",
-          "wordCount": 791,
-          "title": "Google makes small Android advertising concession in wake of iOS 14.5"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1769852",
-          "author": "Tim De Chant",
-          "description": "“Newsworthiness allowance” would allow some controversial posts through.",
-          "link": "https://arstechnica.com/?p=1769852",
-          "publishedOn": "2021-06-04T14:53:22.000Z",
-          "wordCount": 1200,
-          "title": "Facebook extends Trump ban, ends exemptions for politicians’ posts [Updated]"
         }
       ]
     }
