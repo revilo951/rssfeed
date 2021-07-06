@@ -2,10 +2,337 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-05T00:40:10.309Z</updated>
+    <updated>2021-07-06T00:44:34.275Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ffmpeg for audio, what for docs/books?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oeiv0a/ffmpeg_for_audio_what_for_docsbooks/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oeiv0a/ffmpeg_for_audio_what_for_docsbooks/"/>
+        <updated>2021-07-05T23:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Probably the wrong spot to post this, but can't figure out where would be better. So. For converting video/audio after something like sonarr or radarr picks a file up, is there anything to convert mobi to epub or the other way around from the cli?
+    submitted by    /u/dietrichmd  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Server Domain 'Unexpectedly closed the connection']]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oeiu9a/web_server_domain_unexpectedly_closed_the/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oeiu9a/web_server_domain_unexpectedly_closed_the/"/>
+        <updated>2021-07-05T23:21:49.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/cberm725  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it possible to self host a voice assistant?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oehmg3/is_it_possible_to_self_host_a_voice_assistant/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oehmg3/is_it_possible_to_self_host_a_voice_assistant/"/>
+        <updated>2021-07-05T22:12:53.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Hananelroe  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did lead poisoning cause downfall of Roman Empire? The jury is still out]]></title>
+        <id>https://arstechnica.com/?p=1778152</id>
+        <link href="https://arstechnica.com/?p=1778152"/>
+        <updated>2021-07-05T20:32:13.000Z</updated>
+        <summary type="html"><![CDATA[A new video from the American Chemical Society revisits longstanding academic debate]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ISO: bookmark syncing tool - cross platform]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oee5tr/iso_bookmark_syncing_tool_cross_platform/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oee5tr/iso_bookmark_syncing_tool_cross_platform/"/>
+        <updated>2021-07-05T19:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Team, I have a very multi-platform ecosystem between work and home, from iPhone to Macbook, to Dell Rackmount Servers on Linux, VM's, Windows laptops, iPad, and the one frustrating thing is that I can't reliably, or with any level of trust, sync my bookmarks, specifically, I would like to have two profiles, a work profile, and home profile. I simply don't trust signing into my work browser with my home account, and vise versa. Typically, I'm surfing the web or reddit and think ah I want to save this bookmark to look at for work, and then emailing myself links, it becomes a mess fast, or perhaps I have a bookmark hoarding issue :) Is there a couple tools I could toss in a container or something and try out? I don't want browser history, or tabs, or notes, just bookmarks, from my computers or my cellphone, in one place, two profiles. Hell, if there is nothing self-hosted, and there is a great cloud setup that cost a few bucks, I'm willing to pay it, as I manage thousands of bookmarks between topics on network engineering, and development in several languages, and it could be that "one site you saved a year ago that had that snippet you need" that saves the day.
+    submitted by    /u/netopsengineer  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wireguard and AdGuard Home]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oecfsa/wireguard_and_adguard_home/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oecfsa/wireguard_and_adguard_home/"/>
+        <updated>2021-07-05T17:48:12.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone,
+ I setup a wireguard server and successfully configured it on my android phone.
+ In the client config file I put my Unifi dream machine as the DNS entry. The dream machine only has the IP address of my AdGuard home instance as the DNS for the network. This blocks ads for all devices on my home network. This doesn't block ads on the device using wireguard though...
+ I changed the DNS entry in the wireguard client config to the IP of AdGuard home and it blocks ads. I know I can just keep it this way but I'm Just wondering if anyone could explain why that is? Thanks!
+    submitted by    /u/TheHesster  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[some kind of reverse proxy?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oeb96y/some_kind_of_reverse_proxy/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oeb96y/some_kind_of_reverse_proxy/"/>
+        <updated>2021-07-05T16:47:32.000Z</updated>
+        <summary type="html"><![CDATA[Hey, is there any kind of software that allows you to use a VPS as a proxy that is connected to your home server? For example I have several Minecraft servers and a website on my home server which are currently not DDoS protected but wanna buy a VPS which is connected to my home server as a DDoS protection. Sorry if my description is bad. Ill reply asap if I can.
+    submitted by    /u/BlackBlizz259  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wanderbird - self hosted Thunderbird profile inside a browser with one docker command.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oeawpr/wanderbird_self_hosted_thunderbird_profile_inside/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oeawpr/wanderbird_self_hosted_thunderbird_profile_inside/"/>
+        <updated>2021-07-05T16:29:21.000Z</updated>
+        <summary type="html"><![CDATA[people seemed to like the web-based thunderbird setup i posted recently (https://www.reddit.com/r/selfhosted/comments/ocergi/i_integrated_thunderbird_into_nextcloud_for_some/). i've got it down to a single image you can run to get straight to fresh, working thunderbird in a browser at localhost:3000.
+ https://hub.docker.com/r/kebles/wanderbird
+ i'm an extreme beginner with docker so i'm sure there's issues but for what it is it's nifty. i tested it on a few local pcs, a 4gb ram dual core vps, and it works! i would avoid exposing it to the internet long term tho though, my instance is individually reverse proxy'd through nginx through caprover so all ssl and stuff.
+ if anyone feels like giving it a shot and giving ideas and feedback, hit me! 
+ docker run -p 3000:3000 -v /config:/home/kebles/mail/ -d kebles/wanderbird
+ it allows you to select your mod key at startup, to control your thunderbird window if you open others. if you use a tiling wm, use a key opposite to your mod key.
+ home is /config - map volume to a folder of your choice
+ /config/.config/i3/config - i3 config file
+ /config/.thunderbird - tb profile 
+ what i plan to add is communication with the local notification daemon for emails. if i'm ambitious maybe building a stack that hosts this and a carddav/caldav server. anyway. just an experiment. let me know if you like! 
+ for clipboard transfer between the container and host, there's a small black arrow halfway down the left hand side of your window that you can transfer clipboard data to and fro with.
+ a thunderbird addon i recommend is the "restart button" and "minimize instead of close". obvious reasons.
+ Source: https://github.com/nelyon/wanderbird
+    submitted by    /u/_kebles  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The rumor is true: Rimac is taking over Bugatti with Porsche’s help]]></title>
+        <id>https://arstechnica.com/?p=1778245</id>
+        <link href="https://arstechnica.com/?p=1778245"/>
+        <updated>2021-07-05T15:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Ars spoke to CEOs Oliver Blume and Mate Rimac about the hypercar deal.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightweight services and hardware upgrade recommendation?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oe9ozu/lightweight_services_and_hardware_upgrade/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oe9ozu/lightweight_services_and_hardware_upgrade/"/>
+        <updated>2021-07-05T15:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Im running an RPi 3b+ w/ 4TB SSD because its what I have on hand and didnt want to unnecessarily spend money. It runs docker containers of a web server, portainer, xmpp server, and reverse proxy. 
+ I want to expand my self-hosted setup to rid the last few cloud-based services I use:
+  
+Photo gallery to sync with devices
+ Calendar and contacts to sync with devices
+ Notes to sync with devices
+ Fileshare/backup to prevent dataloss
+ Mail server
+ Maybe swap over from XMPP to Matrix after some more security research
+  
+I gave the thought of upgrading to a Rpi 4 with 8GB of RAM, but with the case, power adapter, and the other accessories necessary to run/hold multiple drives for a RAID it seems just as expensive and less powerful. I don't plan in the near future to need extensive transcoding like Plex (maybe in a year or more). I have a server rack for my networking devices with extra space, but im in close quarters so I try to avoid excessively loud units.
+ So what are your recommendations? What software should I use to fulfill my needs? Do I get an Rpi4 and some accessories or do you have something better to recommend? Should I start collecting/shucking 3.5 drives or start slow with more SSDs?
+  
+TLDR: Upgrade from Rpi3B+. Server or RPi4 w/ 8GB? Lightweight service recommendations? SSDs vs 3.5 HDDs?
+    submitted by    /u/Last-Palpatinian  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Explained Simply: Containers, Pods and Images]]></title>
+        <id>https://css-tricks.com/?p=343166</id>
+        <link href="https://css-tricks.com/kubernetes-explained-simply-containers-pods-and-images/"/>
+        <updated>2021-07-05T14:17:33.000Z</updated>
+        <summary type="html"><![CDATA[If you zone out every time someone mentions “Kubernetes,” “containers,” or “pods,” this article is for you. No complex diagrams involved!
+As a front-end developer, you don’t have to know how to configure an infrastructure from scratch. However, if you …
+The post Kubernetes Explained Simply: Containers, Pods and Images appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Lari Maza</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trigonometry in CSS and JavaScript: Beyond Triangles]]></title>
+        <id>https://css-tricks.com/?p=343671</id>
+        <link href="https://tympanus.net/codrops/2021/06/04/trigonometry-in-css-and-javascript-beyond-triangles/"/>
+        <updated>2021-07-05T14:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Web design is such a rectangle-based design medium that literally any deviation from it feels fresh. Michelle Barker gets into using math in various ways to programmatically draw lines, shapes, and animations that end up looking both beautiful and have …
+The post Trigonometry in CSS and JavaScript: Beyond Triangles appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recommendation for music streaming]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oe7yeb/recommendation_for_music_streaming/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oe7yeb/recommendation_for_music_streaming/"/>
+        <updated>2021-07-05T13:59:40.000Z</updated>
+        <summary type="html"><![CDATA[Hello, first post here, hope I won't do too bad. Her eis my problem. I have a synology nas at home (ds918+) and I like some features offered by audiostation, sunllogy's official package for music streaming, but I have some troubles with large music collection.
+ Then, I thought I could ask you directly what are your recommendations for a streaming application that would meet some criteria : - Can be deployed on docker (or on synology directly) - Suited for large collections of songs - Has an android app to stream on phone - Can play to mulpile dlna devices at home at the same time (ds audio offers it by selecting multiple devices at the same time, but it gets buggy and I often need to restart server)
+ Any suggestions of something that would meet those criterias? I tried plex, as I'm using it for my series, but it doesn't support multiple dlna at the same time.
+ Thank you in advance for your help :)
+    submitted by    /u/Afaren42  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown based wiki I can git push to?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oe7xpp/markdown_based_wiki_i_can_git_push_to/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oe7xpp/markdown_based_wiki_i_can_git_push_to/"/>
+        <updated>2021-07-05T13:58:37.000Z</updated>
+        <summary type="html"><![CDATA[I'm looking for a Markdown based wiki software, but with the requirement that I can write markdown on my machine and then git push it to wiki. So far I found some that (can) use git internally, but any changes must still be made through web interface. The closest I found was Gitlab's built-in wiki, but it can only exist as part of a project, not on it's own.
+    submitted by    /u/killermenpl  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old school: I work in DOS for an entire day]]></title>
+        <id>http://arstechnica.com/?p=498855</id>
+        <link href="https://arstechnica.com/?p=498855"/>
+        <updated>2021-07-05T13:50:24.000Z</updated>
+        <summary type="html"><![CDATA[From the archives: Open source MS-DOS alternative lives—but using it nearly killed me.]]></summary>
+        <author>
+            <name>Sean Gallagher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The thorny ethics of displaying Egyptian mummies to the public]]></title>
+        <id>https://arstechnica.com/?p=1778201</id>
+        <link href="https://arstechnica.com/?p=1778201"/>
+        <updated>2021-07-05T13:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Exhibits are popular, but curators must grapple with issues of cultural, racial sensitivity.]]></summary>
+        <author>
+            <name>Ars Contributors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AtGames Legends virtual pinball review: The better pre-built choice… mostly]]></title>
+        <id>https://arstechnica.com/?p=1777758</id>
+        <link href="https://arstechnica.com/?p=1777758"/>
+        <updated>2021-07-05T12:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Picky pinball pros will prefer AtGames's product, but it packs its own pesky problems.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America’s “Smart City” didn’t get much smarter]]></title>
+        <id>https://arstechnica.com/?p=1777996</id>
+        <link href="https://arstechnica.com/?p=1777996"/>
+        <updated>2021-07-05T11:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Technical hurdles, bureaucracy, and the pandemic dashed many of Columbus, Ohio's tech plans.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is it possible to tell syncthing to only sync media from my phone? (And not the rest of the files]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oe5eyl/is_it_possible_to_tell_syncthing_to_only_sync/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oe5eyl/is_it_possible_to_tell_syncthing_to_only_sync/"/>
+        <updated>2021-07-05T11:27:37.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Hananelroe  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sizzling science: How to grill a flavorful steak]]></title>
+        <id>https://arstechnica.com/?p=1778206</id>
+        <link href="https://arstechnica.com/?p=1778206"/>
+        <updated>2021-07-05T10:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Want to learn how cooking transforms beef’s flavor? Meat scientists have the answers.]]></summary>
+        <author>
+            <name>Ars Contributors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using HSL Colors In CSS]]></title>
+        <id>https://smashingmagazine.com/2021/07/hsl-colors-css/</id>
+        <link href="https://smashingmagazine.com/2021/07/hsl-colors-css/"/>
+        <updated>2021-07-05T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Ahmad Shadeed)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nginx proxy manager - getting internal error]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oe4dl6/nginx_proxy_manager_getting_internal_error/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oe4dl6/nginx_proxy_manager_getting_internal_error/"/>
+        <updated>2021-07-05T10:13:19.000Z</updated>
+        <summary type="html"><![CDATA[Hi 
+ I have setup Nginx proxy manager on docker which is running on ubuntu 20.04 server. The ubuntu server is a vm running on my esxi host.
+ When i try to create a lets encrypt cert for one of my proxy hosts it throws an "internal error" message.
+ My setup:
+  
+Domain purchased from godaddy eg - mydomain.co.uk
+ Go daddy name servers pointing to Cloudflare
+ A record pointing to my external ip which is updated using the cloudflare DDNS container
+ Cloudflare SSL set to Full(Strict) - created an origin cert and added this to NPM as a custom cert
+ ports 80 and 443 forwarded to the ubuntu vm which runs docker
+  
+1 NUC 9 running ESXi 7.02
+  
+1 ubuntu vm 
+ Plex
+ Docker 
+ Sabnzbd
+ sonarr
+ radarr
+ cloudflareDDNS
+ Nginx proxy manager
+ 
+ 
+ Windows Server 2019 Domain controller
+  
+I get the following er…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advice on Synology NAS Upgrade/Sidegrade]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oe0xjm/advice_on_synology_nas_upgradesidegrade/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oe0xjm/advice_on_synology_nas_upgradesidegrade/"/>
+        <updated>2021-07-05T05:56:31.000Z</updated>
+        <summary type="html"><![CDATA[I have a bit of a quandary, and I was wondering if you all might be able to help out.
+ Currently, I have a Synology DS718+ NAS. It's a great unit, and I think Synology's OS is just hands-down excellent. I just upgraded to DSM 7 and the snappier OS definitely helps. Synology feels like a reliable appliance - it's going to update OK, going to no lose my data without a good reason, and going to not need tweaked all of a sudden.
+ I finally got a server rack for Christmas, and I have a relative who could really use a NAS, so upgrading to a rackmount unit makes sense. 
+ I have enough rack-mount commodity PCs as servers that the NAS doesn't need to run anything CPU intensive - media encoding, etc. can be done in docker containers or VMs on those. I have a Unifi Controller, so my NAS isn't handlin…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What ZFS raid should I use?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/odwqr4/what_zfs_raid_should_i_use/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/odwqr4/what_zfs_raid_should_i_use/"/>
+        <updated>2021-07-05T00:54:22.000Z</updated>
+        <summary type="html"><![CDATA[Hello, I'm soon to be setting up my first server. It has 4 random sata hard drives (1TB each) and 1 wd black nvme (250GB), what ZFS raid should I put on it?
+ I will be using it for a few docker containers, Jellyfin, lancache + pihole, a Minecraft server, pc backups and others
+ Sometimes as a cloud gaming or maybe f@h
+ Should I use the nvme drive as a L2 ARC?
+ Someone said that I should use raid 10 but is raidz 2 better?
+    submitted by    /u/jordonbc  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UPS or powerbank for a raspberry pi 4?]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/odvjh9/ups_or_powerbank_for_a_raspberry_pi_4/</id>
@@ -13699,385 +14026,6 @@ Here is a link to what I’m thinking of getting on PC part picker: https://pcpa
         <summary type="html"><![CDATA[It's not Apple's best for power users, but it's a nice fit for everyone else.]]></summary>
         <author>
             <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When the bison come back, will the ecosystem follow?]]></title>
-        <id>https://arstechnica.com/?p=1770130</id>
-        <link href="https://arstechnica.com/?p=1770130"/>
-        <updated>2021-06-06T12:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Bring wild bison to the Great Plains, restore one of the world’s most endangered ecosystems.]]></summary>
-        <author>
-            <name>Ars Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nginx on Docker reverse proxy to devices on a WireGuard VPN]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ntkjvw/nginx_on_docker_reverse_proxy_to_devices_on_a/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ntkjvw/nginx_on_docker_reverse_proxy_to_devices_on_a/"/>
-        <updated>2021-06-06T12:21:43.000Z</updated>
-        <summary type="html"><![CDATA[Hello, I’d like to move my nginx configurations from an apt installation to Docker (probably nginx proxy manager). Let’s say I’ve set it up, I’ll have WireGuard and nginx_pm in separate containers. WireGuard is setup so that it uses my host network because that’s what I found was the easiest. How would I keep nginx_pm on its own network (and possibly move WireGuard to its own network) but have directives to proxy traffic to the WireGuard container?
-    submitted by    /u/nicnic2001  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacker lexicon: What is a supply chain attack?]]></title>
-        <id>https://arstechnica.com/?p=1770126</id>
-        <link href="https://arstechnica.com/?p=1770126"/>
-        <updated>2021-06-06T11:30:45.000Z</updated>
-        <summary type="html"><![CDATA[From NotPetya to SolarWinds, it’s a problem that’s not going away any time soon.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selfhosted VisualPing.io alternative]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ntjhea/selfhosted_visualpingio_alternative/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ntjhea/selfhosted_visualpingio_alternative/"/>
-        <updated>2021-06-06T11:15:12.000Z</updated>
-        <summary type="html"><![CDATA[Hi, I'm looking for a selfhosted https://visualping.io/ alternative.
- I had a look at https://github.com/dgtlmoon/changedetection.io but doesn't quite do what I need as I would like to have something that takes a 'screenshot' of the page I want to monitor then compare the image then highlight the changed area and notify me.
-    submitted by    /u/Gaz_95  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks to this subreddit, I got into self-hosting over the last few months and am slowly adding more and more stuff. This is my current dashboard with all the services I run on a Raspberry Pi 4.]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ntjfoi/thanks_to_this_subreddit_i_got_into_selfhosting/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ntjfoi/thanks_to_this_subreddit_i_got_into_selfhosting/"/>
-        <updated>2021-06-06T11:12:09.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/TheGreatestCapybara  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Portainer App Template List]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ntc4xa/best_portainer_app_template_list/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ntc4xa/best_portainer_app_template_list/"/>
-        <updated>2021-06-06T03:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Hey All! 
- What would you say is the best Portainer App Template list currently? I'm just wondering if I'm missing any from a list I keep, noted below. 
- https://raw.githubusercontent.com/dnburgess/self-hosted-template/master/template.json
- https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
- https://raw.githubusercontent.com/SelfhostedPro/selfhosted_templates/portainer-2.0/Template/template.json
- https://raw.githubusercontent.com/technorabilia/portainer-templates/main/lsio/templates/templates-2.0.json
- https://raw.githubusercontent.com/mikestraney/portainer-templates/master/templates.json
- Cheers, All
-    submitted by    /u/mywilde  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[VIDEO] WireHole: WireGuard, Pi-Hole and Unbound in Docker]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nt9d95/video_wirehole_wireguard_pihole_and_unbound_in/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nt9d95/video_wirehole_wireguard_pihole_and_unbound_in/"/>
-        <updated>2021-06-06T00:27:44.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/PhroznGaming  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self hosted tool to remplace Tallyfy ? (SaaS workflow management app)]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nt7lmz/self_hosted_tool_to_remplace_tallyfy_saas/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nt7lmz/self_hosted_tool_to_remplace_tallyfy_saas/"/>
-        <updated>2021-06-05T22:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Hello ! 
- We are currently using Tallyfy which is a great tool but it’s too expensive for our usage. 
- https://tallyfy.com
- We use it when we need to onboard or offboard employees to make sure everyone in the team is doing their part of the job. 
- It’s a really nice tool, far from the scary workflow management tools I have seen elsewhere. 
- Do you have any idea about something similar which could be self hosted ? 
- Thanks !
-    submitted by    /u/SassanoM  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Speech to Text from the command-line (any OS is fine)]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nt6vn7/speech_to_text_from_the_commandline_any_os_is_fine/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nt6vn7/speech_to_text_from_the_commandline_any_os_is_fine/"/>
-        <updated>2021-06-05T22:15:58.000Z</updated>
-        <summary type="html"><![CDATA[I've been looking all over the internet for something that runs from the console and does local speech recognition, and so far I haven't found anything. Windows and Mac both have speech recognition built-in; surely there is something out there that lets me take an audio file and get the resulting text from it without going through Google cloud or something else?
- ​
- Use case: Podcasts and videos with information in them, lectures, etc. I don't need it to be 100% accurate.
-    submitted by    /u/SLJ7  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basic Server Hardening Steps]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nt4r8w/basic_server_hardening_steps/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nt4r8w/basic_server_hardening_steps/"/>
-        <updated>2021-06-05T20:36:11.000Z</updated>
-        <summary type="html"><![CDATA[I recently leased a VPS to host a few services, and took the first steps towards locking down the server (Ubuntu Server 20.04).
- What I have done so far:
-  
-Update & Upgrade the system
- Install / enable unattended-upgrades & apt-listchanges (automatically install important updates daily, and monitor/list changes automatically)
- Create a non-root user, add to sudoers
- Lock down SSH 
- Change to a nonstandard port
- Create & configure key based SSH login (key protected with password)
- Disable root login via SSH
- Disable password login via SSH
- 
- Configure Firewall 
- Create rule to allow but limit SSH in on new port
- Create rules to allow in, on other necessary ports (for me just 80 and 443)
- Set default deny for everything else.
- Rule to drop ping requests
- Enable firewall
- 
- Setup fail2ban for SSH 
- Rather relaxed 15/15/15 rule (15 failed logins, in 15 minutes = 15 minute ban)
- 
- Check to make sure apparmor is enabled and in enforcement mode
-  
-​
- On the to-do / research list are (1) setting up mail so important system mail is sent (or forwarded from 'root') to my actual e-mail address (2) figuring out backups of some sort
- ​
- What additional steps would you take?
- What have I left out / forgotten / got wrong?
-    submitted by    /u/Xeon-T  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My backup setup: restic + systemd + prometheus export]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nt496d/my_backup_setup_restic_systemd_prometheus_export/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nt496d/my_backup_setup_restic_systemd_prometheus_export/"/>
-        <updated>2021-06-05T20:11:07.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/JacksGT  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running Taiga on Docker with jwilder's nginx-proxy?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nt3zdm/running_taiga_on_docker_with_jwilders_nginxproxy/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nt3zdm/running_taiga_on_docker_with_jwilders_nginxproxy/"/>
-        <updated>2021-06-05T19:58:04.000Z</updated>
-        <summary type="html"><![CDATA[I got a couple of services running as containers already including them sharing postgres and nginx-proxy, but I can't for the life of me figure out how I can reuse those for Taiga. Or rather, I got postgres working, but not the nginx-proxy.
- Has anyone done this? Can I take a peek at your config? I'm totally at loss here. I've been googling for days :D
- I'm suspecting I have to do some custom nginx config for Taiga, but none of the stuff I have tried so far has worked. I'm not all that sure how I should get those VIRTUAL_HOST and LETSENCRYPT_HOST environment variables across to nginx-proxy either.
-    submitted by    /u/bronlund  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nextcloud: How do I change the default folder where it is hosting?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nt3wj6/nextcloud_how_do_i_change_the_default_folder/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nt3wj6/nextcloud_how_do_i_change_the_default_folder/"/>
-        <updated>2021-06-05T19:54:18.000Z</updated>
-        <summary type="html"><![CDATA[Default folder is var/snap/nextcloud/common/nextcloud/data, right? I'd like to change this to somewhere else, I have another folder ~/temp I want use this directory. Could you help me? Rookie :D
-    submitted by    /u/mishab_mizzunet  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the best self hosted basic chat service?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nt3wa7/what_is_the_best_self_hosted_basic_chat_service/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nt3wa7/what_is_the_best_self_hosted_basic_chat_service/"/>
-        <updated>2021-06-05T19:53:56.000Z</updated>
-        <summary type="html"><![CDATA[I am looking to host a basic chat website on my home server so I can keep in contact with my wife while I am away for work. It needs to be very very very low bandwidth, something that just sends text and is secure. I need it to be web based so that I can access it from a work computers web browser. What direction do I need to look into for this? Thanks!
-    submitted by    /u/IskanderEXC  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixing HP Proliant DL180 G6 (Not Booting)]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nt3qru/fixing_hp_proliant_dl180_g6_not_booting/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nt3qru/fixing_hp_proliant_dl180_g6_not_booting/"/>
-        <updated>2021-06-05T19:46:36.000Z</updated>
-        <summary type="html"><![CDATA[I have a HP Proliant DL180 G6. I have two dilemmas. One being I shut my power off to do some electrical work is adding outlets to my house. I forgot to unplug/shutdown server. But all SAS drives are functional I checked the bays lights and all the drives show up in the Smart array manager. But one of the drive says rebuilding 0.19%. while rebooted from Windows server 2019, appreciation of the power again while I was rebuilding. Here's the real dilemma. I transferred a couple terabytes worth of data over to the server. It had my entire movie and DVD collection and TV shows, over 400 movies and over 50 full tv shows s1-end. Two questions.
-  
-Is there a way to recover or rebuild the drive cuz every time I try just it will send my screen no black screen or just not recover.
- I've looked in the…]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git Wiki]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nt23nq/git_wiki/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nt23nq/git_wiki/"/>
-        <updated>2021-06-05T18:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Does anyone know if any Wiki style software exists for Github, or some other revision control system. I like the use a github system for my code, but I also need a wiki for random notes and things related to sysadmin and security; I figured they are quite similar that something might exist which faciliates both.
- Any suggestions?
-    submitted by    /u/meowman3000  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PM2 Self Host Alternative]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nt16qg/pm2_self_host_alternative/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nt16qg/pm2_self_host_alternative/"/>
-        <updated>2021-06-05T17:46:34.000Z</updated>
-        <summary type="html"><![CDATA[Hello
- Is there any alternative to pm2 that also has a dashboard to monitor the processes and doesn't have a free process limit?
- Can either be Self-Host, Open-Source or hosted but unlimited processes.
- Thank you
-    submitted by    /u/Karbust  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should I be Using a Socket Proxy to Improve Security]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nszygt/should_i_be_using_a_socket_proxy_to_improve/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nszygt/should_i_be_using_a_socket_proxy_to_improve/"/>
-        <updated>2021-06-05T16:49:18.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/norsemanGrey  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self host nextcloud without domain?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nszfa7/self_host_nextcloud_without_domain/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nszfa7/self_host_nextcloud_without_domain/"/>
-        <updated>2021-06-05T16:24:14.000Z</updated>
-        <summary type="html"><![CDATA[I have this server and I want to self-host Nextxloud in it. I tried and tested running publicly by ngrok, it's working, great. However, is there any tunneling sites like ngrok that I can use this Nextcloud publicly for free maybe? Thanks Rookie here :D
-    submitted by    /u/mishab_mizzunet  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advice before buying (xposted plex/homeNAS)]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nsz0jh/advice_before_buying_xposted_plexhomenas/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nsz0jh/advice_before_buying_xposted_plexhomenas/"/>
-        <updated>2021-06-05T16:05:24.000Z</updated>
-        <summary type="html"><![CDATA[I'd like to get some feedback before pulling the trigger on a build. I'm essentially following JDM_WAAAT's NAS killer 5.0 guide and just want to know how it still holds up, or if there are better options since it is a year old. Usage will be primarily Plex/Sonarr/Radarr/Jackett/qBittorrent with one local client and possibly ~2 remote streams. I plan on getting into unRaid/Docker and exploring additional projects. I've never built a computer before so any feedback/resources/advice would be appreciated.
- CPU: i7-5775C or i7-4790 (whichever I can get for <$150/$200)
- Motherboard: Asus z97-A
- Ram: 4x8gb whatever is compatible/cheap
- Cache: 1tb ssd
- Array: 7x6tb WD Reds
- Case: CoolerMaster n400
- Miscellaneous: power supply, fans, cpu cooler, SATA cables, SATA power cables, thermal paste
- This is the general idea, but is there anything I'm forgetting overlooking? Any concerns/bottleneck/connection issues I should be aware of? I want to spend under $2k all in.
-    submitted by    /u/easylightsmooth  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any ngrok alternative that provides free subdomain?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nsyl1s/any_ngrok_alternative_that_provides_free_subdomain/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nsyl1s/any_ngrok_alternative_that_provides_free_subdomain/"/>
-        <updated>2021-06-05T15:46:04.000Z</updated>
-        <summary type="html"><![CDATA[Edit: Agro Tunnel and freenom domain seems nice
-    submitted by    /u/mishab_mizzunet  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online GUI torrent manager for server?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nsyjvy/online_gui_torrent_manager_for_server/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nsyjvy/online_gui_torrent_manager_for_server/"/>
-        <updated>2021-06-05T15:44:36.000Z</updated>
-        <summary type="html"><![CDATA[Hello all, ATM I'm planning out to use my old laptop as a plex server, Some of the content will be brang via Torrent. Is there a good torrent downloader with a web GUI for ubuntu server?
-    submitted by    /u/Adaptos  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best early Prime Day deal gives $10 Amazon credit with a $40 gift card]]></title>
-        <id>https://arstechnica.com/?p=1769854</id>
-        <link href="https://arstechnica.com/?p=1769854"/>
-        <updated>2021-06-05T15:03:05.000Z</updated>
-        <summary type="html"><![CDATA[Dealmaster also has deals on Audible, Resident Evil, and PlayStation Plus.]]></summary>
-        <author>
-            <name>Ars Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux server and windows game vm on one machine]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nsxiwo/linux_server_and_windows_game_vm_on_one_machine/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nsxiwo/linux_server_and_windows_game_vm_on_one_machine/"/>
-        <updated>2021-06-05T14:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Hi, what is best for having one machine with a ubuntu server and windows game vm:
- - esxi then both os as vms 
- or 
- - ubuntu server with windows vm on it
- ​
- Thanks
- the server -> seciond hand tower with 10 core xeon 16g ram and p4000 gpu
-    submitted by    /u/asht1075  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Containerized email solution?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nsx5yu/containerized_email_solution/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nsx5yu/containerized_email_solution/"/>
-        <updated>2021-06-05T14:39:49.000Z</updated>
-        <summary type="html"><![CDATA[I can’t decide between mailcow, docker-mailserver and mailu. All look good. I currently use modoboa, it’s great but I need a solution which lives in Docker. A database-less or SQLite deployment is preferred because the VPS I use doesn’t have a lot of resources. I also hate databases. Autoconfig is preferable but there’s a separate docker image that can provide this functionality. 
- So what’s your experience with the three above?
-    submitted by    /u/nicnic2001  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another randos critique of Google Photo replacement options]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nswlff/another_randos_critique_of_google_photo/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nswlff/another_randos_critique_of_google_photo/"/>
-        <updated>2021-06-05T14:11:59.000Z</updated>
-        <summary type="html"><![CDATA[RSo for months I've been preparing for this. Scoped out hardware upgrades to my personal server, purchasing storage space to prepare for "The Great TakeOut"ing. See my wife and I have relied on Google Photo backups to keep copies of our marriage and family journey for the past 10+ years. Obviously they're not High-Res 4k images or videos, but as a family photo album, using our daily driver devices, it's been perfect. 
- As Google started showing signs of dropping this feature, I played with other incorporated & pre-existing replacements which I had access. 
- Always back burner projects due to a busy life. 
- I used Amazon Photos as a Prime Member. It was fine, but UI was garbage. I bought in to Plex as a lifetime member while it was in Beta for totally legal media server uses, and was pleasa…]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reducing poverty can actually lower energy demand, finds research]]></title>
-        <id>https://arstechnica.com/?p=1770116</id>
-        <link href="https://arstechnica.com/?p=1770116"/>
-        <updated>2021-06-05T13:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Turns out human development is a matter of economic justice and climate justice.]]></summary>
-        <author>
-            <name>Ars Staff</name>
         </author>
     </entry>
 </feed>
