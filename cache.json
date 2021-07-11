@@ -6,6 +6,123 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ohufys/free_and_open_source_alternative_to_paperless/",
+          "author": null,
+          "description": "I had been using Paperless for document management. It sucks in PDFs, OCRs them and then indexes them, so you can find anything with a quick search.\n https://github.com/the-paperless-project/paperless\n The developer stopped working on the project back in 2019. Even after he announced that the project was over, he maintained it for quite a while before he had to stop.\n The app was written in python 2, so there are certain challenges with porting it to python .\n Github says there are 527 forks. But that's a lot of forks to look through to see what's maintained.\n So, I am looking for an alternative document management system I can use for my scanned paperwork that can OCR it and index it.\n    submitted by    /u/plazman30  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ohufys/free_and_open_source_alternative_to_paperless/",
+          "publishedOn": "2021-07-11T00:37:56.000Z",
+          "wordCount": 243,
+          "title": "Free and open source alternative to paperless"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ohtmj1/selfhosted_picdrop_alternative_photo_gallery_with/",
+          "author": null,
+          "description": "I am currently looking for a selfhosted PicDrop alternative with the following features:\n  \n easy image upload to a gallery\n  gallery sharing via link\n  link recipient can create a selection of picked images\n  owner can see the picked / selected images of the recipient\n  (optional) export the filenames of the selection to textfile / clipboard\n  \nIs there anyone that can point me in a specific direction? Any help would be highly appreciated.\n    submitted by    /u/SyntaxX_3rroR  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ohtmj1/selfhosted_picdrop_alternative_photo_gallery_with/",
+          "publishedOn": "2021-07-10T23:44:57.000Z",
+          "wordCount": 220,
+          "title": "Selfhosted PicDrop alternative - photo gallery with selection feature for photography and retouching"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oht65l/self_hosted_taskrabbit/",
+          "author": null,
+          "description": "I'm looking for a self hosted TaskRabbit clone. I found a few closed source versions that want a pretty high premium upfront to host on your own server (ranging from $2k - $7K USD). I've only just begun looking so there may be some options out there.\n The question comes up from a small local community asking about a gig based app in the area and TaskRabbit doesn't cover my area.\n Thanks!\n    submitted by    /u/emeadows  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oht65l/self_hosted_taskrabbit/",
+          "publishedOn": "2021-07-10T23:17:18.000Z",
+          "wordCount": 171,
+          "title": "Self Hosted TaskRabbit?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ohodti/how_to_store_backups_on_google_drive/",
+          "author": null,
+          "description": "Until now, any backup I wanted to have a copy of I saved it on my GDrive account, inside a Cryptomator vault for privacy and security.\n This last month I've been setting up a little home server with Proxmox and a big HDD for media and documents. I have the backup of my Proxmox machines on this HDD, but now I'm trying to store a backup of the HDD on GCloud. I've managed to install GCloud on the Proxmox host (Ubuntu), and I can upload/download stuff, but I don't know how to do it to have it inside the Cryptomator vault, since it's not like in Windows that it looks like a folder/drive in the machine, but it's commands to upload everything.\n I've considered creating a ZIP with the contents, give it a password and just upload it, but I'm unsure if it's good enough. \n What would be a good way to backup this drive while preserving privacy?\n    submitted by    /u/Stasky-X  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ohodti/how_to_store_backups_on_google_drive/",
+          "publishedOn": "2021-07-10T18:46:11.000Z",
+          "wordCount": 355,
+          "title": "How to store backups on Google Drive?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ohntyu/selfhosting_cryptpad_with_docker_and_configjs/",
+          "author": null,
+          "description": "Hello !\n So, I've been learning self-hosting lately and wanted to host cryptpad because, well... it is awesome.I use a RPi4 running RaspberryOS 64bits.I found an image for docker Nicholas Wilde developed for ARM architecture and installed it. After struggling a few days, I got cryptpad to work perfectly, but I don't manage to create and edit the necessary config.js file in order to change storage limit and upload size.So, here's my docker-compose, inspired by Nicholas Wilde's and the one from the official cryptpad-docker :\n version: \"2.1\" services: installer: image: nicholaswilde/cryptpad container_name: cryptpad environment: - TZ=Europe/Paris #optional - PUID=998 #optional - PGID=100 #optional - CPAD_MAIN_DOMAIN=cryptpad.mydomain.com - CPAD_SANDBOX_DOMAIN=cryptpadsandbox.mydomain.com # Tr…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ohntyu/selfhosting_cryptpad_with_docker_and_configjs/",
+          "publishedOn": "2021-07-10T18:16:11.000Z",
+          "wordCount": 412,
+          "title": "Selfhosting Cryptpad with docker, and config.js"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ohm0hv/anyone_know_anything_about_owncast/",
+          "author": null,
+          "description": "Please DM me. I need lots of help. lol\n    submitted by    /u/RachelBraunAnimation  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ohm0hv/anyone_know_anything_about_owncast/",
+          "publishedOn": "2021-07-10T16:37:36.000Z",
+          "wordCount": 308,
+          "title": "Anyone know anything about Owncast?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ohfdjt/best_roon_server_alternative/",
+          "author": null,
+          "description": "Roon does so many things right. What I especially like is the ability to play the same thing synced across very different hardware piecies - e.g. receivers and Sonos or receivers and Chromecast devices.\n Is there anything open source that comes even close to that?\n    submitted by    /u/PaChillySoft  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ohfdjt/best_roon_server_alternative/",
+          "publishedOn": "2021-07-10T09:08:41.000Z",
+          "wordCount": 537,
+          "title": "best Roon server alternative?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ohfake/noob_question_on_how_to_improve_security_for_my/",
+          "author": null,
+          "description": "I've recently bought a Raspberry Pi 4. I've set up Nextcloud on it with NextCloudPi. I've opened up ports 80 and 443 on my router for the Raspberry, used Namecheap Dynamic DNS service with a subdomain of a domain I own and generated a Let's Encrypt certificate for that subdomain. In short, Nextcloud works perfectly on https://subdomain.example.com.\n Also I have:\n  \nfail2ban on\n SSH from external network off\n  \nWhat can I do to improve security? I'd kindly ask you to write things in a little more detail because, despite being a part-time programmer, it's my first time setting up a home server.\n    submitted by    /u/heinmot  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ohfake/noob_question_on_how_to_improve_security_for_my/",
+          "publishedOn": "2021-07-10T09:01:09.000Z",
+          "wordCount": 1487,
+          "title": "Noob question on how to improve security for my Nextcloud instance on Rpi 4"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ohed77/dockertraefikpihole_help_needed/",
+          "author": null,
+          "description": "It's taking me a while to get my head around these concepts and have some successes. But slowly...\n I have set up Pihole according to this tutorial and Pihole is running & *healthy* according to Portainer. I can access the Pihole web interface at http://192.168.20.100:8182/admin/ but not at pinhole.mydomain.com as I was expecting. My docker compose file is below. I also don't understand why so many ports are showing in Portainer.\n https://preview.redd.it/d12nrfrg9ca71.png?width=1054&format=png&auto=webp&s=7252915f450865d61428de93640f287ecb73e68e\n Here's my docker compose;\n pihole: container_name: pihole domainname: docker hostname: pihole image: pihole/pihole:latest ports: - '53:53/tcp' - '53:53/udp' # - '67:67/udp' - '8182:80' - '8183:443' restart: unless-stopped volumes: - /home/docker/apps/pihole:/etc/pihole - /home/docker/apps/pihole/pihole.log:/var/log/pihole.log - /home/docker/apps/pihole/dnsmasq.d:/etc/dnsmasq.d # cap_add: # - NET_ADMIN environment: - ServerIP=${SERVER_IP} - PROXY_LOCATION=pihole - VIRTUAL_HOST=pihole.${DOMAINNAME} - VIRTUAL_PORT=80 - TZ=${TZ} - WEBPASSWORD=qBraD9hGyAH3gDCMDBJb63Ehx9GZMmvu - DNS1=1.1.1.1 - DNS2=1.0.0.1 labels: - \"traefik.enable=true\" - \"traefik.backend=pihole\" - \"traefik.port=80\" - \"traefik.frontend.rule=HostRegexp:pihole.${DOMAINNAME},{catchall:.*}\" - \"traefik.frontend.priority=1\" - traefik.frontend.headers.SSLRedirect=true - traefik.frontend.headers.STSSeconds=315360000 - traefik.frontend.headers.browserXSSFilter=true - traefik.frontend.headers.contentTypeNosniff=true - traefik.frontend.headers.forceSTSHeader=true - traefik.frontend.headers.SSLHost=${DOMAINNAME} - traefik.frontend.headers.STSIncludeSubdomains=true - traefik.frontend.headers.STSPreload=true - traefik.frontend.headers.frameDeny=true \n My DOMAINNAME variable is set to mydomain.com\n My SERVER_IP is set to the lan IP of the server. Is this correct or should it be set to my wan IP?\n Thanks\n    submitted by    /u/broken_shoulder  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ohed77/dockertraefikpihole_help_needed/",
+          "publishedOn": "2021-07-10T07:38:55.000Z",
+          "wordCount": 455,
+          "title": "Docker/Traefik/Pihole help needed"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ohds77/i_couldnt_sleep_so_i_built_myself_an_email_server/",
+          "author": null,
+          "description": "Been meaning to for a while so last night I got on with it.\n  \n3 letter .ie domain\n iRedmail, SOGo, Postfix, Spamassassin, ClamAV\n EC2 t3a.micro @ €5/m. €2 if I decide to pay upfront for 3 years\n SES @ free\n EFS for the mail, so unlimited resilient storage @~€0.02/GB. Easy to double up on mail servers too. You could mount S3 instead, and half that price.\n Route53 @ €0.3/m\n Managed patches\n LetsEncrypt Certs\n DNS all working\n  \nAll hosted in Ireland. Now I can’t decide if I’m brave enough to move my email away from gmail! ActiveSync is so much nicer on the iPhone with the native apps than Gmail is.\n One gap - though the drives are encrypted, I’d like to figure out a way to encrypt the actual mailbox. Any suggestions welcome!\n Edit: Step by step guide here\n https://crashdoccorbin.s3.eu-west-1.amazonaws.com/mail.md\n    submitted by    /u/crashdoccorbin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ohds77/i_couldnt_sleep_so_i_built_myself_an_email_server/",
+          "publishedOn": "2021-07-10T06:49:58.000Z",
+          "wordCount": 523,
+          "title": "I couldn’t sleep so I built myself an email server in AWS"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ohbtpe/unable_to_connect_to_minecraft_docker_container/",
+          "author": null,
+          "description": "I have spun up a minecraft server in docker (https://hub.docker.com/r/itzg/minecraft-server) and I get it running fine but i am unable to connect to it, i am not on the same subnet as my docker VM (nor can i be), and i am trying to get it so i can play with my friends. Seeing videos of other people using this same docker container they just connect with their VM IP, but i cant, any ideas please?\n    submitted by    /u/TheDandyLiar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ohbtpe/unable_to_connect_to_minecraft_docker_container/",
+          "publishedOn": "2021-07-10T04:21:10.000Z",
+          "wordCount": 350,
+          "title": "Unable to connect to minecraft docker container"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oh9tdk/understanding_portainer_installation_locations/",
+          "author": null,
+          "description": "I have been using Portainer for a few months now and have ran into the problem that my SSD is not large enough to host all my data - and in many cases it is a waste of space to store it on a SSD over an HDD. I have started a fresh install with my data and aim to make the vast majority of it stored on my HDD while the service itself would be stored on the SSD. How can I do this?\n I have also noticed some application have a data volume and DB volume - and I am unsure whether I should store the DB volume on the HDD with the data volume.\n For example: I have a yaml file for GitLab, I would like to install GitLab itself on my SSD but the repo can stay on the HDD. I understand that the \"volumes\" are where the item is created, but it is a relative path - relative to what? In this yaml I image the…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oh9tdk/understanding_portainer_installation_locations/",
+          "publishedOn": "2021-07-10T02:07:22.000Z",
+          "wordCount": 793,
+          "title": "Understanding Portainer Installation Locations and Storage"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oh9k3f/update_bookstackapp_from_v0263_to_v2105_issue/",
+          "author": null,
+          "description": "Yes, I missed some updates, I though it would be updated using apt and I haven’t looked at the container for a while. I have a container with Ubuntu 18.04 with v0.26.3 working and a container with Ubuntu 20.04 with the latest version installed. I want to move all my data from the old version to the new one. Both are installed using the install script. The issue is that I cannot migrate the database between them and somehow they are incompatible and I cannot find anything on their website. Have anybody updated Bookstack without having to recreate every book and page?\n EDIT: solved. Had to comment out the “php artisan migrate” out of the install script and run it after I restored the database. Also had to set the password for bookstack again for some reason and the password can be found on the .env file but that file won’t show up using ls because it’s hidden. Then rebooted everything and it worked\n    submitted by    /u/ReyvCna  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oh9k3f/update_bookstackapp_from_v0263_to_v2105_issue/",
+          "publishedOn": "2021-07-10T01:50:20.000Z",
+          "wordCount": 416,
+          "title": "Update BookStackApp from v0.26.3 to v21.05 issue (Database incompatibility)"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/oh85in/can_someone_explain_to_me_how_to_use_sish/",
           "author": null,
           "description": "Sish seems to be way better than Ngrok, but I can't get it to work\n Sish Github Page\n    submitted by    /u/Topster_  \n [link]   [comments]",
@@ -5161,168 +5278,6 @@
           "publishedOn": "2021-06-11T13:27:05.000Z",
           "wordCount": 339,
           "title": "Authelia & Nginx Proxy Manager - Issues with VSCode"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nxeq7u/drone_ci_help_please_deployment_of_static_website/",
-          "author": null,
-          "description": "hi guys\n Can someone help me with the following please. I'm currently using Gitea and Drone CI (running in Docker on my NAS, so selfhosted!) and I'm trying to roll out my html code, via a pipeline, to my website. I just have no idea how to make this happen.\n ​\n  \nCan Drone CI somehow put my html code into a web service image and eventually deploy it to my website?\n Or can I have Drone CI put the code in a certain location on my NAS, so that a docker image that runs, picks it up and shows it on my website?\n or can Drone CI somehow execute a docker-compose.yml file?\n  \n​\n what is the easiest/fastest thing i can do to get this done?\n ​\n so what Iam trying to achieve:\n html code -> gitea -> trigger -> Drone CI -> puts my code online (somehow)\n    submitted by    /u/jboesh  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nxeq7u/drone_ci_help_please_deployment_of_static_website/",
-          "publishedOn": "2021-06-11T12:23:38.000Z",
-          "wordCount": 426,
-          "title": "Drone CI - help please - deployment of static website"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nxdwea/how_do_i_connect_to_ubuntu_server_on_the_local/",
-          "author": null,
-          "description": "Currently I am running an Ubuntu Server and Ubuntu Desktop on a virtual machines in Windows. My goal is to install Snipe-IT and for this I need to make some configurations on the server. But it seems that I am not able to connect to the server machine from the desktop machine. I am fairly new to servers and troubleshooted a lot but editing the sshd_config file didn't word. I try using ssh to login into the server with [usernameServer@127.0.0.1](mailto:usernameServer@127.0.0.1) but password authentification returns \"permission denied, please try again\". And also using [usernameServer@12.0.2.15](mailto:usernameServer@12.0.2.15) returns the same error. How can I establish a connection between the Ubuntu Server and Ubuntu Desktop running on the same local machine?\n    submitted by    /u/Sakazuki27  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nxdwea/how_do_i_connect_to_ubuntu_server_on_the_local/",
-          "publishedOn": "2021-06-11T11:39:01.000Z",
-          "wordCount": 353,
-          "title": "How do I connect to Ubuntu Server on the local machine from Ubuntu Desktop?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nxc03e/guide_email_notification_sendonlyrelayonly_mta/",
-          "author": null,
-          "description": "I have been self-hosting items for a while but one of the items that I have always shy away from was \"email notification\". It has always seen scary and black magic to me.\n Yesterday a HDD died on me and my containers stopped working. I found out about this by a user saying they could not access ownCloud (I missed smartmontools alerting me of issues). So it was high-time that I learnt about the joys of \"MTA\". I am writing up what I learnt so hopefully it helps others.\n Setup\n Machines:\n  \n2x Dedicated machines \n 3x VMs\n 2x LXD\n 1x VPS\n  \nNothing huge.\n Configurations:\n  \nThey are all connected via OpenVPN.\n Nothing is publicly accessible via the Internet (expect for the VPN service). \n If you want to access something, you need to be on the VPN.\n There are no reserve proxies.\n All machines h…",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nxc03e/guide_email_notification_sendonlyrelayonly_mta/",
-          "publishedOn": "2021-06-11T09:40:10.000Z",
-          "wordCount": 1490,
-          "title": "GUIDE - Email notification (Send-only/Relay-only MTA) using Postfix & Sendgrid"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nxb6id/are_you_interested_in_a_free_ldap_alternative_to/",
-          "author": null,
-          "description": "I've been working on a side project that, according to https://www.reddit.com/r/selfhosted/comments/nwmfvr/how_do_you_manage_your_users_authentication/, the community might find interesting.\n It's not yet ready to use (some core features are missing), but the idea is:\n Provide a (restricted) LDAP interface for services to list users and authenticate them, and a friendly web interface to manage the users. It's pretty opinionated (all users in the same OU, all groups in the same OU, limited query-only capabilities and so on) but should be sufficient for 90% of LDAP use cases, and has a *much* simpler deployment and management story than any full LDAP-based system.\n It's written in Rust to have minimal memory requirements, and the data is stored in SQL for simple backups. It would be absolutely trivial to wrap in a Docker container.\n If you are interested in contributing, check out https://github.com/nitnelave/lldap! Beginners welcome, I have some simple tasks to give if you're just starting with Rust.\n    submitted by    /u/nitnelave  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nxb6id/are_you_interested_in_a_free_ldap_alternative_to/",
-          "publishedOn": "2021-06-11T08:43:46.000Z",
-          "wordCount": 947,
-          "title": "Are you interested in a (free) LDAP alternative to manage users?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nx89yu/selfhosting_mattermost_at_home/",
-          "author": null,
-          "description": "I'd like to host Mattermost on a server I own at my home. Is there a guide on how to do this? Do I need to forward ports? If so, which? There doesn't seem to be much info on this. Thanks!\n    submitted by    /u/Fit_Back_1948  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nx89yu/selfhosting_mattermost_at_home/",
-          "publishedOn": "2021-06-11T05:28:52.000Z",
-          "wordCount": 353,
-          "title": "Selfhosting Mattermost at Home?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nx56ox/click_a_button_runs_a_command_need_help_finding/",
-          "author": null,
-          "description": "I need to save post more often...\n So, awhile back I saw on here someone talk about a dashboard that had buttons you could click that would run a command on the server. I remember them saying, it was great for giving some one access to that that you couldn't trust with SSH. I happen to need this exact thing (a few days after reading it). \n Can someone throw me a bone and a link / info on this.\n Dashboard, you click a button and it runs a command on the server. I'm thinking of using it to kick off docker images that run and do automated tasks such as create PDF reports based on numbers for work related stuffs.\n    submitted by    /u/ptarrant1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nx56ox/click_a_button_runs_a_command_need_help_finding/",
-          "publishedOn": "2021-06-11T02:31:41.000Z",
-          "wordCount": 275,
-          "title": "Click a button, runs a command - need help finding this, i know it was posted here once :)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nx3lk1/selfhosted_ci_environment_pipelines/",
-          "author": null,
-          "description": "I'm currently self-hosting Gitea for source control, but I was wondering if any of you fine people have set up any self-hosted continuous integration environments. I would obviously prefer ones that work with Gitea.\n It's very time-consuming to go through all the items on the \"awesome\" lists, so I'm hoping for some educated opinions.\n Edit: I'm mostly a .NET (core) developer, so anything that can use integrate natively, or at least be able to shoehorn in something with scripts is also a plus.\n    submitted by    /u/SteveDinn  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nx3lk1/selfhosted_ci_environment_pipelines/",
-          "publishedOn": "2021-06-11T01:06:01.000Z",
-          "wordCount": 1118,
-          "title": "Self-hosted CI environment / pipelines?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nx1lal/which_windows_vps_for_streaming_twitch/",
-          "author": null,
-          "description": "So yeah basically i need a windows VPS that i connect to thru a RDC. \n Wouldn't stream games or anything, but mostly just a blank screen with a few statistics. What specs would you recommend? I tried with VPS 4GB ram and 2 Intel Xeon CPU Cores and it's not working well. Tried streaming with OBS and it's laggy as hell, stream not even displaying. \n Any recommendations? What should the minimum specs be? How much bandwith will i use? Any recommended provider?\n    submitted by    /u/caco3boy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nx1lal/which_windows_vps_for_streaming_twitch/",
-          "publishedOn": "2021-06-10T23:24:28.000Z",
-          "wordCount": 204,
-          "title": "Which windows VPS for streaming Twitch?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nx18ti/mobile_friendly_google_docs_alternative/",
-          "author": null,
-          "description": "Heyho,\n I am part of a group organizing a project. Most of the people are non-nerds and we need a tool to share information online. Normally Google Docs/Drive would be fine, but for idealistic reasons that is not desired. So I'm looking for a nice alternative that will allow us to \n a) share files (PDF, images and so on) online \n and\n b) be able to edit files via browser and especially\n smartphone, since most people are mobile users. It is enough to be able to edit text files. \n There is no need for collaborative editing and text files are enough - no odt, no doc, plain text is fine.\n But it needs to be simple and it would be nice if it doesn't require a lot of additional apps on the phone.\n I skimmed the awesome selfhosted list, so far my best option would be Nextcloud and OnlyOffice pointing to the Nextcloud instance.\n Any better ideas out there? \n Really perfect would be something like Mattermost, but with text editing (like an included Etherpad/Cryptpad feature). There is a Collabora plugin for Mattermost, but unfortunately it doesn't work on mobile/via the Mattermost app.\n    submitted by    /u/MilchreisMann412  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nx18ti/mobile_friendly_google_docs_alternative/",
-          "publishedOn": "2021-06-10T23:07:38.000Z",
-          "wordCount": 423,
-          "title": "Mobile friendly Google Docs alternative?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nwxzq4/any_help_for_this_post/",
-          "author": null,
-          "description": "submitted by    /u/SirChesterMcWhipple  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nwxzq4/any_help_for_this_post/",
-          "publishedOn": "2021-06-10T20:44:10.000Z",
-          "wordCount": 289,
-          "title": "Any help for this post."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nwxmkx/self_hosting_server_requirements/",
-          "author": null,
-          "description": "Hi! I hope you won't laugh at me for this question because I'm a total noob at self-hosting and this will be my first try.\n I created an account on Hetzner and want to self-host these apps (I included what I use right now in brackets):\n  \nGhost or Wordpress (using static site with 11ty - free)\n Linkding (using raindrop - free)\n Wallabag (using pocket - $2.73/year)\n MiniFlux (using miniflux hosting - $15/year)\n Nextcloud (using Google One - $6.88/year)\n Standard Notes (using InkDrop - free with dev license)\n Plausible (using goatcounter - free)\n  \nBecause 1 Euro is equal to 10.26 Turkish Lira, I want to self-host these in smallest €2.49 CX11 server with these specs:\n  \n1 Intel vCPU\n 2 GB Ram\n 20 GB Disk Space\n 20 TB Traffic\n  \nI won't use these apps regularly, I'll use them rarely. It will be mostly for learning purpose. I might even move to my current stack.\n So is this server specs enough for this purpose, if not what will be?\n    submitted by    /u/taylantatli  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nwxmkx/self_hosting_server_requirements/",
-          "publishedOn": "2021-06-10T20:28:38.000Z",
-          "wordCount": 273,
-          "title": "Self Hosting Server Requirements"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nwxmjp/you_can_try_but_you_wont_stop_me_hosting_my/",
-          "author": null,
-          "description": "Here's a simple solution to being behind a CG-NAT. Check the tldr; at the end\n ​\n I've learned a lot about self hosting in the last weeks, after a colleague told me about nextcloud.\n I bought a fully upgraded mac mini 2012, installed Virtualbox, created an ubuntuVM and set up docker + compose. I installed nextcloud and started experimenting with it.\n I got rid of my fiber internet access a few years ago because my mobile phone provider offers an additional data sim card for about $5/mo and my traffic is unlimited.\n But that plan isn't great: I'm behind CG-NAT (Carrier-grade NAT) which means there's no way for me to reach my server when I'm not on the home wifi because my public IP address is shared between several other customers.\n So I called them to enquire about public ipv4 addresses op…",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nwxmjp/you_can_try_but_you_wont_stop_me_hosting_my/",
-          "publishedOn": "2021-06-10T20:28:35.000Z",
-          "wordCount": 747,
-          "title": "You can try but you won't stop me: hosting my services behind CG-NAT thanks to zerotier, caddy Oracle"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nwwe59/need_recommendations_for_filesync_software_long/",
-          "author": null,
-          "description": "I need recommendations for file sync software. This is a long post and I have specific needs, and have also tried several popular file-syncing tools already, so please read the whole thing before commenting.\n My setup is as follows:\n  \nDesktop with 4 TB HDD space, running Manjaro\n \nLaptop with 250 GB SSD space, running Manjaro\n \nPhone with ??? limited space, Android\n \nHeadless mini PC in a cupboard, connected to a 6 TB external HDD, intended as always-on server, running Ubuntu\n  \nWhat I want to accomplish:\n I want to be able to synchronize folders within my home folder between my laptop and desktop. This needs to work so that I have local copies of the files, and I'm not always waiting on network latency to do things. That way, I can work on things when I am outside and offline, and then s…",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nwwe59/need_recommendations_for_filesync_software_long/",
-          "publishedOn": "2021-06-10T19:37:19.000Z",
-          "wordCount": 2787,
-          "title": "Need recommendations for file-sync software (long post)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nwur76/graphhopper_routing_engine_open_source_route/",
-          "author": null,
-          "description": "Just discovered this place and would like to introduce you to our open source routing engine:\n https://github.com/graphhopper/graphhopper#readme\n GraphHopper offers you the path finding functionality (\"A to B routing\") that you probably know from Google Maps and uses data from the incredible OpenStreetMap project (see also /r/openstreetmap).\n To fully self-host a route planner (e.g. a \"Google Maps\" equivalent) you need GraphHopper for the routing and two other parts: you also need some visualization aka \"maps\" (e.g. with OpenMapTiles) and you need the address search (e.g. with Photon).\n We have a hosted version of this and you can try it: GraphHopper Maps. It is also privacy friendly without any trackers.\n This web app is not (yet) as polished as Google Maps app but there are many projects that use the routing functionality of GraphHopper and offer \"complete\" apps like outdoor apps (komoot, trailrouter, ride with GPS, Locus Map, plotaroute, Kurviger) or other services (delivery hero, deutsche bahn, GLS, ...)\n And GraphHopper can be used for more things beyond routing like for reachability analysis:\n Reachability analysis across an entire country\n Make sure you follow our twitter or blog posts. For example we recently released version 3.0.\n    submitted by    /u/graphhopper  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nwur76/graphhopper_routing_engine_open_source_route/",
-          "publishedOn": "2021-06-10T18:28:58.000Z",
-          "wordCount": 423,
-          "title": "GraphHopper Routing Engine - Open Source Route Planning"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nwq3uh/install_searx_on_a_rpi4_running_rpios64bits_with/",
-          "author": null,
-          "description": "submitted by    /u/Tiritibambix  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nwq3uh/install_searx_on_a_rpi4_running_rpios64bits_with/",
-          "publishedOn": "2021-06-10T15:15:24.000Z",
-          "wordCount": 292,
-          "title": "Install Searx on a Rpi4 running RpiOS64bits with docker / portainer ?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nwowg6/bookstack_guest_access/",
-          "author": null,
-          "description": "submitted by    /u/the_treeman_working  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nwowg6/bookstack_guest_access/",
-          "publishedOn": "2021-06-10T14:24:26.000Z",
-          "wordCount": 238,
-          "title": "Bookstack Guest Access"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nwn7ur/is_anyone_hosting_homer_on_a_subfolderbase_url/",
-          "author": null,
-          "description": "I've found traces of conversation around Homer being able to be served on a subfolder rather than a subdomain, but I can't find any documentation on how to do so.\n I'm using Nginx.\n    submitted by    /u/pedges  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nwn7ur/is_anyone_hosting_homer_on_a_subfolderbase_url/",
-          "publishedOn": "2021-06-10T13:08:10.000Z",
-          "wordCount": 188,
-          "title": "Is anyone hosting Homer on a subfolder/base URL?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nwn58j/is_there_a_self_hosted_project_management/",
-          "author": null,
-          "description": "Hello everyboy,\n I am looking for a self hosted project management software to use for a non-profit hospital. It should support Kanban boards and maybe even some Scrum, Burndown- & Gantt Charts.\n What I tried:\n - JIRA Software: Got a free community license but the terminology is too software focused\n - JIRA Core: Neutral terminology but no Kanban boards\n - Taiga.io: Looks awesome and our first test server was set up quickly but horrible to set up for configuration with HTTPS and so on. We can't get the mail settings or the LDAP sync to work and the documentation is clearly from coders for coders (a lot of knowledge is assumed).\n    submitted by    /u/suddenlysysdude  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nwn58j/is_there_a_self_hosted_project_management/",
-          "publishedOn": "2021-06-10T13:04:44.000Z",
-          "wordCount": 538,
-          "title": "Is there a self hosted project management software you can recommend in 2021?"
         }
       ]
     },
@@ -5850,33 +5805,6 @@
           "publishedOn": "2021-06-11T14:30:29.000Z",
           "wordCount": 2375,
           "title": "Adding Shadows to SVG Icons With CSS and SVG Filters"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342050",
-          "author": "Chris Coyier",
-          "description": "One thing that can be just a smidge funky about the <details> element is that, when open, it’s not always 100% clear what is inside that element and what isn’t. I’m not saying that always matters or that it’s a …\nThe post Put a Background on Open Details Elements appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/put-a-background-on-open-details-elements/",
-          "publishedOn": "2021-06-11T00:16:28.000Z",
-          "wordCount": 630,
-          "title": "Put a Background on Open Details Elements"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341894",
-          "author": "Kevin Powell",
-          "description": "As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.\nLet’s break those two down and see how they work together.\nThe post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/",
-          "publishedOn": "2021-06-10T14:34:22.000Z",
-          "wordCount": 4303,
-          "title": "Equal Columns With Flexbox: It’s More Complicated Than You Might Think"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342182",
-          "author": "Ikeh Akinyemi",
-          "description": "In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.\nThe post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/",
-          "publishedOn": "2021-06-10T14:26:47.000Z",
-          "wordCount": 2892,
-          "title": "Building a Headless CMS with Fauna and Vercel Functions"
         }
       ]
     },
@@ -6261,20 +6189,6 @@
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bf0cbb26-546e-43b7-9b9a-9077259ea84b/making-use-of-audio.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.",
-          "link": "https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/",
-          "publishedOn": "2021-06-10T15:00:00.000Z",
-          "wordCount": 4869,
-          "title": "Useful Front-End Boilerplates And Starter Kits",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/598e7f3e-9dca-4922-b17d-76089efab46f/25-frontend-boilerplates-starter-kits.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
@@ -7011,6 +6925,33 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1779054",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has deals on Dell monitors, good board games, and portable SSDs.",
+          "link": "https://arstechnica.com/?p=1779054",
+          "publishedOn": "2021-07-10T15:12:52.000Z",
+          "wordCount": 2518,
+          "title": "The weekend’s best tech deals: Nintendo Switch Lite, MacBook Air, and more"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779135",
+          "author": "Diana Gitig",
+          "description": "A new book catalogs some of the greatest ethical lapses done in the name of science.",
+          "link": "https://arstechnica.com/?p=1779135",
+          "publishedOn": "2021-07-10T13:30:07.000Z",
+          "wordCount": 1454,
+          "title": "When science breaks bad: A rogues’ gallery of history’s worst scientists"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779027",
+          "author": "Financial Times",
+          "description": "Startups and venture capitalists are joining concrete makers against a hard problem.",
+          "link": "https://arstechnica.com/?p=1779027",
+          "publishedOn": "2021-07-10T11:30:02.000Z",
+          "wordCount": 1612,
+          "title": "Quest for “green” cement draws big name investors to $300B industry"
+        },
         {
           "id": "https://arstechnica.com/?p=1779281",
           "author": "Dan Goodin",
@@ -9692,159 +9633,6 @@
           "publishedOn": "2021-06-11T15:08:09.000Z",
           "wordCount": 995,
           "title": "Tesla takes aim at upstarts with 390-mile range, 200 mph Model S Plaid"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1767257",
-          "author": "Ars Contributors",
-          "description": "“One animal could have made thousands of traces during its lifetime, but only left one skeleton.\"",
-          "link": "https://arstechnica.com/?p=1767257",
-          "publishedOn": "2021-06-11T11:30:59.000Z",
-          "wordCount": 2225,
-          "title": "Trace fossils, the most inconspicuous bite-sized window into ancient worlds"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772183",
-          "author": "Eric Berger",
-          "description": "\"This idea has been around since the dawn of spaceflight.\"",
-          "link": "https://arstechnica.com/?p=1772183",
-          "publishedOn": "2021-06-11T11:00:29.000Z",
-          "wordCount": 2490,
-          "title": "Rocket Report: Vandals spray-paint Buran; China to launch first crew in 4 years"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1771930",
-          "author": "Ron Amadeo",
-          "description": "Android 12's \"Material You\" UI debuts in Beta 2, and we go hands-on.",
-          "link": "https://arstechnica.com/?p=1771930",
-          "publishedOn": "2021-06-11T10:15:14.000Z",
-          "wordCount": 1498,
-          "title": "Android 12’s beautiful color-changing UI already lives up to the hype"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772253",
-          "author": "Jon Brodkin",
-          "description": "ISPs' data must exactly match FCC's or application is rejected. A fix is on the way.",
-          "link": "https://arstechnica.com/?p=1772253",
-          "publishedOn": "2021-06-10T21:25:19.000Z",
-          "wordCount": 1370,
-          "title": "Some people can’t get FCC subsidy because “Street” isn’t the same as “St.”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1771834",
-          "author": "Jennifer Ouellette",
-          "description": "Pilot episode did everything it needed to do, with soupçon of whimsical swagger.",
-          "link": "https://arstechnica.com/?p=1771834",
-          "publishedOn": "2021-06-10T21:03:59.000Z",
-          "wordCount": 1491,
-          "title": "Review: Our favorite trickster god is charismatic as ever in Loki premiere"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772252",
-          "author": "Kyle Orland",
-          "description": "George R.R. Martin, From Software collaboration caps off trailer-filled event.",
-          "link": "https://arstechnica.com/?p=1772252",
-          "publishedOn": "2021-06-10T20:21:40.000Z",
-          "wordCount": 1197,
-          "title": "Elden Ring shows off first gameplay footage, confirmed for Jan. 2022"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772179",
-          "author": "Beth Mole",
-          "description": "UnitedHealthcare delayed the policy's rollout, but experts worry about chilling effect.",
-          "link": "https://arstechnica.com/?p=1772179",
-          "publishedOn": "2021-06-10T19:42:58.000Z",
-          "wordCount": 1625,
-          "title": "Biggest health insurer plans to deny ER bills if it doubts you had an emergency"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772165",
-          "author": "Samuel Axon",
-          "description": "Apple already shut down the Android version after acquiring the app last year.",
-          "link": "https://arstechnica.com/?p=1772165",
-          "publishedOn": "2021-06-10T19:28:46.000Z",
-          "wordCount": 757,
-          "title": "Dark Sky’s API, iOS app, and web app will all stop working next year"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772104",
-          "author": "Sam Machkovech",
-          "description": "After Summer Game Fest reveal, we got co-creator Chet Faliszek (ex-Valve) on the phone.",
-          "link": "https://arstechnica.com/?p=1772104",
-          "publishedOn": "2021-06-10T18:55:38.000Z",
-          "wordCount": 1636,
-          "title": "The Anacrusis: Left 4 Dead + sci-fi + persistent AI, coming to PC, Xbox this fall"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772133",
-          "author": "Dan Goodin",
-          "description": "More organizations feel the pain as the ransomware scourge grows more pernicious.",
-          "link": "https://arstechnica.com/?p=1772133",
-          "publishedOn": "2021-06-10T17:46:17.000Z",
-          "wordCount": 829,
-          "title": "EA source code stolen by hacker claiming to sell it online"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772099",
-          "author": "Kyle Orland",
-          "description": "Retailer names Amazon vets to executive team amid e-commerce turnaround plans.",
-          "link": "https://arstechnica.com/?p=1772099",
-          "publishedOn": "2021-06-10T16:38:22.000Z",
-          "wordCount": 1254,
-          "title": "GameStop stock falls sharply amid 5M-share sales plan, SEC investigation"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772081",
-          "author": "Tim De Chant",
-          "description": "“The Internet has become the dominant tool traffickers use to recruit victims.\"",
-          "link": "https://arstechnica.com/?p=1772081",
-          "publishedOn": "2021-06-10T16:19:52.000Z",
-          "wordCount": 1065,
-          "title": "Facebook is a hub of sex trafficking recruitment in the US, report says"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772054",
-          "author": "Ron Amadeo",
-          "description": "The EU made Google show a search engine picker, which Google turned into an ad.",
-          "link": "https://arstechnica.com/?p=1772054",
-          "publishedOn": "2021-06-10T15:59:21.000Z",
-          "wordCount": 1038,
-          "title": "Google to stop treating EU antitrust remedy as a “promotional opportunity”"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772065",
-          "author": "Financial Times",
-          "description": "Victory for environmentalists comes as groups step up campaigns.",
-          "link": "https://arstechnica.com/?p=1772065",
-          "publishedOn": "2021-06-10T14:48:22.000Z",
-          "wordCount": 920,
-          "title": "Keystone XL pipeline canceled after Biden scraps US permit"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772055",
-          "author": "Jonathan M. Gitlin",
-          "description": "The Class 8 trucks will still carry a driver and Waymo technicians for safety.",
-          "link": "https://arstechnica.com/?p=1772055",
-          "publishedOn": "2021-06-10T14:16:58.000Z",
-          "wordCount": 690,
-          "title": "Self-driving Waymo trucks to haul loads between Houston and Fort Worth"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1771934",
-          "author": "Eric Berger",
-          "description": "A test article may have been useful five years ago. But five years from now?",
-          "link": "https://arstechnica.com/?p=1771934",
-          "publishedOn": "2021-06-10T13:11:36.000Z",
-          "wordCount": 1487,
-          "title": "NASA doesn’t need to test SLS anymore, but the Senate mandates it anyway"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1771960",
-          "author": "Sam Machkovech",
-          "description": "Pre-E3 briefing takes shots at rivals, confirms \"new game every quarter\" aspirations.",
-          "link": "https://arstechnica.com/?p=1771960",
-          "publishedOn": "2021-06-10T13:00:45.000Z",
-          "wordCount": 1917,
-          "title": "Xbox unveils cloud-centric strategy: New hardware, servers, regional plans"
         }
       ]
     }
