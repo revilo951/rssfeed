@@ -2,10 +2,356 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-11T00:48:11.599Z</updated>
+    <updated>2021-07-12T00:42:13.002Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Having problems with leantime.io behind caddy reverse proxy]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oie526/having_problems_with_leantimeio_behind_caddy/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oie526/having_problems_with_leantimeio_behind_caddy/"/>
+        <updated>2021-07-11T22:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone
+ I am sorry in advance, I have a rather basic questions but I can't really find an answer.
+ I am running caddy and leantime in docker containers on the same internal network and with having port 9011 exposed for leantime. When I access it locally (local IP and port number) all works fine. If I try to access it through the reverse proxy, the site loads without any layout, only text. What am I missing?
+ I started out with this one-liner which led to layout problems:
+ <domain> {
+ reverse_proxy leantime_app:80
+ }
+ ​
+ Then I tried this, thinking it could by php, but leads to a blank site:
+ <domain> {
+ root * /var/www/html/public
+ php_fastcgi * leantime_app:80
+ file_server
+ }
+ I tried many variations but I believe I am quite close with one of the 2 versions above.
+    submitted by    /u/thedoubleyuu  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Following discussion on a secured document management software]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oibrfo/following_discussion_on_a_secured_document/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oibrfo/following_discussion_on_a_secured_document/"/>
+        <updated>2021-07-11T20:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Hi there!
+ Following a post today about EDMS it triggered an old obsession of mine. I was wondering if there is a secured EDMS. What I mean by secured is where documents would be decrypted on demand. I kinda not feel OK with having all of my important documents lying around unencrypted on my cloud server. Maybe this is stupid. But I was wondering if such EDMS existed, one that would decrypt my documents only when needed but would let them crypted the rest of the time.
+ Or maybe, I need some kind of local EDMS that I run against my documents stored in a crypted volume only when I need it?
+ What's your opinion on this?
+    submitted by    /u/Erwyn  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movie Poster display for Plex, Sonarr, and Radarr - https://hub.docker.com/r/petersem/posterr]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oib1vc/movie_poster_display_for_plex_sonarr_and_radarr/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oib1vc/movie_poster_display_for_plex_sonarr_and_radarr/"/>
+        <updated>2021-07-11T19:36:56.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/matthewpetersen  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billing and Contract Management?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oiavh9/billing_and_contract_management/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oiavh9/billing_and_contract_management/"/>
+        <updated>2021-07-11T19:26:45.000Z</updated>
+        <summary type="html"><![CDATA[I'm preparing to pivot into contract work under a partnership, creating the need for automated invoicing with some tricky expense considerations. In terms of functionality, I need
+  
+contract templates, editing, and e-signature
+ contracts grouped by customer
+ scheduled invoicing (incl. deposits, billable hours, payment on delivery, etc.)
+ payments and receipts
+ HTTP API (custom reports and CRM integration)
+  
+One tool for everything related to funds sounds like a dream come true, but the SaaS options I've seen described as "industry standard" are comically bloated and expensive. I'm willing to manage multiple applications and their infrastructure in order to control my data and overhead.
+ It occurred to me that this community might have some experience in the domain; hope it's not too off-topic. Where do you think I should be looking?
+ Thank you in advance.
+    submitted by    /u/HenryDavidCursory  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a really good daemon software that runs a node application whenever the machine powers on and forgets about i?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oiaufw/what_is_a_really_good_daemon_software_that_runs_a/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oiaufw/what_is_a_really_good_daemon_software_that_runs_a/"/>
+        <updated>2021-07-11T19:25:03.000Z</updated>
+        <summary type="html"><![CDATA[there is a forever npm program but im looking for a even more lightweight solution
+    submitted by    /u/Bulbasaur2015  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best VPN protocol]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oiacht/best_vpn_protocol/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oiacht/best_vpn_protocol/"/>
+        <updated>2021-07-11T18:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Hi reddit users. In my home internet speed is 1 gigabit, also I have a server on DigitalOcean with a speed of 9/2 gigabits. Which VPN protocol is the fastest?
+ P.S. Thanks, wireguard is realy fast.
+    submitted by    /u/a_double_square  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moving DNS hosting from namecheap (registrar) elsewhere (to cloudflare)?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oi839j/moving_dns_hosting_from_namecheap_registrar/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oi839j/moving_dns_hosting_from_namecheap_registrar/"/>
+        <updated>2021-07-11T16:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Hi all-
+ Background
+ I've been selfhosting internal services for a few years but I'm pretty new to public internet networking topics such as DNS hosting, DNS records, etc.
+ I have purchased a domain to use for my internal/local domain. I know I can use .home or .local, but I wanted to use a domain to get proper lets encrypt certificates.
+ I am following Tom Lawrence's video on using HAProxy, Acme, and lets encrypt to setup what is essentially an internal only reverse proxy. (Refer to: How To Create pfsense Let's Encrypt Wildcard Certificates using HAProxy) I would like to type in cookbook.domain.tld instead of something like 192.168.100.20:9000 to access a docker webUI. I won't be opening anything to the public internet, so this webUI will only be accessible on my own network.
+ Problem
+ I need to move the DNS hosting aspect of my domain away from Namecheap. Namecheap does not provide API access unless I own 20+ domains. I have read great things about both Cloudflare & DigitalOcean. I think I will stick with Cloudflare as it is free. DigitalOcean is free if you pay for one of their other services, but at this time I do not.
+ Question
+ I'm not sure how to move the DNS Hosting from namecheap to Cloudflare. I don't even really know if I'm using the correct terminology. Could someone point me in the direction of what terminology I should be googling to find a tutorial/write up on moving DNS Hosting from NameCheap to Cloudflare? Or provide a simple overview of the steps needed?
+ Thanks
+    submitted by    /u/DeutscheAutoteknik  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uptime Kuma - a fancy self-hosted monitoring tool, an alternative of UptimeRobot and statping]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oi7dc7/uptime_kuma_a_fancy_selfhosted_monitoring_tool_an/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oi7dc7/uptime_kuma_a_fancy_selfhosted_monitoring_tool_an/"/>
+        <updated>2021-07-11T16:15:45.000Z</updated>
+        <summary type="html"><![CDATA[https://preview.redd.it/0c0lnywhzla71.jpg?width=1378&format=pjpg&auto=webp&s=2009ca70adb35225dae2d35f783c03aa5c7435a6
+ Repo: https://github.com/louislam/uptime-kuma
+ Uptime Kuma is basically similar to UptimeRobot.
+ At first, I was looking for a monitoring tool which can watch my internal services. Though a lot of redditors here suggested statping here, unfortunately, it is not so stable in deep. I could not get downtime alert. I could not set the private channel for Telegram alert. The stats had gone wrong after restarted the statping docker.
+ So I decided to build my own one.
+ In this project, I fully used socket.io as the backend and Vue 3 as the frontend. You should feel the interactive is so quick compare to traditional web apps.
+ It supports Docker or without Docker.
+ I spent around 2 weeks to build this project. Hope you guys like it!
+ Sorry for my bad English.🙉
+    submitted by    /u/louislamlam  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone with experience setting up SSO/Dashboard/Okta alternative?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oi6lwl/anyone_with_experience_setting_up/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oi6lwl/anyone_with_experience_setting_up/"/>
+        <updated>2021-07-11T15:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Hello folks,
+ Has anyone successfully set up an Okta alternative in their home environment? I'm looking for something simple, for very few users - generally speaking, a login page, which uses LDAP for authentication, presents a dashboard (ideally, different for each user) with apps which, when clicked, log the user in automatically.
+ Thanks!
+    submitted by    /u/zkvvoob  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selfhosted Soundcloud alternatives for artists?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oi609d/selfhosted_soundcloud_alternatives_for_artists/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oi609d/selfhosted_soundcloud_alternatives_for_artists/"/>
+        <updated>2021-07-11T15:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Anything along the lines of soundcloud/bandcamp for musicians to manage and upload and host a site with their music? wondering what if anything is out there, or if just making a standalone website is the move.
+    submitted by    /u/_kebles  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lancache with Pihole - Tutorial]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oi5vv5/lancache_with_pihole_tutorial/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oi5vv5/lancache_with_pihole_tutorial/"/>
+        <updated>2021-07-11T14:54:15.000Z</updated>
+        <summary type="html"><![CDATA[So I was looking for a tutorial on how to properly setup Pihole in combination with Lancache, without losing the full Pihole statistics and didn't found one, so I decided to share my solution with you.
+ This is my first tutorial, so please be kind. Please let me know how I can improve the guide.
+ Actually my initial idea worked, we just need to tell pihole that all requests which are served by Lancache should be redirected to it. Thankfully I was able to use a script provided by uklans to generate host entries that I can simply cat into pihole config. This is how I have done it without typing all the dns entries by hand:
+ ssh to your pihole and execute the following commands:
+ cd /home git clone https://github.com/uklans/cache-domains.git cd cache-domains/scripts nano config.json 
+ Paste the following content into the file and replace YourLancacheIp with the actual IP:
+ { "ips": { "generic": "YourLancacheIp" }, "cache_domains": { "default": "generic" } } 
+ Now Ctrl+O to save the file and CTRL+X to close it. Now we let the script generate all the host files for us and insert them into pihole.
+ sudo ./create-dnsmasq.sh cd output/dnsmasq cat * > /etc/pihole/custom.list 
+ That's it! You can check if everything works by going into the pihole admin panel and look under Local DNS > DNS Records
+    submitted by    /u/Ksdmg  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox : Vm can't create partition]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oi50is/proxmox_vm_cant_create_partition/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oi50is/proxmox_vm_cant_create_partition/"/>
+        <updated>2021-07-11T14:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Everytime I tried to install Debian or Ubuntu server in a vm (that would be my first one) everything goes well until it's time to write the partition unto the disk and create the filesystem (either the whole disk on ext4 or ext4 +swap) 
+ And on debian it says "The ext4 file system creation in partition #1 of SCSI3 (0,0,0) (sda) failed" (or "swap file system" if I'm trying to do ext4 +swap)
+ Ubuntu server tell basically the same thing
+ I'm on a DL380 G9, my storage disk are on snapRAID + mergers (1x4tb xfs + 2x2tb xfs)
+ proxmox ve 6.4-8 and the latest Debian iso
+ All the vm setting are the default. I tried different SCSI controller like VirtIO SCSI (the single one too) or LSI 53C895A.
+ For now, all I want to do is spin up a vm to see how it goes
+    submitted by    /u/Oryphax  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Highly customizable selfhosted personal dashboard]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oi4ley/highly_customizable_selfhosted_personal_dashboard/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oi4ley/highly_customizable_selfhosted_personal_dashboard/"/>
+        <updated>2021-07-11T13:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone,
+ I am looking for a selfhosted solution to create a personal dashboard with weather, unread emails, traffic conditions, public transports conditions... I fact I am looking for a highly customizable solution to build an efficient and secured (and not complicated to manage) solution based for instance on widgets. Does such solution exists?
+    submitted by    /u/guuk1  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much shipping can we get through a warming Arctic?]]></title>
+        <id>https://arstechnica.com/?p=1779267</id>
+        <link href="https://arstechnica.com/?p=1779267"/>
+        <updated>2021-07-11T13:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Research discusses the logistic, social, and ecological impacts of a warm Arctic.]]></summary>
+        <author>
+            <name>Doug Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creepypasta and the search for the ghost in the machine]]></title>
+        <id>https://arstechnica.com/?p=1779035</id>
+        <link href="https://arstechnica.com/?p=1779035"/>
+        <updated>2021-07-11T13:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Stories of haunted video games have circulated for decades.]]></summary>
+        <author>
+            <name>Financial Times</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opinion: use Routers OpenVPN or self hosted Wireguard on server?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oi3pp8/opinion_use_routers_openvpn_or_self_hosted/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oi3pp8/opinion_use_routers_openvpn_or_self_hosted/"/>
+        <updated>2021-07-11T12:38:18.000Z</updated>
+        <summary type="html"><![CDATA[Title says it all. My current router is a Netgear Nighthawk R6800. I used to use it's OpenVPN along with its free mynetgear.com domain.
+ I self host quite a few services which I don't allow external access to. I wanted to try setting up my own VPN so I installed a Wireguard docker container and have it setup via a non proxied cloudflare subdomain.
+ Both work as well as eachother practically. I'm curious to know the communities opinion on which is "better" aka more secure or better suited for a self hosted setup, is a OpenVPN via a router more secure than a software Wireguard solution?
+    submitted by    /u/DaB0om  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self hosting alternative for Exercism?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oi1veg/self_hosting_alternative_for_exercism/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oi1veg/self_hosting_alternative_for_exercism/"/>
+        <updated>2021-07-11T10:10:25.000Z</updated>
+        <summary type="html"><![CDATA[I'm looking for a self hosting alternative for Exercism. I want to use it at school for the children. Should have similar features as Exercism
+    submitted by    /u/Voxelman  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nginx Proxy Manager + Guacamole 502 Error]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ohy8hs/nginx_proxy_manager_guacamole_502_error/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ohy8hs/nginx_proxy_manager_guacamole_502_error/"/>
+        <updated>2021-07-11T05:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Hi all,
+ I have set up oznu guacamole docker, reverse proxied with Nginx Proxy Manager.
+ I find when I setup the container ports as 8080:8080 the reverse proxy works fine, but as soon as I change the container ports I'll get a 502 error?
+ I am trying to change ports as I have homer running on 8080 already.
+ Edit: I can access the containers directly with the IP address
+ Thanks
+    submitted by    /u/ChoiceCucumber  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to learn about self hosting?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ohxfe5/how_to_learn_about_self_hosting/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ohxfe5/how_to_learn_about_self_hosting/"/>
+        <updated>2021-07-11T04:01:52.000Z</updated>
+        <summary type="html"><![CDATA[Hello all!
+ I'm running some servers with cool services: SuiteCRM, websites, FireflyIII, etc…
+ Everytime it takes me forever to install a service following the install process given by developers. I don't really understand how everything works in detail. Of course I searched on internet but everything is fragmented. I'd like to have a more educationnal approach than dispersed blogs explaining things that I don't have the keys to understand…
+ Do you have solid sources to learn how to manage my servers with deep understanding of the processes?
+    submitted by    /u/Dasfynx  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking For Some Kind Of Art Photo Dump Site With An Art Gallery Type Look, To Be Run On A Debian Based VPS Running Nginx]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ohwzmi/looking_for_some_kind_of_art_photo_dump_site_with/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ohwzmi/looking_for_some_kind_of_art_photo_dump_site_with/"/>
+        <updated>2021-07-11T03:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Hey there,
+ Just to give some background, I've got a Debian VPS where I run a personal page just showcasing a blog and some small personal projects.
+ On that same box, I have run a WordPress site on it as well and did all of the redirecting with the necessary DNS record stuff, and it works just fine (took a ton of tweaking since permissions are just stupid out of the box but yeah, it works).
+ The problem that I've been dealing with is that I've been trying for AGES to run a second site on the same box with almost identical type settings on Nginx and I just get the white page of death, even after combing through permissions, etc for the newer page.
+ At this point, I'm really just looking for something that hits these following points:
+ - Some kind of Open Source alternative to something like Google Photos
+ - Something that could display images in a nice art gallery format (this is because I would like to dump all my art onto a page, and just have users click a thumbnail to expand the image to the center)
+ - Something that could be hosted on Nginx on a Debian based VPS
+ ​
+ I'd share my WordPress config for that second site (with a few portions modified for privacy, etc) but I don't think its worth it since this isn't a WordPress support page, and I've already tried to troubleshoot it to death.
+ I just want something easy to host art images on Nginx.
+ ​
+ Thanks :)
+    submitted by    /u/BackToPlebbit69  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[OC] Github repo visualization for Milvus open-source project contributions. details in comment section]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ohuyw1/oc_github_repo_visualization_for_milvus/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ohuyw1/oc_github_repo_visualization_for_milvus/"/>
+        <updated>2021-07-11T01:12:25.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/SouthBayDev  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to copy data from hard drive that was on a different vm]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ohunfp/how_to_copy_data_from_hard_drive_that_was_on_a/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ohunfp/how_to_copy_data_from_hard_drive_that_was_on_a/"/>
+        <updated>2021-07-11T00:51:41.000Z</updated>
+        <summary type="html"><![CDATA[I have a 2tb drive that was assigned to a alpine vm(on proxmox) before running jellyfin on it. The drive has all my songs on it.
+ Recently i built a fresh server, a fresh array of drives and alpine vm running jellyfin.
+ Now i want to copy my songs data from that old drive onto this new vm storage. I have no idea how to do this?
+ Old server - vm owned complete disk. New server - 8 drives zfs is created in proxmox, add to data center storage and vm storage is complete zfs pool.
+    submitted by    /u/jaykavathe  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free and open source alternative to paperless]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/ohufys/free_and_open_source_alternative_to_paperless/</id>
@@ -13260,555 +13606,6 @@ It needs to sync when files are added not at a predetermined schedule
  What I want is to be able to access my files from all my devices and, of course, having remote access to them (when I'm not at home). 
  Thanks in advance.
     submitted by    /u/mlv96  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here are a bunch of iOS 15 features that Apple didn’t mention earlier]]></title>
-        <id>https://arstechnica.com/?p=1772514</id>
-        <link href="https://arstechnica.com/?p=1772514"/>
-        <updated>2021-06-12T12:40:59.000Z</updated>
-        <summary type="html"><![CDATA[As usual, some of the most intriguing changes weren't necessarily the biggest.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to protect species and save the planet—at the same time]]></title>
-        <id>https://arstechnica.com/?p=1772553</id>
-        <link href="https://arstechnica.com/?p=1772553"/>
-        <updated>2021-06-12T11:45:44.000Z</updated>
-        <summary type="html"><![CDATA[A major new report suggests tackling biodiversity, climate crises simultaneously.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lowdefy adds Docker, AWS Lambda and Netlify hosting options - An open-source, self-hosted low-code framework to build web apps, admin panels, BI dashboards with YAML or JSON.]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ny4s0r/lowdefy_adds_docker_aws_lambda_and_netlify/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ny4s0r/lowdefy_adds_docker_aws_lambda_and_netlify/"/>
-        <updated>2021-06-12T11:34:54.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/gervwyk  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What services did you have hosted?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ny4r53/what_services_did_you_have_hosted/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ny4r53/what_services_did_you_have_hosted/"/>
-        <updated>2021-06-12T11:33:20.000Z</updated>
-        <summary type="html"><![CDATA[That you make use of daily? Me, Vaultwarden and Nextcloud
-    submitted by    /u/mishab_mizzunet  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmark bandwidth: Direct / SSH / ZeroTier / ZeroTier self-hosted / Tailscale]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ny4b6i/benchmark_bandwidth_direct_ssh_zerotier_zerotier/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ny4b6i/benchmark_bandwidth_direct_ssh_zerotier_zerotier/"/>
-        <updated>2021-06-12T11:05:52.000Z</updated>
-        <summary type="html"><![CDATA[Context
- First post on Reddit, not sure to make it the right way.
- I am not a member of any of the companies cited in this post, I am simply publishing the results of a quick test that I carried out on a personal basis.
- It is a bandwidth comparison between a direct Internet connection, an SSH tunnel, ZeroTier, self-hosted ZeroTier and TailScale between my personal laptop and a remote server.
- Test computer
- Laptop:
-  
-Ubuntu 21.04
- Ethernet conneciton: 1 Gbps
-  
-Speedtest measure:
-  
-Ping: 9 ms
- Download: 904 Mbps
- Upload: 157 Mbps
-  
-Test server
- AWS instance :
-  
-t3.large instance
- Ubuntu 20.04
- Network burst bandwidth according to AWS: 5 Gbps
-  
-Speedtest measure:
-  
-Ping: 1.22 ms
- Download: 4751 Mbps
- Upload: 4772 Mbps
-  
-Measuring tool
- Basic usage of iPerf3, other tests should be do…]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datahoarding The beginning!]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ny1mcb/datahoarding_the_beginning/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ny1mcb/datahoarding_the_beginning/"/>
-        <updated>2021-06-12T07:59:30.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/zierbeek  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Borg Backup - Need a little assistance on best way to backup a remote server]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxyj0f/borg_backup_need_a_little_assistance_on_best_way/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxyj0f/borg_backup_need_a_little_assistance_on_best_way/"/>
-        <updated>2021-06-12T04:30:26.000Z</updated>
-        <summary type="html"><![CDATA[I have a dedicated home machine running unRaid and using borg to backup to an external hard drive as well as to 2 remote providers, 1 is just unRaid, other is unRaid and important stuff.
- I have a VPS that I use to host websites and other various services. It has backups provided by the hosting provider, as well as backup via borg to a remote service.
- What I want to do is also store a backup from the VPS to my home server, preferably via borg. I would prefer my home server to make the connection to my VPS, via ssh, and then do the backup of what I need.
- Anyone have a suggestion on best way to do this?
- Could I do a borg backup on my VPS, then rsync the borg save location to my home server?
- I am sure there is a better way to do it, just not seeing it.
-    submitted by    /u/0mnica  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need a good media server/rtmp web player/whatever.]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxxvb7/need_a_good_media_serverrtmp_web_playerwhatever/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxxvb7/need_a_good_media_serverrtmp_web_playerwhatever/"/>
-        <updated>2021-06-12T03:51:08.000Z</updated>
-        <summary type="html"><![CDATA[Preferably something easy to setup that works on windows. I have a 6700k dedicated server that I use for other things that has 1000 up/down. I'd like to stream to it at around 25k~ bitrate from my own computer using a program like OBS. Preferably at 144fps+. I've tried using plex/jellyfin as a media server instead and using syncplay, but those were both terrible experiences.
- Any help here?
-    submitted by    /u/IkkixD  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need software for offloading bookmarks from browser]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxwo42/need_software_for_offloading_bookmarks_from/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxwo42/need_software_for_offloading_bookmarks_from/"/>
-        <updated>2021-06-12T02:42:20.000Z</updated>
-        <summary type="html"><![CDATA[I've accumulated hundreds of bookmarks over the years and I really need to sort them out.
- I'd like to only keep the ones I use regularly on the browser and keep the rest in some kind of offline bookmarks organizer.
- Does anyone know if any projects which could do the job? Thanks!
-    submitted by    /u/Fit_Back_1948  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best sotirngae solution for self hosted on heardware?!]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxsrna/best_sotirngae_solution_for_self_hosted_on/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxsrna/best_sotirngae_solution_for_self_hosted_on/"/>
-        <updated>2021-06-11T23:07:06.000Z</updated>
-        <summary type="html"><![CDATA[/Sorry, for thye spelling im drunk
- what is the best cheap solution to store many lots of deadta for my friend cloud, that i can use,m on my raszpveryyuy pi
- i want to have nexrtcloud and whatever that one misskey is
- thinaky ou
-    submitted by    /u/_potaTARDIS_  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Disaster Recovery Plan? How to Use RTO and RPO to Protect your Business]]></title>
-        <id>60b72d5facb62507dd1d777b</id>
-        <link href="https://www.freecodecamp.org/news/disaster-recovery-plan-what-are-rto-and-rpo/"/>
-        <updated>2021-06-11T22:56:56.000Z</updated>
-        <summary type="html"><![CDATA[If you're in the world of tech, you will inevitably run into a work-related disaster now and then. These setbacks come in many forms such as cyber-attacks, theft, leaks, and corruption. And every business must be ready to face these things and plan for them. Sir Benjamin Franklin famously said,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three experts resign as FDA advisors over approval of Alzheimer’s drug]]></title>
-        <id>https://arstechnica.com/?p=1772629</id>
-        <link href="https://arstechnica.com/?p=1772629"/>
-        <updated>2021-06-11T22:07:00.000Z</updated>
-        <summary type="html"><![CDATA[One former advisor accused the FDA of presenting “slanted” questions to committee.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo!]]></title>
-        <id>https://css-tricks.com/?p=342429</id>
-        <link href="https://css-tricks.com/safari-15-new-ui-theme-colors-and-a-css-tricks-cameo/"/>
-        <updated>2021-06-11T21:38:48.000Z</updated>
-        <summary type="html"><![CDATA[There’s a 33-minute video (and resources) over on apple.com covering the upcoming Safari changes we saw in the WWDC keynote this year in much more detail. Look who’s got a little cameo in there:
-Perhaps the most noticeable thing there …
-The post Safari 15: New UI, Theme Colors, and… a CSS-Tricks Cameo! appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Possibilities of Syndication]]></title>
-        <id>https://css-tricks.com/?p=342237</id>
-        <link href="https://css-tricks.com/the-possibilities-of-syndication/"/>
-        <updated>2021-06-11T21:25:56.000Z</updated>
-        <summary type="html"><![CDATA[That’s the one word that isn’t an adjective in the acronym RSS. 
-Really Simple Syndication.
-RSS isn’t just about RSS readers. Even though, gosh if I don’t love RSS readers. It’s about putting content in a format that is …
-The post The Possibilities of Syndication appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NY can’t force ISPs to offer $15 low-income broadband plans, judge rules]]></title>
-        <id>https://arstechnica.com/?p=1772604</id>
-        <link href="https://arstechnica.com/?p=1772604"/>
-        <updated>2021-06-11T21:19:46.000Z</updated>
-        <summary type="html"><![CDATA[$15 requirement is rate regulation and preempted by federal law, ruling says.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guidance with Authelia as SSO for self-hosted web apps]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxq77f/guidance_with_authelia_as_sso_for_selfhosted_web/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxq77f/guidance_with_authelia_as_sso_for_selfhosted_web/"/>
-        <updated>2021-06-11T21:04:11.000Z</updated>
-        <summary type="html"><![CDATA[I run an unraid server with multiple docker containers. Rather than individual credentials for each app, I've started learning about Authelia and have successfully set up a simple authentication process for a container. Now that I have this first step working, I'm a little confused on next steps to deploy it into action:
- For example, say I have a container with paperless. I can protect the web UI for that container with authelia without much trouble, but how do I make paperless aware that I am logged in? Do I disable the paperless login mechanism to it auto logs in a user? (this seems dangerous). Do I use the token option to log in via API?
- Maybe it is different for each container, but a general workflow of how it's supposed to work or where I can read some tutorial would be appreciated.
-    submitted by    /u/mysterbubbles  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating home server]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxq77d/creating_home_server/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxq77d/creating_home_server/"/>
-        <updated>2021-06-11T21:04:11.000Z</updated>
-        <summary type="html"><![CDATA[I don't know if this is the correct subreddit for this so if not then I am sorry
- so, I really wanted to and now even more so want to create a home server that I could use to host anything I like/test and etc. I got to a technology school so me and a friend did a project with an old cisco server that we put ESXi on, a switch and other stuff and that made me understand how it all works and pushed me to want to set it up for real this time, I got a switch, ap and all the things needed but the actual server. one person at my school told me how he uses an old laptop with ESXi as a server. so I was wondering what would be a good starting point since I searched a bit and found decommissioned servers for about £100 I think and I don't know if that is work or if to just do what that guy did and create a server from a laptop 
- thank you in advance
-    submitted by    /u/Heydeath360  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building my own media apps for the long term]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxpvhc/building_my_own_media_apps_for_the_long_term/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxpvhc/building_my_own_media_apps_for_the_long_term/"/>
-        <updated>2021-06-11T20:49:43.000Z</updated>
-        <summary type="html"><![CDATA[Please let me know if a post like this is not allowed.
- I've been working on my own apps for my home media needs throughout covid. I just released the Server and Music apps and posted about it on /r/musichoarders. Even though this subreddit isn't music related, I think the project might be interesting to some of you.
- It's called Cardinal, and it's an ecosystem of apps for playing your media at home. Right now the Server and Music apps are available for macOS and Windows as early access releases, and soon the mobile Music app will be released. Planned apps are Photos, Books, and TV & Movies, which will all feed from the Server app.
- There's also a GitHub for technical info, where lots of the code has been open sourced.
- The apps are free to use and free of all types of advertising, tracking, and marketing. It would be nice to get feedback on whether people are interested in using something like this, because I would love to work on this long term if there's enough interest. Any and all feedback is welcome!
-    submitted by    /u/somebeaver  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Center Anything in CSS Using Flexbox and Grid ✨]]></title>
-        <id>6063b9189618b008528a9d81</id>
-        <link href="https://www.freecodecamp.org/news/how-to-center-objects-using-css/"/>
-        <updated>2021-06-11T20:40:17.000Z</updated>
-        <summary type="html"><![CDATA[Today I'm gonna show you how you can center and align your content with CSS. Along the way, we'll look at various alignment techniques. So, let's get started! 🥇 Table of Contents -> How to Use Flexbox to center anything horizontally center anything vertically center both horizontally & Vertically How]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CD Projekt Red does an about-face, says ransomware crooks are leaking data]]></title>
-        <id>https://arstechnica.com/?p=1772586</id>
-        <link href="https://arstechnica.com/?p=1772586"/>
-        <updated>2021-06-11T20:20:51.000Z</updated>
-        <summary type="html"><![CDATA[Data taken in breach disclosed in February likely related to employees and contractors.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need help with the Nextcloud docker-compose file]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxp8r5/need_help_with_the_nextcloud_dockercompose_file/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxp8r5/need_help_with_the_nextcloud_dockercompose_file/"/>
-        <updated>2021-06-11T20:20:33.000Z</updated>
-        <summary type="html"><![CDATA[This is the docker-compose file that I put together
- version: '3' services: nc_db: image: mariadb restart: unless-stopped env_file: .env networks: - nc_backend command: --transaction-isolation=READ-COMMITTED --binlog-format=ROW volumes: - ${APPDATADB}:/var/lib/mysql environment: - MYSQL_ROOT_PASSWORD=${PASSROOT} - MYSQL_PASSWORD=${DBPASSUSER} - MYSQL_DATABASE=${DB} - MYSQL_USER=${DBUSER} nc_app: image: nextcloud restart: unless-stopped env_file: .env networks: nc_frontend: ipv4_address: ${IP4} nc_backend: ports: - ${PORT}:80 depends_on: - nc_db volumes: - ${APPDATA}:/var/www/html - ${DATA}:/data environment: - MYSQL_PASSWORD=${DBPASSUSER} - MYSQL_DATABASE=${DB} - MYSQL_USER=${DBUSER} - MYSQL_HOST=nc_db - NEXTCLOUD_ADMIN_USER=${NCADMIN} - NEXTCLOUD_ADMIN_PASSWORD=${NCADMINPASS} - NEXTCLOUD_…]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MySQL 101: Installation, care, and feeding on Ubuntu]]></title>
-        <id>https://arstechnica.com/?p=1772445</id>
-        <link href="https://arstechnica.com/?p=1772445"/>
-        <updated>2021-06-11T19:23:34.000Z</updated>
-        <summary type="html"><![CDATA[If you've got 15 minutes, we can show you the ropes of basic MySQL management.]]></summary>
-        <author>
-            <name>Jim Salter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cocktail Bar / Inventory / Ordering?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxnyks/cocktail_bar_inventory_ordering/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxnyks/cocktail_bar_inventory_ordering/"/>
-        <updated>2021-06-11T19:21:22.000Z</updated>
-        <summary type="html"><![CDATA[Hey There, 
- I am building a cocktail bar in my dining room and I am looking to take it a step further buy giving my guests (friends and neighbors) a tablet with a menu of cocktails. Below are a few things I am looking to accomplish. 
-  
-Keep an inventory of all alcohol / liquor on hand
- Associate cocktails with ingredients and as each ingredient gets used alert me that we are running low based on inventory. 
- Allow guests to start a tab, and email them a receipt of cocktails ordered...this would help them remember what they liked last time they ordered. 
- Front end menu would be a menu with either hand selected cocktails (limit) or all cocktails (based on inventory of ingredients)
-  
-I am 99% confident that this doesn't exist in a self hosted product, but I am ok with hacking something together. Maybe a combination of something like SnipeIT + ? ... I dunno. Any suggestions are welcome!
-    submitted by    /u/guardianfx  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any Docker, Ansible, Hadoop, and MongoDB Based Self Hosting Projects To Consider]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxnwyv/any_docker_ansible_hadoop_and_mongodb_based_self/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxnwyv/any_docker_ansible_hadoop_and_mongodb_based_self/"/>
-        <updated>2021-06-11T19:19:16.000Z</updated>
-        <summary type="html"><![CDATA[Hey there,
- I need to learn a bit of Docker, Ansible, Hadoop, and MongoDB for a new job I took on recently.
- ​
- Anyone have any idea for anything I could self-host, and tweak a bit to learn the basics of these products?
- ​
- Thanks.
-    submitted by    /u/BackToPlebbit69  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best way to have 1,000 vCPUs and 1,000 gb of ram on demand, for 1-hour slots or so?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxns9u/best_way_to_have_1000_vcpus_and_1000_gb_of_ram_on/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxns9u/best_way_to_have_1000_vcpus_and_1000_gb_of_ram_on/"/>
-        <updated>2021-06-11T19:13:04.000Z</updated>
-        <summary type="html"><![CDATA[We are currently mass testing our multiplayer game, and we are looking for services that allow us for testing on a scale. Currently using AWS, but worried abour price.
-    submitted by    /u/dananite  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Design Keyboard Accessibility for Complex React Experiences]]></title>
-        <id>5f9c97e9740569d1a4ca1768</id>
-        <link href="https://www.freecodecamp.org/news/designing-keyboard-accessibility-for-complex-react-experiences/"/>
-        <updated>2021-06-11T19:10:00.000Z</updated>
-        <summary type="html"><![CDATA[How you can design an inclusive and accessible org chart experience and solutions to common development challenges you will face.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AT&T CEO seems confident industry can kill Biden’s municipal broadband plan]]></title>
-        <id>https://arstechnica.com/?p=1772540</id>
-        <link href="https://arstechnica.com/?p=1772540"/>
-        <updated>2021-06-11T19:03:58.000Z</updated>
-        <summary type="html"><![CDATA[CEO thinks US will keep giving billions to private ISPs instead of public networks.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kena: Bridge of Spirits hands-on premiere: As good as “Legend of Pikmin” sounds]]></title>
-        <id>https://arstechnica.com/?p=1772313</id>
-        <link href="https://arstechnica.com/?p=1772313"/>
-        <updated>2021-06-11T18:53:55.000Z</updated>
-        <summary type="html"><![CDATA[Hour-long demo proves this fall game is much more than a pretty face.]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Ask Good Technical Questions – the Ultimate Guide]]></title>
-        <id>60bc0444acb62507dd1d9a31</id>
-        <link href="https://www.freecodecamp.org/news/how-to-ask-good-technical-questions/"/>
-        <updated>2021-06-11T17:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Knowing how to ask effective technical questions is an essential skill every software engineer should have.  You may be stuck with a bug, unable to figure out why your program isn't working correctly, or you might be having trouble learning how to implement a certain algorithm. In all of these]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[British veterans set a new hypermiling record of 9.14 miles per kWh]]></title>
-        <id>https://arstechnica.com/?p=1772460</id>
-        <link href="https://arstechnica.com/?p=1772460"/>
-        <updated>2021-06-11T17:06:45.000Z</updated>
-        <summary type="html"><![CDATA[A Renault Zoe with a 52 kWh battery covered 475.4 miles in 24 hours.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alternative for sheetdb.io]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxkqkc/alternative_for_sheetdbio/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxkqkc/alternative_for_sheetdbio/"/>
-        <updated>2021-06-11T16:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Looking for a free service that offers the same thing as Sheetdb.io, which is creating a JSON Api from google spreadsheet and displays it as an HTML table through JavaScript.
-    submitted by    /u/darkboy245  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon, eBay fight legislation that would unmask third-party sellers]]></title>
-        <id>https://arstechnica.com/?p=1772441</id>
-        <link href="https://arstechnica.com/?p=1772441"/>
-        <updated>2021-06-11T16:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Federal and state bills come as e-commerce gains ground.]]></summary>
-        <author>
-            <name>Tim De Chant</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Level Up Your React Conditionals]]></title>
-        <id>60c24cf8d3126007592d61d5</id>
-        <link href="https://www.freecodecamp.org/news/learn-react-conditionals/"/>
-        <updated>2021-06-11T16:04:46.000Z</updated>
-        <summary type="html"><![CDATA[Do you write conditionals correctly within your React applications?  Good conditionals are an essential part of any React application. We use conditionals to show or hide elements or components in our applications.  In short – to be an effective React developer, you must know how to write good conditionals. Let's go]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The journey from docker to kubernetes]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxjhir/the_journey_from_docker_to_kubernetes/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxjhir/the_journey_from_docker_to_kubernetes/"/>
-        <updated>2021-06-11T16:04:18.000Z</updated>
-        <summary type="html"><![CDATA[There is a learning curve from Docker to Kubernetes, especially when you feel comfortable with one and not the other, this week has been a hard yet fruitful journey into the world of Kubernetes, using everything self-hosted I was able to deploy my own homespun docker image (N8N) from Proget onto Kubernetes and using MetalLb and Traefik access it from my lan.
- Some may say "this is well documented already" and that's fine, I personally went down a lot of rabbit holes with incorrect YAML files and commands, so put this together for me to remind me, and it might help someone else.
- NOTE: Nothing in this post is hosted outside of my home network.
- https://tech.davidfield.co.uk/from-zero-to-code-moving-from-docker-to-kubernetes/
-    submitted by    /u/mightywomble  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self hosted print / scan server?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxiwti/self_hosted_print_scan_server/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxiwti/self_hosted_print_scan_server/"/>
-        <updated>2021-06-11T15:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Anyone know of a self hosted print and scan server solution? I’m looking at Windows primarily because my scanner only works for windows or Mac.
-    submitted by    /u/nerd4tech  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome ends its war on address bar URLs—for now, at least]]></title>
-        <id>https://arstechnica.com/?p=1772423</id>
-        <link href="https://arstechnica.com/?p=1772423"/>
-        <updated>2021-06-11T15:33:36.000Z</updated>
-        <summary type="html"><![CDATA[As it turns out, hiding URL information does not help security.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla takes aim at upstarts with 390-mile range, 200 mph Model S Plaid]]></title>
-        <id>https://arstechnica.com/?p=1772426</id>
-        <link href="https://arstechnica.com/?p=1772426"/>
-        <updated>2021-06-11T15:08:09.000Z</updated>
-        <summary type="html"><![CDATA[Tesla's longest-serving car gets its long-awaited refresh.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Design Done Well: Making Use Of Audio]]></title>
-        <id>https://smashingmagazine.com/2021/06/web-design-done-well-audio/</id>
-        <link href="https://smashingmagazine.com/2021/06/web-design-done-well-audio/"/>
-        <updated>2021-06-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Design often revolves around visuals, but the other senses deserve love too. In this article, we tune in to audio features that are making sites sing.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding Shadows to SVG Icons With CSS and SVG Filters]]></title>
-        <id>https://css-tricks.com/?p=342164</id>
-        <link href="https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/"/>
-        <updated>2021-06-11T14:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Why would we need to apply shadows to SVG?
-Shadows are a common design feature that can help elements, like icons, stand out. They could be persistent, or applied in different states (e.g. :hover, :focus, or :active) 
-…
-The post Adding Shadows to SVG Icons With CSS and SVG Filters appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Hosted tool dashboard with Google SSO]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxgvzm/selfhosted_tool_dashboard_with_google_sso/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxgvzm/selfhosted_tool_dashboard_with_google_sso/"/>
-        <updated>2021-06-11T14:10:38.000Z</updated>
-        <summary type="html"><![CDATA[Hey Guys. Love this sub and all the amazing gems you can find on here.
- I wanted to ask if anyone knew of a dashboard that has Google SSO.
- I don't need there to be any graphs or anything. Just a simple page with links and icons to all of the resources that we use.
- I've seen Homer but I don't think its meant to be used in an organisation and doesn't have Google SSO.
- If anyone knows of anything, Please do let me know!
-    submitted by    /u/techyy25  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Help on backing up self hosted VMs/Nextcloud]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxg4p5/help_on_backing_up_self_hosted_vmsnextcloud/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxg4p5/help_on_backing_up_self_hosted_vmsnextcloud/"/>
-        <updated>2021-06-11T13:35:15.000Z</updated>
-        <summary type="html"><![CDATA[Asked this in Proxmox but didnt get any answer, but then may be its not a proxmox solution. Any guidance here please?
- ​
- Setup
- Server A) Proxmox Home server running multiple VMs (jellyfin - its own drive, nextcloud - its own zpool, wordpress and few other dockers in LVM on proxmox)
- Server B) dedicated Ubuntu mining machine that can double as backup server
- ----------------
- Questions
- Q1) I am not sure the right way to back server A. Do I back everything ideally like LVMs + Zpool data all together as one single thing? How does back up works?
- Q2) Technically, PBS could be handy to run on B, but Server B will be running chia/mining stuff on Ubuntu 24x7. I can add few more disks to it and automate backup on it from server A. How to do it?
- Q3) Its not a huge deal for me if I lose proxmox configuration, but definitely want Zpool and Jellyfin and VM (website coding etc) data auto backed up on server B. But then just why not back config anyway if its simple so if I ever drop a hammer on server A by accident, I can get replacement up really quick.
- Q4) What is better raid on Server A since I will have Server B backing up. Do I need to waste a disc on A for redundancy. Server B is already in a different location and will have Server C as cold backup later.
-    submitted by    /u/jaykavathe  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authelia & Nginx Proxy Manager - Issues with VSCode]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nxfymg/authelia_nginx_proxy_manager_issues_with_vscode/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nxfymg/authelia_nginx_proxy_manager_issues_with_vscode/"/>
-        <updated>2021-06-11T13:27:05.000Z</updated>
-        <summary type="html"><![CDATA[I am using Authelia together with Nginx Proxy Manager. Both are installed with Docker containers on the same host. I have got the setup working with most of my services, but for some reason when trying to get it to work with VSCode (using linuxserver/code-server) I only get a white/blank screen after login. I am using the same endpoint configuration for all the services just changing out the address and port number . I have no trouble with VSCode when not behind Authelia. Checking F12 on the page shows a bunch of WebSocets error like this: 
- WebSocket connection to 'wss://vscode.domain.com/?type=Management&reconnectionToken=d0bb10e8-2249-4f90-9da8-2b4358f90451&reconnection=false&skipWebSocketFrames=false' failed: 
- Anyone have any tip as to what might be wrong?
-    submitted by    /u/norsemanGrey  
  [link]   [comments]]]></summary>
         <author>
             <name>Self-Hosted Alternatives to Popular Services</name>
