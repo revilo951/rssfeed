@@ -2,10 +2,534 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-12T00:42:13.002Z</updated>
+    <updated>2021-07-13T00:46:02.610Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Better performance for pirates: Crack removes stutters from Capcom PC game]]></title>
+        <id>https://arstechnica.com/?p=1779719</id>
+        <link href="https://arstechnica.com/?p=1779719"/>
+        <updated>2021-07-12T23:57:50.000Z</updated>
+        <summary type="html"><![CDATA[This time, Denuvo doesn't appear to be the culprit... entirely.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mailcow and Nextcloud on 2 different VPS for security ?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oj3mtt/mailcow_and_nextcloud_on_2_different_vps_for/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oj3mtt/mailcow_and_nextcloud_on_2_different_vps_for/"/>
+        <updated>2021-07-12T23:52:13.000Z</updated>
+        <summary type="html"><![CDATA[Hey, I was wondering if having both of these services on the same VPS would compromise security.
+ More specifically, if Mailcow would require some looser settings (in order to allow sending/receiving mails) that would hinder Nextcloud's security.
+ I know that we can have different Nginx configurations for each one of the subdomains ("cloud" and "mail"), but the server's open ports for example are common to both.
+ Would it be safer to use 2 different VPS ? Or can we safely configure one VPS to handle both ?
+ Thanks for your feedback.
+    submitted by    /u/kdokdo  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mental Outlaw's Prosody XMPP Tutorial]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oj3lym/mental_outlaws_prosody_xmpp_tutorial/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oj3lym/mental_outlaws_prosody_xmpp_tutorial/"/>
+        <updated>2021-07-12T23:50:49.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/upofadown  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Komga not loading on any connection other than my wifi]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oj2irt/komga_not_loading_on_any_connection_other_than_my/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oj2irt/komga_not_loading_on_any_connection_other_than_my/"/>
+        <updated>2021-07-12T22:50:21.000Z</updated>
+        <summary type="html"><![CDATA[So I want to share my komga database, or maybe access to it from mobile data when I'm not home.
+ Ok, so I just access the server using my external IP (not 127.0.0.1 or 192.169.something.something) and the port number, right? Except it doesn't seem to work anywhere other than my own wifi (for example, on my phone I can use my external IP address to access my server, but if I turn the wifi off and reload from mobile data, it doesn't work anymore. Again, I am using my external address and of course my pc is on). It shouldn't be a router issue since I also use Jellyfin in the same way and it works. What could be the problem?
+    submitted by    /u/gyus_e  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whoops - /r/Selfhosted Matrix Chat Down]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oj1q02/whoops_rselfhosted_matrix_chat_down/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oj1q02/whoops_rselfhosted_matrix_chat_down/"/>
+        <updated>2021-07-12T22:09:28.000Z</updated>
+        <summary type="html"><![CDATA[So yeah, I am not firing on all cylinders today, folks. 
+ I'm in the process of rebuilding the matrix synapse node from scratch. 
+ I deleted the server today trying to clean up Digital Ocean droplets. 
+ I am so incredibly sorry to anyone for this dumb mistake. ><
+ Will update when it's restored. Sadly, any history/media that was uploaded there will not be recoverable, as I did not have any backups of the database anywhere. 
+ I guess, take this as a lesson in proper backups for production environments le sigh.
+    submitted by    /u/kmisterk  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F1 2021 reviewed: Codemasters adds story, keeps the racing sim feeling fresh]]></title>
+        <id>https://arstechnica.com/?p=1779557</id>
+        <link href="https://arstechnica.com/?p=1779557"/>
+        <updated>2021-07-12T21:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Get ready for the return of Devon Butler, the most hated man in racing.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Startup hopes the world is ready to buy quantum processors]]></title>
+        <id>https://arstechnica.com/?p=1779515</id>
+        <link href="https://arstechnica.com/?p=1779515"/>
+        <updated>2021-07-12T21:22:32.000Z</updated>
+        <summary type="html"><![CDATA[Quantum processors are mostly used via cloud services; QuantWare will ship you one.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s new Drive app replaces Backup and Sync with Drive File Stream]]></title>
+        <id>https://arstechnica.com/?p=1779598</id>
+        <link href="https://arstechnica.com/?p=1779598"/>
+        <updated>2021-07-12T20:57:31.000Z</updated>
+        <summary type="html"><![CDATA[The new Drive desktop app is available for Windows and Mac only.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health officials rail against Pfizer’s push for COVID boosters—for many reasons]]></title>
+        <id>https://arstechnica.com/?p=1779560</id>
+        <link href="https://arstechnica.com/?p=1779560"/>
+        <updated>2021-07-12T20:35:36.000Z</updated>
+        <summary type="html"><![CDATA["What part of 'this is a global crisis' are we not getting?"]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[self-hosted e-mail server with built-in anti-malware and anti-spam]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oizjk8/selfhosted_email_server_with_builtin_antimalware/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oizjk8/selfhosted_email_server_with_builtin_antimalware/"/>
+        <updated>2021-07-12T20:21:32.000Z</updated>
+        <summary type="html"><![CDATA[I am looking for something that will prevent me from even seeing malware attachments and SPAM e-mails but e-mails sent from it will be reliably delivered to any e-mail and not seen as SPAM
+    submitted by    /u/PaChillySoft  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best version of FIFA 22 won’t be on PC]]></title>
+        <id>https://arstechnica.com/?p=1779590</id>
+        <link href="https://arstechnica.com/?p=1779590"/>
+        <updated>2021-07-12T20:16:03.000Z</updated>
+        <summary type="html"><![CDATA[PC and last-gen consoles lack machine-learning-powered "HyperMotion" animations.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maybe not so fast with the phage therapy?]]></title>
+        <id>https://arstechnica.com/?p=1779508</id>
+        <link href="https://arstechnica.com/?p=1779508"/>
+        <updated>2021-07-12T20:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Even though viruses attack harmful bacteria, the immune system attacks viruses.]]></summary>
+        <author>
+            <name>Diana Gitig</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet `:has`, A Native CSS Parent Selector]]></title>
+        <id>https://css-tricks.com/?p=344355</id>
+        <link href="https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
+        <updated>2021-07-12T19:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …
+The post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hard drive costs going up... potentially viable alternative?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oiyqae/hard_drive_costs_going_up_potentially_viable/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oiyqae/hard_drive_costs_going_up_potentially_viable/"/>
+        <updated>2021-07-12T19:41:34.000Z</updated>
+        <summary type="html"><![CDATA[As I'm seeing hard drive costs going up, I'm finding it difficult to justify the cost of expanding my NAS storage. I'm also interested in expanding some of my proof-of-storage mining capabilities with low power/inexpensive M.2 SATA drives. I ran across this Kickstarter that might just be what I'm looking for and wanted to get the thoughts from the community on other potential use cases they might see this being used for. 
+ https://www.kickstarter.com/projects/storage-scaler/storage-scaler-16-x-m2-sata-iii-ssd-expansion-card
+    submitted by    /u/LL3344NN  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FCC speed standard that Ajit Pai never updated is too slow, GAO report says]]></title>
+        <id>https://arstechnica.com/?p=1779504</id>
+        <link href="https://arstechnica.com/?p=1779504"/>
+        <updated>2021-07-12T19:41:06.000Z</updated>
+        <summary type="html"><![CDATA[FCC raised its standard to 25/3Mbps in 2015 and hasn't changed it since.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft discovers critical SolarWinds zero-day under active attack]]></title>
+        <id>https://arstechnica.com/?p=1779520</id>
+        <link href="https://arstechnica.com/?p=1779520"/>
+        <updated>2021-07-12T19:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Flaws allow attackers to run malicious code on machines hosting Serv-U products.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bone-conduction headphones: Long-term test and review of AfterShokz]]></title>
+        <id>https://arstechnica.com/?p=1779444</id>
+        <link href="https://arstechnica.com/?p=1779444"/>
+        <updated>2021-07-12T19:16:13.000Z</updated>
+        <summary type="html"><![CDATA[After four months of testing, we love these for podcasts—not so much for music.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 12 will default to a play-as-you-download scheme for newer games]]></title>
+        <id>https://arstechnica.com/?p=1779434</id>
+        <link href="https://arstechnica.com/?p=1779434"/>
+        <updated>2021-07-12T17:23:04.000Z</updated>
+        <summary type="html"><![CDATA[No developer support needed: Android 12 will do "play-as-you-download" automatically.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone created some nice theme for Homer?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oivmhs/anyone_created_some_nice_theme_for_homer/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oivmhs/anyone_created_some_nice_theme_for_homer/"/>
+        <updated>2021-07-12T17:09:13.000Z</updated>
+        <summary type="html"><![CDATA[I like homer as dashboard (GitHub - bastienwirtz/homer: A very simple static homepage for your server.) but I'm a bit tired of the current layout. I'm sure someone must have created some nice color combination :) 
+ Additional note: if you're using Homer you should check this list of icons GitHub - NX211/homer-icons
+    submitted by    /u/OpportunityNo5753  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add matomo to bitwarden instance]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oivkm6/how_to_add_matomo_to_bitwarden_instance/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oivkm6/how_to_add_matomo_to_bitwarden_instance/"/>
+        <updated>2021-07-12T17:06:43.000Z</updated>
+        <summary type="html"><![CDATA[As the title say how would i be able to add my matomo to my self hosted bitwarden server?
+    submitted by    /u/CoolGaM3r215  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why is SoftLayer Technologies visiting my website?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oiv8pa/why_is_softlayer_technologies_visiting_my_website/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oiv8pa/why_is_softlayer_technologies_visiting_my_website/"/>
+        <updated>2021-07-12T16:51:08.000Z</updated>
+        <summary type="html"><![CDATA[I've been using Cloudfare to block visitors from my home country and it has been so effective thus far! But recently I've been getting lots of hits from an ip address in Lithuania on 3 separate occasions. I decided to search their ip address online and found out that it's originating from an organisation called SoftLayer Technologies which I've never heard of! I'm not an IT expert but could anyone please inform me of what's going on :( are they bots? Would greatly appreciate any help!
+    submitted by    /u/throaway2637293  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$11 billion in 9 days—Texas’ natural gas sellers cashed in on deep freeze]]></title>
+        <id>https://arstechnica.com/?p=1779447</id>
+        <link href="https://arstechnica.com/?p=1779447"/>
+        <updated>2021-07-12T16:49:05.000Z</updated>
+        <summary type="html"><![CDATA[State's gas supplies halved during cold snap, but sellers made record profits.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simple people identification api/app?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oitt11/simple_people_identification_apiapp/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oitt11/simple_people_identification_apiapp/"/>
+        <updated>2021-07-12T15:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Hi, I'm looking for a simple app that allow you to add people and tag them, then it offer you an api to check if an image is in the database.
+    submitted by    /u/sm4h  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s why Richard Branson’s flight matters—and, yes, it really matters]]></title>
+        <id>https://arstechnica.com/?p=1779077</id>
+        <link href="https://arstechnica.com/?p=1779077"/>
+        <updated>2021-07-12T14:50:33.000Z</updated>
+        <summary type="html"><![CDATA[“I absolutely believe this is that moment."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using the Specificity of :where() as a CSS Reset]]></title>
+        <id>https://css-tricks.com/?p=343613</id>
+        <link href="https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/"/>
+        <updated>2021-07-12T14:30:34.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know about you, but I write these three declarations many times in my CSS:
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+You might yell at me and say I can just put those in my CSS …
+The post Using the Specificity of :where() as a CSS Reset appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Mojtaba Seyedi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lightweight VPN to proxy "converter" inside a Proxmox LXC]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ois7h6/lightweight_vpn_to_proxy_converter_inside_a/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ois7h6/lightweight_vpn_to_proxy_converter_inside_a/"/>
+        <updated>2021-07-12T14:20:02.000Z</updated>
+        <summary type="html"><![CDATA[I've been searching for this for a long time and all i can find are articles with "VPN is soooo much better than a proxy server" that are useless to me. 
+ Anyway, i'm searching for a lightweight method to convert my paid VPNs to a proxy. I'm currently using multiple Virtualbox VMs with Win10, CCProxy server and OpenVPN client; i start the VM, connect to the desired VPN, run CCProxy and access the proxy server on 192.168.x.x. It works great, but it's extremely wasteful, especially when i run 10 VMs at the same time. Is there any (easy) method i could do that inside a LXC? My VPN provider supports L2TP/IPsec, IKEv1, IKEv2, OpenVPN and Wireguard; the proxy can be HTTP, HTTPS, SOCKS 4, SOCKS 4a or SOCKS 5. 
+ If anyone is curious why i would need that - a download manager i'm using (JDownloader2) supports just proxy servers and i figured why pay for premium filehost traffic if i can just use my existing VPN subscription to download 10 files in free mode at the same time.
+    submitted by    /u/tstddj  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security Scanning]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oirqeo/security_scanning/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oirqeo/security_scanning/"/>
+        <updated>2021-07-12T13:55:32.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone! I am looking for a self hosted vulnerability scanner. In todays age of ransomware and CVE’s coming in increasingly faster. I think its important we all run security scans in our home environments. I have tried Greenbone (source) but was not very impressed with it after attempting an upgrade and having it completely fail on me as well as windows scans not working at all even with the SMB package installed per greenbones own documentation. My requirements are that it needs to support windows and linux, and not be limited in terms of amount of IPs that can be scanned. Several friends and I have joined our networks together via IPSec to form the ultimate conglomerate lab space and we need a reliable solution.
+    submitted by    /u/Deadlydragon218  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn How to Use SPSS to Explore and Analyze Data]]></title>
+        <id>60e753aa134ad707be00f2c1</id>
+        <link href="https://www.freecodecamp.org/news/spss-full-course/"/>
+        <updated>2021-07-12T13:34:03.000Z</updated>
+        <summary type="html"><![CDATA[SPSS Statistics is a software package used for interactive, or batched, statistical analysis. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you how to use the popular statistical application SPSS from IBM. This course provides a concise overview of how you can use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refactoring CSS: Introduction (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/</id>
+        <link href="https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/"/>
+        <updated>2021-07-12T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just released Baserow 1.4 with a form view, trash functionality, API user field names and many small changes - Open Source Airtable alternative.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oir7mw/just_released_baserow_14_with_a_form_view_trash/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oir7mw/just_released_baserow_14_with_a_form_view_trash/"/>
+        <updated>2021-07-12T13:26:25.000Z</updated>
+        <summary type="html"><![CDATA[More information at: https://baserow.io/blog/june-2021-release-of-baserow
+ Try it out at: https://baserow.io
+ GitLab repository: https://gitlab.com/bramw/baserow
+ Screenshots version 1.4
+    submitted by    /u/bram2w  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm looking for a self hosted private channel telegram feature.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oir1ub/im_looking_for_a_self_hosted_private_channel/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oir1ub/im_looking_for_a_self_hosted_private_channel/"/>
+        <updated>2021-07-12T13:17:00.000Z</updated>
+        <summary type="html"><![CDATA[So the second best thing about telegram is the ability to create private channels which you can "share" an article, post, snippet to and then come back at a later date to read 
+ Maybe like pocket.
+ Is there anything like that available that's self hostable?
+ With an android app that can be used to share to ?
+ Big ask huh.
+    submitted by    /u/ithakaa  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's a good Google Docs Alternative?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oiqmeg/whats_a_good_google_docs_alternative/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oiqmeg/whats_a_good_google_docs_alternative/"/>
+        <updated>2021-07-12T12:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Looking for a document cloud solution with live collaboration like Google docs.
+    submitted by    /u/throwlog  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archaeologists “flabbergasted” to find Cerne Giant’s origins are medieval]]></title>
+        <id>https://arstechnica.com/?p=1779346</id>
+        <link href="https://arstechnica.com/?p=1779346"/>
+        <updated>2021-07-12T11:51:42.000Z</updated>
+        <summary type="html"><![CDATA["Everyone was wrong, and that makes these results even more exciting."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?]]></title>
+        <id>60e981aae8ee9b08300ed1ae</id>
+        <link href="https://www.freecodecamp.org/news/ai-vs-ml-whats-the-difference/"/>
+        <updated>2021-07-12T11:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google BigQuery Beginner&#x27;s Guide – How to Analyze Large Datasets]]></title>
+        <id>60e76d88134ad707be00f347</id>
+        <link href="https://www.freecodecamp.org/news/google-bigquery-beginners-guide/"/>
+        <updated>2021-07-12T11:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Gone are the days of storing your data in a CSV file or an Excel spreadsheet. If you want to quickly analyze millions of data rows in seconds, BigQuery is the way to go. In this getting started guide, we'll learn about BigQuery and how we can use it to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replacing Chromecast Audio?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oio55f/replacing_chromecast_audio/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oio55f/replacing_chromecast_audio/"/>
+        <updated>2021-07-12T09:56:00.000Z</updated>
+        <summary type="html"><![CDATA[I have a headphone amplifier with USB- and analoge inputs and a secondary device that can receive bluetooth audio and outputs it at line-level to the inputs of the amp. The source is usually my android tablet.
+ However, the limited bandwith of bluetooth limits the achievable audio quality and range of movement of the source device. I imagine that WiFi would be a nice alternative, having both more bandwith and range.
+ I would like to have a solution that allows me to output all audio from my tablet to a WiFi-device that can plug into my amp. Sort of a virtual speaker that just sends any input over WiFi to a receiver. Chromecast Audio seems to fit the bill but is no longer sold. There are some available on auction sites but I would like to have something that is still supported / in development.
+ I am aware of partial solutions that allow specific apps to stream to a network device. Spotify and Tidal can do this. But its limited to these apps and not system wide.
+ I imagine some project that I can install on a rasperry pi, connect my amp via USB / COAX and configure it as an audio device on my tablet. Does something like that exist?
+    submitted by    /u/r0ckr87  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-hosting a gaming accelerator in China?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oinu7g/selfhosting_a_gaming_accelerator_in_china/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oinu7g/selfhosting_a_gaming_accelerator_in_china/"/>
+        <updated>2021-07-12T09:29:44.000Z</updated>
+        <summary type="html"><![CDATA[I already self-hosted a way to post on Reddit. But because that protocol routes UDP packets through TCP, it will be slow for gaming.
+ I'd like to host my own accelerator server based on a VPS in South Korea. I'll need to somehow open port 6112 to get the best connection as well. What's the best self hosted setup?
+    submitted by    /u/iopq  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alternative to Shazam?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oindg0/alternative_to_shazam/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oindg0/alternative_to_shazam/"/>
+        <updated>2021-07-12T08:49:11.000Z</updated>
+        <summary type="html"><![CDATA[hi all, is there any way to deploy a self-hosted alternative to Shazam, or Youtube's ContentID, for music and track recognition?
+ something that will quickly recognize artist and album of a given MP3 file?
+ I have no idea if such open database exists, or whether there is some open source software to query it.
+ thanks!
+    submitted by    /u/piramiday  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Any e2ee email web client for selfhosted email server]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oimr9i/any_e2ee_email_web_client_for_selfhosted_email/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oimr9i/any_e2ee_email_web_client_for_selfhosted_email/"/>
+        <updated>2021-07-12T07:58:18.000Z</updated>
+        <summary type="html"><![CDATA[So here's the thing, I have a mailcow server and some of my clients asks for a way to send e2ee email when the recipient of the mail don't use or doesn't know how to use certificates to encrypt their emails (PGP or S/MIME) and I was wondering if there is any solution available for selfhosted email servers to send protonmail like emails (they have a feature for non PGP users where they send you a mail with an URL that can expire and that it's password protected) Thanks in advance.
+ Edit 1: Basically, the idea is maybe not to make a 100% E2EE connection, but given the case, if someone had access to the customer's emails, they would not be able to know what has been said in the conversation.
+    submitted by    /u/Wolf1875  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitolite + Cgit + Nginx basic auth for public and private repos.]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oil8zo/gitolite_cgit_nginx_basic_auth_for_public_and/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oil8zo/gitolite_cgit_nginx_basic_auth_for_public_and/"/>
+        <updated>2021-07-12T05:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Hello, I'm trying to set up gitloite on my server following this guide (not a verbose following, just getting the idea on how to set it).
+ And I've seen that there are people who implement http basic auth for the cgit.
+ What I'm wondering (haven't found it concretely), is if there is a way to set basic auth for some repos but make public others.
+ The ssh access part is fine, gitolite should take care of it, but still I would like to allow my users to see their repos on the web client with no issues.
+ Any ideas, probably protecting the routes with nginx or doing two runs of cgit for nginx, one for private, and another for public, but I would still like them to be on the same domain just reject http access.
+ Any suggestions?
+    submitted by    /u/ekiim  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An open-source alternative to Twilio]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oiipnz/an_opensource_alternative_to_twilio/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oiipnz/an_opensource_alternative_to_twilio/"/>
+        <updated>2021-07-12T03:06:12.000Z</updated>
+        <summary type="html"><![CDATA[Hi everyone!
+ I'm Pedro from Project Fonos, and we are working on an open-source alternative to Communications Platform-as-a-Service (CPaaS) like Twilio.
+ TLDR; → Project Fonos on Github
+ Over the last eight ~months, we've been working to bring the community the first version. There is still a lot of work to do to close the gap with traditional CPaaS, but we are confident that we can make it happen with your support and feedback!
+ The most notable features on PF 0.1 are:
+ ☑️ Cloud initialization with Cloud-Init
+ ☑️ Multitenancy
+ ☑️ Easy deployment of PBXs functionalities
+ ☑️ Programmable Voice Applications
+ ☑️ NodeJS SDK 
+ ☑️ Support for Amazon Simple Storage Service (S3)
+ ☑️ TLS on API endpoints with Let's Encrypt
+ ☑️ OAuth2
+ ☑️ Role-Based Access Control (RBAC)
+ ☑️ Plugins-based Command-line Tool
+ ☑️ Support for Google Speech API
+ ☑️ Experimental support for Cloud Functions
+ ☑️ Experimental support for Secret management
+ For more information about the project, go to Github. Thanks for reading!
+ Github Repo: https://github.com/fonoster/fonos
+    submitted by    /u/sanderspedro  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The weekly Console email just went out! This week we had the insanely talented Eric Zhang (formerly of Nvidia and Scale.ai, currently at Harvard) on to discuss his new collaborative editing project Rustpad!]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oihct9/the_weekly_console_email_just_went_out_this_week/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oihct9/the_weekly_console_email_just_went_out_this_week/"/>
+        <updated>2021-07-12T01:40:06.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/binaryfor  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Having problems with leantime.io behind caddy reverse proxy]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/oie526/having_problems_with_leantimeio_behind_caddy/</id>
@@ -13318,294 +13842,6 @@ Does anyone know an OS that would check these boxes?
  I'm already using netdata to monitor the system, but I'd like to find some software that could detect this sort of anomalies and alert me (ideally via Telegram since I already use that for other notifications). I don't need anything too fancy, I'd like to keep it simple.
  Any ideas ?
     submitted by    /u/TheGreatestCapybara  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photo gallery with map and route tracks]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nyuzr1/photo_gallery_with_map_and_route_tracks/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nyuzr1/photo_gallery_with_map_and_route_tracks/"/>
-        <updated>2021-06-13T12:12:45.000Z</updated>
-        <summary type="html"><![CDATA[I've recently gone on a trip with friends, and we want to share photos, KMZ tracks and maps. What recommendations do you have for this kind of thing? I've got NextCloud, an NFS for photos and a few other Dockerized services running already, but happy to use something specific for this. Is there suitable wiki or CMS software for this kind of thing?
-    submitted by    /u/richardneish  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Would you guys be interested in a kind of local development/CI template?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nytws0/would_you_guys_be_interested_in_a_kind_of_local/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nytws0/would_you_guys_be_interested_in_a_kind_of_local/"/>
-        <updated>2021-06-13T10:59:25.000Z</updated>
-        <summary type="html"><![CDATA[I've got a RPi with a few dev services running (Gogs, DroneCI, Nextcloud,...) and I thought, this might be a pretty common setup, but I could not find any pre-existing Docker-Compose/Helm/Ansible/whatever scripts.
- Would any of you be interested in such a thing? Nothing super fancy, just a simple configurable template. And if yes, what would you prefer? Helm? Compose? Bare metal? What services are important to you?
- Oh, and if this already exists, please let me know, I don't want to duplicate work.
-    submitted by    /u/CartmansEvilTwin  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[rookie] server setup]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nyt6q4/rookie_server_setup/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nyt6q4/rookie_server_setup/"/>
-        <updated>2021-06-13T10:05:28.000Z</updated>
-        <summary type="html"><![CDATA[So I am a developer who has a vps for some basic stuff, but I guess this is not that important for this question. Scrolling through this sub I see some awesome things that would make life a lot easier, however I can't find a lot about the setup people use (config wise, not hardware). This sub has some awesome posts like what people use, what they've learned, how they failed, etc, but I'm more curious to how you've setup your server and what you like / dislike about the setup.
- For example, I'm planning to start self hosting and redo my vps setup in the following way:
- Ubuntu with docker, openssh, ufw and fail2ban, as I'm already familiar with this and it keeps it easy to what I've installed directly on Ubuntu itself. Then use Portainer with nginx reverse proxy to setup all the various services like NextCloud, wiki, etc. Probably setup 2 database instances (prod/dev) in case something breaks and so I can start fixing it without hurting production. Lastly, add something to back up the docker containers and config to an external party, just don't know which one yet. 
- What I like so far: - Little directly installed on Ubuntu itself so updates are easy and I can quickly see if the problem is with docker, the service or Ubuntu - Server wise it's a bit easier to make it secure with only a few things running on Ubuntu itself - Docker itself, just nice to have everything running in containers
- What I don't like / not sure of: - Pure my config, but current setup has 1 DB for all services - I've heard that securing and updating docker containers are an absolute nightmare (I'm pretty new to docker so not sure) - Everything is running on docker, so if docker fails all fails - For all new services I'll use I have to export and import the config in the dev database (or the other way around)
- So how did you guys set up your server and what do you like and dislike about it? Maybe share your experiences so far with different setups so new (rookie) members can learn :)
-    submitted by    /u/dwarf-666  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isolated subnets in Proxmox]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nyrutd/isolated_subnets_in_proxmox/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nyrutd/isolated_subnets_in_proxmox/"/>
-        <updated>2021-06-13T08:24:22.000Z</updated>
-        <summary type="html"><![CDATA[I run my homelab on a Proxmox machine. I have several LXC containers and a couple virtual machines, each running a single service. So far, everything is attached to the same bridge vmbr0, which is attached to the physical network card. Since I am getting a new drive, I wanted to reinstall my homelab and restructure its network, putting each service (or group of services) in its own network, so that they are properly isolated from each other and communication between them can be regulated by the firewall.
- The standard approach seems to be to make a series of bridges vmbrX, one for each network, and to create a virtual machine running pfSense or OPNSense managing such bridges, handling all the routing between them and vmbr0. I was wondering, however, if there is a way to do this without the additional virtual machine. Could Proxmox itself handle the routing in place of OPNSense? There are firewall settings, and there are multiple network settings (vlan, bridges, bonds), but I am not too familiar with the topic.
- Is there any good example of this setup, or do you have any advice?
- Notes:
-  
- I do not want to use NAT. Ideally, I want my local network to be something like 172.16.0.0 and each service to be on something like 172.16.X.0, where the entire subnet can be reached from my local network (barring firewall, of course).
-  
-   submitted by    /u/class_two_perversion  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any alternative for miro whiteboard? If possible self hosting option should be available.]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nyqp33/any_alternative_for_miro_whiteboard_if_possible/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nyqp33/any_alternative_for_miro_whiteboard_if_possible/"/>
-        <updated>2021-06-13T06:53:19.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/Zash_Redd  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Deemix install which instantly adds new songs to my Jellyfin library]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nykkuw/my_deemix_install_which_instantly_adds_new_songs/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nykkuw/my_deemix_install_which_instantly_adds_new_songs/"/>
-        <updated>2021-06-13T00:23:32.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/throwaway27727394927  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advice on self hosting a watch2gether service]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nyhy5l/advice_on_self_hosting_a_watch2gether_service/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nyhy5l/advice_on_self_hosting_a_watch2gether_service/"/>
-        <updated>2021-06-12T22:07:58.000Z</updated>
-        <summary type="html"><![CDATA[Hey guys!
- ​
- I want to self host a watch together service so my friends and I can watch stuff off my home server. It would need to support basically mkv and mp4 video files, and I'd be okay with being the only one who has control over playback. 
- Basically, I just need to have a video stream to a webpage so my friends and I can watch it together. I have my own domain, so I just need the service.
- ​
- Thank you very much!
- Edit: I am running emby, so by the looks of things I may need to run a second media server side by side, or switch entirely. Any other suggestions are much appreciated though!
-    submitted by    /u/FatalVengeance  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Installing Hyper-V Linux Integration Services (LIS) with Ansible]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nyf60r/installing_hyperv_linux_integration_services_lis/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nyf60r/installing_hyperv_linux_integration_services_lis/"/>
-        <updated>2021-06-12T20:05:52.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/TiZuid  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft at E3: Mario Rabbids sequel, Rainbow Six: Extraction, more]]></title>
-        <id>https://arstechnica.com/?p=1772743</id>
-        <link href="https://arstechnica.com/?p=1772743"/>
-        <updated>2021-06-12T19:45:22.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft Forward's familiar and new: guns, extreme sports, just dancing, and Avatar.]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redirect subdomains e.g. *.abc.com to *.xyz.com]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nye5kc/redirect_subdomains_eg_abccom_to_xyzcom/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nye5kc/redirect_subdomains_eg_abccom_to_xyzcom/"/>
-        <updated>2021-06-12T19:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Is this possible to do? I have two domains, one short, one long. I'd like to use the short domain as a shortcut to redirect to the long domain, but with a bulk approach. I know I can setup subdomains for each and redirect to an individual subdomain, but is it possible to redirect it as a wildcard and pass along the subdomain to the longer domain?
-    submitted by    /u/mysterbubbles  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks to the selfhosted community, my project Jina is trending on GitHub. 474 people building thier own search engine now using Jina.]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nyd9i9/thanks_to_the_selfhosted_community_my_project/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nyd9i9/thanks_to_the_selfhosted_community_my_project/"/>
-        <updated>2021-06-12T18:39:13.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/opensourcecolumbus  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any selfhosted media tagging app?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nycj9a/any_selfhosted_media_tagging_app/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nycj9a/any_selfhosted_media_tagging_app/"/>
-        <updated>2021-06-12T18:04:15.000Z</updated>
-        <summary type="html"><![CDATA[Hi, is there any app for tagging images and videos so I can later search by tag?
-    submitted by    /u/kawaii__neko_  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Correct way to route container's traffic through wireguard without leakage, but UI access for LAN connections [x-post from superuser]]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nyc8p6/correct_way_to_route_containers_traffic_through/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nyc8p6/correct_way_to_route_containers_traffic_through/"/>
-        <updated>2021-06-12T17:49:54.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/BusyBeaver_  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best discounts from Xbox’s “Deals Unlocked” E3 2021 sale]]></title>
-        <id>https://arstechnica.com/?p=1772462</id>
-        <link href="https://arstechnica.com/?p=1772462"/>
-        <updated>2021-06-12T17:41:32.000Z</updated>
-        <summary type="html"><![CDATA[Dealmaster also has early Prime Day deals, discounts on LG TVs, and more.]]></summary>
-        <author>
-            <name>Ars Staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Server 2019 Issues HDD in VM]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/nyb7uz/windows_server_2019_issues_hdd_in_vm/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/nyb7uz/windows_server_2019_issues_hdd_in_vm/"/>
-        <updated>2021-06-12T17:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Good Afternoon Everyone!
- I for some odd reason have been working on trying to get my HP Proliant DL180 G6 up with Windows Server 2019 with a mutual Raid 50 Drives. Its a 12 bay slot but I'm only using 7 currently. I have succesfully update and installed Windows Server 2019. I am having 2 issues. I have successfully installed Raid 50 and the install drive is a 500gb Drive seperate from the Raid 50.
- The first issue is setting up the Raid 50 for the VM and sharing it as an internal Drive. I dont care if its not C:\ but i need it to have a drive letter. I got the Raid 50 to show up once as Drive D:\ but it went away after a couple of minutes. Now it wont allow me to connect the Windows Server 2019 to Windows 10 VM through the ISCSI Initator. Ive tried to initialize the ISCSI device that was created in Server Management ----> Files and Storage Server -------> ISCSI
- But it always says cannot connected PC on both Windows Server 2019 and the Windows 10 Hyper-V VM.
- ​
- Ive also tried a share drive and an ISCSI and a server pool both fixed and dynamic. Ive tried rebootingt he VM and the HP Proliant DL180 G6
- I've copied the IQN, IP Adress from the Host Server 2019 Computer to Windows 10 VM and vice versa in ISCSI Initiator and i always get cannot connect to PC on both. Ive also tried to find a target and it wont allow me to add it. I have no idea what to do now. The storage pool is empty and i would prefer a fixed volume for faster transfer rates. I cant find the answer anywhere. Thank you ahead of time for all comments.
- ​
- ​
- 2ND Issue:
- I Have a Nvidia Server graphics card. It doesn need a 6pin i have already installed the 16x rise. But Windows cant recognize the card can anyone help!
-    submitted by    /u/DevilsDesigns  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expose Raspberry Pi to the Internet without opening ports]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ny8t48/expose_raspberry_pi_to_the_internet_without/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ny8t48/expose_raspberry_pi_to_the_internet_without/"/>
-        <updated>2021-06-12T15:07:21.000Z</updated>
-        <summary type="html"><![CDATA[Hello,
- Backstory:
- I used to use a Hetzner CX11 VPS for my Selfhosted apps. However, I wanted more storage and control. So, I brought myself a Raspberry Pi 4gb planning to use Cloudflare Tunnel to access my Raspberry Pi without opening ports on the house Router. However, I encountered problems with Cloudflare Tunnel, see below. 
- The main services that I host are:
- · Nextcloud
- · PiGallery2
- · Vaultwarden / BitwardenRs
- · Heimdall Dashboard
- I do have admin access to the house Router however I am going off to University in September and plan on taking my Raspberry Pi with me where I will not be able to open ports on the router. 
- Services I have tried:
- Cloudflare / Argo Tunnel – Was incredibly slow with any complex App. Tried adjusting cache control didn’t really fix it. It appears to st…]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best solution for home CCTV]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ny81q3/best_solution_for_home_cctv/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ny81q3/best_solution_for_home_cctv/"/>
-        <updated>2021-06-12T14:31:39.000Z</updated>
-        <summary type="html"><![CDATA[Hey everybody I am planning to install CCTV in my home so what do you all suggest will be best for a self hosted solution. What things I want- • Human Tracking so that the camera can rotate and track a human in it’s fov • All recording be saved to local storage pool • Motion detected recording • Smart alerts that can come on my phone and desktop (my TV would be nice too)
-    submitted by    /u/amolakjoshi  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Any best practices for self hosting databases?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ny7n5o/any_best_practices_for_self_hosting_databases/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ny7n5o/any_best_practices_for_self_hosting_databases/"/>
-        <updated>2021-06-12T14:11:42.000Z</updated>
-        <summary type="html"><![CDATA[I see managed services costly for small projects but they have thier advantages regarding stability.
- Any measures we can take for making sure we get nearly same stability as managed databases?
- For ex: What reliable affordable hosting services exist to host the databases? What databases are light weight and recover even after a crash quickly?
-    submitted by    /u/AdministrativeAd5517  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows file sync to LAN server.]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ny6ll0/windows_file_sync_to_lan_server/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ny6ll0/windows_file_sync_to_lan_server/"/>
-        <updated>2021-06-12T13:20:30.000Z</updated>
-        <summary type="html"><![CDATA[Guru's
- As my Synology just passed away, I am in need of a file sync utility that I can install on my wife and son's windows installs to sync a directory back to the fileserver on the LAN.
- Because of this reason....
-  
-it needs to be free and open source
- 
-It needs to silently sync without user intervention
- 
-It needs to sync when files are added not at a predetermined schedule
- 
- I used to use Synology Drive and it worked well.
- What do you gents use?
- I've heard some bad things about duplicati so would probably want to stay clear of it.
- Also, I'd like to not have to install a utility on my server for the sync to be possible, e.g. syncthing
- (I'm using rclone on an Ubuntu container to keep Google drive in sync with a few local directories, very happy)
-    submitted by    /u/ithakaa  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For a personal in-home cloud, what's best: Nextcloud, Owncloud or Syncthing]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/ny6c1n/for_a_personal_inhome_cloud_whats_best_nextcloud/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/ny6c1n/for_a_personal_inhome_cloud_whats_best_nextcloud/"/>
-        <updated>2021-06-12T13:06:57.000Z</updated>
-        <summary type="html"><![CDATA[I forgot the "?" smh.
- I am planning to use an old laptop of mine which is gathering dust in a shelf to use it as a small server for my data. 
- Having a hard time on which tool should I use to make my own small in-home cloud and host it in that machine: whether it id Nextcloud/Owncloud or Syncthing.
- What I want is to be able to access my files from all my devices and, of course, having remote access to them (when I'm not at home). 
- Thanks in advance.
-    submitted by    /u/mlv96  
  [link]   [comments]]]></summary>
         <author>
             <name>Self-Hosted Alternatives to Popular Services</name>
