@@ -6,6 +6,141 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ojru4m/question_any_image_conversion_and_compressing/",
+          "author": null,
+          "description": "If possible, one that looks good. Thanks!\n    submitted by    /u/Accra101  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ojru4m/question_any_image_conversion_and_compressing/",
+          "publishedOn": "2021-07-13T23:33:19.000Z",
+          "wordCount": 172,
+          "title": "[Question] Any image conversion and compressing alternatives?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ojpnyi/six_years_of_bookstack_a_thank_you_to_rselfhosted/",
+          "author": null,
+          "description": "submitted by    /u/ssddanbrown  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ojpnyi/six_years_of_bookstack_a_thank_you_to_rselfhosted/",
+          "publishedOn": "2021-07-13T21:39:32.000Z",
+          "wordCount": 214,
+          "title": "Six Years of BookStack & a Thank You to /r/selfhosted"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ojp6lc/drago_securely_connect_devices_with_wireguard_and/",
+          "author": null,
+          "description": "submitted by    /u/binaryfor  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ojp6lc/drago_securely_connect_devices_with_wireguard_and/",
+          "publishedOn": "2021-07-13T21:15:38.000Z",
+          "wordCount": 212,
+          "title": "drago - Securely connect devices with WireGuard® and manage all your networks from a single place."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ojooyt/platform_with_crmrmmpsa_features_for_msp/",
+          "author": null,
+          "description": "What I'm looking for is a platform that has features from MSP, RMM and PSA platforms. It seems to be more and more common nowadays so I was hoping to be able to find a solution that would integrate all the necessary features/modules into a single portal to streamline things better.\n ​\n Hoping others in the community can help. I feel like I've been setting up lots of platforms and trials and wasting time to then come across something that falls short and is not negotiable. That being said I've tried to compile all that stuff I've come across on the various platforms into the following requirements that we need to be met. \n ​\n We would prefer open-source self-hosted most but that isn't a deal breaker. SaaS is acceptable so long as we can meet these reqiurements.\n ​\n Our requirements do not need to be filled by the vanilla platform itself but we do want to have a single portal. So for example, if a platform doesn't support RMM features that we require, then we'd still be okay with that platform as long as it has an RMM integration to become a part of the portal too. Essentially transparently integrating with the platform's portal so that it's like the platform does have it anyways.\n ​\n Requirements\n -White-labeling\n -capable of custom domain with https for the customer-facing portal/helpdesk\n -capable of SMTP for email\n -Ticketing/helpdesk that can create tickets from emails received and send a standard auto-reply to the customer\n -RMM agent\n -Knowledgebase that allows us to make articles visible to all customers or only some.\n -CRM\n ​\n Other conveniences that'd be nice to have but if we had none of these but met all our requirements it'd still be acceptable\n -Appointments/Calendar\n -Invoices: print/email/etc, process payments\n -Asset management\n -Credential management\n -Attachments/storage: some way to distribute file(s) if needed to a specified customer\n -Chat\n -Project management: for staff\n -Leads\n -Custom fields on customers, tickets, etc.\n    submitted by    /u/iamjdag  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ojooyt/platform_with_crmrmmpsa_features_for_msp/",
+          "publishedOn": "2021-07-13T20:51:58.000Z",
+          "wordCount": 410,
+          "title": "Platform with CRM/RMM/PSA features for MSP"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ojlzsf/carddav_server_that_supports_deduplicated/",
+          "author": null,
+          "description": "So I have the following very specific use case:\n I have a Yealink IP phone, which supports multiple contacts.\n I also have DECT phones, hooked up to my FRITZ!Box 7590. This FRITZ!Box 7590 supports pulling in a single CardDAV address book and pushing it to my DECT phones.\n My dad also has a Yealink IP phone.\n I would like to set up something where I can manage my DECT contacts, my IP phone contacts and my dad's IP phone contacts, exposing either two or three separate address books as CardDAV links. \n I very specifically want to be able to add a single contact to multiple address books, or group them some other way so that they end up in separate address books, without having to add a contact multiple times. The reason for this is that we share a lot of business contacts and family contacts (for the IP phones), but the DECT phones do not require those same contacts. Eventually I plan on migrating them to a router that has DECT support as well, so at that point I would require a fourth address book with the contacts that are only relevant to my parents, which I would like to organize in a separate group, but still expose in their combined address book.\n It would be stupidly simple to grab a CardDAV library, set up a database with the contacts and a relation table to assign them to an address book, then when a specific address book is requested pull up all contacts linked to it. But for some reason, I can't find any tools that support this.\n I've tried using NextCloud, but that only allows sharing address books, and does not allow assigning a contact to multiple address books. If you share an address book with another user, that book's contacts are not included in the user's main address book. You cannot expose a Group as a CardDAV link, and you cannot even assign contacts to a Circle at all.\n Does anyone know of a tool that can help me out here? Given how simple it would be, I find it difficult to believe that it wouldn't exist.\n    submitted by    /u/cS47f496tmQHavSR  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ojlzsf/carddav_server_that_supports_deduplicated/",
+          "publishedOn": "2021-07-13T18:42:26.000Z",
+          "wordCount": 479,
+          "title": "CardDAV server that supports deduplicated contacts across address books?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ojlxyr/what_is_an_api_how_apis_work_for_nondevelopers/",
+          "author": null,
+          "description": "submitted by    /u/robertinoc  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ojlxyr/what_is_an_api_how_apis_work_for_nondevelopers/",
+          "publishedOn": "2021-07-13T18:39:57.000Z",
+          "wordCount": 142,
+          "title": "What Is an API? How APIs Work (for Non-Developers)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ojki1p/docker_or_linux_server_based_solution_to_perform/",
+          "author": null,
+          "description": "Apologies for long title, but it's basically what it says. I'm trying to create a centralized server based data repository that is replicated to the data folders on multiple Windows PCs. These are the requirements I am looking to fulfill:\n  \nMust be Robust and able to correct errors and resolve conflicts between multiple copies of the data\n should retain backups of deleted or altered files on the server side when they are edited or deleted on the client side.\n Should use a \"pull\" sync from the server, possibly with a daemon running on the client (but want minimal software footprint on clients)\n should be able to detect anomalous data corruption such as ransomware and prevent its propagation on the network\n Should be fast and efficient with syncing large quantities of data, by only copying …",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ojki1p/docker_or_linux_server_based_solution_to_perform/",
+          "publishedOn": "2021-07-13T17:31:30.000Z",
+          "wordCount": 1327,
+          "title": "Docker or Linux Server based solution to perform a bidirectional \"pull\" sync of folders on Windows Desktop endpoints to a BTRFS network share?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ojjq1x/seafile_mount_external_storage/",
+          "author": null,
+          "description": "I've been using Nextcloud for cloud-hosting my files and taking advantage of object storage as the main storage feature so I don't need to allocate fixed storage capacity. However, when I try to play video files, the mp4 player of Nextcloud takes a significant amount of bandwidth and CPU resources, which is understandable since it needs to download a whole file from object storage via TCP/IP protocol.\n I've tried Seafile in my development environment, and I think it fits my need since it's faster than Nextcloud, and the built-in video player is significantly better than Nextcloud.\n But the drawback is Seafile does not support object storage as main storage so I can't scale up in terms of storage when using Seafile.\n I'm thinking of using external block storage, but I'm not sure what is the mount point for the block storage, is it at /opt/seafile/seafile-data? Any tips or gotchas when implementing this? And is there any better option?\n I'm not ditching Nextcloud entirely; just wanna separate video files from other files.\n    submitted by    /u/prabuniwatakawaca  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ojjq1x/seafile_mount_external_storage/",
+          "publishedOn": "2021-07-13T16:54:33.000Z",
+          "wordCount": 366,
+          "title": "Seafile Mount External Storage"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ojhuy4/very_huge_amount_of_photos_40k_scattered_across/",
+          "author": null,
+          "description": "... how the hell should I manage all of that?\n I asked posted this over at r/DataHoarder, but felt like it would be a good idea to post this here as well, since I really need some advice.\n Over the last decade, I have accumulated lots and lots of pictures and videos on several HDD's, simply because I didn't really have a sense of storing and backing up files/photos. When one of us got a new phone or their storage filled up, I just used to simply drag the whole phone folder onto my PC and by the time they filled up and got older I just got new HDD's. I was young and dumb (I am now 18). \n Now, out of curiosity, I just went ahead and looked into those Drives and realized that I have a big photos-pile-mess. Scattered across these Drives are at least 15k photos/videos, many of them definitely d…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ojhuy4/very_huge_amount_of_photos_40k_scattered_across/",
+          "publishedOn": "2021-07-13T15:23:44.000Z",
+          "wordCount": 2555,
+          "title": "very huge amount of photos (40k+) scattered across multiple hard drives and google photos"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ojdp8f/what_are_wiki_or_wikilike_options_that_support/",
+          "author": null,
+          "description": "I'm looking for a self-hosted tool or wiki that supports attaching some sort of structured data or tags at the page level, and then a way to use those to generate lists and tables elsewhere. This is for personal use, mostly for notes but I'm finding that for certain categories of notes I want to add some structured info, especially references to other topics or pages, and then on other other pages use these links to refer back.\n This is a little like backlinking, but with a little more structure where the meaning behind the link is relevant when you are using it to construct look-back tables.\n Does anyone have any recommendations in this space?\n I've tested a few different options already, and have found the following:\n Tiddlywiki\n This supports tags and has support for generating lists an…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ojdp8f/what_are_wiki_or_wikilike_options_that_support/",
+          "publishedOn": "2021-07-13T11:33:38.000Z",
+          "wordCount": 749,
+          "title": "What are wiki or wiki-like options that support structured data and \"generatable\" summaries?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oj9tp2/authelia_with_nginx_proxy_manager_guide/",
+          "author": null,
+          "description": "I've been searching for about a month now for a tutorial on installing Authelia with Nginx Proxy Manager, but every time I attempt it, I don't end up with a working installation. Do you know of any recent guides on this? Thank you.\n    submitted by    /u/Fit_Back_1948  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oj9tp2/authelia_with_nginx_proxy_manager_guide/",
+          "publishedOn": "2021-07-13T06:26:12.000Z",
+          "wordCount": 493,
+          "title": "Authelia with Nginx Proxy Manager guide?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oj8iyl/shiori_webui_account_access/",
+          "author": null,
+          "description": "so i've downloaded the latest shiori and started the webui\n how does one create an account ?\n    submitted by    /u/ithakaa  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oj8iyl/shiori_webui_account_access/",
+          "publishedOn": "2021-07-13T04:52:14.000Z",
+          "wordCount": 183,
+          "title": "shiori webui account access ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oj82u3/wifi_camera_options/",
+          "author": null,
+          "description": "Hi all,\n Been looking for some wifi cameras that don't need the cloud. A lot I've seen have microSD cards for local storage, but still route all traffic to view the camera live stream / set it up over the internet.\n There seems to be a standard camera that gets rebranded as a number of different cameras that are all the same.\n I've seen a few PoE ones (Ubiquiti) - but slightly overkill for my needs - doesn't need to record. Just be able to open a live stream from the local network when needed.\n Thanks.\n    submitted by    /u/homebrandcola  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oj82u3/wifi_camera_options/",
+          "publishedOn": "2021-07-13T04:21:09.000Z",
+          "wordCount": 800,
+          "title": "Wi-Fi camera options"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oj7v5p/what_linux_distro_is_recommended_by_this_thread/",
+          "author": null,
+          "description": "Plan is to build internal photo sharing, bit warden and other software in containers.\n Edit: Thanks for all of the replies everyone! This is a great community. I am comfortable with Linux but do not use it every day. Seems like Ubuntu has the most votes. Thanks again everyone!\n    submitted by    /u/flaster135  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oj7v5p/what_linux_distro_is_recommended_by_this_thread/",
+          "publishedOn": "2021-07-13T04:07:07.000Z",
+          "wordCount": 922,
+          "title": "What Linux distro is recommended by this thread for home server to start self hosting on?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oj4ofo/prowlarr_a_new_indexer_aggregator/",
+          "author": null,
+          "description": "Hey guys,\n Similar to NZBhydra2. Looks like it's made by the devs from the other 'arr' projects (e.g. radarr, sonarr, lidarr, etc). I've set it up and it's working. I figured I'd share it with you as I did a quick search and haven't seen anyone reference it yet.\n Anyways, linuxserver already has a docker image for it (which I am using). \n Here are some useful links: * https://www.reddit.com/r/prowlarr/ * https://hub.docker.com/r/linuxserver/prowlarr * https://wiki.servarr.com/prowlarr\n    submitted by    /u/010010000111000  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oj4ofo/prowlarr_a_new_indexer_aggregator/",
+          "publishedOn": "2021-07-13T00:52:59.000Z",
+          "wordCount": 761,
+          "title": "Prowlarr - A New Indexer Aggregator"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/oj3mtt/mailcow_and_nextcloud_on_2_different_vps_for/",
           "author": null,
           "description": "Hey, I was wondering if having both of these services on the same VPS would compromise security.\n More specifically, if Mailcow would require some looser settings (in order to allow sending/receiving mails) that would hinder Nextcloud's security.\n I know that we can have different Nginx configurations for each one of the subdomains (\"cloud\" and \"mail\"), but the server's open ports for example are common to both.\n Would it be safer to use 2 different VPS ? Or can we safely configure one VPS to handle both ?\n Thanks for your feedback.\n    submitted by    /u/kdokdo  \n [link]   [comments]",
@@ -5125,186 +5260,6 @@
           "publishedOn": "2021-06-14T15:47:13.000Z",
           "wordCount": 197,
           "title": "SMTP relay to other services"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nzkmgx/pcie_sata_iii_card_for_debianubuntu_32_tb/",
-          "author": null,
-          "description": "I'm building a home server and bought a wrong SATA card, which supports only 4TB.\n Any suggestions for a reliable 4-port (internal) PCIe SATA III card that runs on Debian/Ubuntu and supports at least 32TB?\n    submitted by    /u/ataubers  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nzkmgx/pcie_sata_iii_card_for_debianubuntu_32_tb/",
-          "publishedOn": "2021-06-14T11:25:53.000Z",
-          "wordCount": 280,
-          "title": "PCIe SATA III card for Debian/Ubuntu, 32 TB"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nzkkpk/looking_for_a_specific_documentation_tool/",
-          "author": null,
-          "description": "Hey Guys,\n I hope you can help me:\n I'm looking for a software to document system events, like outages, and maintenance work that was done etc.\n It should be possible to document an outage and calculate the system availability.\n Any suggestions?\n    submitted by    /u/theSlashyy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nzkkpk/looking_for_a_specific_documentation_tool/",
-          "publishedOn": "2021-06-14T11:22:55.000Z",
-          "wordCount": 295,
-          "title": "Looking for a specific Documentation Tool"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nzj1a0/tunnel_all_my_traffic_through_a_vps_ip_vpn/",
-          "author": null,
-          "description": "I have a windows PC with SoftEther VPN. I also have a VPS. How exactly would I turn the VPS in to a VPN so all the windows traffic is tunneled through it? This would result in my Windows PC having the IP address of the VPS.\n Note: I currently \"rent\" a dedicated IP from a third party service and use SoftEther to tunnel all the traffic through it. However I would like to learn to do this myself and have control over everything.\n    submitted by    /u/Firm_Maintenance2009  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nzj1a0/tunnel_all_my_traffic_through_a_vps_ip_vpn/",
-          "publishedOn": "2021-06-14T09:39:34.000Z",
-          "wordCount": 313,
-          "title": "Tunnel all my traffic through a VPS IP (VPN)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nzivnl/anonymous_self_hosting/",
-          "author": null,
-          "description": "What tools does one need to self host a website server anonymously on the tor network while simultaneously avoiding attackers taking the site down? (Edit) Since ppl are asking about the type of attackers, look at it like this, government agencies are trying to take a site down or locate the owner in this case how would one best protect themselves. Isn't it a bit of a chicken and egg problem. As sites get taken down the project is forked elsewhere. At core what I'm asking is if rather than creating multiple proxies and making the system difficult to penetrate creating multiple forks of the site all hosted in different locations is the best choice??\n    submitted by    /u/alexthem89  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nzivnl/anonymous_self_hosting/",
-          "publishedOn": "2021-06-14T09:28:04.000Z",
-          "wordCount": 825,
-          "title": "Anonymous Self Hosting"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nzhfje/how_do_you_get_a_mail_server_for_docker_container/",
-          "author": null,
-          "description": "On my Debian Linux Server i am running multiple Docker Compose Container, including Nextcloud and Git. I want to be able to send emails from the containers, for resetting a password for example or git request notifications. How can i make my docker containers able to send mails?\n Right now the server itself is able to send mails via mail command and postfix server, but if i understand correctly that does not make my containers able to send mails. I would need a mail server in every docker container seperately. I would highly appreciate a solution which i can integrate in my docker-compose setup.\n    submitted by    /u/Warglblarglthefirst  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nzhfje/how_do_you_get_a_mail_server_for_docker_container/",
-          "publishedOn": "2021-06-14T07:40:26.000Z",
-          "wordCount": 357,
-          "title": "How do you get a mail server for docker container"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nzetvh/reach_wireguard_peers_by_name_instead_of_ip/",
-          "author": null,
-          "description": "Following my previous post, I managed to get Wireguard going (with the linuxserver.io docker image) connecting (for now) between my PC and my server. So far so good!\n The problem I have right now is that I'd like to reach the server (or any other peer) by its name instead of using its internal IP address, while keeping internet access in my client computer that's connected to the wireguard server (i.e. I've removed the DNS entry in the client config, otherwise no internet).\n This is my docker-compose.yml file:\n version: '3.8' services: wg: restart: always image: linuxserver/wireguard cap_add: - NET_ADMIN - SYS_MODULE environment: - PUID=1000 - PGID=1000 - TZ=America/Chicago - SERVERURL=BLAH - SERVERPORT=BLAH - INTERNAL_SUBNET=10.20.20.0 - PEERDNS=auto - PEERS=peer1,peer2 volumes: - ./wg:/c…",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nzetvh/reach_wireguard_peers_by_name_instead_of_ip/",
-          "publishedOn": "2021-06-14T04:44:17.000Z",
-          "wordCount": 711,
-          "title": "Reach wireguard peers by name instead of IP?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nz9tlt/self_hosted_pto_tracking/",
-          "author": null,
-          "description": "Looking for something to manage a medium sized team to track their sick and vacation requests. I've tried TimeOffManagement and in the process of Gadael. Anyone had experience with any others?\n    submitted by    /u/CDarwin7  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nz9tlt/self_hosted_pto_tracking/",
-          "publishedOn": "2021-06-14T00:11:10.000Z",
-          "wordCount": 135,
-          "title": "Self Hosted PTO Tracking"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nz7f90/different_dns_records_and_dyndns_ips/",
-          "author": null,
-          "description": "Hi, I need help to configure my DNS on my domain.\n The situation:I have a domain and I created a DDNS entry, I used ddclient and everything is works fine now with the IP update and everything. However, I host 2 servers on my machine, until recently I had 2 different DDNS to the same IP and then an SRV Record that pointed to them for the servers to work.\n I want however to use only one DDNS IP and somehow use SRV records to point all my servers to that one. I however have little experience with all of that so I don't really understand how I am supposed to continue.\n Simply put, I have currently:\n cs.domain.com which points to my ipmc.domain.com which points to my IP again, andip.domain.com which again points to the same IP.\n my ddclient updates ip.domain.com regularly, but not the other two.\n my SRV records point one to the cs (cs._udp.domain.com) and one to the mc DDNS entries (mc._tcp.domain.com). I can easily fix the issue by just updating all 3 DDNS Entries, but I feel like there should be an easier solution.\n For further questions feel free to ask me, and thanks in advance.\n    submitted by    /u/stefan5641  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nz7f90/different_dns_records_and_dyndns_ips/",
-          "publishedOn": "2021-06-13T22:13:05.000Z",
-          "wordCount": 318,
-          "title": "Different DNS Records and DynDNS IPs"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nz6gpm/recommendation_for_modern_book_keeping_solution/",
-          "author": null,
-          "description": "I am trying to find a good modern book keeping / accounting solution for a UK based software startup.\n Basically, until now most of my accounting was running in spreadsheets, but I am seeking more automation, but ideally also want to be able to plug into HMRC (my company is all remote, but since you need to put a pin on a map somewhere, for us that is London). It should fulfil all requirements and I want to be able to have control over the data, but it should also be sitting on a modern platform, so I won't have to move everything again soon.Whilst access to compute resources won't be an issue (we're a software company), ease of use is: Right now we don't have any admin staff (yet). Where do I best start? Would invoice ninja be suitable or am I running into the wrong direction looking at that?\n I appreciate pointers that might help me or questions I should be asking.\n    submitted by    /u/jnfinity  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nz6gpm/recommendation_for_modern_book_keeping_solution/",
-          "publishedOn": "2021-06-13T21:27:59.000Z",
-          "wordCount": 387,
-          "title": "Recommendation for modern book keeping solution?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nz1uh8/selfhosted_hardware_setup_suggestions/",
-          "author": null,
-          "description": "I want to setup a new homelab, but I want to refrain from spending where I dont have to and keeping noise low since I have a rack in my studio. I also currently have a RPI 3b+ and 2b+ that arent doing anything if I could use those.\n  \nSoftware plans:\n  \nBackups/file sharing (NFS?)\n Calendar/Contacts (Nextcloud?)\n Mail server (Dovecot?)\n Photo gallery (Photoprism?)\n VPN (Wireguard)\n Tor router\n XMPP server (ejabberd or snikket?)\n Notes/Knowledge manager (Currently use obsidian locally)\n  \n Im also looking on craigslist and there are some servers for ~$100 but im worried about noise:\n  \nDell PowerEdge 1950 III\n Dell PowerEdge R210 1U\n HP Proliant DL380 Gen4\n SuperServer 6013E-i\n SuperMicro X Series\n Dell PowerEdge 2650\n  \n   submitted by    /u/Last-Palpatinian  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nz1uh8/selfhosted_hardware_setup_suggestions/",
-          "publishedOn": "2021-06-13T17:51:04.000Z",
-          "wordCount": 907,
-          "title": "Self-hosted hardware setup suggestions?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nz1lqq/self_hosted_network_performance_estimation_tool/",
-          "author": null,
-          "description": "submitted by    /u/openspeedtest  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nz1lqq/self_hosted_network_performance_estimation_tool/",
-          "publishedOn": "2021-06-13T17:39:35.000Z",
-          "wordCount": 165,
-          "title": "Self Hosted Network Performance Estimation Tool."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nz1gjk/how_i_got_multiple_imap_mail_accounts_on/",
-          "author": null,
-          "description": "​\n I can get this using this plugin:\n https://github.com/texxasrulez/additional_imap\n And did some ajusts:\n ​\n  \nDelete all custom config from gmail and gmx(or other if you use it) of /plugins/additional_imap/config.inc.php\n \nEnabled \"Show real names for special folders\" in Settings->preferences->Special Folders\n \nAdd rc3k_ prefix to plugin tables on DB.\n \n ​\n To be a perfect solution, only miss one little thing:\n ​\n ALL INBOXES Option\n ​\n There is no multi-accs-webmail-imap-reader with a nice interface available for free/selfhosted, this roundcube+additional_imap its the closest solution that i can found.\n Im a happy user of SparkMail, but they dont have a web/win version.\n Nextcloud Mail app do the job, but is too slow and buggy...\n ​\n If you know a better solution, please send it here! Thanks\n    submitted by    /u/vzmr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nz1gjk/how_i_got_multiple_imap_mail_accounts_on/",
-          "publishedOn": "2021-06-13T17:32:52.000Z",
-          "wordCount": 248,
-          "title": "How I got multiple imap mail Accounts on Roundcube 1.4.11"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nz1blm/tutorial_for_reverse_proxy_setup_local_servers/",
-          "author": null,
-          "description": "Hi All,\n After many many years of ignoring reverse proxy, I sat down today to finally set one up. I have spent the morning looking over many videos and different ways of doing it, but it seems that most of them want you to have your sites remotely accessible. In my case, I want a simple method of accessing all my services without remembering what ports and addressing they would be on. I know that MDNS does a lot of it. But it's no good for nested services with ports. I've started to dive into the SWAG documentation. I'm not sure if ngix manager or swag would be a better fit. My google-fu has failed me, or maybe I'm being impatient to find the right tutorial. \n I'm looking to pull off, something as easy as:\n homeassistant.local\n sab.local\n smokeping.localdomain. \n octoprint\n unfi.localdomain\n omv.localdomain \n portianer.local\n ​\n then I want to configure some sort of easy home page like homer that my wife and I can easily find. Can anyone point me to a video or blog that would be able to guide me through?\n    submitted by    /u/prosonik  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nz1blm/tutorial_for_reverse_proxy_setup_local_servers/",
-          "publishedOn": "2021-06-13T17:26:38.000Z",
-          "wordCount": 964,
-          "title": "Tutorial For Reverse Proxy setup local servers only (no remote)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nz0hfe/status_page_alternative/",
-          "author": null,
-          "description": "I need to create a self-hosted alternative to the status page like this: https://app.upzilla.co/statistics/6151\n I have scripts from GitHub, but those scripts don't have a subscribe function, log, and timing for the last 24 hours. \n Maybe anybody has some ideas on how to create something like this for my few blogs for a reasonable price or with some free stuff? Thank you!\n    submitted by    /u/mikedoran1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nz0hfe/status_page_alternative/",
-          "publishedOn": "2021-06-13T16:47:34.000Z",
-          "wordCount": 182,
-          "title": "Status page alternative"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nz08mu/weaviate_is_an_opensource_neural_search_engine/",
-          "author": null,
-          "description": "submitted by    /u/hootenanny1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nz08mu/weaviate_is_an_opensource_neural_search_engine/",
-          "publishedOn": "2021-06-13T16:36:31.000Z",
-          "wordCount": 797,
-          "title": "Weaviate is an open-source neural search engine. Supports text, images and other media types out of the box. Written in Go and aimed at large scale cases with very low latencies."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nz0144/i_using_bulletproof_hosting_illegel/",
-          "author": null,
-          "description": "I'd really like to host some of my services at a bulletproof hoster simply because I want really good privacy. I do not want to host anything illegal, but is using such a hosting provider legal?\n    submitted by    /u/mediocreAsuka  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nz0144/i_using_bulletproof_hosting_illegel/",
-          "publishedOn": "2021-06-13T16:26:37.000Z",
-          "wordCount": 308,
-          "title": "I using Bulletproof hosting illegel?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nyym5f/wiretrustee_a_selfhosted_wireguard_management_tool/",
-          "author": null,
-          "description": "Hey folks,\n Following up on a previous post. Thanks for the kind and constructive feedback! We have considered the most requested features and crafted a Public Roadmap. \n Check it out here https://github.com/wiretrustee/wiretrustee/projects/2 and please let us know what you think.\n We are behind in features comparing to Tailscale or Zerotier, but I believe we are on the right path to cover most of them. Our main goal is a fully open-source system so that it can be r/selfhosted without any hidden parts.\n Shortly on main points from the roadmap:\n - Peer management with a UI dashboard so that you don't need to add peers manually\n - Automatic network changes provisioning so that every peer in the system has the latest state (and newly added peers)\n - Windows support\n - ACLs\n - Mobile clients\n We are a team of two and are looking for some help :). Feel free to reach out if you are willing to contribute.\n Cheers,\n    submitted by    /u/wiretrustee  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nyym5f/wiretrustee_a_selfhosted_wireguard_management_tool/",
-          "publishedOn": "2021-06-13T15:22:21.000Z",
-          "wordCount": 420,
-          "title": "Wiretrustee - a self-hosted Wireguard management tool"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nyyilc/looking_for_a_hypervisor/",
-          "author": null,
-          "description": "What I have:\n  \na server w/ 4c CPU and 32GB RAM\n 2TB ZFS Pool (originally made by FreeNAS & Full of Data)\n  \nWhat I want:\n  \npreferably FOSS\n Web Interface\n Creation/editing/deletion of VMs\n Management for Docker (haven't dabbled in docker yet, but definitely want to)\n Ability to adopt existing ZFS-Pool\n Ability to mount directories on said ZFS pool to VM's directly (e.g. mount \"/mnt/ZFS/music\" on the host to \"/music\" on the VM without a network connecting host and VM)\n Ability to assign different VMs to different VLANs (on the host network)\n SMB File sharing\n maybe some load-balancing in the future (not required)\n  \nWhat I want this for:\n  \nlocal network file server (smb)\n reverse proxy (nginx)\n website host (nginx)\n mediaserver (don't know yet)\n VPN-Server (openvpn)\n Matrix Homeserver (don't know yet)\n  \nDoes anyone know an OS that would check these boxes?\n I am asking because my FreeNAS boot stick died, and now that I have to redo it anyway, I'm wondering whether there is a better way to do this. (I am going to use a 128GB SSD for the next install to not repeat this error.)\n I have tried Proxmox as well, and it does a lot of these things right, but I cannot find a (GUI) way to do the mounting I described above, also doing all the ZFS and SMB configuration in the terminal only sounds like a recipe for a security disaster if I am the person configuring it, even though it works.\n    submitted by    /u/Noel_Sa  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nyyilc/looking_for_a_hypervisor/",
-          "publishedOn": "2021-06-13T15:17:45.000Z",
-          "wordCount": 979,
-          "title": "Looking for a hypervisor"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nyx68q/looking_for_a_service_that_can_let_me_search/",
-          "author": null,
-          "description": "Hey,\n I have an album from a party and I want letting the people who where there the option to upload a selfie and and then it will show them all of the pictures they appears in instead of search themselves in all of the pictures in the album.\n ​\n Do you know a service \\ system that I can do that with it?\n    submitted by    /u/asaf1  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nyx68q/looking_for_a_service_that_can_let_me_search/",
-          "publishedOn": "2021-06-13T14:12:00.000Z",
-          "wordCount": 251,
-          "title": "Looking for a service that can let me search photos in album by face"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/nyvwbl/recommendations_for_a_basic_monitoring_and/",
-          "author": null,
-          "description": "The other day I was wondering why my raspberry pi was slow, and I found out that one process had been using 100% of the CPU for a few hours, for no reason.\n I'm already using netdata to monitor the system, but I'd like to find some software that could detect this sort of anomalies and alert me (ideally via Telegram since I already use that for other notifications). I don't need anything too fancy, I'd like to keep it simple.\n Any ideas ?\n    submitted by    /u/TheGreatestCapybara  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/nyvwbl/recommendations_for_a_basic_monitoring_and/",
-          "publishedOn": "2021-06-13T13:04:34.000Z",
-          "wordCount": 511,
-          "title": "Recommendations for a basic monitoring and alerting tool ?"
         }
       ]
     },
@@ -5329,6 +5284,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=344316",
+          "author": "Chris Coyier",
+          "description": "As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …\nThe post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/links-on-react-and-javascript/",
+          "publishedOn": "2021-07-13T19:57:10.000Z",
+          "wordCount": 1003,
+          "title": "Links on React and JavaScript"
+        },
+        {
+          "id": "https://css-tricks.com/?p=343850",
+          "author": "Manuel Matuzovic",
+          "description": "Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…\nThe post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/meta-theme-color-and-trickery/",
+          "publishedOn": "2021-07-13T14:58:33.000Z",
+          "wordCount": 2597,
+          "title": "Meta Theme Color and Trickery"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344542",
+          "author": "Geoff Graham",
+          "description": "(This is a sponsored post.)\nThe folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …\nThe post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://www.surveymonkey.com/r/jamstack-survey-css-tricks",
+          "publishedOn": "2021-07-13T14:34:48.000Z",
+          "wordCount": 142,
+          "title": "Jamstack Community Survey 2021"
+        },
         {
           "id": "https://css-tricks.com/?p=344355",
           "author": "Chris Coyier",
@@ -5832,6 +5814,34 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
+          "author": "hello@smashingmagazine.com (Michelle Barker)",
+          "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
+          "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
+          "publishedOn": "2021-07-13T12:00:00.000Z",
+          "wordCount": 3263,
+          "title": "Building A Dynamic Header With Intersection Observer",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/",
+          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
+          "description": "In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.",
+          "link": "https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/",
+          "publishedOn": "2021-07-13T10:30:00.000Z",
+          "wordCount": 4225,
+          "title": "How To Migrate From jQuery To Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ece22577-f23c-4e9c-a41c-f9000f14ae9d/migrate-jquery-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
           "author": "hello@smashingmagazine.com (Adrian Bece)",
           "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
@@ -6194,20 +6204,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "author": "hello@smashingmagazine.com (Stephanie Eckles)",
-          "description": "Spoiler alert: tooltips, modals, tabs, carousels, and dropdown menus are some of the user interface components that require more than CSS. To ensure accessibility of your interface, JavaScript is a necessary addition to accomplish focus management, respond to keyboard events, and toggle ARIA attributes.",
-          "link": "https://smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/",
-          "publishedOn": "2021-06-14T10:30:00.000Z",
-          "wordCount": 3665,
-          "title": "When CSS Isn’t Enough: JavaScript Requirements For Accessible Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9982fa1e-806c-4343-9de1-eb804a48451e/css-javascript-requirements-accessible-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -6216,6 +6212,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60e73db9134ad707be00f206",
+          "author": null,
+          "description": "Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -",
+          "link": "https://www.freecodecamp.org/news/how-git-branches-work/",
+          "publishedOn": "2021-07-13T13:44:04.000Z",
+          "wordCount": 4795,
+          "title": "How Git Branches Work"
+        },
+        {
+          "id": "609692d82cd0545b5e9441ab",
+          "author": null,
+          "description": "GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then",
+          "link": "https://www.freecodecamp.org/news/build-graphql-server-with-laravel/",
+          "publishedOn": "2021-07-13T07:54:34.000Z",
+          "wordCount": 2258,
+          "title": "How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman"
+        },
+        {
+          "id": "60e9c888e8ee9b08300ed212",
+          "author": null,
+          "description": "In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-axios-with-react/",
+          "publishedOn": "2021-07-13T07:36:28.000Z",
+          "wordCount": 2519,
+          "title": "How To Use Axios With React: The Definitive Guide (2021)"
+        },
+        {
+          "id": "60e5b284134ad707be00e5e0",
+          "author": null,
+          "description": "Have you noticed that User Interface and User Experience design are considered different topics nowadays? Or have you ever wondered which one is better?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining",
+          "link": "https://www.freecodecamp.org/news/ui-ux-design-guide/",
+          "publishedOn": "2021-07-13T02:14:52.000Z",
+          "wordCount": 2261,
+          "title": "UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?"
+        },
         {
           "id": "60e753aa134ad707be00f2c1",
           "author": null,
@@ -6925,6 +6957,132 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1780015",
+          "author": "Kyle Orland",
+          "description": "1990 demo was rejected by Nintendo but led to id's own Commander Keen.",
+          "link": "https://arstechnica.com/?p=1780015",
+          "publishedOn": "2021-07-13T22:00:46.000Z",
+          "wordCount": 1321,
+          "title": "Museum obtains rare demo of id Software’s Super Mario Bros. 3 PC port"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779998",
+          "author": "Beth Mole",
+          "description": "Vaccine chief says she was fired for noting state's 34-year-old policy for vaccinating teens.",
+          "link": "https://arstechnica.com/?p=1779998",
+          "publishedOn": "2021-07-13T21:30:27.000Z",
+          "wordCount": 1264,
+          "title": "Tennessee has gone “anti-vaccine,” state vaccine chief says after being fired"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779990",
+          "author": "Jon Brodkin",
+          "description": "Your bill and a speed test can help Consumer Reports analyze Internet prices.",
+          "link": "https://arstechnica.com/?p=1779990",
+          "publishedOn": "2021-07-13T21:08:12.000Z",
+          "wordCount": 1324,
+          "title": "How much do you pay your ISP? Consumer Reports wants to see your bill"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779916",
+          "author": "Kiona N. Smith",
+          "description": "Here's more evidence that Neanderthals were as creative and cultured as us.",
+          "link": "https://arstechnica.com/?p=1779916",
+          "publishedOn": "2021-07-13T20:50:55.000Z",
+          "wordCount": 1651,
+          "title": "A Neanderthal carved a geometric design in bone 51,000 years ago"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779880",
+          "author": "Samuel Axon",
+          "description": "It costs $99 and ships this month.",
+          "link": "https://arstechnica.com/?p=1779880",
+          "publishedOn": "2021-07-13T20:02:37.000Z",
+          "wordCount": 792,
+          "title": "Apple introduces MagSafe Battery Pack to charge the iPhone 12 on the go"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779895",
+          "author": "John Timmer",
+          "description": "Impacts and radiation ensure any interesting chemicals won't last at the surface.",
+          "link": "https://arstechnica.com/?p=1779895",
+          "publishedOn": "2021-07-13T19:25:44.000Z",
+          "wordCount": 1233,
+          "title": "If we want to look for life on Europa, we’d better bring a drill"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779865",
+          "author": "Jim Salter",
+          "description": "Mozilla's browser continues ramping up its speed and blocking efforts.",
+          "link": "https://arstechnica.com/?p=1779865",
+          "publishedOn": "2021-07-13T18:55:26.000Z",
+          "wordCount": 1333,
+          "title": "Firefox 89 delivered more speed—today’s Firefox 90 adds SmartBlock 2.0"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1778799",
+          "author": "Tim De Chant",
+          "description": "BMW’s forsaken i3 was exceptional, underwhelming, and far too ahead of its time.",
+          "link": "https://arstechnica.com/?p=1778799",
+          "publishedOn": "2021-07-13T17:38:12.000Z",
+          "wordCount": 2200,
+          "title": "BMW abandons the i3, the car that could have birthed a bright electric future"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779818",
+          "author": "Jon Brodkin",
+          "description": "AT&T says users can soon \"stay in the fast lane\" on its priciest unlimited plan.",
+          "link": "https://arstechnica.com/?p=1779818",
+          "publishedOn": "2021-07-13T16:58:20.000Z",
+          "wordCount": 1373,
+          "title": "AT&T will let unlimited-data customers pay more to avoid the slow lane"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779781",
+          "author": "Eric Berger",
+          "description": "Dmitry Rogozin called the Virgin Galactic flight a \"landmark.\"",
+          "link": "https://arstechnica.com/?p=1779781",
+          "publishedOn": "2021-07-13T16:46:33.000Z",
+          "wordCount": 914,
+          "title": "Russia’s space chief wishes his oligarchs invested in space like Branson and Musk"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779773",
+          "author": "Ron Amadeo",
+          "description": "Google's pandemic promo let free users video chat for 24 hours, but now it's over.",
+          "link": "https://arstechnica.com/?p=1779773",
+          "publishedOn": "2021-07-13T16:19:39.000Z",
+          "wordCount": 701,
+          "title": "Google Meet puts the clamps on free users, imposes 1-hour meeting limit"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779785",
+          "author": "Kyle Orland",
+          "description": "Platform will take 15 percent cut on first $3 million in sales for new titles.",
+          "link": "https://arstechnica.com/?p=1779785",
+          "publishedOn": "2021-07-13T16:00:17.000Z",
+          "wordCount": 922,
+          "title": "Google tries to attract Stadia publishers with better revenue sharing"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1773974",
+          "author": "Sean Gallagher",
+          "description": "In the first part of a new series, we look at matching the problem to the tool.",
+          "link": "https://arstechnica.com/?p=1773974",
+          "publishedOn": "2021-07-13T15:00:19.000Z",
+          "wordCount": 1830,
+          "title": "Is our machine learning? Ars takes a dip into artificial intelligence"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1779170",
+          "author": "Jennifer Ouellette",
+          "description": "\"For the brain, fake or real, faces are all processed the same way.\"",
+          "link": "https://arstechnica.com/?p=1779170",
+          "publishedOn": "2021-07-13T11:30:26.000Z",
+          "wordCount": 1753,
+          "title": "Our brains “read” expressions of illusory faces in things just like real faces"
+        },
         {
           "id": "https://arstechnica.com/?p=1779719",
           "author": "Sam Machkovech",
@@ -9597,60 +9755,6 @@
           "publishedOn": "2021-06-14T14:09:56.000Z",
           "wordCount": 759,
           "title": "The CEO and CFO of Lordstown Motors both just resigned"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772085",
-          "author": "Jeff Dunn",
-          "description": "We give a few gifting prompts for the guy who won't say what he actually wants.",
-          "link": "https://arstechnica.com/?p=1772085",
-          "publishedOn": "2021-06-14T11:30:00.000Z",
-          "wordCount": 1520,
-          "title": "The Ars Technica Father’s Day 2021 gift guide"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1773051",
-          "author": "Kyle Orland",
-          "description": "From shooters to puzzles to mail delivery sims, these concepts stood out from the crowd.",
-          "link": "https://arstechnica.com/?p=1773051",
-          "publishedOn": "2021-06-14T03:19:40.000Z",
-          "wordCount": 1964,
-          "title": "16 games to keep an eye on from Sunday’s E3 2021 trailer showcases"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1771845",
-          "author": "Jennifer Ouellette",
-          "description": "Paramount released a 4K Blu-Ray collection of first four films to mark the occasion.",
-          "link": "https://arstechnica.com/?p=1771845",
-          "publishedOn": "2021-06-13T20:56:30.000Z",
-          "wordCount": 2831,
-          "title": "Raiders of the Lost Ark turns 40 and it’s still an unqualified masterpiece"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772995",
-          "author": "Kyle Orland",
-          "description": "Halo! Forza! Psychonauts!  Age of Empires!  And dozens of other games, too!",
-          "link": "https://arstechnica.com/?p=1772995",
-          "publishedOn": "2021-06-13T19:47:51.000Z",
-          "wordCount": 1721,
-          "title": "Every trailer and announcement from Microsoft and Bethesda’s E3 showcase"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772971",
-          "author": "Financial Times",
-          "description": "Unnamed passenger will pay more than $9 million per minute of zero gravity.",
-          "link": "https://arstechnica.com/?p=1772971",
-          "publishedOn": "2021-06-13T18:41:53.000Z",
-          "wordCount": 819,
-          "title": "Ticket for space flight with Jeff Bezos is auctioned for $28 million"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1772824",
-          "author": "Sam Machkovech",
-          "description": "Brief, gorgeous trailer: \"You're part of Constellation now. Part of our family.\"",
-          "link": "https://arstechnica.com/?p=1772824",
-          "publishedOn": "2021-06-13T16:54:08.000Z",
-          "wordCount": 1190,
-          "title": "Starfield reveal: Coming November 11, 2022, exclusively to PC, Xbox Series X/S [UPDATED]"
         }
       ]
     }
