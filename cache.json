@@ -6,6 +6,195 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/omga99/asking_the_impossible_cheap_but_easy_mail_server/",
+          "author": null,
+          "description": "Hey there,\n I have tried the following two guides and failed miserably which I will describe in a second as to why:\n Tried this one since I heard OpenBSD is good for security, and I was up for the challenge. Looked OK at the first, but damn this post is way too intense near the end, and was so jenky. Plus SMTP isn't described on how to truly configure it. It basically felt like, \"Here's me rambling. Oh yeah, here's my Gmail, should just work, Ok? Bye\", not good at all in my opinion:\n https://poolp.org/posts/2019-09-14/setting-up-a-mail-server-with-opensmtpd-dovecot-and-rspamd/\n Failed at this one since I deployed a 512MB based Vultr VPS running Debian 10, didn't know you need at least 2GB for this setup, so really, this is me being cheap.\n https://www.linuxbabe.com/mail-server/debian-9-str…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/omga99/asking_the_impossible_cheap_but_easy_mail_server/",
+          "publishedOn": "2021-07-18T00:42:05.000Z",
+          "wordCount": 494,
+          "title": "Asking The Impossible: Cheap But Easy Mail Server VPS Guide ($30 to $60 a year)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/omfvq5/guides_to_self_host_locally_on_an_old_pc_for/",
+          "author": null,
+          "description": "Hello,\n I have an old laptop lying around with 1TB storage. I hope to turn it into a private cloud storage and media storage. Maybe photos server if its not too hard. And a secure and private bitwarden server. How can I start? Is there guides i can follow???\n    submitted by    /u/buttler69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/omfvq5/guides_to_self_host_locally_on_an_old_pc_for/",
+          "publishedOn": "2021-07-18T00:15:43.000Z",
+          "wordCount": 203,
+          "title": "Guides to self host locally on an old pc for cloud storage (maybe photos separately), bitwarden and media server"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/omfoeu/idea_portable_router_self_hosting_to_get_around/",
+          "author": null,
+          "description": "Fairphone, Pinephone, Librem5 and others are all a response to limitations of phones such as the iPhone walled garden and Android's increasing surveillance capitalism, principally via GApps and also its push for everything to go through the cloud. \n This is theoretical, because I doubt many people carry 2 portable devices like a battery pack already but a portable network mitigate some of this hassle?\n Some of the benefits:\n 1) get past the limitations of a glued-in battery because you're not connecting via WiFi\n 2) get past the limitations of limited storage by syncing to 'the cloud', which is actually just the router in your pocket. Then sync and clear it when you get home.\n 3) get past some of the legal limitations for the radio chip. Fairphone and Pinephone still need a black box GSM chip. While any router does too, at least it opens up possibilities to swap it out for new developments.\n 4) get past the limitation of having only one vpn slot. Monitor AND shape your traffic with the flexibility of Linux.\n 5) no simcard = at least you know the phone is definitely off and not transmitting. Similar to hardware kill switches\n 6) get past some walled garden restrictions on apple when combined with censorship. Let's say you're in China but apple had to delete some anti surveillance app from the app store? The portable router could host that.\n 7) everything's going via the cloud these days. Get past Google's push for that with a local server. For example, the browser can't access the local file system anymore. Make a filesystem available via a Web service running on the router. *Save bandwidth and lag. *\n I'm sure there's a lot more that can be thought of. \n Drawbacks:\n 1) carrying 2 things 2) maybe all (some?.?) of this is too battery intensive?\n    submitted by    /u/After-Cell  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/omfoeu/idea_portable_router_self_hosting_to_get_around/",
+          "publishedOn": "2021-07-18T00:02:49.000Z",
+          "wordCount": 422,
+          "title": "Idea: portable router self hosting to get around phone hassles?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/omfnnm/kubernetes_vs_docker/",
+          "author": null,
+          "description": "I've been thinking it might be cool to use Kubernetes in a self hosted environment. I was looking into microk8s because it seems simple to expand from 1 node to many in the future if really needed.\n From what I've seen, however, most applications that have helm charts are abandoned.\n What is a solution? Write my own helm charts? Write my own kubernetes config yamls and manually apply them? Just give up and use docker?\n Just wondering if anyone's bothered with something similar and how you handled it.\n    submitted by    /u/minderaser  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/omfnnm/kubernetes_vs_docker/",
+          "publishedOn": "2021-07-18T00:01:30.000Z",
+          "wordCount": 205,
+          "title": "Kubernetes vs. Docker"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/omcclw/how_to_download_simple_wikipedia/",
+          "author": null,
+          "description": "I wanted to download simple wikipedia (as it is smaller than regular wikipedia, not sure) because if our internet stops working (which happens regularly) and I have a assignment to complete or if we have a zombie apocalypse I would have some place to search how to do stuff and learn, and that is why I wanted to have a local copy of wikipedia. I know about xowa but a http server one would be better as I want to access it from any device from my hotspot. And xowa http server can't be accessed outside my own pc\n Thanks in advance!!\n    submitted by    /u/artremist  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/omcclw/how_to_download_simple_wikipedia/",
+          "publishedOn": "2021-07-17T20:43:33.000Z",
+          "wordCount": 266,
+          "title": "How to download simple wikipedia"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/omc2qz/selfhosted_course_manger_for_your_offline_courses/",
+          "author": null,
+          "description": "is there a selfhosted app that allows you to manage your courses and learning material that you have on your disk ?\n    submitted by    /u/Latter-Programmer802  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/omc2qz/selfhosted_course_manger_for_your_offline_courses/",
+          "publishedOn": "2021-07-17T20:28:17.000Z",
+          "wordCount": 157,
+          "title": "selfhosted course manger for your offline courses ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ombsjq/reverse_proxy_to_subdomain_am_i_missing_something/",
+          "author": null,
+          "description": "I'm using Caddy and I'm trying to reverse proxy my self hosted services (jellyfin and komga) to subdomains.\n As far as I understand, if those domains are pointed to my IP address (which is dynamic, so I had to setup dynamic dns) and ports 80 and 443 are forwarded, Caddy should do all the work automatically: creating the subdomains and providing ssl certificates.\n So let's say my caddyfile is something like\n ​\n jellyfin.mydomain.xyz {\n reverse_proxy localhost:8080\n }\n ​\n going to jellyfin.mydomain.xyz gets me nowhere. The website just doesn't exist.\n If I enable a wildcard alias then it just brings me to where mydomain.xyz points, that is to say my IP address, without specifying any port.\n Do I have to set something from the domain? Is it Caddy's fault?\n    submitted by    /u/gyus_e  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ombsjq/reverse_proxy_to_subdomain_am_i_missing_something/",
+          "publishedOn": "2021-07-17T20:13:21.000Z",
+          "wordCount": 465,
+          "title": "Reverse proxy to subdomain: am I missing something?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/omb0va/is_there_some_kind_of_centralized_authentication/",
+          "author": null,
+          "description": "This is my idea:\n On my desktop I have a program that I unlock with a password, this program authenticates with some kind of software I'm running a raspberry pi. I SSH into one of my machines and run sudo su or whatever the replacement would be. Sudo communicates with the auth server which replies \"All good\" and I get root access.\n Does something like this exist? The idea is that if I need to ssh into multiple machines I only need to enter my password once rather than several times.\n    submitted by    /u/forgetfulcoder  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/omb0va/is_there_some_kind_of_centralized_authentication/",
+          "publishedOn": "2021-07-17T19:33:20.000Z",
+          "wordCount": 236,
+          "title": "Is there some kind of centralized authentication replacement for sudo?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/omadli/child_filtering_tools_like_circle/",
+          "author": null,
+          "description": "I'm trying to find something that will function sort of like disney circle, but not as hacky. I was thinking something like a pi-hole, however I've never used one before. Can I setup filtering levels based on profiles containing device MAC addresses? Would I be able to setup a VPN profile with say, openVPN on my youngest's cellphone so I can filter the mobile network? Thanks for any suggestions ahead of time!\n    submitted by    /u/pDizzle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/omadli/child_filtering_tools_like_circle/",
+          "publishedOn": "2021-07-17T18:58:30.000Z",
+          "wordCount": 327,
+          "title": "Child Filtering Tools (like circle)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/om806j/easy_cron_alternative/",
+          "author": null,
+          "description": "Hi people, does you know similar software to easy Cron, but selfhosted and for not technically people use?\n Thanks!\n    submitted by    /u/erranticus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/om806j/easy_cron_alternative/",
+          "publishedOn": "2021-07-17T16:54:31.000Z",
+          "wordCount": 286,
+          "title": "Easy Cron Alternative"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/om7uv8/suggestions_dockerized_vpn_client/",
+          "author": null,
+          "description": "thank for any help suggestions.\n    submitted by    /u/Shoddy-Action-193  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/om7uv8/suggestions_dockerized_vpn_client/",
+          "publishedOn": "2021-07-17T16:46:22.000Z",
+          "wordCount": 318,
+          "title": "Suggestions: dockerized VPN client (wireguard/openvpn) that is exposed so that i can connect to it via proxy (sock5/http) on local devices"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/om6n8x/github_archiveboxarchivebox_open_source/",
+          "author": null,
+          "description": "submitted by    /u/obi-nine  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/om6n8x/github_archiveboxarchivebox_open_source/",
+          "publishedOn": "2021-07-17T15:42:20.000Z",
+          "wordCount": 703,
+          "title": "GitHub - ArchiveBox/ArchiveBox: 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more..."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/om5nos/replacement_for_google_workspace_needed_to_stay/",
+          "author": null,
+          "description": "Hello Self Hosters,\n I'm currently using Nextcloud along with Onlyoffice as my Google Workspace replacement, I don't see it as a full replacement as nextcloud and onlyoffice lacks both performance and features against google's products (specially sheets, word and presentation apps).\n I really love the idea if owning my own data and the privacy it comes with it and I'm hoping for some help here.\n Thanks in advance.\n Also thanks to everyone one contributing to this sub, I literally became a self hoster because of this place. Keep it up friends.\n    submitted by    /u/RAZINxJ  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/om5nos/replacement_for_google_workspace_needed_to_stay/",
+          "publishedOn": "2021-07-17T14:48:42.000Z",
+          "wordCount": 420,
+          "title": "Replacement for Google Workspace needed to stay away from Google"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/om4s01/i_have_a_vps_as_a_gateway_to_my_home_server_how/",
+          "author": null,
+          "description": "I am running some services on my home server. To access them from anywhere I have setup wireguard such that I can stream traffic through the vps to my homeserver from anywhere in the world.\n But when I am at home I do not want to route the traffic through the vps first, but just through my own home network. Is this possible? Should I set some DNS records for this to work?\n I have this now: Laptop at home --> home router --> VPS --> home router --> home server.\n And I want this: Laptop at home --> home router --> home server.\n    submitted by    /u/Alexwithx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/om4s01/i_have_a_vps_as_a_gateway_to_my_home_server_how/",
+          "publishedOn": "2021-07-17T13:59:50.000Z",
+          "wordCount": 317,
+          "title": "I have a VPS as a gateway to my home server, how can not route my traffic through my VPS when at home."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/om4p5e/k3s_questions/",
+          "author": null,
+          "description": "Hello all, \n As of late i have been looking into trying k3s, right now I use docker/docker-compose and it works amazing for what i need but I wanna try and dip my toes into k3s but I have some questions.\n Firstly, is it a good idea for me to do this? I dont have a pi cluster or anything like that, right now all i have is one VM running docker and all of my services and it does its job just fine but I am planning on getting a VPS for a project and was thinking of linking them having the VPS become the \"master\".\n Secondly, if yes can k3s be ran on varying hardware? What I mean by that is, im not going to get a VPS with the same specs as what is allocated to my VM and if I plan to add another machine to it in the future (ie a rpi) can it be done? \n This is a interesting concept but not sure if it will be worth it for what I am doing.\n Cheers for the help\n    submitted by    /u/TheDandyLiar  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/om4p5e/k3s_questions/",
+          "publishedOn": "2021-07-17T13:55:03.000Z",
+          "wordCount": 712,
+          "title": "k3s questions"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/om4j7o/simple_barrestaurant_pos_software/",
+          "author": null,
+          "description": "Not entirely sure this is the best subreddit for this but it's the best I could think of and is at least somewhat related.\n Where I work the POS software we use is very outdated, I can't remember the name of it but it's essentially breaking down: random errors, stops connecting to the printer for seemingly no reason, and is hard to update details because data appears to be stored in multiple databases with no rhyme or reason.\n A quick Google and Github search has lead me to a few options but the goals and objectives of some of the projects are far above anything we need, and a lot on Google are obviously paid and under license.\n So I would like to know if anyone can recommend a good, simple POS service for a bar. Basic needs are food, drink, opens the till, print Z's, and that's about it, my boss appears to keep control of stock and inventory seperately.\n Also if it runs on Windows 7, that'd be better, although not strictly necessary.\n    submitted by    /u/HDmaniac  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/om4j7o/simple_barrestaurant_pos_software/",
+          "publishedOn": "2021-07-17T13:45:04.000Z",
+          "wordCount": 494,
+          "title": "Simple bar/restaurant POS software"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/om3qg6/do_you_use_a_single_database_for_all_your/",
+          "author": null,
+          "description": "Edit: Database servers instead of databases\n Practical example: Redis. Tons of applications require Redis. For example NextCloud or Authelia. Do you have a single Redis service that is used by all applications or do you use dedicated Redis instances for every single application?\n Example\n It of course does not stop with Redis. Same story for SQL databases. So I have many MariaDBs in parallel or a single one?\n ​\n Example\n In my case I have a beefy single node server and I host most of my stuff in a Kubernetes cluster.\n View Poll\n    submitted by    /u/trallnag  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/om3qg6/do_you_use_a_single_database_for_all_your/",
+          "publishedOn": "2021-07-17T12:56:47.000Z",
+          "wordCount": 1363,
+          "title": "Do you use a single database for all your services or dedicated database for every service? What should I go for?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/om3n98/pgp_key_server/",
+          "author": null,
+          "description": "is there any repos or gits for self hosting a pgp key server? I just want a nice PGP server easy for me and my friends to use. I'v looked everywhere and I can't find anything. If you can find something that is easy to use / setup THANK YOU SO MUCH!\n    submitted by    /u/Moonstone459  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/om3n98/pgp_key_server/",
+          "publishedOn": "2021-07-17T12:51:17.000Z",
+          "wordCount": 282,
+          "title": "PGP key server?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/om18m6/private_way_to_watch_youtube_odyseelbry_bitchute/",
+          "author": null,
+          "description": "I'm working on this project for several months, I'm not a front-end developer so as you can see it's not the most beautiful web page you have ever seen but it works. You can import subscriptions from YT, etc\n YouTube\n Bitchute\n All subscriptions from all sites are saved locally.\n Everything is locally.\n It's a docker image, so you can test it and see if you like it.\n https://github.com/PrivOci/ReTube\n For developers:\n I would love to have some help on front-end side :)\n Also, all suggestions are welcome\n P.S. the demo video is out-of-date, the current UI is bit better with more video related details.\n NOTE: Grabbing videos from FB is a bit problematic for now, working on to fix it\n    submitted by    /u/YioUio  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/om18m6/private_way_to_watch_youtube_odyseelbry_bitchute/",
+          "publishedOn": "2021-07-17T09:44:40.000Z",
+          "wordCount": 301,
+          "title": "Private way to watch YouTube, Odysee/Lbry, Bitchute, Facebook from one place"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/om0ggq/iso_central_event_notification_service/",
+          "author": null,
+          "description": "I have a few services (such as healthchecks.io, a network Honeypot, etc) that emit \"events\" via webhook. I'm looking for some service that I can set up to receive those webhooks, match some properties in the URL or body, and then issue notifications to different users across different providers.\n Does this sound like a tool any of y'all are familiar with?\n I've come across https://github.com/caronc/apprise and it's web interface, but it's web side has some concerning security issues and doesn't allow for the desired filtering.\n    submitted by    /u/TheMatchlighter  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/om0ggq/iso_central_event_notification_service/",
+          "publishedOn": "2021-07-17T08:34:36.000Z",
+          "wordCount": 463,
+          "title": "[ISO] Central Event Notification Service"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/olztk8/looking_for_wiki_with_scraperimport_function/",
+          "author": null,
+          "description": "Hey guys I'm looking for self hosted wiki that will allow me to import specific things from other wikis like wikipedia or media wiki and store them together. Any ideas?\n    submitted by    /u/Madiator2011  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/olztk8/looking_for_wiki_with_scraperimport_function/",
+          "publishedOn": "2021-07-17T07:39:26.000Z",
+          "wordCount": 265,
+          "title": "Looking for wiki with scraper/import function."
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/olrhc4/is_there_a_way_to_use_nginx_proxy_manager_along/",
           "author": null,
           "description": "Hey, all I am running several containers on my server, which are pointed by different subdomains. E.g. \n  \ncloud.example.com > Port 1111\n audio.example.com > Port 2222\n  \nNow, before this, I used to have my own website example.com which pointed to a Github Pages. \n Is there a way that I can then regain that website so that, I can still access my containers, but when I go to example.com, I access my website? Perhaps have my website on a port, and use Nginx Proxy Manager to point to it?\n Thank you all!\n    submitted by    /u/spidershu  \n [link]   [comments]",
@@ -5026,258 +5215,6 @@
           "publishedOn": "2021-06-18T14:12:03.000Z",
           "wordCount": null,
           "title": "Telebit cloud"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2nkg8/hardware_requirements_for_selfhosting_goals/",
-          "author": null,
-          "description": "Hi all - I'm new to self-hosting so please correct me if I make any mistakes here.\n I'm looking into buying some hardware to host some tools on, and I'm here looking for some recommendations on what kind of specs I need to look for in a server.\n Initially I'm going to look into setting up a matrix synapse instance to bridge to slack, fb messenger and discord, and a system for SMS forwarding. Assuming that goes to plan, I would then like to expand to an implementation of Mycroft.ai and a couple of CCTV cameras and door open / glass break sensors for home security on the same server.\n Although I will go with the most cost efficient method to achieve these goals, I want to have plenty of scope to get all this up and running smoothly, so price and energy requirements aren't of particular concern. What sort of devices should I be looking into? A single server dealing with all of it, an array of raspberry pis, would I be better off hiring a VPS, etc? \n Thanks in advance!\n    submitted by    /u/DehydratedBlinker  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2nkg8/hardware_requirements_for_selfhosting_goals/",
-          "publishedOn": "2021-06-18T12:06:25.000Z",
-          "wordCount": 287,
-          "title": "Hardware requirements for self-hosting goals"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2necx/codeserver_alternative_edit_files_only/",
-          "author": null,
-          "description": "Hi\n I'm looking for some kind of notepad++ / codeserver alternative to edit my xml (yaml) files on my docker host online.\n does anyone have a docker image/suggestion?\n I am NOT looking for a nextcloud solution, just a quick way to edit my files on the NAS, online\n it's cool if it can also recognize yaml / xml etc and show it that way\n    submitted by    /u/jboesh  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2necx/codeserver_alternative_edit_files_only/",
-          "publishedOn": "2021-06-18T11:56:49.000Z",
-          "wordCount": 332,
-          "title": "codeserver alternative - edit files only"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2kdzx/seamless_design_across_apps/",
-          "author": null,
-          "description": "Hi everybody,\n I'm wondering if anyone here has been able to create some cool seamless design across all their apps.\n This because I see that everyone share their custom, personal dashboards, with some really good eye candy, but they lack into do the same with apps.\n One big advantage about self hosting is that almost every piece of software is web software, allowing us to modify the look with some custom HTML/CSS and even JavaScript without the needed of compiling.\n So if you take care of the eye candy of your apps, I would be happy to see any of your configs, so feel free to share a picture of that. :D\n Peace.\n    submitted by    /u/webjukebox  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2kdzx/seamless_design_across_apps/",
-          "publishedOn": "2021-06-18T08:37:29.000Z",
-          "wordCount": null,
-          "title": "Seamless design across apps"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2is8z/static_ip_route_with_openvpn/",
-          "author": null,
-          "description": "I have openvpn access server on oracle cloud, and local client on my win 7 pc. I want to create a static route so all internet traffic only flows through the VPN, and nothing else. Ive been able to do this with softether and a third-party VPN service, but I cant get it to work with OpenVPN. \n Id delete the 0.0.0.0 route. Then I would make a route in cmd with the destination network my VPN and the gateway my local LAN gateway ie: route add [VPN IP] mask 255.255.255.255 192.168.1.1. Id connect to my VPN using softether client, which populates a IPV4 address and default gateway for my VPN adaptor, and in turn generates a route for all traffic to flow through this VPN adaptor, the route shows as: 0.0.0.0 0.0.0.0 [VPN gateway] [VPN interface]. \n Trying to replicate this procedure, but with openvpn server and open client I am unable to connect. Note: I am able to connect if I reset the routing table, but this defeats the purpose as I want all traffic to only go through the VPN's IP.\n    submitted by    /u/Firm_Maintenance2009  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2is8z/static_ip_route_with_openvpn/",
-          "publishedOn": "2021-06-18T06:44:44.000Z",
-          "wordCount": null,
-          "title": "Static ip route with openvpn"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2imw3/domain_registrar_with_whois_protection_and_dnssec/",
-          "author": null,
-          "description": "hello,\n i'm looking to find a registrar that offer dnssec (not external) and whois protection, real whois protection not like cloudflare or gandi with data redacted and state/country visible. \n tld is .com\n it seems that namecheap has these requirements but years ago i registered a domain with them and i received emails advertising of their products that i never requested. i would like to keep namecheap as last option.\n i was looking at google domains but I don't understand if their whois protection is \"full\" or show state/country.\n any advice is greatly appreciated.\n    submitted by    /u/tecer0  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2imw3/domain_registrar_with_whois_protection_and_dnssec/",
-          "publishedOn": "2021-06-18T06:35:02.000Z",
-          "wordCount": 246,
-          "title": "domain registrar with whois protection and dnssec?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2gqt9/caddy2_reverse_proxy_on_site_that_already_has/",
-          "author": null,
-          "description": "I have a site running locally with a https cert for lets call it \"test.example.com\". As it is running on the same server as my caddy instance it is using port 4433 instead of 443. How would I set up a reverse proxy within caddy to proxy test.example.com:4433 to test.example.com:443 (through caddy) using the https cert that already exists on test.example.com:4433. All the documentation I have seen for caddy reverse proxy is for when you have a http site that you want to reverse proxy and it doesnt have a cert already.\n    submitted by    /u/CaptiveCreeper  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2gqt9/caddy2_reverse_proxy_on_site_that_already_has/",
-          "publishedOn": "2021-06-18T04:38:07.000Z",
-          "wordCount": 311,
-          "title": "Caddy2 Reverse proxy on site that already has https"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2ftud/seflhosted_docker_autobuild/",
-          "author": null,
-          "description": "As Docker have now discontinued their free Autobuild service https://www.docker.com/blog/changes-to-docker-hub-autobuilds/\n I was wondering if anyone had some insight on doing a self-hosted version?\n I'm not all that familiar myself with building Docker images - maybe it's my own fault for relying on this too much. But what I'm after is perhaps hosting my projects on a self hosted Git server (Gitea maybe?) then when that's updated, it gets built and pushed to a self hosted repo.\n    submitted by    /u/psybernoid  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2ftud/seflhosted_docker_autobuild/",
-          "publishedOn": "2021-06-18T03:45:53.000Z",
-          "wordCount": 418,
-          "title": "Seflhosted Docker Autobuild"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2e74p/i_caved_and_switched_to_amazon_ses_to_send_my/",
-          "author": null,
-          "description": "For almost 7 years I have run my own email server sending and receiving emails on it's own IP address. A few years ago I switched to Digital Ocean as a VPS to reduce deliverability issues, recently the IP block I was in got blacklisted by zen.spamhaus. Given that I have often suggested people use a SMTP relay I though I would share my experience of not being the target customer any more. They used to advertise SMTP relays as what they are, a relay service, they no longer do that. Now as a selfhoster I felt like a square peg in a round hole.\n Big players really make it hard for small servers\n As outlined with this blog post Google is eating out email and the resulting discussion on Hacker News the big players appear to have no interest following the standard rules when it comes to emails. A…",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2e74p/i_caved_and_switched_to_amazon_ses_to_send_my/",
-          "publishedOn": "2021-06-18T02:17:41.000Z",
-          "wordCount": 1198,
-          "title": "I Caved and switched to Amazon SES to send my emails"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2d0sk/self_signed_certs/",
-          "author": null,
-          "description": "I have made a .crt and a .key using openssl req -newkey rsa:4096 -x509 -sha256 -days 365 -nodes -out 123.crt -keyout 123.key and was wondering if it is working and if its not how to make it work?\n https://preview.redd.it/it7yz73fdx571.png?width=321&format=png&auto=webp&s=4f02178f23428cf6b634d625d397e5ff3a80414c\n    submitted by    /u/L6TJASuWarZtpt2b  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2d0sk/self_signed_certs/",
-          "publishedOn": "2021-06-18T01:14:35.000Z",
-          "wordCount": 383,
-          "title": "Self Signed Certs"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2ci9q/exposing_services_externally/",
-          "author": null,
-          "description": "Hello, everyone,\n Learning lots from this sub, and hoping to pay it forward in the future. Unfortunately I’m here with a dumb question instead regarding self hosting my apps.\n Let’s say my docker container is running all my apps and is on 192.169.1.1 It’s my understanding that the only way to expose these services outside my network is by forwarding port 80 to that IP in my router settings, correct? Is there any other way? I ask because I don’t want to do this, and just want a little piece of mind after all this tinkering. \n I can’t access them from outside my network that I know of, however, I’m running ssl on all of them so technically am I not exposing them somewhat by navigating to something like photoprism.mydomain.com?\n Thanks for any help,\n    submitted by    /u/Roux85  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2ci9q/exposing_services_externally/",
-          "publishedOn": "2021-06-18T00:47:06.000Z",
-          "wordCount": null,
-          "title": "Exposing Services Externally"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2cfp0/can_not_reach_the_main_page_of_my_mediawiki_thats/",
-          "author": null,
-          "description": "The situation is as follows:\n I have a MediaWiki installed on a Debian server. The Wiki is installed on Apache2\n For information, the changes I made in the LocalSettings.php file is as follows:\n $wgScriptPath = \"/mediawiki\"; $wgServer = \"http://192.168.100.5:8080\";\n In the internal network, when I type in the local IP address of the MediaWiki server (192.168.100.5:8080) I get to the default page of Apache where it says that it works.\n But when I type /mediawiki behind it, (192.168.100.5:8080/mediawiki), I get to the main page of the Wiki.\n I have put this server behind a reverse proxy (Caddy) so that it's accessible from the outside world. \n The Caddyfile config is as follows:\n mydomain.com:443 { reverse_proxy 192.168.100.5:8080 }\n But when I type in the domain, I can only see the Apache Default page. I also can not get to the MediaWiki if I put /mediawiki behind the URL.\n Does anyone know how I can make it so that whenever I go to my domain, that it automatically goes to the main page of the MediaWiki, (which in the local network would be 192.168.100.5:8080/mediawiki as stated earlier). Or does anyone know where I should look? Any help is appreciated.\n Thank you so much in advance!\n    submitted by    /u/ey38  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2cfp0/can_not_reach_the_main_page_of_my_mediawiki_thats/",
-          "publishedOn": "2021-06-18T00:43:19.000Z",
-          "wordCount": null,
-          "title": "Can not reach the Main Page of my MediaWiki that's behind a reverse proxy server (Caddy). I can only see the Apache2 Default Page."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2bfts/start_your_own_isp/",
-          "author": null,
-          "description": "submitted by    /u/stanislavb  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2bfts/start_your_own_isp/",
-          "publishedOn": "2021-06-17T23:51:54.000Z",
-          "wordCount": 216,
-          "title": "Start Your Own ISP"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o28rsv/dns_and_connection_type_leak_on_vpn_image/",
-          "author": null,
-          "description": "I made a OPENVPN VPS using oracle cloud. I connected and my IP changed as expected, however I am showing DNS and connection leak. See image here: https://i.imgur.com/K5uWgH8.png\n How do I fix this so I dont leak DNS and connection type?\n    submitted by    /u/Firm_Maintenance2009  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o28rsv/dns_and_connection_type_leak_on_vpn_image/",
-          "publishedOn": "2021-06-17T21:46:01.000Z",
-          "wordCount": 203,
-          "title": "DNS and connection type leak on VPN (IMAGE)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o27zhd/self_hosting_on_hostgator/",
-          "author": null,
-          "description": "I recently got a 3 year shared Hostgator plan. Except for 1 site, I'm not using it much. I recently installed Nextcloud on it to backup by work files (my laptop crashes alot) and I intend to replace Dropbox completely. Is this safe? And what other things can I host on my Hostgator account?\n    submitted by    /u/viditj  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o27zhd/self_hosting_on_hostgator/",
-          "publishedOn": "2021-06-17T21:11:11.000Z",
-          "wordCount": 174,
-          "title": "Self hosting on Hostgator?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o27s4a/ngnix_proxy_manager_without_docker/",
-          "author": null,
-          "description": "Guru's\n Has anyone installed Ngnix Proxy Manager without docker?\n    submitted by    /u/ithakaa  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o27s4a/ngnix_proxy_manager_without_docker/",
-          "publishedOn": "2021-06-17T21:02:11.000Z",
-          "wordCount": 190,
-          "title": "Ngnix Proxy Manager without docker?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2796a/minecraft_server_hosting_help/",
-          "author": null,
-          "description": "I've recently started looking into Minecraft server hosting, and I want to host a 24/7 Java and Bedrock (using GeyserMC plugin) but I'm not sure what hosting to to with. I've experimented with self hosting and have got that to work and everything, however I don't want to have my personal pc running 24/7. I've looked into Pebblehost but I saw that it's virtual and that I might have to use terminal, which I'm not sure about; I'm used to windows and its simplicity, however I don't know where to start with hosting and the thought of using Linux frightens me (lol). Can anyone recommend me a good service to use or reassure me that I would be able to use Pebblehost? Either will work lmao, thanks for reading I guess\n TL;DR need server help pls Pebblehost scary Apex overpriced need server 24/7 for friends\n    submitted by    /u/Zynetric  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2796a/minecraft_server_hosting_help/",
-          "publishedOn": "2021-06-17T20:39:33.000Z",
-          "wordCount": 380,
-          "title": "Minecraft server hosting help"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o25fgl/my_homer_dashboard/",
-          "author": null,
-          "description": "I switched from Heimdall to Homer because of a better overview ...\n ​\n https://preview.redd.it/4olumsyzmv571.png?width=3840&format=png&auto=webp&s=c19030f26c3175b6bddb2712dd6f7c43e20632b0\n    submitted by    /u/Famku  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o25fgl/my_homer_dashboard/",
-          "publishedOn": "2021-06-17T19:23:47.000Z",
-          "wordCount": 219,
-          "title": "My Homer Dashboard"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o24f4z/few_questions_about_calibreweb/",
-          "author": null,
-          "description": "Hello,\n I'm setting up my ebook server. I decided to use calibre-web - https://github.com/janeczku/calibre-web as a docker container and to be honest, it confuses me a lot. Documentation is not very good so I decided to ask more experienced self hosters about a few things.\n Is it just gui for browsing ebooks? I cannot find any \"add\" button, so I'm not sure if it is supposed to work similar to regular calibre, or is it just browsing frontend? How can I add new book? Should I also have calibre in parallel, that will use the same database as calibre-web from the mentioned above git repository?\n Second question? Is it possible to host audiobooks with calibre-web?\n    submitted by    /u/lord_EarlGray  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o24f4z/few_questions_about_calibreweb/",
-          "publishedOn": "2021-06-17T18:41:46.000Z",
-          "wordCount": 409,
-          "title": "Few questions about calibre-web"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o228hs/listmonk_selfhosted_newsletter_mailing_list/",
-          "author": null,
-          "description": "submitted by    /u/codesharer  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o228hs/listmonk_selfhosted_newsletter_mailing_list/",
-          "publishedOn": "2021-06-17T17:09:28.000Z",
-          "wordCount": 135,
-          "title": "listmonk - Self-hosted newsletter & mailing list manager"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o2274b/automate_checking_email_downloading_attachments/",
-          "author": null,
-          "description": "I use Rocketbook and the Rocketbook app to write handwritten notes, the app only saves to cloud services like dropbox, so the only alternative is to email them to myself and then manually move the notes to Syncthing\n Here is what im trying to do:\n - I will create an email address that is only used for me to send myself attachments i want saved in Syncthing\n - have my ubuntu server automatically check that email, maybe every 15 minutes or 20 minutes or something\n - if it detects the email is from my specific email address, download the attachment\n - copy the attachment to my syncthing folder on the server\n ​\n does anyone know of any programs that can automate email checking on a server? thanks\n    submitted by    /u/shizno2097  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o2274b/automate_checking_email_downloading_attachments/",
-          "publishedOn": "2021-06-17T17:07:43.000Z",
-          "wordCount": 348,
-          "title": "Automate checking email, downloading attachments, and save them to a folder in Syncthing"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o20z42/any_package_for_openwrtpfsense_that_offers_dpi/",
-          "author": null,
-          "description": "My ISP just blocked a ton of websites, ranging from porn to web magazines. I can successfully bypass the DPI using GoodByeDPI but that needs to be installed on each and every computer. \n Is there a package for OpenWRT/pfSense that blocks DPI on a network wide level ?\n    submitted by    /u/drtechwp  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o20z42/any_package_for_openwrtpfsense_that_offers_dpi/",
-          "publishedOn": "2021-06-17T16:14:11.000Z",
-          "wordCount": 195,
-          "title": "Any package for OpenWRT/pfSense that offers DPI Bypass on a network wide level ?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o20wr1/ngnix_with_pihole_hosted_on_docker/",
-          "author": null,
-          "description": "submitted by    /u/DK09_  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o20wr1/ngnix_with_pihole_hosted_on_docker/",
-          "publishedOn": "2021-06-17T16:11:14.000Z",
-          "wordCount": 330,
-          "title": "ngnix with pihole (hosted on docker)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o20uwu/simple_docker_image_to_monitor_lan_clients/",
-          "author": null,
-          "description": "I need a simple docker application that monitors an IP address and sends email notifications whenever the state changes (client goes offline > online and vice versa).\n Tried Statping already, found it out to be too resource extensive (Ubuntu Server 20.04 on Q6600, statping along consumes around 40% RAM with just 5 hosts enabled).\n ​\n Edit : Forgot to mention some of the devices being monitored include ESP8266 and other IOT Stuff (Garden Sprinklers) that wake up only once in a while and support no SNMP.\n    submitted by    /u/drtechwp  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o20uwu/simple_docker_image_to_monitor_lan_clients/",
-          "publishedOn": "2021-06-17T16:09:04.000Z",
-          "wordCount": 494,
-          "title": "Simple Docker Image to monitor LAN clients through Ping and send reports through email ?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o20n1z/heimdall_no_applications_updating_list_does_not/",
-          "author": null,
-          "description": "Hello there!\n Today i installed Heimdall, because it looked nice and i wanted a quick way to access all my selfhosted apps.\n But after the installation (docker) i wanted to add an app and i've seen in a few youtube videos, that heimdall is suggesting names if you type in the application name and also does create cards for supported apps.\n But this does not work somehow.\n For example i wanted to add plex, so i type in plex in application name and from what i have seen is that i should suggest \"Plex\" from a dropdown list and also create an card for plex automatically, because it is an supported app (Checked on apps.heimdall.site)\n I also tried the \"update app list\" button a few times, but didn't work and after that i download the Plex.zip from the heimdall-apps github site manually and unzipped it to config/www/supported apps, but nothing did work as expected.\n ​\n Do i miss anything?\n Hope someone can help me :)\n    submitted by    /u/Bleala  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o20n1z/heimdall_no_applications_updating_list_does_not/",
-          "publishedOn": "2021-06-17T15:59:38.000Z",
-          "wordCount": 290,
-          "title": "Heimdall - no applications, updating list does not work"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o209a0/dockers_on_a_qnap_should_i_migrate_away_from_it/",
-          "author": null,
-          "description": "A ton of time is not something I have. With that said, QNAP container station app doesn't seem to automatically update Docker images without losing the data. Anyone else use a QNAP have a solution to updating the images without breaking everything? I'd rather not run another server for this right now since I lack the time.\n    submitted by    /u/ContentMountain  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o209a0/dockers_on_a_qnap_should_i_migrate_away_from_it/",
-          "publishedOn": "2021-06-17T15:41:55.000Z",
-          "wordCount": 262,
-          "title": "Dockers on a Qnap. Should I migrate away from it?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o1wqxn/tizu_datacenter_homelab_part_1/",
-          "author": null,
-          "description": "submitted by    /u/TiZuid  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o1wqxn/tizu_datacenter_homelab_part_1/",
-          "publishedOn": "2021-06-17T13:03:58.000Z",
-          "wordCount": 204,
-          "title": "TiZu datacenter homelab - part 1"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o1wnzw/smart_web_page_monitoring_tool/",
-          "author": null,
-          "description": "Hello gentlemen, hello ladies,\n I am searching for something capable of monitoring a web page, but in a \"smart\" way. When I monitor this page manually, I need to click to a couple of buttons in order to know if there have been any changes (in my case, if there is any disponibility of this certain product). For this reason, I cannot use extensions like \"Refresh & Monitor\", because I would need the tool to perform these actions before checking if a certain line of text appeared. Also, I would need this tool to have very short checking intervals, like no more than 5 seconds. Any ideas?\n    submitted by    /u/serena_nadhiri  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o1wnzw/smart_web_page_monitoring_tool/",
-          "publishedOn": "2021-06-17T13:00:09.000Z",
-          "wordCount": 411,
-          "title": "\"Smart\" web page monitoring tool"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o1wltu/log_collector_on_managed_webhost/",
-          "author": null,
-          "description": "I would like to be able to see logs from a node backend and possibly a frontend I created though a web interface. The issue is, I have a shared web host, and I would like to stay solely on that if possible (not have to rent a VPS just for this).\n Are there any log collectors / analyzers like greylog which are able to run just with either PHP , Node, Ruby or Python and a MySQL database? All the ones I found required to install it as software.\n Thanks!\n    submitted by    /u/Standard-Notice  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o1wltu/log_collector_on_managed_webhost/",
-          "publishedOn": "2021-06-17T12:57:01.000Z",
-          "wordCount": 210,
-          "title": "Log Collector on managed webhost"
         }
       ]
     },
@@ -5778,24 +5715,6 @@
           "publishedOn": "2021-06-18T13:44:17.000Z",
           "wordCount": 784,
           "title": "Links on Typography"
-        },
-        {
-          "id": "https://css-tricks.com/?p=341948",
-          "author": "Louis Hoebregts",
-          "description": "Clipping and masking have been around for a while now in CSS and even have pretty decent browser support. I recently worked on a project that needed to use a clipping technique for tooltips showing above links in text.\nThose …\nThe post Perfect Tooltips With CSS Clipping and Masking appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/perfect-tooltips-with-css-clipping-and-masking/",
-          "publishedOn": "2021-06-17T14:45:57.000Z",
-          "wordCount": 1554,
-          "title": "Perfect Tooltips With CSS Clipping and Masking"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342257",
-          "author": "ImageEngine",
-          "description": "Images have become extremely important to the effectiveness of websites. They speak a 1000 words, attract attention, and stimulate emotions.\nHowever, web performance is also a growing problem for most websites. And images are at the heart of many web …\nThe post Start Serving Optimized Images in Vue appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/start-serving-optimized-images-in-vue/",
-          "publishedOn": "2021-06-17T14:38:42.000Z",
-          "wordCount": 1290,
-          "title": "Start Serving Optimized Images in Vue"
         }
       ]
     },
@@ -6840,6 +6759,51 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1780828",
+          "author": "Ars Staff",
+          "description": "Dealmaster also has deals on Xbox gamepads, Amazon tablets, and USB-C chargers.",
+          "link": "https://arstechnica.com/?p=1780828",
+          "publishedOn": "2021-07-17T15:27:56.000Z",
+          "wordCount": 2591,
+          "title": "The weekend’s best tech deals: Mass Effect, Jabra wireless earbuds, and more"
+        },
+        {
+          "id": "http://arstechnica.com/?p=986461",
+          "author": "Eric Berger",
+          "description": "From the archives:  Grissom's infamous (and impactful) ocean landing turns 60 this week.",
+          "link": "https://arstechnica.com/?p=986461",
+          "publishedOn": "2021-07-17T14:25:03.000Z",
+          "wordCount": 1697,
+          "title": "Gus Grissom taught NASA a hard lesson: “You can hurt yourself in the ocean”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1780861",
+          "author": "Financial Times",
+          "description": "Redevelopment of a 4,300 km Soviet-era line aims to propel the network into this century.",
+          "link": "https://arstechnica.com/?p=1780861",
+          "publishedOn": "2021-07-17T13:00:20.000Z",
+          "wordCount": 1543,
+          "title": "Slow train across Siberia offers glimpse of Russia’s rail ambitions"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1780509",
+          "author": "Jonathan M. Gitlin",
+          "description": "Some of the proposed new emoji are for climate change, some are gender-inclusive.",
+          "link": "https://arstechnica.com/?p=1780509",
+          "publishedOn": "2021-07-17T11:30:25.000Z",
+          "wordCount": 800,
+          "title": "A troll, a pregnant man, and a low battery make the list of proposed new emoji"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1780872",
+          "author": "WIRED",
+          "description": "Hackers posed as recruiters, journalists, and hospitality workers to lure their victims.",
+          "link": "https://arstechnica.com/?p=1780872",
+          "publishedOn": "2021-07-17T10:45:50.000Z",
+          "wordCount": 1248,
+          "title": "Facebook catches Iranian spies catfishing US military targets"
+        },
         {
           "id": "https://arstechnica.com/?p=1780902",
           "author": "Jennifer Ouellette",
@@ -9485,159 +9449,6 @@
           "publishedOn": "2021-06-18T13:00:21.000Z",
           "wordCount": 1686,
           "title": "Ring gave cops free cameras to build and promote surveillance network"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774443",
-          "author": "Sam Machkovech",
-          "description": "The default package is worth its $600 cost, but do your research before buying.",
-          "link": "https://arstechnica.com/?p=1774443",
-          "publishedOn": "2021-06-18T12:00:01.000Z",
-          "wordCount": 1300,
-          "title": "Arcade1Up pinball cabinet review: Fine for families, interesting for modders"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774415",
-          "author": "WIRED",
-          "description": "Upgraded data protection and less reliance on the cloud could lock users in.",
-          "link": "https://arstechnica.com/?p=1774415",
-          "publishedOn": "2021-06-18T11:13:50.000Z",
-          "wordCount": 1417,
-          "title": "Apple and Google’s AI wizardry promises privacy—at a cost"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774379",
-          "author": "Eric Berger",
-          "description": "\"The Space Safari team intends to push the envelope.\"",
-          "link": "https://arstechnica.com/?p=1774379",
-          "publishedOn": "2021-06-18T11:00:54.000Z",
-          "wordCount": 2554,
-          "title": "Rocket Report: China launches crew mission, SpaceX runs into road troubles"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774423",
-          "author": "Financial Times",
-          "description": "Arrests of Cl0p hacker group members adds to pressure on other countries to follow suit.",
-          "link": "https://arstechnica.com/?p=1774423",
-          "publishedOn": "2021-06-18T09:57:11.000Z",
-          "wordCount": 853,
-          "title": "Ukraine arrests ransomware gang in global cybercriminal crackdown"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774517",
-          "author": "Kyle Orland",
-          "description": "No link-cable needed for this emulated single-machine, single-display solution.",
-          "link": "https://arstechnica.com/?p=1774517",
-          "publishedOn": "2021-06-17T21:45:18.000Z",
-          "wordCount": 914,
-          "title": "Game Boy Advance game gets split-screen multiplayer through new FPGA core"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774437",
-          "author": "Dan Goodin",
-          "description": "Most malware tries to steal stuff. Vigilante, by contrast, takes aim at piracy.",
-          "link": "https://arstechnica.com/?p=1774437",
-          "publishedOn": "2021-06-17T21:01:09.000Z",
-          "wordCount": 1012,
-          "title": "Newly discovered Vigilante malware outs software pirates and blocks them"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774382",
-          "author": "Samuel Axon",
-          "description": "Developers with revenues under $1 million are getting a new deal.",
-          "link": "https://arstechnica.com/?p=1774382",
-          "publishedOn": "2021-06-17T20:43:12.000Z",
-          "wordCount": 839,
-          "title": "Amazon joins Apple, Google by reducing its app store cut"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774246",
-          "author": "Ars Staff",
-          "description": "Dealmaster also has early Prime Day discounts, Philips Hue deals, and more.",
-          "link": "https://arstechnica.com/?p=1774246",
-          "publishedOn": "2021-06-17T20:05:02.000Z",
-          "wordCount": 3248,
-          "title": "A number of recommended Nintendo Switch games are on sale today"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774337",
-          "author": "Jim Salter",
-          "description": "The outage prevented Linux installation or upgrade of any Microsoft software.",
-          "link": "https://arstechnica.com/?p=1774337",
-          "publishedOn": "2021-06-17T19:22:33.000Z",
-          "wordCount": 736,
-          "title": "Microsoft’s Linux repositories were down for 18+ hours"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774338",
-          "author": "Beth Mole",
-          "description": "Three experts resigned in protest. Watchdog says it's FDA brass that should leave.",
-          "link": "https://arstechnica.com/?p=1774338",
-          "publishedOn": "2021-06-17T18:33:55.000Z",
-          "wordCount": 1136,
-          "title": "FDA officials asked to step down after contentious Alzheimer’s drug approval"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774340",
-          "author": "John Timmer",
-          "description": "Mirrors of the LIGO gravitational-wave detector get cool—extremely cool.",
-          "link": "https://arstechnica.com/?p=1774340",
-          "publishedOn": "2021-06-17T18:19:12.000Z",
-          "wordCount": 992,
-          "title": "Researchers cool a 40 kg object to near its quantum ground state"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774248",
-          "author": "Ron Amadeo",
-          "description": "Buy a speaker, try Google Stadia, or fix a cracked phone screen—the store is open.",
-          "link": "https://arstechnica.com/?p=1774248",
-          "publishedOn": "2021-06-17T18:01:43.000Z",
-          "wordCount": 1310,
-          "title": "Here’s what’s inside Google’s first-ever retail store"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774274",
-          "author": "Sam Machkovech",
-          "description": "Jackson thanks Beatles, Disney for \"allowing me to present this story\" as 6-hour beast.",
-          "link": "https://arstechnica.com/?p=1774274",
-          "publishedOn": "2021-06-17T16:55:10.000Z",
-          "wordCount": 935,
-          "title": "Peter Jackson’s 6-hour Beatles documentary confirmed for Disney+ this November"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774277",
-          "author": "Kyle Orland",
-          "description": "\"I'm certain that's frustrating... but there's not a whole lot I can do about it.\"",
-          "link": "https://arstechnica.com/?p=1774277",
-          "publishedOn": "2021-06-17T16:21:25.000Z",
-          "wordCount": 1198,
-          "title": "Bethesda exec says he’s “sorry” for lack of PS5 Starfield"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774253",
-          "author": "Tim De Chant",
-          "description": "Bank faults bitcoin's “environmental and transparency shortcomings.”",
-          "link": "https://arstechnica.com/?p=1774253",
-          "publishedOn": "2021-06-17T15:39:59.000Z",
-          "wordCount": 1119,
-          "title": "World Bank slams bitcoin, declines to help El Salvador’s cryptocurrency plan"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774232",
-          "author": "Jonathan M. Gitlin",
-          "description": "It clarified with the Securities and Exchange Commission that it has no firm orders.",
-          "link": "https://arstechnica.com/?p=1774232",
-          "publishedOn": "2021-06-17T13:31:00.000Z",
-          "wordCount": 708,
-          "title": "Lordstown Motors now says that it has no binding orders for EV truck"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774211",
-          "author": "Eric Berger",
-          "description": "Thursday's GPS mission is a high priority for the Space Force.",
-          "link": "https://arstechnica.com/?p=1774211",
-          "publishedOn": "2021-06-17T12:49:55.000Z",
-          "wordCount": 848,
-          "title": "SpaceX to break the final frontier in reuse with national defense launch"
         }
       ]
     }
