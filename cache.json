@@ -6,6 +6,195 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/onnq83/best_options_for_pbx_and_nvr/",
+          "author": null,
+          "description": "I know, I'm asking a lot here. Currently I don't have a PBX, and I'm using MotionEye in a FreeBSD Jail for my \"NVR\", but I'm looking for something better.\n Ideally, I'd like something that can run out of Docker or FreeBSD Jails, with a good and easy to use UI. I don't have hardware to dedicate to this, so it needs to be able to run inside a container or something similar.\n For the NVR, I'm currently running 2 Wyze cams with RTSP firmware, so something that works with those would be nice. Also a simple low-power WebUI or Android App for monitoring would be very helpful to run on an old tablet as a monitor.\n As for the PBX, I am not running anything right now, but would like to start to greylist spam callers, and possibly extend to some second-hand Cisco phones, as they're dirt cheap.\n    submitted by    /u/Anaerin  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/onnq83/best_options_for_pbx_and_nvr/",
+          "publishedOn": "2021-07-19T21:30:17.000Z",
+          "wordCount": 398,
+          "title": "Best options for PBX and NVR?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/onnko5/mobile_web_android_photo_manager_for_self_hosted/",
+          "author": null,
+          "description": "I've recently set up NextCloud on my own personal server using Docker, so far despite odd design issues and speed inconsistency it works pretty well and I've set up photo/video folders sync between my Android device and my NextCloud instance. It backs up everything but consulting the pictures folders from the NextCloud app is a pain, it's slow, the UI is not polished at all, being more of a file manager than a photo manager. So I'm looking for a pretty self hosted service to manage my pictures!\n I'd like it to have an Android/iOS client that allows to see my NextCloud hosted photo backups also as my locally stored pictures while being able to delete both local/remote pictures to prevent useless pictures that would be stored on my NextCloud...\n It seems something along those lines is possible through Piwigo, however I don't think it can manage locally stored pictures, hence my question. It also seemed difficult to delete pictures both from Piwigo and NextCloud at the same time, unless by running some kind of Cron job\n Basically I'm looking for an all in one Gallery/Google Photo replacement that can handle multiple accounts (only one on the phone side, but multiple accounts for family members)\n Oh, of course, it would have to be hosted on Docker for ease of use (and also as my entire self hosted stack is running under Docker)\n Any suggestions?\n Cheers\n    submitted by    /u/moukrea  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/onnko5/mobile_web_android_photo_manager_for_self_hosted/",
+          "publishedOn": "2021-07-19T21:22:35.000Z",
+          "wordCount": 439,
+          "title": "Mobile (+web) Android photo manager for self hosted NextCloud X Locally stored pictures/videos"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/onn6a4/sms_auth_otp_for_selfhosted_apps/",
+          "author": null,
+          "description": "I'm looking for a service/app (ex Cloudflare) that would act as an proxy with authentication for a (few) selfhosted apps, like Plex . The authentication should be via SMS OTP (for ease of use by elders) . Any ideas except Cloudflare with Auth0 and twilio would be much appreciated!\n    submitted by    /u/RaNd250  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/onn6a4/sms_auth_otp_for_selfhosted_apps/",
+          "publishedOn": "2021-07-19T21:02:33.000Z",
+          "wordCount": 191,
+          "title": "SMS auth /OTP for selfhosted apps?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/onmd2z/good_self_hosted_invoicing_website/",
+          "author": null,
+          "description": "Hi! I am doing fiverr gigs and have found many people want to work outside of fiverr and I have no safe way of getting paid securely etc. I have been looking into invoicing sites.i can host myself. I have not found one so far where I can accept single or recurring payments using PayPal without having a business account or having to use a PayPal gateway because this needs a business account. Does anyone know of one where the payments are sent to my.personal.paypal.compared to having to have a business one?\n I.would like to be able to use apache not nodejs, etc.\n Thanks, Kian\n    submitted by    /u/kianwalters05  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/onmd2z/good_self_hosted_invoicing_website/",
+          "publishedOn": "2021-07-19T20:21:50.000Z",
+          "wordCount": 315,
+          "title": "Good self hosted invoicing website"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/onjshc/wireguard_vpn_dashboard_business_ideaquestion/",
+          "author": null,
+          "description": "Hi all,\n I noticed a few people were looking for VPN solutions which had an easy to use dashboard to add and remove users. I could work on developing a software which would interact with Wireguard and would allow you to add and remove keys via a web dashboard and allow downloading of the keys onto the device.\n I was previously working on the development of a VPN provider so I know a bit about Wireguard and programming libraries related to it. \n How many people would be interested in the idea and if so would anyone be willing to pay for a subscription or license for the product? I know its a lot to ask but as a student I also have bills to pay, but would like to work on a project that I would enjoy doing. \n If you have any questions please comment below or DM.\n Thanks!\n    submitted by    /u/RealRaspberryTech  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/onjshc/wireguard_vpn_dashboard_business_ideaquestion/",
+          "publishedOn": "2021-07-19T18:15:50.000Z",
+          "wordCount": 475,
+          "title": "Wireguard VPN Dashboard - (Business) Idea/Question"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/onjbrd/docker_compose_manifests_of_multiple_self_hosted/",
+          "author": null,
+          "description": "https://github.com/kha7iq/selfhosted\n These are docker-compose manifests for some of the services i am hosting at the moment or hosted before. All the services are configured with traefik 2 as reverse proxy and Authelia as sso.\n Hopefully you guys find it useful.\n    submitted by    /u/m47ik  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/onjbrd/docker_compose_manifests_of_multiple_self_hosted/",
+          "publishedOn": "2021-07-19T17:53:48.000Z",
+          "wordCount": 199,
+          "title": "Docker compose manifests of multiple self hosted services"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oni0ne/new_distro_serverstack_desktop_client_i_built/",
+          "author": null,
+          "description": "submitted by    /u/guysoft  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oni0ne/new_distro_serverstack_desktop_client_i_built/",
+          "publishedOn": "2021-07-19T16:51:09.000Z",
+          "wordCount": 185,
+          "title": "New distro + server-stack + Desktop client I built that lets you backup to your RaspberryPi/server with history"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/onhkw6/enable_users_to_manage_their_profiles/",
+          "author": null,
+          "description": "Hey all, I have Traefik and Authelia setup linking to LDAP. \n I'd like to enable users to manage their profiles, e.g. email address, display name, maybe a profile pic, etc. Are there docker options out there that I can spin up a service to allow them to do this?\n    submitted by    /u/lenaxia  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/onhkw6/enable_users_to_manage_their_profiles/",
+          "publishedOn": "2021-07-19T16:30:23.000Z",
+          "wordCount": 170,
+          "title": "Enable users to manage their profiles"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ongmz7/eny_selfhosted_alternative_for_postimgcc_imgur/",
+          "author": null,
+          "description": "submitted by    /u/-The-Moon-  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ongmz7/eny_selfhosted_alternative_for_postimgcc_imgur/",
+          "publishedOn": "2021-07-19T15:43:47.000Z",
+          "wordCount": 139,
+          "title": "Eny self-hosted alternative for postimg.cc, imgur"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ong779/700tb_nas_server/",
+          "author": null,
+          "description": "I have about 700TB on a GSuite account, I'd like to think about getting all of that on another unlimited cloud service but I doubt it's possible. \n So I think the last solution is to self hoster this data, I guess I need to do a giant nas.\n The challenge breaks down into two parts:\n - Make sure I don't have to pay more than 150 euros of electricity per month (I am in France)\n - Make sure I pay as little as possible for servers and storage, and even then I have a hard time estimating the price of storage.\n I found hard drives at 14 euros per TB, but you need to have the hardware to connect all the disks.\n Anyway, is there anything I should know? Any tips on how to make my big nas server?\n I can provide informations about what type of files I host if needed.\n    submitted by    /u/bablablablablablop  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ong779/700tb_nas_server/",
+          "publishedOn": "2021-07-19T15:22:19.000Z",
+          "wordCount": 1657,
+          "title": "700TB nas server"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/onfibo/anyone_know_how_to_migrate_from_classic_paperless/",
+          "author": null,
+          "description": "I have a lot of important (near impossible to download them one at a time) documents in the classic paperless unraid docker. I'd like to migrate to paperless-ng. Anyone have a guide or suggestion on where to start?\n    submitted by    /u/djgizmo  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/onfibo/anyone_know_how_to_migrate_from_classic_paperless/",
+          "publishedOn": "2021-07-19T14:47:35.000Z",
+          "wordCount": 182,
+          "title": "Anyone know how to migrate from classic Paperless to paperless-NG?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oneohm/selfhosted_shipment_tracking_software/",
+          "author": null,
+          "description": "Iam looking for a self-hosted shipment Tracking Software.\n The Software should at least do the following:- Create own Shipments with own Tracking Number- Have a Web-App which i can use from mobile to edit a shipment (e.g. the shipment is delayed or the shipment was delivered)- Shipment details can be added (e.g. weight, dimension of the package)\n ​\n The Plan is to courier shipments by myself and the customers should be able to track their shipment via a Webbrowser. Iam doing shipments by myself already but customers are not able to track them.\n    submitted by    /u/realpentoxide  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oneohm/selfhosted_shipment_tracking_software/",
+          "publishedOn": "2021-07-19T14:03:37.000Z",
+          "wordCount": 399,
+          "title": "Self-Hosted Shipment Tracking Software"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/one561/do_not_use_selfhosted_duet_app_for_invoicing_its/",
+          "author": null,
+          "description": "I’ve seen it recommended here which is how I found it. \n First off, you pay an initial amount and then a recurring $15/mo for optional updates. I don’t see a way to unsubscribe anywhere, so I don’t even know if I was subscribed. And the last update was over a year ago. \n As for bugs, I’m talking invoice totals of $1000 arriving to clients as “$1000.1000”, line items that cannot be removed once added, random letters being appended to client names, and symbols being rendered as the code version of HTML entities. \n Support is non existent. It’s been over a week since I asked for a refund and their SLA is 1 day. Return window is only 14 days\n They didn’t address my bug questions either.\n Now I’m having to dispute through my card issuer.\n You’re better off buying a well reviewed invoicing software from Code Canyon or maybe a different suggestion you can find here\n    submitted by    /u/OutraceTheMicrowave  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/one561/do_not_use_selfhosted_duet_app_for_invoicing_its/",
+          "publishedOn": "2021-07-19T13:33:39.000Z",
+          "wordCount": 1073,
+          "title": "Do not use self-hosted “Duet App” for invoicing… it’s riddled with bugs and support is dead"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/onbqjw/wildcard_certificate_with_selfhosted_dns/",
+          "author": null,
+          "description": "I am selfhosting a dns running named an I would like to get a wildcard certificate for my domain (let's encrypt certificate) using certbot. But I can't seem to find a good documentation of how to do that.\n    submitted by    /u/Positive_Garlic_8684  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/onbqjw/wildcard_certificate_with_selfhosted_dns/",
+          "publishedOn": "2021-07-19T10:57:47.000Z",
+          "wordCount": 297,
+          "title": "Wildcard certificate with selfhosted dns"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/onb940/i_need_a_revieweditapproval_step_before_all_my/",
+          "author": null,
+          "description": "Please help! My girlfriend takes so many darn iPhone live photos a day, and it consumes a ton of space (each live photo ends up as multiple renditions). I'm realising these days we both take so many that don't need to end up in the gallery and could be deleted permanently.\n I was thinking the best thing would be a pre-approval stage, possibly with some minor editing if possible! And of course Web UI if that exists.\n Thanks :)\n    submitted by    /u/suddenlypenguins  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/onb940/i_need_a_revieweditapproval_step_before_all_my/",
+          "publishedOn": "2021-07-19T10:20:40.000Z",
+          "wordCount": 381,
+          "title": "I need a review/edit/approval step, before all my photos go into my gallery software of choice (Photoprism)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/onaqdg/veracrypt_or_gocryptfs/",
+          "author": null,
+          "description": "Hi there,\n I've been using gocryptfs for quite some time but I have to admit I kinda just jumped into it without further research. Now I see that a lot of people seem to be using VeraCrypt. Should I switch to it ? And why ?\n Thanks in advance !\n    submitted by    /u/Erwyn  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/onaqdg/veracrypt_or_gocryptfs/",
+          "publishedOn": "2021-07-19T09:38:50.000Z",
+          "wordCount": 300,
+          "title": "Veracrypt or Gocryptfs"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/on8u6z/spamassassin_untrustworthy_tlds/",
+          "author": null,
+          "description": "Hello\n I have been selfhosting my own email for the last 3 years using the same name and same registrar.\n I just switched servers and did a fresh install of Debian. I tested my mail for spam to make sure everything was setup and noticed this error: \n PDS_OTHER_BAD_TLD Untrustworthy TLDs URI: domain.site (site) \n It knocked my score from 9.5 to 8.0. So all the sudden my TLD is untrustworthy? It's been perfectly fine for the last 3 years. I'm a bit hacked off that Spamassassin just trivially decides to mark my domain as untrustworthy because i'm using .site, i'm having problems with my emails getting rejected by gmail now.\n    submitted by    /u/Spooknik  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/on8u6z/spamassassin_untrustworthy_tlds/",
+          "publishedOn": "2021-07-19T07:00:04.000Z",
+          "wordCount": 418,
+          "title": "Spamassassin Untrustworthy TLDs"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/on8l5m/can_anyone_please_tell_me_if_its_worth_the_price/",
+          "author": null,
+          "description": "submitted by    /u/Epicoddgamer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/on8l5m/can_anyone_please_tell_me_if_its_worth_the_price/",
+          "publishedOn": "2021-07-19T06:39:52.000Z",
+          "wordCount": 261,
+          "title": "Can anyone please tell me if it's worth the price and if so then which one should I get"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/on8jxl/matrix_server_requirements/",
+          "author": null,
+          "description": "Hey guys,\n I was wondering what requirements I need to run a matrix server for thousands of people. Let's say I use a VPS, how much ram etc would I need to run it smoothly ?\n    submitted by    /u/CallMeNoOne666  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/on8jxl/matrix_server_requirements/",
+          "publishedOn": "2021-07-19T06:37:09.000Z",
+          "wordCount": 318,
+          "title": "Matrix server requirements?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/on735p/i_recently_discovered_kanboard_a_free_open_source/",
+          "author": null,
+          "description": "submitted by    /u/ThatGuy_ZA  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/on735p/i_recently_discovered_kanboard_a_free_open_source/",
+          "publishedOn": "2021-07-19T04:48:08.000Z",
+          "wordCount": 775,
+          "title": "I recently discovered Kanboard - a free, open source project management app."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/on3dcu/best_way_to_deal_with_docker_in_proxmox/",
+          "author": null,
+          "description": "I have a few services that are much easier to deal with using docker as opposed to setting them up in LXCs. What would be the best way to set these up in Docker with Proxmox? I suppose I could either: \n  \nSet them up in Proxmox itself\n Set them up in a dedicated VM\n Set them up in a dedicated LXC\n \n Right now, I am leaning towards installing Portainer in a VM and managing my docker containers via Portainer. Is this probably the best of those solutions?\n    submitted by    /u/OG_potato_gangsta  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/on3dcu/best_way_to_deal_with_docker_in_proxmox/",
+          "publishedOn": "2021-07-19T00:49:53.000Z",
+          "wordCount": 997,
+          "title": "Best way to deal with docker in Proxmox?"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/on0zbb/domain_name_not_resolving_to_my_ip/",
           "author": null,
           "description": "Looking for some help in figuring out where I am going wrong. \n I would like to have access to home assistant outside my home as well as setting up Google assistant without relying on the Nabu Casa cloud service. \n I have registered a domain through Google domains and updated Google domains to point to CloudFlare name servers. \n I have the free tier CloudFlare account. I have A records for both root and www for my domain pointing to my IP address. \n I have the port forwarding rules setup in my router. \n However, I cannot for the life of me get it to work. \n <IP address>:12345 correctly goes to my home assistant log in page. \n <Domain>:12345 just times out or gives a CloudFlare 522 error. \n Is there something else I should be running on my end?\n Many thanks in advance!\n    submitted by    /u/gwint6  \n [link]   [comments]",
@@ -5044,195 +5233,6 @@
           "publishedOn": "2021-06-20T13:53:17.000Z",
           "wordCount": 602,
           "title": "Tracking racers/bib numbers through the course."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o44ir0/anyone_know_of_a_selfhosted_alternative_to/",
-          "author": null,
-          "description": "I love the service, but am trying to cut down on my paid subscriptions. Basically, I want the ability to consolidate my news from Reddit, RSS feeds, etc.\n Thanks in advance!\n And Happy Father's Day to the Dads out there\n    submitted by    /u/platynom  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o44ir0/anyone_know_of_a_selfhosted_alternative_to/",
-          "publishedOn": "2021-06-20T12:21:21.000Z",
-          "wordCount": 281,
-          "title": "Anyone know of a self-hosted alternative to mailbrew.com?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o42p9h/is_nfs_w_kerberos_worth_it/",
-          "author": null,
-          "description": "I've recently migrated from a custom built mergerfs on ubuntu system to a Synology device. Whether this is an upgrade or not is in question, but I wanted a level of redundancy, a nicer heat solution and something which would just work so I didn't have to worry about storage when selfhosting. \n I've been using NFS for a while, with user accounts stored in AD. Pre-synology it worked great; realm join and we're off and running. NFS with sec=sys worked wonders because each user had the same uid/gid everywhere.\n My primary use cases are 2 docker hosts. I'd mount the nfs share on each host, then each container runs as a set user and only has access to their own directories. It's magic. One mount and the rest takes care of itself.\n In this new synology world, it's not as easy. It generates different uids than everything else on the network so sec=sys doesn't work. I had a stab at nfs idmapping and it doesn't seem to work. Google is a mixed bag but the consensus is this isn't the answer (and may even be a synology quirk).\n The answer seems to be either; \n  \nchmod -R 777\n manage uids manually (ergh...)\n kerberos\n samba\n  \nI'm new to kerberos but I think I'm beginning to slowly get it. Is it worth it? \n Kerberos & Samba also may mean I need to manually mount each share under different user accounts. This feels cleaner but a relative pain in the arse.\n    submitted by    /u/serenitisoon  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o42p9h/is_nfs_w_kerberos_worth_it/",
-          "publishedOn": "2021-06-20T10:24:04.000Z",
-          "wordCount": 923,
-          "title": "Is NFS w. Kerberos worth it?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o42lwf/freedombox_personal_server_at_home/",
-          "author": null,
-          "description": "This project for a complete self-hosted server using totally free/open source software has been around for a long time; lots of apps can be installed on it:\n Run your digital services from your home\n FreedomBox is a private server for non-experts: it lets you install and configure server applications with only a few clicks. It runs on cheap hardware of your choice, uses your internet connection and power, and is under your control.\n    submitted by    /u/dsolomonoff  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o42lwf/freedombox_personal_server_at_home/",
-          "publishedOn": "2021-06-20T10:18:02.000Z",
-          "wordCount": 323,
-          "title": "FreedomBox - Personal Server at Home"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o42cib/cadvisor_take_a_lot_of_ram/",
-          "author": null,
-          "description": "Hey I recently started using Cadvisor in combination with prometheus in Docker images, this works well, however I see that Cadvisor takes up a lot of RAM. probably because it has to monitor a lot of docker images (65 at the moment) and collect and forward information about them.. is there any suggestion how i can reduce this? is there maybe an environment variable i can use or a setting? my docker compose looks like this ( excluded prometheus and the grafana part. but I can share these also if needed)\n cadvisor: image: google/cadvisor network: - internal hostname: cadvisor volume: - /:/rootfs:ro - /var/run:/var/run:rw - /sys:/sys:ro - /var/lib/docker:/var/lib/docker:ro - /cgroup:/cgroup:ro deploy: tags: - org.label-schema.group=monitoring\n    submitted by    /u/jboesh  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o42cib/cadvisor_take_a_lot_of_ram/",
-          "publishedOn": "2021-06-20T10:02:34.000Z",
-          "wordCount": 237,
-          "title": "Cadvisor take a lot of ram"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o41bk2/10_seconds_linuxserverio_application_installer/",
-          "author": null,
-          "description": "Hi!\n I've made a small script to easily get you started with LinuxServer.io applications using docker-compose. I personally find it very useful to quickly install an application and try it out. Hopefully it will help you too.\n The script getlsioapp.sh allows you to install a LinuxServer.io application in less than 10 seconds. It will automatically create the necessary volume directories on the host and automatically create the correct docker-compose configuration file. The docker-compose configuration file includes a description of all environment variables, volume- and port mappings.\n More info here.\n Let me know what you think!\n    submitted by    /u/technorabilia  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o41bk2/10_seconds_linuxserverio_application_installer/",
-          "publishedOn": "2021-06-20T08:50:49.000Z",
-          "wordCount": 716,
-          "title": "10 seconds LinuxServer.io application installer"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o410co/vps_vpn/",
-          "author": null,
-          "description": "I have nextcloud and other docker containers running . I want them to be accessed outside but even though there os port forwarding option my ISP wont open 443 and 80 port so I decided to go with buying an vps and install wireguard and by that access all containers from anywhere . Now my question is , is there any VPS plan with less storage just for vpn , cheap price and doesnt need my information and accept payment via monero . I have checked orangewebsite njalla 1984hosting but I would need cheap one as I only use bandwidth and not much storage Thanks\n    submitted by    /u/DesperateEmphasis340  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o410co/vps_vpn/",
-          "publishedOn": "2021-06-20T08:30:03.000Z",
-          "wordCount": 475,
-          "title": "Vps vpn"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3xnv3/self_hosted_calendarreminder_that_works_on_ios/",
-          "author": null,
-          "description": "submitted by    /u/wakeboarder106  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3xnv3/self_hosted_calendarreminder_that_works_on_ios/",
-          "publishedOn": "2021-06-20T04:35:49.000Z",
-          "wordCount": 183,
-          "title": "Self hosted calendar/reminder that works on IOS and Android, and can be run on an RPI4?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3ta0e/nginx_proxy_manager_how_to_forward_to_a_specific/",
-          "author": null,
-          "description": "I've got a few things running beind nginx proxy manager and they all work because the basic http(s)://IP:port request locally auto loads the desired location. For example, my nextcloud instance loads /index.php/login.\n I just installed an app (azuracast after reading the other thread), but the way that works is http(s)://x.x.x.x:port loads /login or /dashboard if you are logged in. Thats the admin dashboard but I am trying to expose the \"public\" page which is:\n http(s)://x.x.x.x:port/public/stationName \n And the port is the same for the management dashboard. \n Anyone know how to accomplish that with nginx proxy manager? When trying to use the custom locations setting I still just get directed to the main management page. nginx conf here https://pastebin.com/raw/rKM6kB3F\n    submitted by    /u/T-VOnTheInternet  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3ta0e/nginx_proxy_manager_how_to_forward_to_a_specific/",
-          "publishedOn": "2021-06-20T00:10:21.000Z",
-          "wordCount": 249,
-          "title": "Nginx proxy manager, how to forward to a specific folder?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3ry25/is_there_a_video_version_of_azuracast/",
-          "author": null,
-          "description": "The title says it all - is there a software very similar to AzuraCast but can automate an entire TV Station library instead of Audio. An example of what I'm looking for VDOPanel but an open source alternative \n    submitted by    /u/ihoman202  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3ry25/is_there_a_video_version_of_azuracast/",
-          "publishedOn": "2021-06-19T22:56:37.000Z",
-          "wordCount": 153,
-          "title": "Is there a video version of Azuracast."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3qq2b/oracle_vm_abuse_warning/",
-          "author": null,
-          "description": "I have an account for the oracle free tier, and I've been using one of the hosts to only host a teamspeak server, nothing else. I had the server running for almost a year, with no issues, until I started getting emails about abuse warning with the following message:\n Oracle has received notice of or detected unusual and potentially harmful activity originating from the indicated resource in your tenancy.\n Traffic Details: Outbound Port Scanning, Brute-forcing, Web Exploitation, and/or DDoS \n I unfortunately do not have a support subscription, so I am unable to log a ticket to inquire about it. \n I've tried some of the basic security controls they suggest like making sure OS is up to date, disable password login, change ssh port. I also installed sshguard and fail2ban to help make sure my machine is more secure.\n They have since disabled the host, but I am able to clone the boot volume and then make a new instance from that clone to still have my vm, but then it's around a week or two until it gets disabled and I have to repeat this.\n I have no idea where to start looking or what to do to address this issue? I would greatly appreciate if anyone has any advice or help on what I can do to resolve this.\n    submitted by    /u/buzzlightyear1309  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3qq2b/oracle_vm_abuse_warning/",
-          "publishedOn": "2021-06-19T21:50:55.000Z",
-          "wordCount": 596,
-          "title": "Oracle VM - Abuse warning"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3qnkm/composable_allinone_mail_server/",
-          "author": null,
-          "description": "submitted by    /u/2ViagaraPillsInTheAm  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3qnkm/composable_allinone_mail_server/",
-          "publishedOn": "2021-06-19T21:47:16.000Z",
-          "wordCount": 124,
-          "title": "Composable all-in-one mail server."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3pqj6/adsell_software/",
-          "author": null,
-          "description": "Is there a software that lets you sell ads directly into ad spots into your website?\n Somewhere the advertisers can bid for placement and you can approve winning bids?\n    submitted by    /u/Charuru  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3pqj6/adsell_software/",
-          "publishedOn": "2021-06-19T21:00:19.000Z",
-          "wordCount": 168,
-          "title": "Adsell software?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3n02x/how_can_i_check_smart_data_on_my_raspberry_pi/",
-          "author": null,
-          "description": "So i want to get my smart data off the drives and get some info while the drives are in the hub from amazon and connected to the pi. Smartctl says my smart drives are unsupported and poking online says its because its through usb and this is where im stuck. My drives are for my media server so i dont want to pop them out and into my main pc if i dont have to. Is there any other way to perform these checks? I have 2x 4tb seagate drives\n    submitted by    /u/EliteAppleHacks  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3n02x/how_can_i_check_smart_data_on_my_raspberry_pi/",
-          "publishedOn": "2021-06-19T18:47:28.000Z",
-          "wordCount": 377,
-          "title": "How can I check smart data on my Raspberry Pi using a HDD hub for my drives?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3mffl/self_hosted_vpn_billing_user_management_software/",
-          "author": null,
-          "description": "I have a self-hosted VPN server running Wiregaurd on a DigitalOocean Droplet, the hosting cost of which is split between 8 people. However, there's this one person who just uses the VPN like crazy, and I'm wanting to put a speed limit / data cap per day for everyone.\n Is there any billing/management software for such ? I am not very keen to use wiregaurd, so even if I had to switch to OpenVPN or similar, I'll have no problem.\n    submitted by    /u/drtechwp  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3mffl/self_hosted_vpn_billing_user_management_software/",
-          "publishedOn": "2021-06-19T18:21:27.000Z",
-          "wordCount": 283,
-          "title": "Self Hosted VPN Billing / User Management Software ?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3l4yt/is_there_a_selfhosted_tvmovie_recommendations_app/",
-          "author": null,
-          "description": "Basically the title, I'm looking for a way to look for new shows and movies to watch and was wondering if someone has created a project to accomplish this task.\n    submitted by    /u/bloopenguin14  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3l4yt/is_there_a_selfhosted_tvmovie_recommendations_app/",
-          "publishedOn": "2021-06-19T17:27:06.000Z",
-          "wordCount": 216,
-          "title": "Is there a selfhosted TV/Movie recommendations app based on content you already like?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3gzoz/lets_encrypt_ssl_with_godaddy_cpanel_and_home/",
-          "author": null,
-          "description": "I have all of my domains on GoDaddy (not my original choice but it works for everything else so I am not interested in switching) and their Ultimate Linux Hosting package which includes cPanel and SSH access as well as the regular GoDaddy management tools. \n I have a few subdomains that I use for things like Nextcloud, Gitea, etc. that I host on a server in my basement.\n When I try to issue an SSL cert using Let's Encrypt, I have to issue it on GoDaddy and then have to install the certs through cPanel, and then copy those certs from cPanel to my server for HTTPS to work. When I try to issue the certs directly on my server, HTTPS does not work. Basically this is the breakdown:\n  \nSSH into cPanel.\n \nRun acme.sh and create the cert.\n \nCopy the cert information to the SSL manager in cPanel.\n \nCopy those same certs to my SSL folder on my server at home.\n \nUpdate my home webserver's vhost config to point to the correct server.\n \nSSL is now set up and HTTPS should be working correctly. Repeat steps 1-4 to update the cert.\n \n Is this behavior correct or am I doing something wrong? I have an A record in my GoDaddy DNS for each subdomain (nextcloud.domain.tld, git.domain.tld) and don't have any files on GoDaddy itself; if I were to shut off my port forward you wouldn't see anything at all. Yet the SSL certs have to be managed through cPanel first, then copied to my webserver for https to work.\n    submitted by    /u/torchaRg  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3gzoz/lets_encrypt_ssl_with_godaddy_cpanel_and_home/",
-          "publishedOn": "2021-06-19T14:15:07.000Z",
-          "wordCount": 405,
-          "title": "Let's Encrypt SSL with GoDaddy, cPanel, and home server"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3gwsf/my_homer_dashboard_4_months_of_work_i_didnt_know/",
-          "author": null,
-          "description": "This is my Homer dashboard, work of about 4 months. I didn't know anything about QNAP, docker or images at all, and now I can say that I'm pretty familiar with it :-)\n I am still looking for a solution/docker image where I can 'drag/drop' files so that they are uploaded directly to my 'nas' (the host on which docker / the image will then run).\n so if you have any suggestions please!\n https://preview.redd.it/mx6saftpc8671.jpg?width=749&format=pjpg&auto=webp&s=2ec05eca1d2765302497e9300258c2e3fdd81167\n    submitted by    /u/jboesh  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3gwsf/my_homer_dashboard_4_months_of_work_i_didnt_know/",
-          "publishedOn": "2021-06-19T14:11:00.000Z",
-          "wordCount": 517,
-          "title": "My Homer dashboard (4 months of work) , i didnt know anything about docker/qnap"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3grn9/need_help_auto_updating_docker_containers/",
-          "author": null,
-          "description": "Hey guys. Sorry if this is not the most appropriate subreddit for this type of question, but I feel kinda lost here.\n So, I'm using a RPI4 to self host a discord bot I developed, along with some (micro)services the bot depends on, all running on docker. \n I managed to setup github actions to test, build and deploy the nodejs services on docker hub and everything is working fine. However, I'd like to up the ante a little and accomplish a fully automated deploying system. Right now, after the new docker images are pushed to docker hub, I still need to manually SSH into the RPI and use docker-compose to pull and run the containers again.\n My question is: how can I \"trigger\" my RPI to auto pull the new images (and run the containers again) after gihub actions pushes to docker hub?\n PS: I've heard of watchtower, and while that does work, it's not exactly what I'm looking for. Since it runs on a schedule, it doesn't update the images right after they're pushed to docker hub. Also, I'm aware that docker has put on some limits to pulls/day for free users, so that would make the watchtower rollouts even slower.\n Sorry for the somewhat long post, and thanks in advance!\n    submitted by    /u/seudirce  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3grn9/need_help_auto_updating_docker_containers/",
-          "publishedOn": "2021-06-19T14:03:39.000Z",
-          "wordCount": 577,
-          "title": "Need help auto updating docker containers"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3glu5/what_is_a_good_self_hosted_alternative_to_google/",
-          "author": null,
-          "description": "With google phasing out unlimited storage, and locking features behind a google one subscription, I am looking for a alternative.\n I am looking for a foss alternative to google photos. I would prefer it to have a webapp or apps for Mac, android, iOS, windows- almost everything. I also want the app to function as a gallery app, much like google photos on Android. \n The main feature I am looking for is for Ai face, thing, and place recognition. With pretrained models or self training. (So if it doesn't recognize something I could teach it to with pictures.)\n A lot of the ones I have been looking for don't have the ai feature, which really makes me exit the tab.\n Comment if you find/know of any software like this.\n Thanks!\n    submitted by    /u/HELLOGAMESOFFICIAL  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3glu5/what_is_a_good_self_hosted_alternative_to_google/",
-          "publishedOn": "2021-06-19T13:55:42.000Z",
-          "wordCount": 316,
-          "title": "What is a good, self hosted alternative to google photos?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3g8s2/new_cctv_project_looking_for_beta_testers/",
-          "author": null,
-          "description": "Hello, I've been working on a new open source NVR project. It aims to be fully usable with a mobile browser. Written in Golang, using FFmpeg for video processing. Can be used with DOODS for object detection.\n ​\n GitLab: https://gitlab.com/osnvr/os-nvr\n    submitted by    /u/Curld  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3g8s2/new_cctv_project_looking_for_beta_testers/",
-          "publishedOn": "2021-06-19T13:36:09.000Z",
-          "wordCount": 480,
-          "title": "New CCTV project looking for beta testers"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o3fn6w/binaries_for_a_full_stack_selfhosted_application/",
-          "author": null,
-          "description": "Hey guys,\n so recently I asked myself how you build these binary files files for full stack applications.\n Take Plex as an example, if you go on their website you can download a server file as an binary compatible with your system (.exe, .dmg, .sh, etc), which includes the webversion of Plex and the whole backend. So I was wondering how you are able to do that, since it will probably also help with building single docker images instead of stacks which I currently use to combine frontend and backend. \n Does anyone know how its done or know an open source example for the building process?\n Thanks for the help!\n    submitted by    /u/vallezw  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o3fn6w/binaries_for_a_full_stack_selfhosted_application/",
-          "publishedOn": "2021-06-19T13:02:52.000Z",
-          "wordCount": 371,
-          "title": "Binaries for a full stack selfhosted application"
         }
       ]
     },
@@ -5257,6 +5257,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=344404",
+          "author": "Chris Coyier",
+          "description": "Putting images on websites is incredibly simple, yes? Actually, yes, it is. You use <img and link it to a valid source in the src attribute and you’re done. Except that there are (counts fingers) 927 things you could (and …\nThe post Images are hard. appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/images-are-hard/",
+          "publishedOn": "2021-07-19T20:51:07.000Z",
+          "wordCount": 901,
+          "title": "Images are hard."
+        },
+        {
+          "id": "https://css-tricks.com/?p=343893",
+          "author": "Bramus Van Damme",
+          "description": "The Scroll-Linked Animations specification is an upcoming and experimental addition to CSS. Using the @scroll-timeline at-rule and animation-timeline property this specification provides you can control the time position of regular CSS Animations by scrolling.\nIn this post, we take a …\nThe post Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/practical-use-cases-for-scroll-linked-animations-in-css-with-scroll-timelines/",
+          "publishedOn": "2021-07-19T14:43:29.000Z",
+          "wordCount": 2018,
+          "title": "Practical Use Cases for Scroll-Linked Animations in CSS with Scroll Timelines"
+        },
         {
           "id": "https://css-tricks.com/?p=344217",
           "author": "Chris Coyier",
@@ -5724,6 +5742,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
+          "author": "hello@smashingmagazine.com (Colby Fayock)",
+          "description": "By adding visual elements to your tests, you can gain more options to add meaningful ways in maintaining a high level of quality for your app. Colby Fayock explains how.",
+          "link": "https://smashingmagazine.com/2021/07/maintaining-end-to-end-quality-visual-testing/",
+          "publishedOn": "2021-07-19T10:30:00.000Z",
+          "wordCount": 4479,
+          "title": "Maintaining End-To-End Quality With Visual Testing",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/565523e3-0845-4042-9cd1-b3e48c75519d/maintaining-end-to-end-quality-visual-testing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/three-insights-vuejs-accessibility/",
           "author": "hello@smashingmagazine.com (Marcus Herrmann)",
           "description": "Web app accessibility appears difficult because it seems that there is little information on the subject available online. Let’s take a closer look at the accessible use of framework features, concrete Vue.js traits, as well as community initiatives and vetted patterns.",
@@ -6094,6 +6126,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60f3e5ca66c61b07d458eb2d",
+          "author": null,
+          "description": "Developers need to install Xcode Command Line Tools before they can develop software on a Mac. This article shows three ways to install Xcode Command Line Tools, including the newest approach using Homebrew.",
+          "link": "https://www.freecodecamp.org/news/install-xcode-command-line-tools/",
+          "publishedOn": "2021-07-19T22:25:44.000Z",
+          "wordCount": 1246,
+          "title": "How to Install Xcode Command Line Tools on a Mac"
+        },
+        {
+          "id": "60f53af066c61b07d458ed0a",
+          "author": null,
+          "description": "Choosing the right color for your web design project is a serious endeavour. A color scheme can often make or break a site's overall appearance.  Different colors create a different feel for your designs. The right choice of colors can make your designs and creations look clean, aesthetically pleasing, and",
+          "link": "https://www.freecodecamp.org/news/rgb-color-html-and-css-guide/",
+          "publishedOn": "2021-07-19T19:00:35.000Z",
+          "wordCount": 1566,
+          "title": "RGB Color – HTML and CSS Guide"
+        },
+        {
+          "id": "60f2829d66c61b07d458e58f",
+          "author": null,
+          "description": "Whenever I heard of the term “Cloud native”, my thoughts would usually go to Kubernetes. I used to think “Cloud native” was a phrase used for describing just Kubernetes.  But as I delved more into it, I realized my assumption was wrong. Cloud native isn't just about Kubernetes – it is",
+          "link": "https://www.freecodecamp.org/news/get-started-with-cloud-native/",
+          "publishedOn": "2021-07-19T18:12:13.000Z",
+          "wordCount": 1358,
+          "title": "What is Cloud Native? The Cloud Computing Delivery Model Explained"
+        },
+        {
+          "id": "60ec528ce8ee9b08300edb9e",
+          "author": null,
+          "description": "There might be times when a website has data you want to analyze but the site doesn't expose an API for accessing those data.  To get the data, you'll have to resort to web scraping.  In this article, I'll go over how to scrape websites with Node.js and Cheerio.",
+          "link": "https://www.freecodecamp.org/news/how-to-scrape-websites-with-node-js-and-cheerio/",
+          "publishedOn": "2021-07-19T16:50:30.000Z",
+          "wordCount": 2311,
+          "title": "How to Scrape Websites with Node.js and Cheerio"
+        },
+        {
+          "id": "60e7d016134ad707be00f47c",
+          "author": null,
+          "description": "Wherever there is a number, there is beauty.  -Proclus  Wherever there are numbers, you're probably dealing with a math-related topic. And wherever there is math, the chances of it being a nightmare for some people are also high.  For many people, math is not their cup of tea.  But if",
+          "link": "https://www.freecodecamp.org/news/how-to-calculate-percent-change-in-excel-find-increase-and-decrease-percentage/",
+          "publishedOn": "2021-07-19T15:25:39.000Z",
+          "wordCount": 1079,
+          "title": "How to Calculate Percent Change in Excel – Find Increase and Decrease Percentage"
+        },
+        {
+          "id": "60dbcc7c27f80207bcdbbcff",
+          "author": null,
+          "description": "In this article, we will learn what Kerberos is, how it works, and the various pros and cons of using this authentication protocol.   What is Kerberos?Have you ever wondered what happens when you type in your username and password at work, and magically have access to file servers, email",
+          "link": "https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/",
+          "publishedOn": "2021-07-19T14:34:59.000Z",
+          "wordCount": 2641,
+          "title": "How Does Kerberos Work? The Authentication Protocol Explained"
+        },
+        {
+          "id": "60f18a9666c61b07d458e2b0",
+          "author": null,
+          "description": "In one sense, recursion is simple. In fact, most of what you need to know about recursion can be summed up in this gif: However, as you go deeper in, it becomes apparent that recursion can be tricky to fully grasp. But it doesn't have to be. We just released",
+          "link": "https://www.freecodecamp.org/news/understanding-recursion-in-programming/",
+          "publishedOn": "2021-07-19T13:56:48.000Z",
+          "wordCount": 18791,
+          "title": "Understanding Recursion in Programming"
+        },
         {
           "id": "60eef23666c61b07d458d43c",
           "author": null,
@@ -6704,6 +6799,123 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1781474",
+          "author": "Jon Brodkin",
+          "description": "10-year deal will make AT&T the primary network provider for Dish MVNO business.",
+          "link": "https://arstechnica.com/?p=1781474",
+          "publishedOn": "2021-07-19T22:12:26.000Z",
+          "wordCount": 1295,
+          "title": "Dish switching network to AT&T after calling T-Mobile anticompetitive"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781239",
+          "author": "Jennifer Ouellette",
+          "description": "A biologist, a neuroscientist, and a musician found four distinct \"modes\" of transition",
+          "link": "https://arstechnica.com/?p=1781239",
+          "publishedOn": "2021-07-19T22:05:58.000Z",
+          "wordCount": 2055,
+          "title": "The surprising connection between a mockingbird’s song and Kendrick Lamar"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781469",
+          "author": "Beth Mole",
+          "description": "In polls, the unvaccinated are the least worried about the delta variant.",
+          "link": "https://arstechnica.com/?p=1781469",
+          "publishedOn": "2021-07-19T22:05:03.000Z",
+          "wordCount": 1529,
+          "title": "Pandemic of unvaccinated rages with delta’s spread; cases up in all 50 states"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781436",
+          "author": "Kiona N. Smith",
+          "description": "The Renaissance artist and scientist's youngest living relative is 1 year old.",
+          "link": "https://arstechnica.com/?p=1781436",
+          "publishedOn": "2021-07-19T21:16:00.000Z",
+          "wordCount": 1797,
+          "title": "Genealogists say Leonardo da Vinci has 14 living relatives"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781429",
+          "author": "Dan Goodin",
+          "description": "NSO Group says its spyware targets only criminals and terrorists. Critics disagree.",
+          "link": "https://arstechnica.com/?p=1781429",
+          "publishedOn": "2021-07-19T20:44:29.000Z",
+          "wordCount": 1690,
+          "title": "“Clickless” exploits from Israeli firm hacked activists’ fully updated iPhones"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781377",
+          "author": "Aurich Lawson",
+          "description": "All good things must end—come take one more look at a special collection.",
+          "link": "https://arstechnica.com/?p=1781377",
+          "publishedOn": "2021-07-19T19:44:00.000Z",
+          "wordCount": 1663,
+          "title": "The massive Museum of Pinball is closing its doors for good"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781337",
+          "author": "Samuel Axon",
+          "description": "The iPhone, Apple TV, and Apple Watch each got new software updates today.",
+          "link": "https://arstechnica.com/?p=1781337",
+          "publishedOn": "2021-07-19T19:21:28.000Z",
+          "wordCount": 881,
+          "title": "New iOS 14.7, tvOS 14.7, and watchOS 7.6 updates expand ECG support and more"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781358",
+          "author": "Jon Brodkin",
+          "description": "US: Chinese state-backed hackers perpetrated \"massive cyber espionage operation.\"",
+          "link": "https://arstechnica.com/?p=1781358",
+          "publishedOn": "2021-07-19T19:02:45.000Z",
+          "wordCount": 1412,
+          "title": "US warns China over state-sponsored hacking, citing mass attacks on Exchange"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781356",
+          "author": "Sam Machkovech",
+          "description": "SDK preview explains what is, isn't Windows 11-exclusive about new load-boosting tech.",
+          "link": "https://arstechnica.com/?p=1781356",
+          "publishedOn": "2021-07-19T18:45:22.000Z",
+          "wordCount": 947,
+          "title": "Microsoft changes course, gives gamers a reason to stick with Windows 10"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781335",
+          "author": "Jonathan M. Gitlin",
+          "description": "Despite handling honed at the Nürburging, we drove it in Connecticut's rush hour.",
+          "link": "https://arstechnica.com/?p=1781335",
+          "publishedOn": "2021-07-19T18:29:49.000Z",
+          "wordCount": 2109,
+          "title": "What’s it like to drive a Bugatti Chiron Pur Sport... in traffic?"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781297",
+          "author": "Ron Amadeo",
+          "description": "Play Store apps were supposed to switch to Google's billing by September 30.",
+          "link": "https://arstechnica.com/?p=1781297",
+          "publishedOn": "2021-07-19T16:17:06.000Z",
+          "wordCount": 796,
+          "title": "Google delays in-app billing crackdown after wave of US antitrust lawsuits"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781301",
+          "author": "Tim De Chant",
+          "description": "White House disappointed with social networks' handling of lies, misinformation.",
+          "link": "https://arstechnica.com/?p=1781301",
+          "publishedOn": "2021-07-19T16:00:52.000Z",
+          "wordCount": 1039,
+          "title": "Biden blasts social media after Facebook stonewalls admin over vaccine misinformation"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781283",
+          "author": "Eric Berger",
+          "description": "Blue Origin plans to fly two more customer flights in 2021.",
+          "link": "https://arstechnica.com/?p=1781283",
+          "publishedOn": "2021-07-19T12:40:19.000Z",
+          "wordCount": 897,
+          "title": "Blue Origin set for historic first human flight of its New Shepard system"
+        },
         {
           "id": "https://arstechnica.com/?p=1781125",
           "author": "John Timmer",
@@ -9376,33 +9588,6 @@
           "publishedOn": "2021-06-20T13:30:32.000Z",
           "wordCount": 1909,
           "title": "Sweet Tooth review: Evidently The Walking Dead just needed a deerboy"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774406",
-          "author": "WIRED",
-          "description": "The rocket-building game lets you pilot a fusion-propelled craft right now.",
-          "link": "https://arstechnica.com/?p=1774406",
-          "publishedOn": "2021-06-20T10:30:16.000Z",
-          "wordCount": 1539,
-          "title": "Test out next-gen space tech in Kerbal Space Program"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1773827",
-          "author": "Jennifer Ouellette",
-          "description": "Experiments could enhance our understanding of the origin of prehistoric art in caves",
-          "link": "https://arstechnica.com/?p=1773827",
-          "publishedOn": "2021-06-19T18:23:31.000Z",
-          "wordCount": 2033,
-          "title": "Archaeologists recreated three common kinds of Paleolithic cave lighting"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774420",
-          "author": "Kiona N. Smith",
-          "description": "Two Viking Age warriors from the same family died hundreds of kilometers apart.",
-          "link": "https://arstechnica.com/?p=1774420",
-          "publishedOn": "2021-06-19T13:00:57.000Z",
-          "wordCount": 923,
-          "title": "Two Viking burials, separated by an ocean, contain close kin"
         }
       ]
     }
