@@ -6,6 +6,195 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oppr96/ddns_on_a_raspberry_pi_using_the_cloudflare_api/",
+          "author": null,
+          "description": "submitted by    /u/FruityWelsh  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oppr96/ddns_on_a_raspberry_pi_using_the_cloudflare_api/",
+          "publishedOn": "2021-07-22T23:24:30.000Z",
+          "wordCount": 184,
+          "title": "DDNS on a Raspberry Pi using the Cloudflare API (Dynamic DNS) (helps solve accessing home stuff when you have a dynamic external IP )"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oppfuv/wondering_what_else_i_could_selfhost/",
+          "author": null,
+          "description": "Hola. I am running a Kubernetes cluster for my main SaaS and I have a lot of resources in the cluster, so I am looking to self host something. For now I have Seafile, OnlyOffice and Matomo.\n Is there something nice you would recommend? Thanks for any suggestion.\n    submitted by    /u/Sky_Linx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oppfuv/wondering_what_else_i_could_selfhost/",
+          "publishedOn": "2021-07-22T23:06:32.000Z",
+          "wordCount": 191,
+          "title": "Wondering what else I could self-host"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opouci/help_me_set_up_an_internalonly_dockerbased/",
+          "author": null,
+          "description": "This is my first shake at setting up a machine for self-hosting and I'm struggling at the beginning.\n My goal is to be able to run services on my server, Atlas, via Docker and reach them by a web address like http://atlas.remote/whoami while connected to my VPN.\n  \nI am running a VPN (Tailscale) that Atlas and my other devices are already connected to, so there's no need \n I already have a DNS server (AdGuard Home) running on another machine within the VPN and has a redirect http://atlas.remote to the right host. I use this already for SSH.\n I want these services all running based on a docker-compose.yml\n Atlas is running NixOS, but I don't think that should matter. Firewall ports 53, 80, and 443 are open. \n  \nHowever, I cannot figure out how to set up a reverse proxy! \n I've tried \n  \nNgi…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opouci/help_me_set_up_an_internalonly_dockerbased/",
+          "publishedOn": "2021-07-22T22:34:10.000Z",
+          "wordCount": 763,
+          "title": "Help me set up an internal-only, docker-based reverse proxy with paths and DNS"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opnfs2/help_with_interpreting_failed_smart/",
+          "author": null,
+          "description": "I recently set up a Docker container with the Scrutiny application to monitor the health of my drives (SSDs, HDDs and NVMEs). This is a new build and the drives have been running for just some months. Running the Scrutiny application though I see a couple of Warning and Failed statuses that concerns me (see below). What is strange is that the warnings and failed statuses are the same for all of the same types of drives I have. It might be not issue, but I am not an expert at interpreting the S.M.A.R.T values/attributes (I don't get why there is a Failure Rate on the Power Cycle Count for instance). Maybe someone could enlighten me a bit and give me some input on whether or not the below is something I need to take some action on. Is there any risk of drive failure?\n Intel D3-S4610 (x2) SSDs\n Seagate Exos 7E8 8TB (x4) HDDs\n Samsung 970 Pro Series 512GB (x2) NVMEs\n    submitted by    /u/norsemanGrey  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opnfs2/help_with_interpreting_failed_smart/",
+          "publishedOn": "2021-07-22T21:23:14.000Z",
+          "wordCount": 280,
+          "title": "Help With Interpreting Failed S.M.A.R.T. Attributes/Values"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opnafx/feedburner_alt_for_self_host/",
+          "author": null,
+          "description": "Did anyone come to any consensus on best Feedburner alternative for self-hosted? Open source of course is my desire.\n    submitted by    /u/GoZippy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opnafx/feedburner_alt_for_self_host/",
+          "publishedOn": "2021-07-22T21:15:52.000Z",
+          "wordCount": 143,
+          "title": "Feedburner alt for self host"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opmeq6/swag_internal_only_not_working/",
+          "author": null,
+          "description": "Hey Guys,\n I bought myself a ubiquiti UDM and since then, the reverse proxy is not restricting to LAN only. Was working before. \n I got a port forward on 443 and 80 for SWAG:\n https://preview.redd.it/tcaldrieptc71.png?width=950&format=png&auto=webp&s=c746c1063b23505596d86eb25a895a76feecb3d3\n Config of SWAG:\n nginx/internal.conf\n Example Conf:\n ​\n https://preview.redd.it/mniz3m7bqtc71.png?width=553&format=png&auto=webp&s=ef6b349649ae74013870ab23f4cabe19ade40b00\n When I test on my iPhone with 4G, I can still access sonarr.mydomain.com.\n What am I missing here?\n    submitted by    /u/TotalNoobWithPC  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opmeq6/swag_internal_only_not_working/",
+          "publishedOn": "2021-07-22T20:31:21.000Z",
+          "wordCount": 237,
+          "title": "SWAG internal only not working"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opkr74/those_who_self_host_music_how_do_you_discover_new/",
+          "author": null,
+          "description": "I'm thinking about self hosting my music, but I enjoy discovering new things. How do you guys do it?\n    submitted by    /u/caprinaeAegagrus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opkr74/those_who_self_host_music_how_do_you_discover_new/",
+          "publishedOn": "2021-07-22T19:08:56.000Z",
+          "wordCount": 597,
+          "title": "Those who self host music: how do you discover new music?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opjtsm/force_2fa_for_plex_users/",
+          "author": null,
+          "description": "Hey Team, I’ve been an avid PLEX user for many years and shared it with about 6 or 7 users. It’s become apparent that one of my users is sharing the account. Unfortunately it’s on my wife’s side of the family so I am limited in what I can do. I wanted to ban them permanently…\n Anyways I was thinking that if there was a way to force 2FA it wouldn’t solve the problem but would make it more inconvenient. \n Any other suggestions are welcome for monitoring/controlling account access to individuals.\n    submitted by    /u/cadelle  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opjtsm/force_2fa_for_plex_users/",
+          "publishedOn": "2021-07-22T18:24:59.000Z",
+          "wordCount": 418,
+          "title": "Force 2FA for PLEX users?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ophg43/selfhosted_email_server_on_arm_preferable_docker/",
+          "author": null,
+          "description": "Is there a way to selfhost an email server (preferable with docker)? I tried mailcow but that doesn't support arm (yet) sadly\n    submitted by    /u/robinschreddit  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ophg43/selfhosted_email_server_on_arm_preferable_docker/",
+          "publishedOn": "2021-07-22T16:31:03.000Z",
+          "wordCount": 269,
+          "title": "selfhosted email server on ARM (preferable docker)?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opgyga/any_self_hosted_alexas_or_similar/",
+          "author": null,
+          "description": "I've been playing around with Mycroft, but I'm unsure how viable they are long term. Anyone have experience with any other solutions?\n    submitted by    /u/krakah293  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opgyga/any_self_hosted_alexas_or_similar/",
+          "publishedOn": "2021-07-22T16:07:47.000Z",
+          "wordCount": 1377,
+          "title": "Any self hosted Alexa's or similar?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ope2we/what_are_refresh_tokens_and_how_to_use_them/",
+          "author": null,
+          "description": "submitted by    /u/robertinoc  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ope2we/what_are_refresh_tokens_and_how_to_use_them/",
+          "publishedOn": "2021-07-22T13:42:51.000Z",
+          "wordCount": 145,
+          "title": "What Are Refresh Tokens and How to Use Them Securely"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opdlbd/cant_access_bookstack_after_installing_it_in/",
+          "author": null,
+          "description": "I followed instructions from this video and installed using the default port (6875:80). In the video he then accesses the login page by using his <IP>:6875 \n https://www.youtube.com/watch?v=VQj5kg7orAM&t=683s\n ​\n I have tried accessing it under 192.168.1.104:6875 but to no avail. If it help I first installed using LAN (it didnt work that time either). Now i am connected through WLan instead.\n ​\n ifconfig\n the list of containers running shows both to be active\n docker ps\n What am i doing wrong over here? Thanks for the support :) \n Raspberry pi 3B+ , Raspbian OS\n    submitted by    /u/MAN13_18  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opdlbd/cant_access_bookstack_after_installing_it_in/",
+          "publishedOn": "2021-07-22T13:14:52.000Z",
+          "wordCount": 301,
+          "title": "Cant access Bookstack after installing it in Raspberry Pi using Docker"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opd86p/looking_for_a_selfhosted_photo_gallery_that/",
+          "author": null,
+          "description": "I've searched high and low for a photo gallery to meet my current needs and I don't know if one exists. I currently have tens of thousands of photos that are already sorted into folders and tagged. I'm looking for a photo gallery that can:\n  \nEasily integrate an existing folder structure as an album hierarchy\n Integrate existing tags as searchable tags/keywords\n When searching for tags/keywords, be able to group photos into albums (ie. if i lookup the \"Travel\" tag, instead of giving me 1000 photos from all albums, it will give me 15 albums that contain at least 1 photo tagged with \"Travel\")\n (optional) Support for video playback as well\n  \nThe third is without a doubt the one I am struggling with. Piwigo meets the other needs fairly easily, though syncing seems to take a VERY long time with this many photos, but I cannot find one that does the third at all, either natively or through plugins.\n Today I am using digikam for all of my tagging and sorting, but it is not mobile/browser friendly, nor does it allow grouping searches by album. To help simplify my search for a gallery, I've setup digikam to write the metadata to the photos; this proved easier to get galleries like Piwigo to use existing tags instead of a) starting from scratch or b) integrating digikam's database.\n Does anyone have any suggestions that might meet these (admittedly niche) requirements?\n    submitted by    /u/TooBrokeToGiveAShit  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opd86p/looking_for_a_selfhosted_photo_gallery_that/",
+          "publishedOn": "2021-07-22T12:53:52.000Z",
+          "wordCount": 577,
+          "title": "Looking for a self-hosted photo gallery that allows searching by tags, but groups by album?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opd7kw/docker_containers_coming_back_form_the_dead/",
+          "author": null,
+          "description": "Hey all,\n My hosting provider did some maintenance on my server, and afterwards I noticed that my data was all messed up. They denied responsibility and long story short, I have to redo my entire setup. The weird thing was, it seemed like Docker had been reset to where it was 5 months ago. For simplicity, I decided to just delete all containers and start again, which I did. But I just changed some network configuration on my server, and it's happened again. This time it's a mixed back of 7-month-old and 2-week to 4-month old containers.\n Anyone know what this is and how I can stop it from happening? I'd be fine redoing my entire setup again, I just need stability in the future.\n Thanks!\n    submitted by    /u/caprinaeAegagrus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opd7kw/docker_containers_coming_back_form_the_dead/",
+          "publishedOn": "2021-07-22T12:52:48.000Z",
+          "wordCount": 331,
+          "title": "Docker containers coming back form the dead... multiple times"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opcq4d/what_server_hardware_for_nextcloud_gitlab/",
+          "author": null,
+          "description": "I am hosting Nextcloud and Gitlab on my Debian workstation.\n As the hardware is outdated i want to upgrade the system.\n I need a Server grade machine to run these applications 24/7: Nextcloud, Collabora, Gitlab and maybe Gitlab CI runner. Nextcloud will be mostly used for Data storage and Kanban board (talk for video conferences is not mandatory)\n I already have a NAS Server on which i want to save the data. On the new Server only the applications should be running.\n What server hardware would you suggest for my usecase? 1000-2000$ (i was thinking about buying a dell as they have good warranty service.)\n    submitted by    /u/DiscountCode1212  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opcq4d/what_server_hardware_for_nextcloud_gitlab/",
+          "publishedOn": "2021-07-22T12:21:47.000Z",
+          "wordCount": 228,
+          "title": "What Server Hardware for Nextcloud, Gitlab"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opceey/k3sk8s_deploying_of_arr_apps_how_are_you_doing_it/",
+          "author": null,
+          "description": "Hi All\n I'm just starting to deploy a K3s cluster, initially I'm planning to write all my own deployment.yaml's. But I was wondering:\n  \nHow do you deploy your's, did you write your own deployment files?\n Do you use Helm Charts for these? If so, how are you mounting volumes? (None of the charts I've looked at, are exposing volume settings to the values.yaml).\n  \nThanks\n    submitted by    /u/Fluffer_Wuffer  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opceey/k3sk8s_deploying_of_arr_apps_how_are_you_doing_it/",
+          "publishedOn": "2021-07-22T12:01:20.000Z",
+          "wordCount": 473,
+          "title": "K3s/K8s deploying of Arr apps... How are you doing it?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opbgi7/container_for_backing_up_other_container/",
+          "author": null,
+          "description": "Curious if there are any containers, preferably with GUI, for automating backups of database instances? I know there are backup containers out there but I haven't seen any with a GUI and they also seem to be limited to handling a single database instance whereas I generally run a single instance per service.\n Obviously this could be done with cron as well but I'd like something that gives me a better overview of when the latest dump happened etc.\n    submitted by    /u/BOZGBOZG  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opbgi7/container_for_backing_up_other_container/",
+          "publishedOn": "2021-07-22T10:54:13.000Z",
+          "wordCount": 414,
+          "title": "Container for backing up other container databases (preferably with GUI)?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opbc1k/selfhosted_dmarc_analyer/",
+          "author": null,
+          "description": "Is there a user friendly free and open source DMARC analyser where I can install on my domain and web server?\n I am aware of parsedmarc but it seems too complicated for me.\n I wonder if there is a user friendly alternative?\n    submitted by    /u/NightmareElmStreet  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opbc1k/selfhosted_dmarc_analyer/",
+          "publishedOn": "2021-07-22T10:44:35.000Z",
+          "wordCount": 220,
+          "title": "Self-hosted DMARC Analyer"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/opb7zr/over_engineering_or_necessary_reverse_proxy/",
+          "author": null,
+          "description": "I am right now trying to figure, if I need a reverse proxy, or if it would be adding complexity without a real benefit and overall, if it is possible.\n I am open to suggestions of better solution, if you have any.\n At the moment, I am hosting a VPN gateway (piVPN/wireguard) and two MC Server in my home network, making them accessible by port forwarding the specific port through my pfsense and having a ddns resolving access.mydomain.tld to my public up. \n In the future I want to restructure and expand my network and homelab.\n The MC servers will be no longer running on my OMV box, but on another host residing in a DMZ.\n Further, I want to spin up a Lychee server for my GF and a Apachee Guacamole server for easy off site management.\n The VPN gateway will stay within the non-DMZ network and I am maybe want to spin up some kind of cloud service on my OMV box. \n And maybe I will add a mail server for learning. \n I want the Lychee site to be accessible by pictures.gfsdomain.tld which I am cnaming onto my ddns domain.\n Now: is it necessary to manage all incoming connections to the MC servers, the lychee server, the VPN, what ever by a reverse proxy residing within the DMZ? Is this even possible, as reverse proxys use http/s as protocol as far as I know and most of the services I want to use are using udp or tcp.\n If it isn't necessary but possibly, are there any benefits of using a reverse proxy?\n Thank you for any input\n    submitted by    /u/AlexisColoun  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/opb7zr/over_engineering_or_necessary_reverse_proxy/",
+          "publishedOn": "2021-07-22T10:35:20.000Z",
+          "wordCount": 1000,
+          "title": "Over engineering, or necessary? Reverse Proxy"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/op8r4s/i_created_a_bash_script_to_setup_a_server_with/",
+          "author": null,
+          "description": "submitted by    /u/badsyntax  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/op8r4s/i_created_a_bash_script_to_setup_a_server_with/",
+          "publishedOn": "2021-07-22T07:06:29.000Z",
+          "wordCount": 263,
+          "title": "I created a bash script to setup a server with docker swarm, portainer & traefik"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/op6hht/novelcreative_writing_platform/",
+          "author": null,
+          "description": "My step-daughter has expressed an interest in doing some creative writing, but she wants something she can do on her phone or laptop interchangeably. I'd love to host something simple that she can dip in and out of as she needs which will save her work.\n I'd rather avoid anything that's complex to use - something that just handles text and maybe just sits behind a pin number or password.\n A simple google hasn't brought up anything useful - any ideas? I may end up writing something based on Letters or Quill.\n    submitted by    /u/paraxion  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/op6hht/novelcreative_writing_platform/",
+          "publishedOn": "2021-07-22T04:18:15.000Z",
+          "wordCount": 277,
+          "title": "Novel/creative writing platform"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/op2tec/want_to_have_these_link_lists_all_on_1_or_2_lines/",
           "author": null,
           "description": "Hi all,\n I'm having an issue with Wiki.JS as I've setup a list link and each takes one line each. Take a look below and you'll see what I mean\n https://preview.redd.it/c97d3logsnc71.jpg?width=1178&format=pjpg&auto=webp&s=1d6ed87c3f2a0cae641d2186eb8dd645ceadc90b\n I want it to place multiple on the same line like this\n ​\n https://preview.redd.it/7xu56j8lsnc71.jpg?width=1076&format=pjpg&auto=webp&s=c294af5346534027afe2e59fdf772b17ee169986\n Thanks in advance\n    submitted by    /u/SpareAccount25  \n [link]   [comments]",
@@ -5026,204 +5215,6 @@
           "publishedOn": "2021-06-23T12:55:52.000Z",
           "wordCount": 274,
           "title": "Split brain DNS?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o6bz1l/google_photos_is_so_2020welcome_to_the_world_of/",
-          "author": null,
-          "description": "submitted by    /u/Starbeamrainbowlabs  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o6bz1l/google_photos_is_so_2020welcome_to_the_world_of/",
-          "publishedOn": "2021-06-23T12:38:51.000Z",
-          "wordCount": 541,
-          "title": "Google Photos is so 2020—welcome to the world of self-hosted photo management"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o6b73b/shopping_list/",
-          "author": null,
-          "description": "I'm looking for something to help organize shopping lists.\n Previously my wife & I used Out of Mil, which was nice. But not self-hosted. It did however, work. Now that they've been brought out and will no longer work for non US based users, we can no longer use it.\n Grocy looked like it may fit the bill, but it's a bit too complete. I need the all important spousal-approval factor. Adding a new item in a shopping list required setting the item up first, we just need something to show a checklist really.\n So, TL;DR. I'm looking for something, self hosted that'll allow us to create a list, with the ability to check items off as they're picked up. The list needs to be available to multiple users. Ideally needs a companion Android app, but PWA is perfectly fine too.\n Any suggestions?\n    submitted by    /u/psybernoid  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o6b73b/shopping_list/",
-          "publishedOn": "2021-06-23T11:49:36.000Z",
-          "wordCount": 515,
-          "title": "Shopping List"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o6b23n/setup_bitwarden_pasword_manager_on_docker_with/",
-          "author": null,
-          "description": "submitted by    /u/rbekker87  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o6b23n/setup_bitwarden_pasword_manager_on_docker_with/",
-          "publishedOn": "2021-06-23T11:39:41.000Z",
-          "wordCount": 263,
-          "title": "Setup Bitwarden Pasword Manager on Docker with Traefik Proxy"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o6aqbx/any_selfhosted_movietv_series_tracker_similar_to/",
-          "author": null,
-          "description": "submitted by    /u/regreenmunch  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o6aqbx/any_selfhosted_movietv_series_tracker_similar_to/",
-          "publishedOn": "2021-06-23T11:16:45.000Z",
-          "wordCount": 155,
-          "title": "Any selfhosted movie/tv series tracker similar to tastedive & letterboxd ?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o69p8a/the_one_audiomusic_solution_to_rule_them_all/",
-          "author": null,
-          "description": "Hi,\n I have been searching for a solution to my music 'needs'. Different solutions exist, but I seem to be unable to find a solution that just 'does it all'. Basically I'm looking for a selfhosted Spotify-like solution without the fancy 'I think you will like this music'-suggestions. :)\n I have a self built NAS with all my music on it, a receiver in my living room (Yamaha R-N303D, DLNA/Airplay capable), a RPi with speakers connected to it in my bathroom (running piCorePlayer at the moment), and a bunch of smartphones, tablets etc.\n I am looking for a selfhosted solution that enables me to:\n  \nmaintain my music collection (e.g. scan music into a database, playlist manipulation, etc) using a nice web user interface\n listen to the music using a web browser (using the same nice web user interface), so that I can access my music remotely\n control what is playing on the home appliances in my home (receiver and RPi)\n sync subsets of my music files (certain playlists) to my tablets, smartphones, etc. so that I can listen to it while I'm offline (car, commute on public transportation, etc.)\n  \nThe solutions that I found so far are either good at 1/streaming to a browser, or 2/ streaming to home appliances (for example Airsonic vs. Logitech Media Server). But I'm looking for a marriage of both.\n Any suggestions/thoughts on how I can achieve this?\n    submitted by    /u/Dotsoltecti  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o69p8a/the_one_audiomusic_solution_to_rule_them_all/",
-          "publishedOn": "2021-06-23T09:56:17.000Z",
-          "wordCount": 1903,
-          "title": "The one audio/music solution to 'rule them all'"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o68c0z/photonix_may_roundup_face_recognition_more/",
-          "author": null,
-          "description": "Hey folks,\n I've just published the blog post update for May. This one is more about quality over quantity but I'm really excited to get the top item released as it's should be quite a game changer. Here's the blog post and here's a quick run-down:\n  \nFace recognition and automatic grouping\n Search auto-completion\n Commands for creating additional users and assigning to libraries\n Date-based event tagging\n Ability to download photos from within browser\n Map view state now restored after returning from detail view\n Animated hint to show that there are more filters available\n GitHub sponsors\n  \nThanks to everyone involved this month. Please feel free to drop a comment with your feedback or questions.\n    submitted by    /u/damianmoore  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o68c0z/photonix_may_roundup_face_recognition_more/",
-          "publishedOn": "2021-06-23T08:00:54.000Z",
-          "wordCount": 460,
-          "title": "Photonix May Round-up — Face Recognition +more"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o688q8/visitedcli_securely_collect_browsing_history_over/",
-          "author": null,
-          "description": "submitted by    /u/lidridodra  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o688q8/visitedcli_securely_collect_browsing_history_over/",
-          "publishedOn": "2021-06-23T07:53:31.000Z",
-          "wordCount": 135,
-          "title": "Visited-CLI - Securely collect browsing history over browsers"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o67icp/created_this_application_for_short_time_lived/",
-          "author": null,
-          "description": "submitted by    /u/bjarneo  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o67icp/created_this_application_for_short_time_lived/",
-          "publishedOn": "2021-06-23T06:54:05.000Z",
-          "wordCount": 148,
-          "title": "Created this application for short time lived encryptet secret / sensitive information sharing. More features to come."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o67a1s/solution_to_auto_download_youtube_videos/",
-          "author": null,
-          "description": "I need an application which can auto download videos from my favourite channels and organise them in folders by the channel name.\n Any application or set of applications which can do this?\n    submitted by    /u/magestooge  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o67a1s/solution_to_auto_download_youtube_videos/",
-          "publishedOn": "2021-06-23T06:35:33.000Z",
-          "wordCount": 294,
-          "title": "Solution to auto download YouTube videos"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o647ta/flashcard_application_that_stores_info_locally/",
-          "author": null,
-          "description": "Are there any flashcard apps that store the information locally? I have some sensitive information that I don't want to get exposed to. \n I don't have any Nuclear Weapons Secrets to memorize, but I do have some private information that I wouldn't want getting out there somehow.\n    submitted by    /u/AlertWishbone  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o647ta/flashcard_application_that_stores_info_locally/",
-          "publishedOn": "2021-06-23T03:06:49.000Z",
-          "wordCount": 195,
-          "title": "Flashcard application that stores info locally"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o63lkx/your_best_selfhosted_services_your_family_depends/",
-          "author": null,
-          "description": "I love r/selfhosted and r/homelab like the rest of you, and would like to learn what services you guys are hosting that your family uses and depends on.\n    submitted by    /u/ctrl-brk  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o63lkx/your_best_selfhosted_services_your_family_depends/",
-          "publishedOn": "2021-06-23T02:29:54.000Z",
-          "wordCount": 620,
-          "title": "Your best selfhosted services your family depends on?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o608w5/i_want_to_start/",
-          "author": null,
-          "description": "I want to start self-hosting, and I don't know how to start..I need to know how to start, and which tools to use, and if I need to have a server to start or know.\n    submitted by    /u/iTady74  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o608w5/i_want_to_start/",
-          "publishedOn": "2021-06-22T23:31:25.000Z",
-          "wordCount": 382,
-          "title": "I want to start"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o5zalb/thecus_4520_nas_question/",
-          "author": null,
-          "description": "I recently obtained an older 4 bay NAS from my boss that he said he no longer wanted. I figured, ehh what the heck. It can serve its place somewhere in my network. So, I booted it up at first, being the first time I initially plugged it in, and got a \"Booting...\" on the LCD. I figured all was well so I moved it to my rack and plugged it in and now its shows \"█ █ █ █ █ █ █ █\" for some apparent reason. I dont know what happened as there is practically zero documentation pertaining to the issue. I've also tried resetting it but also did not work. \n I figured maybe one of yall might've experience the same thing if youve ever had a Thecus NAS.\n    submitted by    /u/MrReaverr  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o5zalb/thecus_4520_nas_question/",
-          "publishedOn": "2021-06-22T22:42:18.000Z",
-          "wordCount": 236,
-          "title": "Thecus 4520 NAS Question"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o5xldc/dockercompatible_selfhosted_ci_environment_for/",
-          "author": null,
-          "description": "Greetings,\n I've been playing with docker a bit on my synology NAS and I think I'm ready to try something a bit more difficult. I'd like to set things up so that three small JAMStack-based (Gatsby and Hexo) websites I have could be built and deployed from my NAS instead of github actions.\n However, my knowledge of self-hosted build systems is very old (circa 2008). Does anyone have any suggestions for an environment that is working well for you? Currently the code for the sites is hosted on github and deployed to (very) inexpensive hosting via FTP, although that's subject to change as I bring more stuff back to the home network.\n    submitted by    /u/williamwgant  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o5xldc/dockercompatible_selfhosted_ci_environment_for/",
-          "publishedOn": "2021-06-22T21:20:17.000Z",
-          "wordCount": 255,
-          "title": "Docker-compatible self-hosted CI environment for Jamstack sites?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o5w92b/can_someone_help_me_understanding_what_i_have_to/",
-          "author": null,
-          "description": "Hello there !\n First serious post here, as I'm kind of new to the community. Also, English's not my first language, so please, bear with me.\n I'm trying my ass off to /r/degoogle my life, and selfhosting must be part of this process as anyway, I need some cloud storage for my work / hobbies.\n So I got myself a RaspberryPi 4B 4Go and started everything from scratch. It took me like 2 months and several sleepless nights to manage to get a proper Nextcloud instance running, even though I can't get Collabora to work. So I decided to try and install CryptPad.\n But first, a word about my setup and my \"knowledge\".\n My Raspberry runs RaspberryPi OS 64bits (beta), on top off which I installed OMV. Through OMV, I installed Docker and Portainer.\n The only way I could understand how to deploy a contai…",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o5w92b/can_someone_help_me_understanding_what_i_have_to/",
-          "publishedOn": "2021-06-22T20:17:56.000Z",
-          "wordCount": 1122,
-          "title": "Can someone help me understanding what I have to look for to unstuck myself from that situation"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o5vwjt/is_mkcert_safe_to_use/",
-          "author": null,
-          "description": "I'm selfhosting Vaultwarden (formerly known as bitwarden_rs) on docker. The machine (ubuntu) is not reachable from the internet (by design), thus I could't make a Lets Encrypt DNS challenge. \n I found mkcert, installed it on the same ubuntu machine and manually added the certs to the docker container. All works for me. I'm just wondering if there are any security concerns with this solution? If so, what are they and how would you proceed instead?\n    submitted by    /u/herrjonk  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o5vwjt/is_mkcert_safe_to_use/",
-          "publishedOn": "2021-06-22T20:02:29.000Z",
-          "wordCount": 356,
-          "title": "Is mkcert safe to use?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o5vsez/selfhosted_tools/",
-          "author": null,
-          "description": "I was thinking about how apps like Convertio are really good at converting all different kinds of file types, so I was curious, was there a docker container for this type of thing?\n And on that same topic, are there any tools you would recommend that can be Self-Hosted? What would be cool is Self-Hosted Versions of Prezi, Canva, Pixlr, and PDF2GO, among others.\n    submitted by    /u/dj_raidar_vip  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o5vsez/selfhosted_tools/",
-          "publishedOn": "2021-06-22T19:57:35.000Z",
-          "wordCount": 161,
-          "title": "Self-Hosted Tools!"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o5uuad/disable_ssl_requirement_for_service_workers/",
-          "author": null,
-          "description": "Can I somehow use service workers (e. g. for PWAs or Notifications) without SSL encryption in my local network? Don't want to install a self signed certificate on every device I visit my service. I already tried --unsafely-treat-insecure-origin-as-secure=<myip> in chrome, but that doesn't makes any difference.\n    submitted by    /u/Im1Random  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o5uuad/disable_ssl_requirement_for_service_workers/",
-          "publishedOn": "2021-06-22T19:15:28.000Z",
-          "wordCount": 197,
-          "title": "Disable SSL requirement for service workers"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o5umvb/are_there_any_good_foss_payroll_solutions/",
-          "author": null,
-          "description": "I have a very small company with only 2 employees and I'm looking for a good payroll solution (preferably self-hosted). Something that can help me with payroll taxes, end-of-year tax forms, direct deposits, etc. \n Any good tools?\n    submitted by    /u/scootsy  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o5umvb/are_there_any_good_foss_payroll_solutions/",
-          "publishedOn": "2021-06-22T19:06:17.000Z",
-          "wordCount": 220,
-          "title": "Are there any good FOSS payroll solutions?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o5suam/after_3_months_of_getting_to_know_linux_and/",
-          "author": null,
-          "description": "submitted by    /u/MetallicAchu  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o5suam/after_3_months_of_getting_to_know_linux_and/",
-          "publishedOn": "2021-06-22T17:46:53.000Z",
-          "wordCount": 725,
-          "title": "After 3 months of getting to know Linux, and accidentally crashing (and wiping) the server twice, I proudly present my Heimdall dashboard. Looking for more suggestions for stuff to add!"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o5s02s/fail2ban_email_notifications_with_self_hosted/",
-          "author": null,
-          "description": "I've been trying to setup email notifications for fail2ban using https://linuxconfig.org/configuring-gmail-as-sendmail-email-relay this guide.\n Here's the login conf for my email server :\n  \nhost: mail.selfhost.drtech.cc\n port: 465\n TLS with authentication required\n  \nI modified the blogpost like so to accommodate my settings :\n define(\\SMART_HOST',`[[mail.wp.ahmads.cc](https://mail.wp.ahmads.cc)]')dnl`\n define(\\RELAY_MAILER_ARGS', `TCP $h 465')dnl`\n define(\\ESMTP_MAILER_ARGS', `TCP $h 465')dnl`\n define(\\confAUTH_OPTIONS', `A p')dnl`\n TRUST_AUTH_MECH(\\EXTERNAL DIGEST-MD5 CRAM-MD5 LOGIN PLAIN')dnl`\n define(\\confAUTH_MECHANISMS', `EXTERNAL GSSAPI DIGEST-MD5 CRAM-MD5 LOGIN PLAIN')dnl`\n FEATURE(\\authinfo',`hash -o /etc/mail/authinfo/wpmail-auth.db')dnl`\n However, no emails are getting sent out ?\n    submitted by    /u/drtechwp  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o5s02s/fail2ban_email_notifications_with_self_hosted/",
-          "publishedOn": "2021-06-22T17:08:07.000Z",
-          "wordCount": 182,
-          "title": "fail2ban email notifications with self hosted emai server ?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o5qa1w/home_vpn_without_port_forwarding/",
-          "author": null,
-          "description": "Hello,\n I'm searching for a way to setup something Like Pritunl (or any other VPN Server) on a local machine, and make it accessible from the outside, so that I can share my Plesk Server and NAS with some friends.\n I don't have access to the router. I thought about services Like ngrok, but they are quite expensive for such a task, and I have enough VPS Servers and capacity to host something like that myself. \n Since I'm fine with hosting it myself I wanted to ask you if you have any advice how to set it up the best way, or any Tutorial you could link me to.\n Thank you :)\n    submitted by    /u/one-juru  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o5qa1w/home_vpn_without_port_forwarding/",
-          "publishedOn": "2021-06-22T15:51:17.000Z",
-          "wordCount": 642,
-          "title": "Home VPN without Port forwarding"
         }
       ]
     },
@@ -5231,23 +5222,40 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": [
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "author": null,
-          "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "publishedOn": "2021-06-23T05:57:59.000Z",
-          "wordCount": 368,
-          "title": "v1.11.0"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=344960",
+          "author": "Chris Coyier",
+          "description": "Eric, again not mincin’ no words with blog post titles. This is me:\nThe most common CSS declaration organization technique I come across is none whatsoever.\nAlmost none, anyway. I tend to group them by whatever dumps out of my …\nThe post Organize your CSS declarations alphabetically appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://ericwbailey.design/writing/organize-your-css-declarations-alphabetically/",
+          "publishedOn": "2021-07-22T22:33:29.000Z",
+          "wordCount": 965,
+          "title": "Organize your CSS declarations alphabetically"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344580",
+          "author": "Nathan Babcock",
+          "description": "We’re going to walk through the technical process of hooking into Google Drive’s API to source content on a website. We’ll examine the step-by-step implementation, as well as how to utilize server-side caching to avoid the major pitfalls to avoid …\nThe post Using Google Drive as a CMS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/using-google-drive-as-a-cms/",
+          "publishedOn": "2021-07-22T14:44:26.000Z",
+          "wordCount": 2790,
+          "title": "Using Google Drive as a CMS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344330",
+          "author": "Chris Coyier",
+          "description": "Hashnode is a free platform for developer blogging. Say you’ve just finished an ambitious project and want to write about 10 important lessons you’ve learned as a developer during it. You should definitely blog it—I love that kind of blog post, myself. Making a jump into the technical debt of operating your own blog isn’t a small choice, but it’s important to own your own content. With Hashnode, the decision gets a lot easier. You can blog under a site you entirely own, and at the same time, reap the benefits of hosted software tailor-made for developer blogging and be part of a social center around developer writing.\nThe post Hashnode: A Blogging Platform for Developers appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/hashnode-a-blogging-platform-for-developers/",
+          "publishedOn": "2021-07-22T14:39:09.000Z",
+          "wordCount": 967,
+          "title": "Hashnode: A Blogging Platform for Developers"
+        },
         {
           "id": "https://css-tricks.com/?p=344950",
           "author": "Chris Coyier",
@@ -5733,33 +5741,6 @@
           "publishedOn": "2021-06-23T14:27:14.000Z",
           "wordCount": 629,
           "title": "“Weak declaration”"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342930",
-          "author": "Chris Coyier",
-          "description": "There are four keywords that are valid values for any CSS property (see the title). Of those, day to day, I’d say I see the inherit used the most. Perhaps because it’s been around the longest (I think?) but also …\nThe post inherit, initial, unset, revert appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/inherit-initial-unset-revert/",
-          "publishedOn": "2021-06-22T21:20:20.000Z",
-          "wordCount": 687,
-          "title": "inherit, initial, unset, revert"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342634",
-          "author": "Geoff Rich",
-          "description": "Svelte fully supports custom elements (e.g. <my-component>) without any custom configuration or wrapper components and has a perfect score on Custom Elements Everywhere. However, there are still a few quirks you need to watch out for, especially around …\nThe post Using Custom Elements in Svelte appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-custom-elements-in-svelte/",
-          "publishedOn": "2021-06-22T14:37:50.000Z",
-          "wordCount": 3090,
-          "title": "Using Custom Elements in Svelte"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342925",
-          "author": "Chris Coyier",
-          "description": "I’m not here to raise a shield protecting CSS utility frameworks. I don’t even particularly like the approach, myself, and nothing is above fair criticism. But fair is a key word there. I can’t tell you how many times I’ve …\nThe post If we’re gonna criticize utility-class frameworks, let’s be fair about it appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/if-were-gonna-criticize-utility-class-frameworks-lets-be-fair-about-it/",
-          "publishedOn": "2021-06-22T14:33:41.000Z",
-          "wordCount": 1497,
-          "title": "If we’re gonna criticize utility-class frameworks, let’s be fair about it"
         }
       ]
     },
@@ -5768,6 +5749,20 @@
       "feedUrl": "https://www.smashingmagazine.com/feed/",
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/",
+          "author": "hello@smashingmagazine.com (Matthew Talebi)",
+          "description": "Are you running a business and have too many things going on at once? Meetings, bugs, customer feedback, new clients in addition to your already tight deadlines? Let’s face it, time management is hard, and it becomes even more difficult in the trying times we are in.",
+          "link": "https://smashingmagazine.com/2021/07/time-schedule-professional-trafft/",
+          "publishedOn": "2021-07-22T12:30:00.000Z",
+          "wordCount": 2582,
+          "title": "Adding Time To Your Schedule As A Professional",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/75bfca56-7f2b-488f-b9eb-7fa00d930444/5-time-scheduling.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
         {
           "id": "https://smashingmagazine.com/2021/07/color-tools-resources/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
@@ -6131,20 +6126,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "author": "hello@smashingmagazine.com (Cameron Cundiff)",
-          "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
-          "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1350,
-          "title": "Automating Screen Reader Testing On macOS Using Auto VO",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -6153,6 +6134,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60f969ee1d2b080797b8160a",
+          "author": null,
+          "description": "Using just a few keystrokes, it's easy to capture part or all of your screen on a Mac.  Screenshots are useful in many cases, like when you're writing a blog post and you want to use images that will drive home the points you are making.  This guide will show",
+          "link": "https://www.freecodecamp.org/news/how-to-screenshot-on-mac-take-a-screen-capture-with-a-keyboard-shortcut/",
+          "publishedOn": "2021-07-22T22:05:03.000Z",
+          "wordCount": 898,
+          "title": "How to Screenshot on Mac – Take a Screen Capture with a Keyboard Shortcut"
+        },
+        {
+          "id": "6063b98a9618b008528a9d92",
+          "author": null,
+          "description": "Today we're gonna learn how to use the CSS box model with examples. This will help you make pixel perfect websites and will teach you to use the box-sizing, margin, padding, and border properties more accurately.  We're also going to see some practical use cases for these properties. Let's get",
+          "link": "https://www.freecodecamp.org/news/css-box-model-explained-with-examples/",
+          "publishedOn": "2021-07-22T17:31:57.000Z",
+          "wordCount": 1630,
+          "title": "CSS Box Model Properties – Explained With Examples ✨"
+        },
+        {
+          "id": "60f716ab1d2b080797b80532",
+          "author": null,
+          "description": "In music terminology, an onset refers to the beginning of a musical note or other sound. In this post, we will look at how to detect music onsets with Python's audio signal processing libraries, Aubio and librosa. This tutorial is relevant even if your application doesn't use Python - for",
+          "link": "https://www.freecodecamp.org/news/use-python-to-detect-music-onsets/",
+          "publishedOn": "2021-07-22T16:56:17.000Z",
+          "wordCount": 1306,
+          "title": "How to Use Python to Detect Music Onsets"
+        },
+        {
+          "id": "60af854611ffb70827ef8526",
+          "author": null,
+          "description": "Webmention is a simple protocol developed by the IndieWeb Community that you can use to request notifications when your URLs are mentioned on the web. When you post on your own site and syndicate elsewhere (POSSE), Webmention lets you enable rich interactions on your syndicated posts. This article will walk",
+          "link": "https://www.freecodecamp.org/news/how-to-use-webmentions-with-gatsby-beginners-guide/",
+          "publishedOn": "2021-07-22T16:33:55.000Z",
+          "wordCount": 1861,
+          "title": "How to Use Webmentions with Gatsby.js – A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "60f245ca66c61b07d458e512",
+          "author": null,
+          "description": "Understanding CSS Flexbox is super helpful if you want to make your websites responsive. Flexbox is a powerful responsive web design tool that's built right into CSS itself. And we just published a CSS Flexbox crash course on the freeCodeCamp.org YouTube channel.  James Maxwell created this course. Not only",
+          "link": "https://www.freecodecamp.org/news/learn-css-flexbox/",
+          "publishedOn": "2021-07-22T13:58:50.000Z",
+          "wordCount": 4843,
+          "title": "Learn CSS Flexbox in This Crash Course"
+        },
         {
           "id": "60f55f3e66c61b07d458ee8c",
           "author": null,
@@ -6827,42 +6853,6 @@
           "publishedOn": "2021-06-23T17:19:24.000Z",
           "wordCount": 2330,
           "title": "How to Create a Great Technical Course"
-        },
-        {
-          "id": "60d2323d6e1a1407b6b0ac4f",
-          "author": null,
-          "description": "Web scraping lets you collect data from web pages across the internet. It's also called web crawling or web data extraction.  PHP is a widely used back-end scripting language for creating dynamic websites and web applications. And you can implement a web scraper using plain PHP code.  But since we",
-          "link": "https://www.freecodecamp.org/news/web-scraping-with-php-crawl-web-pages/",
-          "publishedOn": "2021-06-22T21:11:53.000Z",
-          "wordCount": 2770,
-          "title": "Web Scraping with PHP – How to Crawl Web Pages Using Open Source Tools"
-        },
-        {
-          "id": "60cac8ff4dc1a607ed7b4592",
-          "author": null,
-          "description": "There’s a special syntax you can use in JavaScript that makes working with promises easier. It's called “async/await\", and it’s surprisingly straightforward to understand and use.  In this article, we'll discuss:  What are asynchronus functions? How promises work in JavaScript Async/Await basics How to use",
-          "link": "https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/",
-          "publishedOn": "2021-06-22T16:24:37.000Z",
-          "wordCount": 1432,
-          "title": "How to Use Async/Await to Write Better JavaScript Code"
-        },
-        {
-          "id": "60c13e71d3126007592d5be2",
-          "author": null,
-          "description": "The 100 Days of Code challenge is very popular among new coders and developers looking to level up their skills. It's so popular that our Discord server has an entire channel dedicated to it.  By popular demand, we recently built a Discord bot that helps people track their progress in",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-100-days-of-code-bot-for-discord-using-typescript-and-mongodb/",
-          "publishedOn": "2021-06-22T16:20:36.000Z",
-          "wordCount": 7385,
-          "title": "How to Use TypeScript and MongoDB to Build a 100 Days of Code Discord Bot"
-        },
-        {
-          "id": "60cfff5a4dc1a607ed7b5e58",
-          "author": null,
-          "description": "Do you have a story idea that you'd like to turn into a novel? How about adding visual appeal and interactivity to that novel?  A Visual Novel might be the game genre you are looking for. And this tutorial is here to help set you up in 10 minutes, with",
-          "link": "https://www.freecodecamp.org/news/use-python-to-create-a-visual-novel/",
-          "publishedOn": "2021-06-22T16:18:29.000Z",
-          "wordCount": 1611,
-          "title": "How to Use Python to Create a Visual Novel Game in 10 Minutes"
         }
       ]
     },
@@ -6871,6 +6861,132 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1782437",
+          "author": "Beth Mole",
+          "description": "CDC head: The vaccines \"are some of the most effective that we have in modern medicine.\"",
+          "link": "https://arstechnica.com/?p=1782437",
+          "publishedOn": "2021-07-22T21:56:10.000Z",
+          "wordCount": 2028,
+          "title": "“Get vaccinated! Take delta seriously!” US experts plead as cases skyrocket"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782438",
+          "author": "Jon Brodkin",
+          "description": "Viasat fears SpaceX competition, sought freeze on launches and environmental review.",
+          "link": "https://arstechnica.com/?p=1782438",
+          "publishedOn": "2021-07-22T21:30:16.000Z",
+          "wordCount": 1475,
+          "title": "Judges reject Viasat’s plea to stop SpaceX Starlink satellite launches"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782406",
+          "author": "Dan Goodin",
+          "description": "REvil ransomware struck as many as 1,500 networks, but a master key is now available.",
+          "link": "https://arstechnica.com/?p=1782406",
+          "publishedOn": "2021-07-22T20:12:17.000Z",
+          "wordCount": 894,
+          "title": "Kaseya gets master decryptor to help customers still suffering from REvil attack"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782258",
+          "author": "Jennifer Ouellette",
+          "description": "It's the first half of a planned two-part adaptation of Frank Herbert's novel.",
+          "link": "https://arstechnica.com/?p=1782258",
+          "publishedOn": "2021-07-22T19:59:09.000Z",
+          "wordCount": 1633,
+          "title": "Latest Dune trailer gives us our best look yet at Denis Villeneuve’s epic film"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782287",
+          "author": "Samuel Axon",
+          "description": "It's unusual for iPadOS to come after iOS, but it's here.",
+          "link": "https://arstechnica.com/?p=1782287",
+          "publishedOn": "2021-07-22T19:07:38.000Z",
+          "wordCount": 1008,
+          "title": "iPadOS 14.7 and macOS Big Sur 11.5 come with plenty of bug fixes and security updates"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782310",
+          "author": "Jim Salter",
+          "description": "Contrary to popular belief, it's not always DNS... but it is today.",
+          "link": "https://arstechnica.com/?p=1782310",
+          "publishedOn": "2021-07-22T17:36:05.000Z",
+          "wordCount": 640,
+          "title": "Today’s massive Internet outage comes courtesy of Akamai Edge DNS"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782237",
+          "author": "Ron Amadeo",
+          "description": "Google broke a conditional statement that verifies passwords. A fix is rolling out.",
+          "link": "https://arstechnica.com/?p=1782237",
+          "publishedOn": "2021-07-22T17:32:54.000Z",
+          "wordCount": 836,
+          "title": "Google pushed a one-character typo to production, bricking Chrome OS devices"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782275",
+          "author": "Jon Brodkin",
+          "description": "AT&T, the only ISP available, kept canceling installs until she contacted news media.",
+          "link": "https://arstechnica.com/?p=1782275",
+          "publishedOn": "2021-07-22T17:18:15.000Z",
+          "wordCount": 1441,
+          "title": "AT&T nightmare: Woman had to wait 3+ months for broadband at new home"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1780800",
+          "author": "Sam Machkovech",
+          "description": "Preorders start July 29 for this $179 Game Boy-like delight—which we've tested for weeks.",
+          "link": "https://arstechnica.com/?p=1780800",
+          "publishedOn": "2021-07-22T17:00:58.000Z",
+          "wordCount": 1180,
+          "title": "Playdate preview: You won’t believe how fun this dorky, $179 game system is"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782296",
+          "author": "Financial Times",
+          "description": "World’s largest oil producer says some company files were compromised.",
+          "link": "https://arstechnica.com/?p=1782296",
+          "publishedOn": "2021-07-22T16:56:00.000Z",
+          "wordCount": 1016,
+          "title": "Saudi Aramco confirms data leak after $50 million cyber ransom demand"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782256",
+          "author": "Tim De Chant",
+          "description": "Utility says undergrounding will take 10 years to complete.",
+          "link": "https://arstechnica.com/?p=1782256",
+          "publishedOn": "2021-07-22T16:36:17.000Z",
+          "wordCount": 1346,
+          "title": "PG&E likely sparks another massive fire, pledges to bury 10,000 miles of power lines"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781863",
+          "author": "Sean Gallagher",
+          "description": "Turns out it's really hard to make a machine-learning model to evaluate headlines.",
+          "link": "https://arstechnica.com/?p=1781863",
+          "publishedOn": "2021-07-22T15:00:55.000Z",
+          "wordCount": 1739,
+          "title": "Ars AI headline experiment finale—we came, we saw, we used a lot of compute time"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782223",
+          "author": "John Timmer",
+          "description": "The AI-driven structural predictions are being shared through a public database.",
+          "link": "https://arstechnica.com/?p=1782223",
+          "publishedOn": "2021-07-22T15:00:52.000Z",
+          "wordCount": 1463,
+          "title": "Google turns AlphaFold loose on the entire human genome"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782211",
+          "author": "Sam Machkovech",
+          "description": "\"Frat boy culture\" cited as serious factor for pay disparity, sexual harassment.",
+          "link": "https://arstechnica.com/?p=1782211",
+          "publishedOn": "2021-07-22T06:02:57.000Z",
+          "wordCount": 981,
+          "title": "Activision Blizzard sued by state agency over alleged widespread discrimination"
+        },
         {
           "id": "https://arstechnica.com/?p=1782199",
           "author": "Beth Mole",
@@ -9597,150 +9713,6 @@
           "publishedOn": "2021-06-23T15:37:40.000Z",
           "wordCount": 802,
           "title": "The Nokia G20 comes to the US for $199, packs a “3-day” battery life"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775539",
-          "author": "Dan Goodin",
-          "description": "Open source repositories can be vectors for maliciousness, so look before you run.",
-          "link": "https://arstechnica.com/?p=1775539",
-          "publishedOn": "2021-06-23T12:38:42.000Z",
-          "wordCount": 1215,
-          "title": "Ahoy, there’s malice in your repos—PyPI is the latest to be abused"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1774386",
-          "author": "Ars Contributors",
-          "description": "Google offers many desirable, easy-to-use, effective features. Going open source is trickier.",
-          "link": "https://arstechnica.com/?p=1774386",
-          "publishedOn": "2021-06-23T11:15:40.000Z",
-          "wordCount": 1297,
-          "title": "Google Photos is so 2020—welcome to the world of self-hosted photo management"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775475",
-          "author": "Ars Contributors",
-          "description": "Ancient species may re-enter the ecosystem as the world's permafrost thaws.",
-          "link": "https://arstechnica.com/?p=1775475",
-          "publishedOn": "2021-06-23T10:45:36.000Z",
-          "wordCount": 1137,
-          "title": "24,000 years on ice weren’t enough to kill these guys"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775463",
-          "author": "John Timmer",
-          "description": "Within a few decades, many areas of the US may see a rapid change in frequency.",
-          "link": "https://arstechnica.com/?p=1775463",
-          "publishedOn": "2021-06-22T23:20:58.000Z",
-          "wordCount": 1503,
-          "title": "Climate-driven coastal flooding in the US likely to get worse suddenly"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775411",
-          "author": "Sam Machkovech",
-          "description": "Game Pass Ultimate's $15/mo now goes a lot further, and we break down why.",
-          "link": "https://arstechnica.com/?p=1775411",
-          "publishedOn": "2021-06-22T23:16:35.000Z",
-          "wordCount": 1294,
-          "title": "Xbox cloud upgrade is live: Series X power on your browser for over 260 games"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775434",
-          "author": "Beth Mole",
-          "description": "The Delta coronavirus variant now accounts for 20.6 percent of cases in the US.",
-          "link": "https://arstechnica.com/?p=1775434",
-          "publishedOn": "2021-06-22T22:29:39.000Z",
-          "wordCount": 1258,
-          "title": "Once-dreaded Alpha variant is falling fast—Delta and Gamma take over"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775366",
-          "author": "Jennifer Ouellette",
-          "description": "\"Your mission is to destroy every trace of something known only as Project Starfish.\"",
-          "link": "https://arstechnica.com/?p=1775366",
-          "publishedOn": "2021-06-22T21:59:36.000Z",
-          "wordCount": 1343,
-          "title": "The “loser, B-grade supervillains” are back in new The Suicide Squad trailer"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775200",
-          "author": "Jim Salter",
-          "description": "Today's RISC-V microcontrollers may lead to future RISC-V phones and laptops.",
-          "link": "https://arstechnica.com/?p=1775200",
-          "publishedOn": "2021-06-22T20:39:02.000Z",
-          "wordCount": 1561,
-          "title": "SiFive’s brand-new P550 is one of the world’s fastest RISC-V CPUs"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775362",
-          "author": "Dan Goodin",
-          "description": "Leak shows that, like the rest of the ransomware scourge, Cl0p isn't going away.",
-          "link": "https://arstechnica.com/?p=1775362",
-          "publishedOn": "2021-06-22T20:07:09.000Z",
-          "wordCount": 1002,
-          "title": "A week after arrests, Cl0p ransomware group dumps new tranche of stolen data"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775281",
-          "author": "Corey Gaskin",
-          "description": "You can get a phone with 2020 flagship specs and a 90 Hz display for under $400.",
-          "link": "https://arstechnica.com/?p=1775281",
-          "publishedOn": "2021-06-22T18:24:32.000Z",
-          "wordCount": 863,
-          "title": "The OnePlus 8 for $349 is the best Prime Day smartphone deal"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775299",
-          "author": "Sam Machkovech",
-          "description": "Bad news if you're a Twitch streamer on PS5, though dev says fix is incoming.",
-          "link": "https://arstechnica.com/?p=1775299",
-          "publishedOn": "2021-06-22T17:59:24.000Z",
-          "wordCount": 1020,
-          "title": "Marvel’s Avengers update flashes IP addresses on screen, dev promises fix"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775253",
-          "author": "Ron Amadeo",
-          "description": "Car manufacturing expertise could supercharge Boston Dynamics' commercial hopes.",
-          "link": "https://arstechnica.com/?p=1775253",
-          "publishedOn": "2021-06-22T17:50:00.000Z",
-          "wordCount": 1166,
-          "title": "Boston Dynamics is officially part of Hyundai Motor Group"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775272",
-          "author": "Jon Brodkin",
-          "description": "EC says Google hiding user data from advertisers may violate competition rules.",
-          "link": "https://arstechnica.com/?p=1775272",
-          "publishedOn": "2021-06-22T16:19:40.000Z",
-          "wordCount": 1413,
-          "title": "EU launches antitrust probe into Google banning third-party cookies in Chrome"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775256",
-          "author": "Jonathan M. Gitlin",
-          "description": "Unsurprisingly, EV accessibility is unevenly distributed across the country.",
-          "link": "https://arstechnica.com/?p=1775256",
-          "publishedOn": "2021-06-22T15:08:06.000Z",
-          "wordCount": 967,
-          "title": "These are the 9 worst states to buy an electric car in"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775246",
-          "author": "Financial Times",
-          "description": "Untraceable \"privacy coin\" is rising in popularity among ransomware gangs.",
-          "link": "https://arstechnica.com/?p=1775246",
-          "publishedOn": "2021-06-22T13:35:57.000Z",
-          "wordCount": 1396,
-          "title": "Monero emerges as crypto of choice for cybercriminals"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775212",
-          "author": "Eric Berger",
-          "description": "\"I would simply say, Congress supports SLS and Orion.\"",
-          "link": "https://arstechnica.com/?p=1775212",
-          "publishedOn": "2021-06-22T13:03:47.000Z",
-          "wordCount": 1315,
-          "title": "Congress isn’t happy about SpaceX’s lunar lander and may vent this week"
         }
       ]
     }
