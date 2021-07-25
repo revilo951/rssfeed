@@ -6,6 +6,195 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/or15gv/i_need_some_help_with_security/",
+          "author": null,
+          "description": "Hey, I’m trying to get into self hosting but have some questions. I want to be able to use a custom domain to access the dashboards seeing trying to remanded a IP is annoying.\n Q) Would I be able to use CloudFlare to restrict any requests not from my IP and add records?\n Q) If so, should I or are there better options?\n Q) Would I need to do any port forwarding?\n    submitted by    /u/AlexValid009  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/or15gv/i_need_some_help_with_security/",
+          "publishedOn": "2021-07-25T00:06:29.000Z",
+          "wordCount": 240,
+          "title": "I need some help with security!"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/or0lsk/open_audio_server_turns_any_computer_into_a/",
+          "author": null,
+          "description": "submitted by    /u/openaudioserver  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/or0lsk/open_audio_server_turns_any_computer_into_a/",
+          "publishedOn": "2021-07-24T23:31:17.000Z",
+          "wordCount": 330,
+          "title": "Open Audio Server turns any computer into a Synology \"Audio Station\" with DS Audio apps, web browser interface, remote playback, radio and playlists! (author)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/or03w4/https_on_friendica_giving_mixedcontent_warning/",
+          "author": null,
+          "description": "I'm trying to set up a Friendica node on a raspberry pi. I have an nginx reverse proxy in docker (though the problem also existed when trying Traefik) and I'm using docker for Friendica as well.\n Accessing Friendica via HTTP works fine. Accessing externally via subdomain works fine. Accessing within my LAN gives me a mixed content warning and most of the page doesn't load (unless I add an exception to my browser).\n Inside my network, I run a pi-hole and have used this to set up a DNS record for my site that points to the network IP address of the server.\n Any idea what could cause this issue?\n ETA: I have Nextcloud and Mediawiki set up on the same machine all running fine (internally and externally), so it seems to be specific to Friendica.\n    submitted by    /u/NewYearAccount2021  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/or03w4/https_on_friendica_giving_mixedcontent_warning/",
+          "publishedOn": "2021-07-24T23:00:03.000Z",
+          "wordCount": 350,
+          "title": "HTTPS on Friendica giving mixed-content warning within LAN, works fine accessing externally"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqzua0/self_hosted_dungeons_and_dragons_character_editor/",
+          "author": null,
+          "description": "Is there any decent Dnd docker containers that allow you to write Journals and Store Charactee details? Prefer Web based as I will be playing at a friend's house\n    submitted by    /u/Snoo71600  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqzua0/self_hosted_dungeons_and_dragons_character_editor/",
+          "publishedOn": "2021-07-24T22:43:13.000Z",
+          "wordCount": 165,
+          "title": "Self Hosted Dungeons and Dragons Character Editor and Journal"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqyzpy/issue_jellyfin_and_smb/",
+          "author": null,
+          "description": "Setup:\n Jellyfin is running as a Docker container. The container's media volume is mapped to a directory on the host that is the mount-point to an SMB share hosted on a separate TrueNAS Core server. This mount is configured in fstab.\n This setup has worked fine and I have had no issues until recently. (but maybe this is a garbage setup and I should change?)\n Jellyfin will randomly start returning media playback issues and upon investigating, the mount-point is still there and files/directories are browseable to my login. \n I've restarted the container, rebooted the docker host, and done a umount/mount and will still have the same issue.\n It is not until I login to my NAS, edit the filesystem ACL, click \"apply user\" and \"apply permissions recursively\" that everything will return to normal a…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqyzpy/issue_jellyfin_and_smb/",
+          "publishedOn": "2021-07-24T21:51:58.000Z",
+          "wordCount": 457,
+          "title": "Issue: Jellyfin and SMB"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqxiek/selfhosted_kubernetes_what_do_i_lose_if_i_go_the/",
+          "author": null,
+          "description": "Title pretty much says it all -- I want to set up a Kubernetes cluster at home to teach myself the technology and move a lot of small, non-critical sites and services off my dedicated datacenter hardware.\n Buying a handful of Raspberry Pi 4 boards seems like the lowest-cost route, but I'm not getting a clear picture of how the ARM platform limits me. Are there any major open-source packages that won't run on ARM? Other considerations I'm missing? If I don't go the Pi route, I'd get a handful of USFF PCs, but that ups the price considerably.\n    submitted by    /u/GWBrooks  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqxiek/selfhosted_kubernetes_what_do_i_lose_if_i_go_the/",
+          "publishedOn": "2021-07-24T20:26:02.000Z",
+          "wordCount": 489,
+          "title": "Self-hosted Kubernetes: What do I lose if I go the Pi/ARM route?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqtsf3/why_self_hosting_is_important/",
+          "author": null,
+          "description": "submitted by    /u/CosineTau  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqtsf3/why_self_hosting_is_important/",
+          "publishedOn": "2021-07-24T16:56:26.000Z",
+          "wordCount": 400,
+          "title": "Why self hosting is important"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqrwbe/nextcloud_debian_packaging/",
+          "author": null,
+          "description": "Hello everyone! I'm about to release version 0.1.13 of my Debian packaging for the Nextcloud server. Release candidate 4 is live, right now. For anyone already using it, I moved the repository to:\n  \ndeb https://repo.aerusso.net/apt bullseye main\n  \nI'll do one last release (0.1.13) to the old repository which will warn anyone still using it about changing your sources.list line.\n Changes\n  \nRefreshed settings for Nextcloud 22\n Works with redis, and the new notify_push structure\n The logs are all collected under /var/log/nextcloud-server, instead of spread out in (and mixed into) other places. E.g., all (nextcloud) nginx access log entries go to /var/log/nextcloud-server/nginx\n the nginx confguration files are split up, so (moving forwards) there should be minimal conflicts during upgrades\n lots of little snags and bugs were fixes. Things should run much more smoothly.\n  \nThis installs clean as long as you have port 80/443 open, and the right dns pointing to your machine (really, just apt install nextcloud-server and it's up). Everything is automated!\n I haven't heard back any test results from anyone, so I'm considering just cutting a release. (It's already deployed on two of my own machines, and functioning fine.)\n If you want to test it right now, use this apt-source line\n  \ndeb https://repo.aerusso.net/apt bullseye main rc\n  \nRemove rc at the end of th line, after installing, if you want to fall back to the stable releases I make.\n    submitted by    /u/aerusso  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqrwbe/nextcloud_debian_packaging/",
+          "publishedOn": "2021-07-24T15:11:43.000Z",
+          "wordCount": 564,
+          "title": "Nextcloud Debian Packaging"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqpygq/how_many_of_the_rr_apps_do_you_need_for_a_decent/",
+          "author": null,
+          "description": "That whole stack seems a bit overwhelming, I wish there was a video explaining everything in-depth (maybe there is?). So far for TV and movies I think I would just seen Jellyfin (Plex obviously works too but I prefer Jellyfin), Radarr, Sonarr, and I think Jackett. Am I missing anything?\n    submitted by    /u/OG_potato_gangsta  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqpygq/how_many_of_the_rr_apps_do_you_need_for_a_decent/",
+          "publishedOn": "2021-07-24T13:23:25.000Z",
+          "wordCount": 404,
+          "title": "How many of the *rr apps do you need for a decent media server setup?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqprcf/anyone_selfhosting_vikunja_with_docker_im_getting/",
+          "author": null,
+          "description": "I haven't seen Vikunja thrown around very much so I'm not sure how many of you self host this, but I'm trying to get it working and keep running into 404. I'm using Yacht to get it up and I'm connecting to another container for db (mariadb). Is there a specific URL I'm supposed to go to for first setup?\n Thanks!\n    submitted by    /u/caprinaeAegagrus  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqprcf/anyone_selfhosting_vikunja_with_docker_im_getting/",
+          "publishedOn": "2021-07-24T13:11:07.000Z",
+          "wordCount": 252,
+          "title": "Anyone self-hosting Vikunja with Docker? I'm getting a 404"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqohg0/vaultwarden_on_vpn_ssl_problem/",
+          "author": null,
+          "description": "Trying to self host vaultwarden. I have it working well using a Lets Encrypt cert generated by Ngninx Proxy Manager. However, I'd like to have the public facing Nginx proxy to be setup differently than another proxy pointing to the same instance that is only available via WG/VPN. The trouble I'm running into is if I navigate to the vaultwarden instance via IP:port or a local hostname, vaultwarden kicks back an error because it doesn't have proper SSL/HTTPS connection.\n \"This browser requires HTTPS to use the web vault. Check the Vaultwarden wiki for details on how to enable it\"\n What is the best way around this issue?\n    submitted by    /u/mysterbubbles  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqohg0/vaultwarden_on_vpn_ssl_problem/",
+          "publishedOn": "2021-07-24T11:48:46.000Z",
+          "wordCount": 367,
+          "title": "Vaultwarden on VPN, SSL problem"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqoaqq/set_hosted_netlifylike_options/",
+          "author": null,
+          "description": "So I’ve been looking for a solution to get a few client sites off of Netlify and onto my own hardware for a while now. It seems like something I could probably build in a week or two, but I would be shocked if it didn’t exist already. \n Basically I’m looking for something that will rebuild and deploy static sites behind a reverse proxy. Most of the sites are built with GatbyJS. \n At Netlify the flow goes something like: - git commit pushed - site rebuilt using netlifys sever - site is updated with new build files OR site is pushed to a staging URL\n Has anyone found a selfhosted solution to this?\n    submitted by    /u/eckstazy  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqoaqq/set_hosted_netlifylike_options/",
+          "publishedOn": "2021-07-24T11:34:56.000Z",
+          "wordCount": 263,
+          "title": "Set Hosted Netlify-like Options?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqmxw1/is_there_any_selfhosting_app_for_web_highlighting/",
+          "author": null,
+          "description": "I've been highlighting books with calibre content server, pretty nice\n    submitted by    /u/AppropriateSeesaw1  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqmxw1/is_there_any_selfhosting_app_for_web_highlighting/",
+          "publishedOn": "2021-07-24T09:44:49.000Z",
+          "wordCount": 138,
+          "title": "Is there any selfhosting app for web highlighting such as \"Weava Highlighter\"?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqmlod/nginx_proxy_manager/",
+          "author": null,
+          "description": "Hello everybody,\n I am currently using Caddy for my reverse proxying, but I really do like the look of NPM. I am using cloudflare is it possible to use cloudflare with NPM?\n The reason I am asking is the couple of tutorials I saw is them disabling the cloudflare proxy.\n Hope you guys could answer, thanks in advance :D\n Update: Hello everybody, after some headbanging I was able to set it up,(for people wanting to use it check this one https://github.com/jc21/nginx-proxy-manager/issues/333#issuecomment-762625173). It's very simple you just select DNS Challenge cloudflare enter your token and done.\n    submitted by    /u/Stetsed  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqmlod/nginx_proxy_manager/",
+          "publishedOn": "2021-07-24T09:16:17.000Z",
+          "wordCount": 488,
+          "title": "Nginx Proxy Manager?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqku0u/selfhosted_fish_management/",
+          "author": null,
+          "description": "I’ve just bought a fish tank for my office (having to wait for two weeks before buying any fish, so the tank gets itself ready), and I’m wondering if there’s something I could self-host to keep a record of what fish I’ve purchased. \n Bonus if it would automatically populate the information about the fish.\n    submitted by    /u/DaddyDeveloper  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqku0u/selfhosted_fish_management/",
+          "publishedOn": "2021-07-24T06:48:37.000Z",
+          "wordCount": 1167,
+          "title": "Self-hosted Fish management?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqkrtr/nextcloud_alternative/",
+          "author": null,
+          "description": "Hello, I am looking for a nextcloud alternative which I can selfhost on a RaspberryPi in a docker.\n I was looking at Seeafile but it turns out it only has a docker image for amd64 architecture.\n    submitted by    /u/aaronryder773  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqkrtr/nextcloud_alternative/",
+          "publishedOn": "2021-07-24T06:43:53.000Z",
+          "wordCount": 559,
+          "title": "Nextcloud alternative?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqknh7/vaultwarden_data_path_encrypted/",
+          "author": null,
+          "description": "Is the data which Vaultwarden places in its storage path with Docker encrypted? If the HDD were to be stolen, the data would be unreadable, correct? Thank you.\n https://preview.redd.it/gxya5u74v3d71.png?width=247&format=png&auto=webp&s=0ba52f4ee5c857d199ebf223a72ac11d42b16a98\n    submitted by    /u/Fit_Back_1948  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqknh7/vaultwarden_data_path_encrypted/",
+          "publishedOn": "2021-07-24T06:33:51.000Z",
+          "wordCount": 359,
+          "title": "Vaultwarden data path - encrypted?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqj00l/stash_scraping_help/",
+          "author": null,
+          "description": "Hi. I recently loaded Stash on my NAS via docker. Everything seems to be in order except I can't seem to get scraping to work. I think I'm doing something wrong and need some help. I've loaded in all the scraper scripts into stash and using a Firefox string for the scraping agent. As I import (a select import to test things) media files, nothing is scraped--even easily parsed filenames. What am I missing here? Thanks.\n    submitted by    /u/idoiteverywhere  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqj00l/stash_scraping_help/",
+          "publishedOn": "2021-07-24T04:31:03.000Z",
+          "wordCount": 225,
+          "title": "Stash Scraping Help?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqio94/raspberry_pi_as_thin_client/",
+          "author": null,
+          "description": "Hi, I'm looking to setup a proxmox server, hosting various services - one of which will be a Linux desktop VM as I read using a pi as a desktop is not really powerful enough. I want to use a pi as a thin client to use the desktop VM hosted on my proxmox server as a fully fledged desktop. Any ideas what I'll need to make this happen? Thanks\n    submitted by    /u/redfoot0  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqio94/raspberry_pi_as_thin_client/",
+          "publishedOn": "2021-07-24T04:08:44.000Z",
+          "wordCount": 209,
+          "title": "Raspberry Pi as thin client"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqht0w/there_was_a_post_on_here_a_few_months_ago_and_i/",
+          "author": null,
+          "description": "A few months back somebody posted a self hosted solution that was very similar to something like Touch Tunes (people can pick from their phone music and move it up and down based on votes etc)\n I have searched and cant find it, does anybody remember or know the name of it?\n    submitted by    /u/reddit_dumpsterfire  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqht0w/there_was_a_post_on_here_a_few_months_ago_and_i/",
+          "publishedOn": "2021-07-24T03:10:49.000Z",
+          "wordCount": 201,
+          "title": "There was a post on here a few months ago and I cant find it now, please help?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oqgmlr/looking_for_a_tool_to_host_multiple_static/",
+          "author": null,
+          "description": "Hello, guys! \n I've been looking for an awesome open source project to host multiple static websites (multiple domains) with an auto SSL certificate upgrade (with LetsEncrypt)! These days, hosting services (like GoDaddy or Namecheap) still demand a little pocket money just for SSL certification! So I want to start my own server! And I am a still noob on Linux but I've started falling in love with it lol\n ​\n Here are what I want to do:\n  \n*Install the service on a Ubuntu machine (Docker preferred)*\n Go to the machine IP on my browser\n *Easy manage screen and everything.html*\n Add my domains\n Upload website files (HTML, CSS, JS, ...) for each of the domains through FTP\n Turn on the auto SSL upgrade feature\n  \n​\n This is pretty much it!\n Please help me find out the solution!\n ​\n THANK YOU, GUYS!\n    submitted by    /u/singularityissonear  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oqgmlr/looking_for_a_tool_to_host_multiple_static/",
+          "publishedOn": "2021-07-24T01:57:12.000Z",
+          "wordCount": 528,
+          "title": "Looking for a tool to host multiple static websites with LetsEncrypt support!"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/oqd7wt/looking_to_get_into_selfhosting/",
           "author": null,
           "description": "One of the main things I'd like to do is replace google drive. Got nextcloud running on a raspberry pi and its working great. When it comes to accessing it from outside the network I've seen people here reccomending using wireguard. I've read some guides which cover the setup but i still have 2 main questions.\n  \nDo I need to do any port forwarding\n How would I access nextcloud through wireguard? If I have it hosted at localhost:2771 and assigned the ip 10.0.0.1 to the wireguard server would I go to 10.0.0.1:2771 in my browser?\n  \n   submitted by    /u/cummeistervonsemen  \n [link]   [comments]",
@@ -5044,195 +5233,6 @@
           "publishedOn": "2021-06-25T14:16:13.000Z",
           "wordCount": 527,
           "title": "Jellyfin and VPN"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7m15g/hosting_steamcmd_games_with_dsl_lite/",
-          "author": null,
-          "description": "I am hosting a game server for some friends at home. In order for my friends to join, I had to do some trickery like described in this thread. This works fine for Terraria and Minecraft. \n The problem is that I can't seem to get this working with steamcmd games. I have tried this with Garrys Mod, Valheim and Ark Survival.\n I can join these games locally, but joining from outside the network is not possible.\n Ark Docker: \n version: '3' services: ark: image: jkread/arkserver:latest container_name: ark3 network_mode: bridge restart: always ports: - 7777:7777 - 7777:7777/udp - 7778:7778 - 7778:7778/udp - 7779:7779 - 7779:7779/udp - 27015:27015 - 27015:27015/udp volumes: - /home/myuser/container/ark3/ark:/ark - /home/myuser/container/ark3/steam:/home/steam environment: - TZ=Europe/Berlin - am_a…",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7m15g/hosting_steamcmd_games_with_dsl_lite/",
-          "publishedOn": "2021-06-25T11:43:41.000Z",
-          "wordCount": 364,
-          "title": "Hosting steamcmd games with DSL Lite"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7ky9a/best_simple_way_to_stream_media_from_rpi_to/",
-          "author": null,
-          "description": "I've got a raspberry pi 4 with some media in it. What's the best way to stream those media to a chromecast?\n I would like to avoid plex, kodi, jellyfin etc. because I dont really need all their features. I Just want a way to pick up my smarphone and stream the medias to my crhomecast. The simplier the better. \n What's about an android filemager accessing via ssh my pi and stream from vlc?\n    submitted by    /u/gaggina  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7ky9a/best_simple_way_to_stream_media_from_rpi_to/",
-          "publishedOn": "2021-06-25T10:24:33.000Z",
-          "wordCount": 278,
-          "title": "Best (simple) way to stream media from RPI to chromecast?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7ktrn/ssd25hd35hd_reliability_and_raid_level_comparison/",
-          "author": null,
-          "description": "From a reliability pov, how do these 3 compare ? - typical 1TO 2.5 SATA SSD - cheapest 2TO 2.5 SATA HDD - cheapest 4TO 3.5 SATA HDD\n I use raidz3 (ZFS RAID with 3 drives for parity) on my 3.5 hard drives. \n What would you use in comparison for 2.5 HD and SSDs ?\n    submitted by    /u/GrilledGuru  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7ktrn/ssd25hd35hd_reliability_and_raid_level_comparison/",
-          "publishedOn": "2021-06-25T10:14:31.000Z",
-          "wordCount": 265,
-          "title": "SSD/2.5HD/3.5HD Reliability and Raid level comparison ?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7kbda/help_in_setting_up_a_reverse_proxy_server/",
-          "author": null,
-          "description": "I'm building some servers using proxmox which will include Pi-Hole, Jellyfin (which should be accessible from outside the network), cloud storage, a wiki... To access Jellyfin from the outside I was planning on using reverse proxy on the same container I was holding Jellyfin, but I'm thinking of having a server do all the proxy of the whole network (so I can avoid having to write down the ports every time I have to enter the interface of something).\n But I have no idea how to do that. First I'm doubting whether I should use Nginx, Apache, Caddy (since I've heard it's fairly easy to setup) or something like Traefik, and once chosen that how I'd have to make it so everything goes through the proxy to then be redirected.\n Any tips or suggestions?\n    submitted by    /u/Stasky-X  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7kbda/help_in_setting_up_a_reverse_proxy_server/",
-          "publishedOn": "2021-06-25T09:32:24.000Z",
-          "wordCount": 903,
-          "title": "Help in setting up a reverse proxy server"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7jusi/which_is_the_best_selfhosted_wiki_for_a_sbc/",
-          "author": null,
-          "description": "Hi,\n I have an Odroid-XU4 with Ubuntu 18.04.5. I am currently using it as self-hosted cloud with Nextcloud. Now I would like to implement a wiki. I have seen DokuWiki, Wiki.js, and BookStack. However, I can't find any tutorial for installing any of them on a RPI/Odroid. \n Which self-hosted wiki might be better suited for an Odroid-XU4? Do you know any resource for helping me with the installation?\n Thanks in advanced!\n    submitted by    /u/cascoded1903  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7jusi/which_is_the_best_selfhosted_wiki_for_a_sbc/",
-          "publishedOn": "2021-06-25T08:54:55.000Z",
-          "wordCount": 289,
-          "title": "Which is the best self-hosted wiki for a SBC (Odroid-XU4)?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7jc53/failed_dmarc_and_spf_from_ip_addresses_from_kenya/",
-          "author": null,
-          "description": "Hi guys, \n some time Last night I received a dmarc report from mail.ru. According to the report, three IP addresses from Laos and Kenya tried to send e-mails impersonating my domain name, as SPF and DKIM all failed.\n A friend of mine, who also self hosts his email did also receive a dmarc report for his domain, also from mail.ru.\n I guess someones currently trying to mass-impersonate?\n Are there any of you guys, that also received such a report? \n As far as I know there is not much I can do prevent them from pulling this kind of shit, is it?\n Does stuff like this happen often? I've only been selfhosting my email for about a year now and I've never seen a dmarc report that I didn't trigger myself...\n The IP addresses are: \n  \n115.84.76.144\n 41.90.244.243\n 154.79.254.144\n 45.164.140.147\n 90.189.165.5\n  \nCheers,\n    submitted by    /u/Wixxkrabbe  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7jc53/failed_dmarc_and_spf_from_ip_addresses_from_kenya/",
-          "publishedOn": "2021-06-25T08:11:55.000Z",
-          "wordCount": 1160,
-          "title": "Failed DMARC and SPF from IP addresses from Kenya, Laos and Brazil"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7ham9/selfhosted_imapsmtp_autoresponder/",
-          "author": null,
-          "description": "Hi there!\n I'm looking for a selfhosted autoresponder for multiple mail accounts from different providers. \n Not all of them are offering decent autoresponder settings on the server side.\n The autoresponder would have to check for new emails over imap and then send autoresponds over smtp.\n Basically just like an email client with filters, but running on a 24-7 server - and not interfering with the actual email clients.\n Does anyone know a good solution?\n Thanks in advance\n edit: my google searches return a lot of newsletter tools. I'm not looking for anything newsletter related. Just a simple \"I'm on vacation\" Message on incoming email.\n in Germany we use the term autoresponder for it. This maybe wrong. I'm looking for a tool that sends \"out of office\" notices\n    submitted by    /u/soooker  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7ham9/selfhosted_imapsmtp_autoresponder/",
-          "publishedOn": "2021-06-25T05:32:10.000Z",
-          "wordCount": 355,
-          "title": "Selfhosted IMAP/SMTP Autoresponder"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7d5p6/recommend_me_a_setup_for_a_centralized_life/",
-          "author": null,
-          "description": "I dream of having some sort of home page with metrics about personal goals, calendar events, and other services. Because I'd like it to be open-source, I looked into Nextcloud, which is awesome but it lacks goal-tracking and a wiki, which I'd really like to have. I have also looked into \"Personal Management System\", which looks really interesting, but it lacks the community behind Nextcloud in order to earn my trust to use it in the long run. Ideally it would be awesome to be able to visualize all aspects of life, while retrieving this data from the top services of each category. Imagine a home page with a Kanboard from WeKan, storage from Nextcloud, goal tracking (maybe Nomie?), some notes in form of a wiki...\n ​\n What sort of set up would you recommend that satisfies this, or at least gets close to it? Sorry if I make some mistakes, English is not my first language.\n ​\n ** Maybe someone may suggest that I should contribute to some of these projects in order to create the features I wish to see. I would love to, however at this moment in time I lack the necessary skills.\n ** EDIT **\n Let me clarify for those who didn't get the gist of what I'm trying to communicate: I'm looking for something analogous to what Android/iOS is to Widgets. \n You have a main screen that show information and functionalities from the system or third party services/apps that are easily visualized and/or manipulated. So far I found Nextcloud+nextcloud apps to satisfy most of these needs, but I still miss some resources as mentioned above. Thank you!\n ​\n    submitted by    /u/uxK86wCiuWq11av  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7d5p6/recommend_me_a_setup_for_a_centralized_life/",
-          "publishedOn": "2021-06-25T00:59:29.000Z",
-          "wordCount": 707,
-          "title": "Recommend me a setup for a centralized life management and visualization?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7b8wf/networking_issue/",
-          "author": null,
-          "description": "I probably did this to myself but I cannot figure this out and once again my Google fu is coming up short. \n I have the following:\n A home pc for photo editing, video editing, day to day work/internet etc A gaming pc that’s purely for gaming A work windows laptop A MacBook\n Also my server “farm” consists of 3 Ubuntu servers. \n Last night I noticed my internet was lagging and downloading large amounts of data and I couldn’t figure out why. Usually it’s sonarr or radarr or sometimes it’s someone downloading tv shows off of Plex. \n When I ruled out that none of that was happening I installed wire shark and another program to see if I could see what was happening. I couldn’t. \n So just for giggles I rebooted every server. And that didn’t help so figured it was one of my other devices. I shut t…",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7b8wf/networking_issue/",
-          "publishedOn": "2021-06-24T23:11:03.000Z",
-          "wordCount": 546,
-          "title": "Networking issue"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o79vcn/methods_for_rebuilding_plex_media_collection/",
-          "author": null,
-          "description": "Posting here at the recommendation on another subreddit. \n I have about 1500 movie/TV Series library all on DVD's/BD. I took the time to rip the entire library. I took my time and it took me about 3 years to rip and convert it. Unfortunately a good 2/3 of the files were corrupted because of a bad RAID set up I was using at the time. I have since upgraded to a 4K TV and set up the latest Apple TV and I wanted to rebuild my library. I'm wondering if there's a better way to do this. Not only is ripping/transcoding time consuming, but now that I finally own a 4K HDR TV, there's no pointing re-ripping my DVD collection. I have hard copies, so I think licensing isn't an issue. I also have a spreadsheet with name of every movie I own with IMDB link. Is there a better way to do this? Torrent? How would I automate this on my TrueNAS and just have it slowly rebuild it overtime...mostly unattended of course. Is this possible?\n    submitted by    /u/luckyal1979  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o79vcn/methods_for_rebuilding_plex_media_collection/",
-          "publishedOn": "2021-06-24T20:58:25.000Z",
-          "wordCount": 546,
-          "title": "Methods for rebuilding Plex media collection"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o79pmh/question_regarding_using_cellphone_data_plan_via/",
-          "author": null,
-          "description": "Hey there,\n I was thinking to host a few projects using a cellphone internet data plan as a failover when my actual internet is out.\n Can anyone point me in the right direction as to a good device to route a cellphone internet plan, and basically make a hotspot for home usage?\n I think I looked this up before, and the decent one I think is like $500, but I can't remember the dang name of the device.\n Also, are there even cellphone providers that allow this?\n Thanks!\n    submitted by    /u/BackToPlebbit69  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o79pmh/question_regarding_using_cellphone_data_plan_via/",
-          "publishedOn": "2021-06-24T20:49:17.000Z",
-          "wordCount": 229,
-          "title": "Question Regarding Using Cellphone Data Plan Via Hotspots Based For Self Hosted Projects"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o796py/node_redhome_asistantguacomolegrafnantopng_lan/",
-          "author": null,
-          "description": "Hi All,\n ​\n I run docker on my synology nas along with a few containers, including the above. Within the containers i sometimes have a hard time accessing lan devices. For instance, if i am using node red and i put a tp link kasa node, it finds nothing. If i were to run node red on my raspberry pi and apply the same node it finds all my lan tp link smart plugs. Besides adding the containers to a macvlan on the synology nas, is there any other way to get around this issue? I created a macvlan, but now the issue is whenever i connect to my home vpn (it runs on the same nas as docker) i can not access those ips on the macvlan.\n ​\n Thank you.\n    submitted by    /u/kritikosxamos  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o796py/node_redhome_asistantguacomolegrafnantopng_lan/",
-          "publishedOn": "2021-06-24T20:22:12.000Z",
-          "wordCount": 234,
-          "title": "Node Red/Home Asistant/Guacomole/Grafna/ntopng Lan Issue"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o78sev/dronemap_selfhosted_web_app_to_explore_dji_drone/",
-          "author": null,
-          "description": "Hi there!\n Over the past week or two I have been working on a web application that allows you to explore your DJI drone footage on a map! I am finally confident enough to tell you about it, so that those interested can test it and try it for themselves. \n In order for it to work the footage has to have been shot with the subtitle telemetry settings enabled.\n https://github.com/vimodev/dronemap\n https://hub.docker.com/r/vimodev/dronemap\n Features\n  \nFootage directory scanning\n Automatic parsing and analysis of DJI footage\n Exploration of extracted datapoints on a map\n Filtering map markers based on footage attributes\n Watching raw footage from which data points originated\n  \nScreenshots\n Example usage.\n Satellite view.\n OpenStreetMap view.\n Inspecting a datapoint.\n ​\n Viewing datapoint origin in original footage.\n Remarks\n  \nThe styling is lackluster due to my personal disregard for design. It can of course be improved in due time.\n It has been developed with and tested for DJI Mini 2 footage only. I have no other footage available to me. I am running with the assumption that other DJI footage is in the same format with regards to the subtitled data points DJI optionally includes.\n If you encounter any issues please submit them on github.\n  \n   submitted by    /u/Placeless  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o78sev/dronemap_selfhosted_web_app_to_explore_dji_drone/",
-          "publishedOn": "2021-06-24T20:01:57.000Z",
-          "wordCount": 314,
-          "title": "DroneMap: Self-hosted web app to explore DJI drone footage geographically"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o76ycr/security_of_cloud_firewalls/",
-          "author": null,
-          "description": "I am just wondering about something, if we have an EC2 instance with Public IP, IP Tables enabled and for example I want to expose a single service on one port, accessible only from my VPN with Static IP, will it be safe if I only open ONE port only for the PublicIP of the VPN machine?\n In summary I am asking if the cloud firewall (security list) will be enough to protect my machine with Public IP...\n    submitted by    /u/LeastDelay7908  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o76ycr/security_of_cloud_firewalls/",
-          "publishedOn": "2021-06-24T18:30:52.000Z",
-          "wordCount": 193,
-          "title": "Security of Cloud Firewalls"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o751zh/looking_to_selfhost_videos/",
-          "author": null,
-          "description": "Hi there! I'm really new into this but I'm looking for solutions to self-host videos that users can watch. The only requirement is that users have to be logged in to view them and some sort of comment system should be available. Is there anything out there? Preferably a free solution (not counting the costs for hosting it).\n    submitted by    /u/Zaseth  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o751zh/looking_to_selfhost_videos/",
-          "publishedOn": "2021-06-24T16:59:30.000Z",
-          "wordCount": 159,
-          "title": "Looking to self-host videos"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7478c/dynamic_dns_service_free_alternatives/",
-          "author": null,
-          "description": "Hi everyone, first time posting to this sub. I've spent the last week scouring the interwebs and I haven't found anyone talking about what I'm trying to do. Any help would be very greatly appreciated. \n I'm trying to connect two remote locations together. Both locations have a dynamic IP address. Everything I've seen so far has suggested using a Dynamic DNS service or buying a domain name and using a free Dynamic DNS. Those are great ideas but I know there's got to be a way to do this for free. If it can't be done, then it can't be done, but purely on principle I feel like it's total bullshit that there's no free alternatives that don't rely on the whim of an ISP or third party services. \n This is what I was thinking, neither IP changes all that frequently, maybe once every month or 2. Additionally, it seems very unlikely that both IP's would change at exactly the same time. Would it be possible to run an automatic process at both locations that would constantly update their IP's to one another? \n So we have location A and location B that constantly talk to each other and update the IP address. At location A, the IP address changes. Now, location B doest know the new IP address of location A. Because the two IP's didn't change at the same time, location A still knows the IP address of location B and subsequently can send the updated IP address. \n Anyone know if anything like this exists or have any ideas for free alternatives? \n On a side note, I have an old TPlink Archer A9 that I'm not using, it has a free Built-in ddns with tp-link. I switched over to an edge router. Is there anyway I could put the A9 in a DMZ on the network and have it only for updating the ddns? Could I switch to IPV6?\n Honestly, any free and automated ideas would be perfect. Would love to hear what you guys and gals think!\n Thanks again\n    submitted by    /u/chooseausername69251  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7478c/dynamic_dns_service_free_alternatives/",
-          "publishedOn": "2021-06-24T16:17:42.000Z",
-          "wordCount": 913,
-          "title": "Dynamic DNS Service: Free Alternatives?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o71a7o/looking_for_alternative_to_archiveboxio/",
-          "author": null,
-          "description": "I'm hosting a private instance of ArchiveBox, a great way to safe and preserve internet articles offline. It is however increasingly unusable when websites are behind a cookie-wall.\n Is there a similar self-hosted private offline webpage archiving solution that is specifically designed to accept all cookies (and preferably block ads from being archived as well)? For example, The Internet Archive (archive.org) does this somewhat better.\n    submitted by    /u/Redsandro  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o71a7o/looking_for_alternative_to_archiveboxio/",
-          "publishedOn": "2021-06-24T13:50:54.000Z",
-          "wordCount": 202,
-          "title": "Looking for alternative to archivebox.io"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o719bu/so_everyone_is_posting_about_their_dashboard_here/",
-          "author": null,
-          "description": "submitted by    /u/wntsmk  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o719bu/so_everyone_is_posting_about_their_dashboard_here/",
-          "publishedOn": "2021-06-24T13:49:34.000Z",
-          "wordCount": 157,
-          "title": "So everyone is posting about their dashboard, here is mine"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o712f8/and_the_journey_begins/",
-          "author": null,
-          "description": "submitted by    /u/nicnic2001  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o712f8/and_the_journey_begins/",
-          "publishedOn": "2021-06-24T13:38:52.000Z",
-          "wordCount": 280,
-          "title": "And the journey begins…"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o70tyc/looking_for_selfhosted_imgslicom_alternative/",
-          "author": null,
-          "description": "Hey guys I'm looking for self hosted website when I can upload and compare images like you can do with imgsli just self hosted. Best with docker and some account system so I can give access to friends.\n    submitted by    /u/Madiator2011  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o70tyc/looking_for_selfhosted_imgslicom_alternative/",
-          "publishedOn": "2021-06-24T13:25:51.000Z",
-          "wordCount": 147,
-          "title": "Looking for self-hosted imgsli.com alternative"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o70i92/ideas_no_promises_what_service_do_you_wish_was/",
-          "author": null,
-          "description": "Long story short was in the title. \n I recently purchased https://www.alltheviruses.com and am looking to provide some \"lightly used\" service that would beneficial to the community. \n I could host a url shortener, but that's not a very short url..\n I could run a Pilk instance https://pilk.root.gg/#/ but I think that could be misused.\n I am willing to simply host a site that explains the differences between malware and viruses. \n Point is I own it for a year, and wouldn't mind giving back to the community at large. What services do you wish you had? What level of service would you be willing to trust such a outlandish url? How many of you thought it was just as funny as I?\n    submitted by    /u/Fimeg  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o70i92/ideas_no_promises_what_service_do_you_wish_was/",
-          "publishedOn": "2021-06-24T13:07:08.000Z",
-          "wordCount": 316,
-          "title": "Ideas - no promises. What service do you wish was hosted on alltheviruses.com? Wanting to give back to the community, and couldn't help but buy a funny domain."
         }
       ]
     },
@@ -5741,15 +5741,6 @@
           "publishedOn": "2021-06-25T14:33:33.000Z",
           "wordCount": 993,
           "title": "How to Cancel Pending API Requests to Show Correct Data"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342818",
-          "author": "Jay Hoffmann",
-          "description": "In April of 2009, Yahoo! shut down GeoCities. Practically overnight, the once beloved service had its signup page replaced with a vague message announcing its closure.\nWe have decided to discontinue the process of allowing new customers to sign up \n…\nThe post Chapter 9: Community appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/chapter-9-community/",
-          "publishedOn": "2021-06-24T14:30:11.000Z",
-          "wordCount": 6342,
-          "title": "Chapter 9: Community"
         }
       ]
     },
@@ -6090,48 +6081,6 @@
           "title": "Creating Custom Emmet Snippets In VS Code",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
-          "author": "hello@smashingmagazine.com (Dom Habersack)",
-          "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
-          "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
-          "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5443,
-          "title": "Creating A Multi-Author Blog With Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
-          "author": "hello@smashingmagazine.com (Mark Lankmilier)",
-          "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
-          "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
-          "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3522,
-          "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
-          "author": "hello@smashingmagazine.com (Josh Singer)",
-          "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
-          "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
-          "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4172,
-          "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -6826,24 +6775,6 @@
           "publishedOn": "2021-06-28T13:44:39.000Z",
           "wordCount": 806,
           "title": "Why You Should Learn Data Analytics"
-        },
-        {
-          "id": "60d3ee396e1a1407b6b0b6ef",
-          "author": null,
-          "description": "Let's go over the most common mistakes you might be making in your React code right now, plus how to fix them. If you want to create amazing React applications, it's essential to avoid many common errors along the way. In this article, we'll not only cover how to fix",
-          "link": "https://www.freecodecamp.org/news/common-react-mistakes-and-how-to-fix-them/",
-          "publishedOn": "2021-06-24T17:01:44.000Z",
-          "wordCount": 1511,
-          "title": "4 Common React Mistakes You Might Be Making – And How to Fix Them"
-        },
-        {
-          "id": "60d4b5e96e1a1407b6b0bac4",
-          "author": null,
-          "description": "If you want good performance in your application, you need to collect data to figure out where to make improvements. That's where OpenTelemetry comes in. OpenTelemetry offers a single set of APIs and libraries that standardize how you collect and transfer telemetry data. OpenTelemetry provides a specification for instrumentation so",
-          "link": "https://www.freecodecamp.org/news/how-to-use-opentelemetry/",
-          "publishedOn": "2021-06-24T16:50:36.000Z",
-          "wordCount": 9777,
-          "title": "How to Use OpenTelemetry to Understand Software Performance"
         }
       ]
     },
@@ -6852,6 +6783,60 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1782046",
+          "author": "Jennifer Ouellette",
+          "description": "Director M. Night Shyamalan's latest film was inspired by a French graphic novel.",
+          "link": "https://arstechnica.com/?p=1782046",
+          "publishedOn": "2021-07-24T19:45:34.000Z",
+          "wordCount": 1743,
+          "title": "Review: Old is a mostly solid film undermined by jarring twist ending"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782739",
+          "author": "Ars Staff",
+          "description": "Dealmaster has deals on Mass Effect, Halo, The Last of Us, Returnal, and more.",
+          "link": "https://arstechnica.com/?p=1782739",
+          "publishedOn": "2021-07-24T15:11:57.000Z",
+          "wordCount": 1955,
+          "title": "The best deals from PlayStation’s and Xbox’s latest summer game sales"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782537",
+          "author": "Ars Contributors",
+          "description": "A comprehensive analysis shows that warmer temperatures aren't the only threat.",
+          "link": "https://arstechnica.com/?p=1782537",
+          "publishedOn": "2021-07-24T13:00:47.000Z",
+          "wordCount": 1330,
+          "title": "Nuclear power’s reliability is dropping as extreme weather increases"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1781460",
+          "author": "Corey Gaskin",
+          "description": "New remotes bring sensible upgrades, but only if you're tied to these streamers.",
+          "link": "https://arstechnica.com/?p=1781460",
+          "publishedOn": "2021-07-24T11:45:50.000Z",
+          "wordCount": 2429,
+          "title": "Apple and Roku have newly upgraded streaming remotes—are they worth buying?"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782695",
+          "author": "WIRED",
+          "description": "The Games could provide a place for variants to spread and return home with athletes.",
+          "link": "https://arstechnica.com/?p=1782695",
+          "publishedOn": "2021-07-24T10:36:13.000Z",
+          "wordCount": 3115,
+          "title": "The Tokyo Olympics could be a COVID-19 “super evolutionary event”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782592",
+          "author": "WIRED",
+          "description": "Amnesty International sheds alarming light on an NSO Group surveillance tool.",
+          "link": "https://arstechnica.com/?p=1782592",
+          "publishedOn": "2021-07-24T09:30:23.000Z",
+          "wordCount": 1868,
+          "title": "An explosive spyware report shows limits of iOS, Android security"
+        },
         {
           "id": "https://arstechnica.com/?p=1782594",
           "author": "Jennifer Ouellette",
@@ -9596,105 +9581,6 @@
           "publishedOn": "2021-06-25T13:10:24.000Z",
           "wordCount": 864,
           "title": "Competition watchdog to probe Google and Amazon over fake reviews"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776079",
-          "author": "Eric Berger",
-          "description": "\"We saw something we didn’t understand and didn’t expect to happen.\"",
-          "link": "https://arstechnica.com/?p=1776079",
-          "publishedOn": "2021-06-25T11:00:53.000Z",
-          "wordCount": 1614,
-          "title": "Rocket Report: China to copy SpaceX’s Super Heavy? Vulcan slips to 2022"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775882",
-          "author": "Ron Amadeo",
-          "description": "Google entices multimillion-dollar media apps with a 15 percent Play Store fee.",
-          "link": "https://arstechnica.com/?p=1775882",
-          "publishedOn": "2021-06-25T10:45:51.000Z",
-          "wordCount": 886,
-          "title": "Google to Android devs: Support more form factors, get a higher sales cut"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776140",
-          "author": "Beth Mole",
-          "description": "Experts stress the need for everyone to get vaccinated as the Delta variant spreads.",
-          "link": "https://arstechnica.com/?p=1776140",
-          "publishedOn": "2021-06-24T22:18:44.000Z",
-          "wordCount": 2176,
-          "title": "Here’s all the data on myocarditis cases linked to COVID-19 vaccines"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776180",
-          "author": "Dan Goodin",
-          "description": "Storage-device maker advises customers to unplug My Book Lives from the Internet ASAP.",
-          "link": "https://arstechnica.com/?p=1776180",
-          "publishedOn": "2021-06-24T22:10:47.000Z",
-          "wordCount": 1049,
-          "title": "“I’m totally screwed.” WD My Book Live users wake up to find their data deleted"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776089",
-          "author": "John Timmer",
-          "description": "Newly described bones have a mix of Neanderthal and older features.",
-          "link": "https://arstechnica.com/?p=1776089",
-          "publishedOn": "2021-06-24T21:17:34.000Z",
-          "wordCount": 1133,
-          "title": "The human family tree keeps getting more complicated"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776055",
-          "author": "Jon Brodkin",
-          "description": "Judiciary Committee takes on Big Tech, but full House and Senate votes remain.",
-          "link": "https://arstechnica.com/?p=1776055",
-          "publishedOn": "2021-06-24T20:40:37.000Z",
-          "wordCount": 1829,
-          "title": "House committee approves bill that could break up Amazon, Apple, and Google"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776057",
-          "author": "Dan Goodin",
-          "description": "Authentication bypass attacks allow hackers to change breach network security.",
-          "link": "https://arstechnica.com/?p=1776057",
-          "publishedOn": "2021-06-24T20:05:35.000Z",
-          "wordCount": 967,
-          "title": "Hackers are using unknown user accounts to target Zyxel firewalls and VPNs"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775951",
-          "author": "Ron Amadeo",
-          "description": "With regulators, privacy advocates, and major websites condemning FLoC, Google relents.",
-          "link": "https://arstechnica.com/?p=1775951",
-          "publishedOn": "2021-06-24T19:48:09.000Z",
-          "wordCount": 905,
-          "title": "Google delays FLoC rollout until 2023"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775968",
-          "author": "Sam Machkovech",
-          "description": "Here's what you'll need to get some (but not all) of Series X's jumps on a Win11 PC.",
-          "link": "https://arstechnica.com/?p=1775968",
-          "publishedOn": "2021-06-24T19:05:25.000Z",
-          "wordCount": 1144,
-          "title": "DirectStorage on Windows 11: Next-gen gaming performance, with PC requirements"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1770375",
-          "author": "Jennifer Ouellette",
-          "description": "Surprise Netflix hit is based on character created by French novelist Maurice LeBlanc.",
-          "link": "https://arstechnica.com/?p=1770375",
-          "publishedOn": "2021-06-24T18:31:47.000Z",
-          "wordCount": 1566,
-          "title": "Review: Omar Sy shines brighter than ever as gentleman thief in Lupin Part 2"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775943",
-          "author": "Jim Salter",
-          "description": "Windows 11 should be a free upgrade for most licensed Windows 10 users.",
-          "link": "https://arstechnica.com/?p=1775943",
-          "publishedOn": "2021-06-24T18:07:02.000Z",
-          "wordCount": 2030,
-          "title": "Windows 11 is much more than a new theme slapped onto Windows 10"
         }
       ]
     }
