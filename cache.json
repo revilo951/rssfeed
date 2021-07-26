@@ -6,6 +6,213 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orndhl/discord_alternatives_mostly_for_gaming_screen/",
+          "author": null,
+          "description": "I enjoy screen sharing my games when on calls but Discord lags the streams to hell and flickers green every couple seconds. I know for a fact it isn't my Wi-Fi, nor my PC's capability. I've tried restarting the screen share streams, resetting my router, restarting both Discord and the games I play, dropping graphics quality in-game, and I even read that dropping my displays form 144 Hz to 60 helps but it didn't do much. \n Any solutions? Or any app alternatives?\n    submitted by    /u/ComprehensiveFoot359  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orndhl/discord_alternatives_mostly_for_gaming_screen/",
+          "publishedOn": "2021-07-26T00:12:48.000Z",
+          "wordCount": 213,
+          "title": "Discord alternatives? Mostly for gaming screen share"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ormjjq/opensource_linux_selfhosted_auto_repair_shop/",
+          "author": null,
+          "description": "Hi, Looking for an open source linux selfhosted software for an auto repair shop, any suggestions?????\n    submitted by    /u/lemrid  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ormjjq/opensource_linux_selfhosted_auto_repair_shop/",
+          "publishedOn": "2021-07-25T23:23:15.000Z",
+          "wordCount": 156,
+          "title": "Opensource linux selfhosted auto repair shop softwaare"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orlxgp/monitoring_zfs_pools_health_performance/",
+          "author": null,
+          "description": "submitted by    /u/norsemanGrey  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orlxgp/monitoring_zfs_pools_health_performance/",
+          "publishedOn": "2021-07-25T22:49:38.000Z",
+          "wordCount": 203,
+          "title": "Monitoring ZFS Pools Health / Performance"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orlqyd/snipeit_and_traefik/",
+          "author": null,
+          "description": "Hi All, was looking to run a home inventory system. I didn't like how grocy was so specifc on shopping lists and pantry items. Based on the comparions others had done, it seemed like Snipe-IT was the best option. I was able to get it up and running in a docker, but I can't seem to get traefik working to set up a custom host name. Has anyone had any success doing this before that can share an example?\n    submitted by    /u/phoenix3885  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orlqyd/snipeit_and_traefik/",
+          "publishedOn": "2021-07-25T22:39:09.000Z",
+          "wordCount": 197,
+          "title": "Snipe-IT and Traefik"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orldz3/self_hosted_software_robot_assistant/",
+          "author": null,
+          "description": "I'm looking for a little software robot assistant that can fetch and monitor things on the internet for me. Sort of a cross between a landing page and a bot. This is what gave me the idea.\n ​\n https://www.microsoft.com/en-us/garage/blog/2021/07/a-new-digital-assistant-for-your-browser-with-stay-current-a-microsoft-garage-project/\n ​\n Anyone know of anything?\n ​\n thanks\n -q\n    submitted by    /u/quazidonk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orldz3/self_hosted_software_robot_assistant/",
+          "publishedOn": "2021-07-25T22:19:33.000Z",
+          "wordCount": 199,
+          "title": "Self hosted software robot assistant?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orl33o/roundcube_as_gmail_frontend/",
+          "author": null,
+          "description": "I just checked Roundcube (after several years) and those guys worked really hard. The web interface looks superb to me. Also a lots of plugins.\n I still dont think there is a way how to run own mail solution without headaches but I think I can make a small step forward and start using a new face for my gmail accounts.\n I wanna ask if anyone of you has experience with Roundcube + gmail and if so how does it work? Contacts, labels, folders, threads... I wanna still use gmail app on my phone so these 2 frontends needs to be 100% compatible (Roundcube not making mess in gmail).\n    submitted by    /u/n1___  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orl33o/roundcube_as_gmail_frontend/",
+          "publishedOn": "2021-07-25T22:02:44.000Z",
+          "wordCount": 254,
+          "title": "Roundcube as Gmail frontend"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orilxo/selfhosted_email_deliverability_issues_to/",
+          "author": null,
+          "description": "I've been self-hosting my email on OpenBSD using OpenSMTPd for a couple of months now and seem to be running into more frequent deliverability issues, specifically to outlook.com (which many of the companies I'm emailing seem to use).\n I've got SPF, DKIM and DMARC configured and the IP address of my SMTP server is not on any blacklist that I can easily query using tools like mxtoolbox.\n The problem seems to occur only when sending to relays with FQDNs like `host1eu.outlookprotection.com`, I'm assuming this is hosted O356. I know that Microsoft is notorious for blacklisting entire subnets but as far as my SMTP server is concerned the emails get delivered successfully (the outlook host always returns a 250 status), it's just that they end up in the spam folder.\n This is very annoying, because if outlook just refused the email from my SMTP server, at least I'd have an indication that something went wrong. Alas I never know whether my email made it or not.\n Because of this I've already set up another email account with a reputable local email provider so I don't have to second guess every single email I send.\n Said provider also supports using custom domains and I'm debating to give up on self-hosting email when I have to pay for an email service with good reputation anyway.\n Any ideas on how to deal with these issues or how to improve deliverability of my emails beyond SPF, DKIM etc.?\n    submitted by    /u/g4lvanix  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orilxo/selfhosted_email_deliverability_issues_to/",
+          "publishedOn": "2021-07-25T19:54:56.000Z",
+          "wordCount": 445,
+          "title": "Self-hosted email deliverability issues to outlook.com"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orhtys/when_using_the_arr_stack_with_something_like_plex/",
+          "author": null,
+          "description": "I have Jellyfin set up in a LXC with Radarr, Sonarr, and Prowlarr in docker via portainer. Do I set it up such that those three services move data to the jellyfin LXC? I have a lot to learn with these services.\n    submitted by    /u/OG_potato_gangsta  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orhtys/when_using_the_arr_stack_with_something_like_plex/",
+          "publishedOn": "2021-07-25T19:13:07.000Z",
+          "wordCount": 323,
+          "title": "When using the *arr stack with something like Plex or Jellyfin, where does the data get stored?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orh652/building_my_own_firewall_or_not_worth_it/",
+          "author": null,
+          "description": "I recently picked up one of these DFRobot dual Ethernet boards and while I can run openwrt on it i quickly started running into issues that I didn't like. I would love to be able to use pfsense which is my current firewall but I don't think I can run it on a pi. (I am wanting and alternative because my Netgate appliance can't get up to you the full speed of my connection). My question is it worth the effort to get raspberry pi os up and running and then set up the services I need for my network and then tune all my rules or abandon this thing and find something capable of handling my network speeds that can run pfsense.\n    submitted by    /u/vinnyt  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orh652/building_my_own_firewall_or_not_worth_it/",
+          "publishedOn": "2021-07-25T18:38:04.000Z",
+          "wordCount": 434,
+          "title": "Building my own firewall or not worth it."
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orfwsy/how_to_setup_unbound_local_dns_with_nginx_proxy/",
+          "author": null,
+          "description": "The goal is to set it up so that things like Plex connect via local IP when I'm on my home network rather than connecting through my WAN internet connection. The server is hosting the DNS resolver and the reverse proxy that connects to all my services.\n I have set my local DNS resolver to be Unbound, and my local zone is as follows:\n local-zone: \"mydomain.com\" redirect local-data: \"mydomain.com A 192.168.1.50\" \n The IP address is the address of the server itself, I thought I would lead the machines on my network to my reverse proxy. And this works fine for machines that are NOT the actual server itself, for the actual server when I click on the web addresses it gives me:\n Error code: SEC_ERROR_UNKNOWN_ISSUER\n Just for reference when I ping mydomain.com from another machine and the server itself, it returns 192.168.1.50.\n Any idea how I can get this certificates issue fixed? I am on Full (Strict) mode for my Cloudflare domain, using custom Cloudflare certs in Nginx Proxy Manager.\n    submitted by    /u/EatsSpam  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orfwsy/how_to_setup_unbound_local_dns_with_nginx_proxy/",
+          "publishedOn": "2021-07-25T17:32:02.000Z",
+          "wordCount": 344,
+          "title": "How to setup Unbound local DNS with Nginx Proxy Manager?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orfun5/windows_file_server/",
+          "author": null,
+          "description": "Is there any decent option for a windows file server with E2EE with a reasonably simple client? Just looking to able to select a directory, give a user access and have them log in and retrieve the files. A web interface or FTP type client would be ideal. Everything I find when I search only has a windows client not a server.\n    submitted by    /u/BitBoss85  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orfun5/windows_file_server/",
+          "publishedOn": "2021-07-25T17:29:02.000Z",
+          "wordCount": 287,
+          "title": "Windows file server"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orfq3j/thinking_about_switching_to_vpn_access_tailscale/",
+          "author": null,
+          "description": "Current configuration:\n  \nRouter 192.168.0.1, server 192.168.0.2, pihole 192.168.0.3\n Most services are for personal use, but I need some services accessible without VPN (file sharing, for example).\n Vaultwarden requires SSL connection.\n  \nThe main question is — should I even bother? Right now I have everything behind reverse proxy with decently working split-horizon DNS.\n If there is a point, how would I set up DNS and SSL certificates? Assuming I run Tailscale on server and I wish for, say, wiki to be accessible via https://wiki.mydomain.tld from everywhere, and also https://pwd.mydomain.tld from inside only?\n    submitted by    /u/AlexFullmoon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orfq3j/thinking_about_switching_to_vpn_access_tailscale/",
+          "publishedOn": "2021-07-25T17:22:32.000Z",
+          "wordCount": 486,
+          "title": "Thinking about switching to VPN access (Tailscale?), advice needed"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oreu4k/thoughts_on_using_cloudflares_proxy_when/",
+          "author": null,
+          "description": "Cloudflare's DNS is pretty great, don't get me wrong. But I personally think that, for a selfhoster, using their global CDN is just overkill, and can cause more headache than it's worth. I use Cloudflare's proxy professionally, and it's fantastic.\n Granted they do offer handy features like free TLS, geolocking, DoS protections, edge caching, hiding your IP, and have a fancy and easy UI around it all. But all of that can be fairly simple to replicate yourself, without the additional privacy and security ramifications, and often give you the finer level of control Cloudflare require you to pay for. If they wanted, Cloudflare have the ability to snoop on any and all data flowing through their network (not that they probably do), which also isn't great.\n It's also against their ToS to use it for video streaming, for things like Jellyfin and Plex. I've not seen anyone be caught out by this, but there's always a first. You probably don't need a global CDN for your say family Nextcloud instance, and unexpected caching can often become very annoying if the application or user isn't expecting it.\n Personally I use their DNS, and that's about it. For my own rate limiting, DoS protection and privacy needs, I run a VPS which tunnels traffic back to my house over WireGuard.\n Interested to hear how many people use Cloudflare's proxy at this scale, why, and if not, what you're using instead (if anything).\n    submitted by    /u/realorangeone  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oreu4k/thoughts_on_using_cloudflares_proxy_when/",
+          "publishedOn": "2021-07-25T16:35:32.000Z",
+          "wordCount": 1759,
+          "title": "Thoughts on using Cloudflare's proxy when selfhosting?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ore9qw/znc_tor/",
+          "author": null,
+          "description": "Hello, does anyone here host ZNC server with tor? \n How do i do this? I have no idea what to look for or how to begin. The only znc-tor-docker image I found was on github and it is 7 years old. I tried it anyways and it doesn't work.\n Do I have to like make a docker of alpine OS and install znc and tor inside it or something and then work my outwards? If someone's out there with any experience and can help me then I would really appreciate it\n    submitted by    /u/aaronryder773  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ore9qw/znc_tor/",
+          "publishedOn": "2021-07-25T16:05:36.000Z",
+          "wordCount": 343,
+          "title": "znc + tor?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ord627/after_creating_matrixelement_home_server_i_cant/",
+          "author": null,
+          "description": "Hello fellow selfhosters,\n I used this tutorial and ran the matrix server. It works fine in a preliminary fashion where the test webpage works, and I registered and have an account and I'm logged in. After I login, I cannot communicate with any other user on the matrix.org network. When I add someone from both sides, I just keep getting the error \"We couldn't create your DM.\".\n  \nBoth ipv4 and ipv6's ports 8448 are open.\n I use apache reverse proxy based on this configuration\n I have no errors of any kind in the logs\n  \nand similar... no errors.\n What am I missing? Please advise.\n    submitted by    /u/TheQuantumPhysicist  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ord627/after_creating_matrixelement_home_server_i_cant/",
+          "publishedOn": "2021-07-25T15:03:48.000Z",
+          "wordCount": 239,
+          "title": "After creating matrix/element home server, I can't communicate with other servers"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orco7l/instead_of_using_twitter_or_even_mastodon_or/",
+          "author": null,
+          "description": "submitted by    /u/m-chrzan  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orco7l/instead_of_using_twitter_or_even_mastodon_or/",
+          "publishedOn": "2021-07-25T14:35:35.000Z",
+          "wordCount": 340,
+          "title": "Instead of using Twitter, or even Mastodon or Pleroma, I'm selfhosting my very own Sunday Corner: an ephemeral microblog available only on Sundays"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orbubs/sharing_desktop_pi_nuc_whats_next/",
+          "author": null,
+          "description": "A pretty typical self-hosted journey.\n I've reached a point where I need to \"extend\" my self-hosting from my i7 NUC to something else.I was thinking of getting another NUC, as they are space efficient, light, quiet, and a better on power-draw.\n If I had more space I would go a rack with a big 'ol server, switch, and router set up.\n Even thinking about having another desktop in the place makes me a little uneasy (due to the size and having to find a dedicated space). \n ​\n Got me thinking, is there something in between a NUC and a rack-based server I should be investigating?\n    submitted by    /u/fanuch  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orbubs/sharing_desktop_pi_nuc_whats_next/",
+          "publishedOn": "2021-07-25T13:46:08.000Z",
+          "wordCount": 239,
+          "title": "Sharing desktop -> Pi -> NUC ... what's next?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/orb54q/cheapest_server_to_buy_and_not_rent_for_jellyfin/",
+          "author": null,
+          "description": "Hello,\n I need a server to self-host Jellyfin because I prefer an one-time only payment with a self-hosted server than a subscription-based VPS. I host actually Jellyfin in an 1.4TB Contabo, and use it for me, my girlfriend and some of my friends. I need a server that can run 2 streams with transcoding at the same time. Can you recommand me the cheapest option ? Thanks and have a good day !\n    submitted by    /u/Dirky_  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/orb54q/cheapest_server_to_buy_and_not_rent_for_jellyfin/",
+          "publishedOn": "2021-07-25T13:01:25.000Z",
+          "wordCount": 554,
+          "title": "Cheapest server to buy (and not rent) for Jellyfin ?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oravno/a_beginners_guide_to_selfhosting_am_i_missing/",
+          "author": null,
+          "description": "submitted by    /u/cyberhost-uk  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oravno/a_beginners_guide_to_selfhosting_am_i_missing/",
+          "publishedOn": "2021-07-25T12:43:12.000Z",
+          "wordCount": 1576,
+          "title": "A Beginners Guide to Self-Hosting. Am I missing anything?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oras1n/open_source_apmexception_tracking_that_i_could/",
+          "author": null,
+          "description": "Hi! I have quite a bit of spare capacity in my Kubernetes cluster so I am self hosting many things.\n I would like to add APM/exception tracking for my Rails apps to the list, so to save money because the paid services tend to be expensive. I see that there is Sentry that can be self hosted but it's a bit complicated with many dependencies. Is there anything simpler?\n    submitted by    /u/Sky_Linx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oras1n/open_source_apmexception_tracking_that_i_could/",
+          "publishedOn": "2021-07-25T12:36:03.000Z",
+          "wordCount": 299,
+          "title": "Open source APM/exception tracking that I could self host"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/or8zd4/a_guide_to_deploying_sish_a_selfhosted/",
+          "author": null,
+          "description": "submitted by    /u/trustMeIAmANinja  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/or8zd4/a_guide_to_deploying_sish_a_selfhosted/",
+          "publishedOn": "2021-07-25T10:10:16.000Z",
+          "wordCount": 274,
+          "title": "A Guide to deploying Sish: A selfhosted alternative to ngrok"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/or5ueo/do_i_need_an_adguard_homepihole_instance/",
+          "author": null,
+          "description": "Before we start: yes, I'm genuinely asking you, whether I need AdGuard Home (AGH) or PiHole or not.\n I've recently purchased a Raspberry Pi 4 8GB with SSD and want to self-host something on it. I've seen lots of posts here (long time /r/selfhosted reader!) about AGH or PiHole as one of the first things people self-host. However, I'm not sure if it is really needed in my home network, so I'm asking for an advice.\n My two main goals are: block ads/trackers in web and specifically get rid of YouTube ads. Currently I have the following:\n 1) On Android phone, Firefox with uBlock + Privacy Badger and YouTube Vanced (non-root).\n 2) On iPad, Safari with \"Block Ads Multi\", \"Adblock Plus\" and \"AdBlocker\" (the last one turned off), however I do see YouTube ads in the beginning, but that's all\n 3) On all PCs, I use Firefox with uBlock + Privacy Badger, so almost no ads.\n Honestly I don't see any \"special\" features AGH or PiHole can provide, however, I'd like to hear from you (even if you point me to some other thread), What these apps can give me.\n    submitted by    /u/groosha  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/or5ueo/do_i_need_an_adguard_homepihole_instance/",
+          "publishedOn": "2021-07-25T05:36:55.000Z",
+          "wordCount": 1522,
+          "title": "Do I need an AdGuard Home/PiHole instance?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/or4qng/security_help/",
+          "author": null,
+          "description": "Hey, I was wondering what would he the best for securing the network while using a PI to host some simple things like PI Hole, Bitwarden, etc. \n Q) Should I use NPM or Cloudflare?\n EDIT: Would it also just be fine if I only opened up the port to my dashboard and made the domain go to that while using CloudFlare’s firewall to block every other IP but mine?\n    submitted by    /u/AlexValid009  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/or4qng/security_help/",
+          "publishedOn": "2021-07-25T04:12:27.000Z",
+          "wordCount": 510,
+          "title": "Security help!"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/or15gv/i_need_some_help_with_security/",
           "author": null,
           "description": "Hey, I’m trying to get into self hosting but have some questions. I want to be able to use a custom domain to access the dashboards seeing trying to remanded a IP is annoying.\n Q) Would I be able to use CloudFlare to restrict any requests not from my IP and add records?\n Q) If so, should I or are there better options?\n Q) Would I need to do any port forwarding?\n    submitted by    /u/AlexValid009  \n [link]   [comments]",
@@ -5080,159 +5287,6 @@
           "publishedOn": "2021-06-26T12:52:26.000Z",
           "wordCount": 289,
           "title": "help with hosting forge servers"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o89n04/egress_gateway_for_home/",
-          "author": null,
-          "description": "Looking for selfhosted egress gateway that logs all request / response from all devices.\n Consider it like what pi-hole is for DNS queries, same thing for port 80 and 443 , so that all requests and responses can be logged and analysed in a cool dashboard.\n Custom solution that I know is : \n  \nAdd nginx logging in a linux box, pass all router traffic to it\n setup EKS , filebeat / logstash for parsing these logs, Elastic search as a datastore and Kibana for beautiful graphs and analysis.\n  \n​\n But will like to have a plug and play and a beautiful pi-hole like project if such a thing exists.\n For reference something like this software does also: \n Charles proxy -- commonly used for debugging apps and QA\n    submitted by    /u/ZiF3kL  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o89n04/egress_gateway_for_home/",
-          "publishedOn": "2021-06-26T12:13:32.000Z",
-          "wordCount": 512,
-          "title": "Egress gateway for home ?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o895w4/tell_me_your_thoughts_about_seafile/",
-          "author": null,
-          "description": "I'm looking for a self hosted Dropbox replacement.\n I'm thinking about Seafile\n What do you guys think ? What are you running?\n    submitted by    /u/ithakaa  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o895w4/tell_me_your_thoughts_about_seafile/",
-          "publishedOn": "2021-06-26T11:39:36.000Z",
-          "wordCount": 1469,
-          "title": "Tell me your thoughts about Seafile?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o85k21/unidirectional_local_backup_of_onedrive_ubuntu/",
-          "author": null,
-          "description": "Hi all,\n I am using onedrive storage + android app to manage automatic backup of photos from my phone and cameras. \n I am looking for a solution that will allow a unidirectional \"backup\" of this data from onedrive to my server I.e. create a local copy every x days. As far as I know onedrive doesn't have native folder sync with ubuntu.\n I am wanting to do it this way (rather than phone->server->cloud) as I can't trust 99.9% uptime of my own hardware.\n At the same time I want to package up backups of my docker configs/data and send that to onedrive.\n Can this be done easily with syncthing or rsync?\n    submitted by    /u/ChoiceCucumber  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o85k21/unidirectional_local_backup_of_onedrive_ubuntu/",
-          "publishedOn": "2021-06-26T06:41:59.000Z",
-          "wordCount": 231,
-          "title": "Unidirectional local backup of onedrive - ubuntu 20.04"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o82v4u/selfhosted_patient_orders_manager/",
-          "author": null,
-          "description": "Hello folks, your help will be much appreciated, a client of mine asked me if there's any way he can make his service more speedy and up to modern days. \n Current workflow:\n He does dental prosthesis, so, one dentist sends him a piece to work with an attached paper order with the name of the patient and what's needed to be done. So he inputs patient name/type of job/date to be delivered into google calendar and that's pretty much it. This might happen a few times with the same piece of work. Every other detail is manually typed in some excel that its only accessible locally. \n Intended workflow:\n Input patient name/type of job/date to be delivered with a tracking number so any dentist can view in which state the job is, possibly with a QR code that could be printed in the labels for each dentist to keep track of how many jobs are done monthly with each one.\n Of course more features can be applied, I was thinking this more as a logistics kind of software rather than a medical one.\n    submitted by    /u/derbignus  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o82v4u/selfhosted_patient_orders_manager/",
-          "publishedOn": "2021-06-26T03:27:12.000Z",
-          "wordCount": 347,
-          "title": "Selfhosted patient orders manager"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o81aum/state_of_the_game_for_self_hosted_photovideo/",
-          "author": null,
-          "description": "Guys and Gals\n As with most, we have amassed a large, and growing, collection of images of family and friends, including videos that I would like to host in a local self hosted gallery\n Can someone please recommend a elegant gallery app that is easy for none technical to use for photo management\n    submitted by    /u/ithakaa  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o81aum/state_of_the_game_for_self_hosted_photovideo/",
-          "publishedOn": "2021-06-26T01:44:29.000Z",
-          "wordCount": 1016,
-          "title": "state of the game for self hosted photo/video gallery ?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o80wwh/currently_checking_out_benotes_another_note_app/",
-          "author": null,
-          "description": "submitted by    /u/ParkourierATX  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o80wwh/currently_checking_out_benotes_another_note_app/",
-          "publishedOn": "2021-06-26T01:18:57.000Z",
-          "wordCount": 928,
-          "title": "Currently Checking Out Benotes, Another Note App with Bookmarking Capabilities That Just Launched Recently"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7y0a6/cheap_dedicated_server_advise/",
-          "author": null,
-          "description": "Hello evebody,\n I am looking for a cheap dedicated server. Obviously very low end. So far the best price seems to be on kimsufi.com. I wonder whether I missed something even better. \n I am not bound to any specific architecture (ie: ARM would work).\n    submitted by    /u/RenatoPensato  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7y0a6/cheap_dedicated_server_advise/",
-          "publishedOn": "2021-06-25T22:22:01.000Z",
-          "wordCount": 243,
-          "title": "Cheap dedicated server advise"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7xm7t/unsplash_source/",
-          "author": null,
-          "description": "Looking for a self host random image server. I've looked at: https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#photo-and-video-galleries and I'm not sure any of those provide a feature where you can access a consistent URL and a random image is returned. \n Reason is I would like more control over what images are displayed, and reduce the latency associated with accessing a remote API.\n    submitted by    /u/MegaHashes  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7xm7t/unsplash_source/",
-          "publishedOn": "2021-06-25T22:00:43.000Z",
-          "wordCount": 154,
-          "title": "Unsplash source"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7ubme/calibreweb_sending_emails_to_kindle_doesnt_work/",
-          "author": null,
-          "description": "Hi, I need your help with debugging this problem.\n I have just set SMTP server on my Calibre-Web instance (docker image from linuxserver.io) due to instruction from this link. After clicking on \"save\" button, a green comment appeared saying that settings are saved. After clicking on \"Save and sent Test email\" red comment appeared saying: \"Please configure your email address first...\" This is confusing, because settings were saved successfully and look like this.\n When I try to send any ebook to kindle (this email address was white listed in amazon settings), a green comment appears saying, that task was successfully enqueued. Tasks section tells that task was failed.\n logs look like this:\n [2021-06-25 18:58:54,857] ERROR {cps.tasks.mail:148} Connection unexpectedly closed [2021-06-25 19:03:15,873] ERROR {cps.tasks.mail:148} Connection unexpectedly closed \n I've no idea what needs to be checked and what is broken. Everything else works just fine for this server.\n    submitted by    /u/lord_EarlGray  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7ubme/calibreweb_sending_emails_to_kindle_doesnt_work/",
-          "publishedOn": "2021-06-25T19:10:01.000Z",
-          "wordCount": 361,
-          "title": "Calibre-Web sending emails to kindle doesn't work"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7uadg/self_hosted_forms/",
-          "author": null,
-          "description": "Im looking for a self hosted forms system like google forms but with the obvious being self hosted on my own machine. Ive tried multiple different way to get ohmyform working but have been completely unsucessful and wanted to reach out and see what reddit could bring. If anyone knows of any solution preferably free it would be of great help. I need to be able to create different forms and be able to allow certain people to view the responses.\n    submitted by    /u/Jacobh1245  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7uadg/self_hosted_forms/",
-          "publishedOn": "2021-06-25T19:08:13.000Z",
-          "wordCount": 298,
-          "title": "self hosted forms?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7sef8/wd_my_book_live_deletes_all_users_data_aka_you/",
-          "author": null,
-          "description": "submitted by    /u/BloodyIron  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7sef8/wd_my_book_live_deletes_all_users_data_aka_you/",
-          "publishedOn": "2021-06-25T17:30:58.000Z",
-          "wordCount": 322,
-          "title": "WD My Book Live deletes all users data. - AKA: You should listen when someone like me tells you to build your own (True/Free)NAS and not use garbage appliance storage you have zero control over."
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7sdny/home_server_or_vpsdedicated_server/",
-          "author": null,
-          "description": "Hi, Kind of new to the sub, but not to hosting. Wondering what the consensus is for the members here, are you hosting at home or on a vps/dedicated server?\n I've got a mix myself, but I'm looking to replace google photos right now and wondering if I should buy a new server for home to add more space or get another vps?\n    submitted by    /u/fisch14  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7sdny/home_server_or_vpsdedicated_server/",
-          "publishedOn": "2021-06-25T17:30:00.000Z",
-          "wordCount": 719,
-          "title": "Home server or vps/dedicated server"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7s745/chorerewards_any_frontend_devs_want_to_help/",
-          "author": null,
-          "description": "I started making ChoreRewards a few weeks ago, which is essentially a reward system build for children. If the child does a chore, they get points which they can then use to \"purchase\" items. \n It's purpose is to give children the sense of accomplishment, as they will be able to mark their chores as \"done\" and to teach the value of money; should I purchase X now, or save up my \"points\" and purchase Y? \n Anyway, V0.1 of the backend is almost ready and I thought I'd see if there are any frontend devs who want to help me build it out? \n I can do frontend, by which I mean I can muddle around and make something functional; but I don't have a UX bone in my body.\n Happy to discuss more about the project, answer questions, or tell me you're interested in the project itself if you think it might be something you can use when it's ready!\n    submitted by    /u/DaddyDeveloper  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7s745/chorerewards_any_frontend_devs_want_to_help/",
-          "publishedOn": "2021-06-25T17:20:53.000Z",
-          "wordCount": 334,
-          "title": "ChoreRewards - Any frontend devs want to help?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7q4wc/self_hosted_icloud_alternatives/",
-          "author": null,
-          "description": "I'm not sure if this has been discussed recently, but I am looking for an iCloud alternative for my Apple devices. I know there are lots of services that can replace some individually (like using NextCloud), but I am looking for what the best options are. One thing that I am really wanting is something similar to iMazing which looks like an amazing product but just a little outside my use case (and if something else will do it for free, all the better).\n What I like about iMazing is that I can backup and manage all of my data (messages, photos, apps, the works) from a remote location with a UI that is very similar to iTunes. I'm trying to set up a family backup of photos and iPhones for my parents and siblings and so having that ease of use is key. The downside of iMazing is that the unlimited plan only lets me have 2 computers with keys so only myself and one other household can manage their devices or I can get lifetime keys for 10 devices but I need more future proofing because we will have more iPhones in the family inevitably. \n What is your setup for iOS backup and management for your home setups and specifically what is your ideal photo backup setup that you use for those people who aren't tech savvy (i.e parents/siblings).\n    submitted by    /u/wmsmckay  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7q4wc/self_hosted_icloud_alternatives/",
-          "publishedOn": "2021-06-25T15:37:10.000Z",
-          "wordCount": 563,
-          "title": "Self Hosted iCloud alternatives"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7px95/firefox_sync_server/",
-          "author": null,
-          "description": "Is anyone running this currently? I'm wondering how does authentication work? Do I still authenticate through Mozilla and then sync on my own server? Is there a way to migrate data currently on my mozilla account to my own sync server?\n    submitted by    /u/AbleSugar  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7px95/firefox_sync_server/",
-          "publishedOn": "2021-06-25T15:26:20.000Z",
-          "wordCount": 615,
-          "title": "Firefox Sync Server"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7org4/looking_for_an_alternative_to_repomanager/",
-          "author": null,
-          "description": "Hello,\n I am running a small hypervisor with about 50 vm's for me and some friends.\n One of them pointed me at sonatype's repomanager that would let me cache registries like apt, yum, dnf, npm, docker etc. \n This would speed up lots of things in our environment. However it seem like there is no CE of this product and it costs a yearly subscription fee.\n Is there a simular product like repomanager I could use?\n Any reccomendations welcome :)\n Cheers,\n Ori\n    submitted by    /u/orilicious  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7org4/looking_for_an_alternative_to_repomanager/",
-          "publishedOn": "2021-06-25T14:25:56.000Z",
-          "wordCount": 339,
-          "title": "Looking for an alternative to repomanager"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o7okpa/jellyfin_and_vpn/",
-          "author": null,
-          "description": "I'm looking to setup jellyfin and know I want accessibility off my home network. Have folks setup both Jellyfin and a VPN solution on the same device or is it better to have them on separate devices in my network?\n Thanks\n    submitted by    /u/moobaala  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o7okpa/jellyfin_and_vpn/",
-          "publishedOn": "2021-06-25T14:16:13.000Z",
-          "wordCount": 527,
-          "title": "Jellyfin and VPN"
         }
       ]
     },
@@ -5723,24 +5777,6 @@
           "publishedOn": "2021-06-28T13:29:00.000Z",
           "wordCount": 738,
           "title": "Scaling Organizations Should Consider Building a Website Backed by a CRM Platform"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342718",
-          "author": "Chris Coyier",
-          "description": "I am part of that 82% that got the answer to Lea Verou's quiz wrong. Stephen Shaw posted a similar quiz as well and it's a fun exercise sharpen your CSS chops.\nThe post Custom Property Brain Twisters appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/custom-property-brain-twisters/",
-          "publishedOn": "2021-06-25T18:39:46.000Z",
-          "wordCount": 652,
-          "title": "Custom Property Brain Twisters"
-        },
-        {
-          "id": "https://css-tricks.com/?p=342911",
-          "author": "Georgi Nikoloff",
-          "description": "I recently had to create a widget in React that fetches data from multiple API endpoints. As the user clicks around, new data is fetched and marshalled into the UI. But it caused some problems.\nOne problem quickly became evident: …\nThe post How to Cancel Pending API Requests to Show Correct Data appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-cancel-pending-api-requests-to-show-correct-data/",
-          "publishedOn": "2021-06-25T14:33:33.000Z",
-          "wordCount": 993,
-          "title": "How to Cancel Pending API Requests to Show Correct Data"
         }
       ]
     },
@@ -6783,6 +6819,42 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1782914",
+          "author": "Jennifer Ouellette",
+          "description": "Nothing brings a town together like zombies tearing them apart",
+          "link": "https://arstechnica.com/?p=1782914",
+          "publishedOn": "2021-07-25T22:43:18.000Z",
+          "wordCount": 1330,
+          "title": "Zombies rise, terrorize a town in trailer for SyFy’s Day of the Dead series"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782724",
+          "author": "John Timmer",
+          "description": "Seismograph on NASA's InSight lander is slowly imaging the Martian interior.",
+          "link": "https://arstechnica.com/?p=1782724",
+          "publishedOn": "2021-07-25T13:00:48.000Z",
+          "wordCount": 1537,
+          "title": "Red planet has a big core, complex crust"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1769648",
+          "author": "Nathan Mattise",
+          "description": "\"There's so much we had to leave out. Really, what this needs is a six-hour limited series.\"",
+          "link": "https://arstechnica.com/?p=1769648",
+          "publishedOn": "2021-07-25T12:00:58.000Z",
+          "wordCount": 1458,
+          "title": "Dread Pirate Roberts escaped development hell: Making Silk Road work as a film"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782606",
+          "author": "WIRED",
+          "description": "Until it offers privacy by default, it remains a liability for many of its users.",
+          "link": "https://arstechnica.com/?p=1782606",
+          "publishedOn": "2021-07-25T10:50:40.000Z",
+          "wordCount": 1476,
+          "title": "Venmo gets more private—but it’s still not fully safe"
+        },
         {
           "id": "https://arstechnica.com/?p=1782046",
           "author": "Jennifer Ouellette",
@@ -9491,96 +9563,6 @@
           "publishedOn": "2021-06-26T13:00:20.000Z",
           "wordCount": 1747,
           "title": "All the major players spent time in the Denisovan cave"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1775718",
-          "author": "Nathan Mattise",
-          "description": "Be warned: Calves needed to climb all 133 feet of Turn 1 if you're using a road bike.",
-          "link": "https://arstechnica.com/?p=1775718",
-          "publishedOn": "2021-06-26T11:30:47.000Z",
-          "wordCount": 1391,
-          "title": "Circling—or cycling—the track at F1’s famous Circuit of the Americas"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776495",
-          "author": "Eric Bangeman",
-          "description": "Firmware security tool flaws affect as many as 30M desktops, laptops, and tablets.",
-          "link": "https://arstechnica.com/?p=1776495",
-          "publishedOn": "2021-06-26T10:15:39.000Z",
-          "wordCount": 1071,
-          "title": "A well-meaning feature leaves millions of Dell PCs vulnerable"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776542",
-          "author": "Beth Mole",
-          "description": "Common symptoms among young adults included fatigue and cognitive problems.",
-          "link": "https://arstechnica.com/?p=1776542",
-          "publishedOn": "2021-06-25T22:02:51.000Z",
-          "wordCount": 859,
-          "title": "Even mild COVID in young people often leads to long-term symptoms, study finds"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776441",
-          "author": "Jennifer Ouellette",
-          "description": "\"Throughout my life, the Ten Rings gave my family power.\"",
-          "link": "https://arstechnica.com/?p=1776441",
-          "publishedOn": "2021-06-25T21:18:22.000Z",
-          "wordCount": 1249,
-          "title": "We have our best look yet at supervillain Mandarin in new Shang-Chi trailer"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776088",
-          "author": "Ron Amadeo",
-          "description": "Microsoft is building an Android framework on top of the Windows Subsystem for Linux.",
-          "link": "https://arstechnica.com/?p=1776088",
-          "publishedOn": "2021-06-25T21:07:26.000Z",
-          "wordCount": 1624,
-          "title": "Here’s how Android apps on Windows 11 are going to work"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776429",
-          "author": "Jon Brodkin",
-          "description": "No word yet, but GOP likely wouldn't agree to deal if it favored public networks.",
-          "link": "https://arstechnica.com/?p=1776429",
-          "publishedOn": "2021-06-25T20:48:39.000Z",
-          "wordCount": 1461,
-          "title": "Biden silent on municipal broadband as he makes $65B deal with Republicans"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776394",
-          "author": "Jim Salter",
-          "description": "The TPM requirement has many Windows 10 users worried—often unnecessarily.",
-          "link": "https://arstechnica.com/?p=1776394",
-          "publishedOn": "2021-06-25T20:05:16.000Z",
-          "wordCount": 1637,
-          "title": "Here’s what you’ll need to upgrade to Windows 11"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776333",
-          "author": "WIRED",
-          "description": "Flaws in card-reader technology can wreak havoc with point-of-sale systems and more.",
-          "link": "https://arstechnica.com/?p=1776333",
-          "publishedOn": "2021-06-25T19:52:13.000Z",
-          "wordCount": 1588,
-          "title": "NFC flaws let researchers hack an ATM by waving a phone"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776215",
-          "author": "Jennifer Ouellette",
-          "description": "Young adult male lost an arm and a leg before dying of shock and blood loss.",
-          "link": "https://arstechnica.com/?p=1776215",
-          "publishedOn": "2021-06-25T19:15:22.000Z",
-          "wordCount": 1425,
-          "title": "Cold-case files: Archaeologists discover 3,000-year-old victim of shark attack"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776256",
-          "author": "Financial Times",
-          "description": "UK regulators say tech groups may not be doing enough to protect consumers.",
-          "link": "https://arstechnica.com/?p=1776256",
-          "publishedOn": "2021-06-25T13:10:24.000Z",
-          "wordCount": 864,
-          "title": "Competition watchdog to probe Google and Amazon over fake reviews"
         }
       ]
     }
