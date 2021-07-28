@@ -2,10 +2,516 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://revilo951.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-07-27T00:46:28.849Z</updated>
+    <updated>2021-07-28T00:47:26.278Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://revilo951.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://revilo951.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What’s required to run ubuntu server for self hosting (bitwarden and next cloud)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osyopi/whats_required_to_run_ubuntu_server_for_self/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osyopi/whats_required_to_run_ubuntu_server_for_self/"/>
+        <updated>2021-07-28T00:14:15.000Z</updated>
+        <summary type="html"><![CDATA[I found a pc in a thrift store, it’s either 2nd gen i3.Will this be enough to run ubuntu server edition and run a next-cloud bit-warder off it? Or should i look for an upgrade?
+ It has 4gb of ram, 500 gb hdd. I know ram should be enough. I’m not sure about the processor power.
+ This is step 2 of degoogle-ing
+    submitted by    /u/buttler69  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I have a web domain that I want to use for email, with the ability to make aliases (site1/2/3@domain.com), is it possible to do this with Microsoft 365 as the "front end"?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osxxdw/i_have_a_web_domain_that_i_want_to_use_for_email/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osxxdw/i_have_a_web_domain_that_i_want_to_use_for_email/"/>
+        <updated>2021-07-27T23:31:04.000Z</updated>
+        <summary type="html"><![CDATA[I want to use microsoft because i dont really want to self host, and because it has good calendar and email web service. but I want to be able to use my custom domain name to send and receive emails. can i do this without making an outlook account first?
+    submitted by    /u/futurepersonified  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learnings From a WebPageTest Session on CSS-Tricks]]></title>
+        <id>https://css-tricks.com/?p=345169</id>
+        <link href="https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/"/>
+        <updated>2021-07-27T23:18:33.000Z</updated>
+        <summary type="html"><![CDATA[I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …
+The post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ES2021 Features]]></title>
+        <id>https://css-tricks.com/?p=345400</id>
+        <link href="https://h3manth.com/ES2021/"/>
+        <updated>2021-07-27T23:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Hemanth HM very succinctly shows off ES2021 features. Gosh it doesn’t feel like that long ago that all we could talk about is ES2015, and now that’s over a half-decade behind us. 
+There are new things like “arbitrarily chuck underscores …
+The post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mergers, twists, and pentagons: The architecture of honeycombs]]></title>
+        <id>https://arstechnica.com/?p=1783549</id>
+        <link href="https://arstechnica.com/?p=1783549"/>
+        <updated>2021-07-27T23:12:58.000Z</updated>
+        <summary type="html"><![CDATA[Most honeycombs are perfect hexagons—but bees manage complex exceptions.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python For Loop – Example and Tutorial]]></title>
+        <id>60ffec493306a507d1bf98f4</id>
+        <link href="https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/"/>
+        <updated>2021-07-27T22:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple reports a 50% year-over-year jump in iPhone sales]]></title>
+        <id>https://arstechnica.com/?p=1783524</id>
+        <link href="https://arstechnica.com/?p=1783524"/>
+        <updated>2021-07-27T22:10:27.000Z</updated>
+        <summary type="html"><![CDATA[But the company warned of coming iPhone and iPad supply constraints.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homer dashboard: does one must edit the config file every time?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osvkb8/homer_dashboard_does_one_must_edit_the_config/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osvkb8/homer_dashboard_does_one_must_edit_the_config/"/>
+        <updated>2021-07-27T21:23:34.000Z</updated>
+        <summary type="html"><![CDATA[is the only way to add/remove items on the dashboard is to manually edit the config file? Is there a way in the GUI?
+    submitted by    /u/ionet  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDC mask reversal: Vaccinated should wear masks in many settings amid surge]]></title>
+        <id>https://arstechnica.com/?p=1783521</id>
+        <link href="https://arstechnica.com/?p=1783521"/>
+        <updated>2021-07-27T20:56:57.000Z</updated>
+        <summary type="html"><![CDATA[Fully vaccinated people should mask up in high-transmission areas, schools.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A word of caution about that unique top level domain]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osuola/a_word_of_caution_about_that_unique_top_level/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osuola/a_word_of_caution_about_that_unique_top_level/"/>
+        <updated>2021-07-27T20:36:50.000Z</updated>
+        <summary type="html"><![CDATA[Though my last name is not all that common (ranks in the 7000-8000 in world popularity), it is by no means rare. That is why I was super stoked when I picked up lastname.family top level domain... It was something that I can use, keep, give to my kids and pass on....
+ I have been attempting to migrate everything to it and ditch Gmail which I have had for ~17 years. This is where the largest problem has arisen.
+ Many companies computer systems do not yet accept a .family email address
+ So far I have been forced to keep in my old email on file with several larger banks, utility companies and some web services. I am only on day 1 and I have seen about a 25% rejection rate. Not good. 
+ I can only hope over time this will be corrected.
+    submitted by    /u/yellowfin35  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Ghostbusters: Afterlife trailer teases return of lots of familiar faces]]></title>
+        <id>https://arstechnica.com/?p=1783333</id>
+        <link href="https://arstechnica.com/?p=1783333"/>
+        <updated>2021-07-27T20:09:00.000Z</updated>
+        <summary type="html"><![CDATA[A gang of mini Stay-Puft marshmallow men in a Walmart steals the show.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Flatten a Dictionary in Python in 4 Different Ways]]></title>
+        <id>60ff23533306a507d1bf9345</id>
+        <link href="https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/"/>
+        <updated>2021-07-27T19:59:00.000Z</updated>
+        <summary type="html"><![CDATA[In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activision Blizzard “Walkout for Equality” to protest management inaction]]></title>
+        <id>https://arstechnica.com/?p=1783404</id>
+        <link href="https://arstechnica.com/?p=1783404"/>
+        <updated>2021-07-27T19:36:15.000Z</updated>
+        <summary type="html"><![CDATA[Organizers seek movement on diversity, pay transparency, arbitration clauses.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ajit Pai apparently mismanaged $9 billion fund—new FCC boss starts “cleanup”]]></title>
+        <id>https://arstechnica.com/?p=1783431</id>
+        <link href="https://arstechnica.com/?p=1783431"/>
+        <updated>2021-07-27T19:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Starlink and other ISPs may have to give up money that Pai shouldn't have awarded.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud offers a model for fixing Google’s product-killing reputation]]></title>
+        <id>https://arstechnica.com/?p=1783100</id>
+        <link href="https://arstechnica.com/?p=1783100"/>
+        <updated>2021-07-27T19:01:12.000Z</updated>
+        <summary type="html"><![CDATA[GCP offers a stability promise that the rest of the company could learn from.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I host at home, then reverse proxy from my ISP using Inlets Pro]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ossv4m/i_host_at_home_then_reverse_proxy_from_my_isp/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ossv4m/i_host_at_home_then_reverse_proxy_from_my_isp/"/>
+        <updated>2021-07-27T18:55:12.000Z</updated>
+        <summary type="html"><![CDATA[I have been loving the ease with which Inlets sets up and tears down publicly accessible tunnels from my DigitalOcean VMs to my home servers.
+ TIL that I can also run the exit server as a container on k8s.... I'm hoping that will make it easier to run `stg` and `dev` instances in parallel.
+ https://inlets.dev/blog/2021/07/27/monthly-subscription.html
+    submitted by    /u/MaximumIndication495  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to update internet disconnected devices on homes network?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osss2f/how_to_update_internet_disconnected_devices_on/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osss2f/how_to_update_internet_disconnected_devices_on/"/>
+        <updated>2021-07-27T18:50:28.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/artemis057  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toyota bet wrong on EVs, so now it’s lobbying to slow the transition]]></title>
+        <id>https://arstechnica.com/?p=1783379</id>
+        <link href="https://arstechnica.com/?p=1783379"/>
+        <updated>2021-07-27T18:30:49.000Z</updated>
+        <summary type="html"><![CDATA[Toyota has stepped up lobbying to preserve its investments in hybrids, hydrogen.]]></summary>
+        <author>
+            <name>Tim De Chant</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook recalls 4 million Quest 2 VR face liners over “rashes and hives”]]></title>
+        <id>https://arstechnica.com/?p=1783373</id>
+        <link href="https://arstechnica.com/?p=1783373"/>
+        <updated>2021-07-27T18:24:40.000Z</updated>
+        <summary type="html"><![CDATA[All Quest 2 systems pulled from shelves ahead of August price, storage refresh.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Headless CMS Explained – What it is and When You Should Use it]]></title>
+        <id>60dabcb327f80207bcdbb316</id>
+        <link href="https://www.freecodecamp.org/news/what-is-headless-cms-explained/"/>
+        <updated>2021-07-27T17:53:47.000Z</updated>
+        <summary type="html"><![CDATA[CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Planing of Home & Server-Hosting Network (Gameserver selfhosting) | Need Advice/Help :)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osqo8c/planing_of_home_serverhosting_network_gameserver/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osqo8c/planing_of_home_serverhosting_network_gameserver/"/>
+        <updated>2021-07-27T16:55:19.000Z</updated>
+        <summary type="html"><![CDATA[Hi
+ so i am currently redoing my Network / planing my new one, but need quite some help bc it gets complicated.
+ Scenario:
+ I got two ISPs/Wan connections (one from my normal ISP and another one from a community Project via Airfiber). Loadbalance & Failover would be nice.
+ I use the network for my private network and homelab stuff and I also want to be able to host some public gameservers for my gaming org (currently running in the cloud) but also want to maintain a high security level for my private stuff.
+ Pls keep in mind for my plan below that i also do a lot of experimenting/ messing around with my UDM Pro and everything behind so i quite often have downtime, which would be bad for the public Gameservers. Therefore my the "server-network" must be able to run independent of the UDM Pro…]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Framework’s lightweight modular laptop is a winner]]></title>
+        <id>https://arstechnica.com/?p=1783255</id>
+        <link href="https://arstechnica.com/?p=1783255"/>
+        <updated>2021-07-27T16:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Framework's laptop isn't just repairable—it's a solid laptop in its own right.]]></summary>
+        <author>
+            <name>Jim Salter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home presence tracking mobile phone]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osq5e4/home_presence_tracking_mobile_phone/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osq5e4/home_presence_tracking_mobile_phone/"/>
+        <updated>2021-07-27T16:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Title says it all, a way to track who is at home using thé wifi connection
+    submitted by    /u/zierbeek  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self hosted torrent search engine and downloader]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/ospkfg/self_hosted_torrent_search_engine_and_downloader/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/ospkfg/self_hosted_torrent_search_engine_and_downloader/"/>
+        <updated>2021-07-27T15:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Hi, question is in the title. Anything you can suggest / use? Thanks
+    submitted by    /u/Sky_Linx  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Immutability – Frozen Objects in JS Explained with Examples]]></title>
+        <id>60fa5ec41d2b080797b81bf8</id>
+        <link href="https://www.freecodecamp.org/news/javascript-immutability-frozen-objects-with-examples/"/>
+        <updated>2021-07-27T15:49:00.000Z</updated>
+        <summary type="html"><![CDATA[In JavaScript, we use an Object to store multiple values as a complex data structure. You create an object with a pair of curly braces {}.  An object can have one or more properties. Each of the properties is a key-value pair separated by a colon(:). The key must be a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Substring – How to Slice a String]]></title>
+        <id>60fbe07822b0e2078fcd09bc</id>
+        <link href="https://www.freecodecamp.org/news/python-substring-how-to-slice-a-string/"/>
+        <updated>2021-07-27T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[In Python, a string is a sequence of characters that may contain special characters or alphanumeric characters. An example of a string is "we meet on Friday at 08:00 am". And you can access specific sub-parts of the string commonly known as substrings. We can define a substring as]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Self-host cloud SSH clients]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osot8h/selfhost_cloud_ssh_clients/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osot8h/selfhost_cloud_ssh_clients/"/>
+        <updated>2021-07-27T15:15:21.000Z</updated>
+        <summary type="html"><![CDATA[Hi,
+ I'm looking for a self-host solution for a web-based cloud SSH client, similar to SHELLNGN Pro.
+ The general idea is to have secured access instantly to my servers without remembering their profiles and setting up ssh key. I don't want to install anything on the servers for many reasons, so any remote control software is not what I need.
+ Does anyone have any suggestions?
+ Thank you.
+    submitted by    /u/drizzleV  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Logical Properties and Values]]></title>
+        <id>https://css-tricks.com/?p=344815</id>
+        <link href="https://css-tricks.com/css-logical-properties-and-values/"/>
+        <updated>2021-07-27T15:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Now that cross-browser support is at a tipping point, it’s a good time to take a look at logical properties and values. If you’re creating a website in multiple languages, logical properties and values are incredibly useful. Even if you’re …
+The post CSS Logical Properties and Values appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ollie Williams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lots of access attempts after exposing my services on port 443]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osn9nq/lots_of_access_attempts_after_exposing_my/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osn9nq/lots_of_access_attempts_after_exposing_my/"/>
+        <updated>2021-07-27T13:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Hi, long time fan of this sub. I recently set up a domain name and a cloudflare account so that I could expose some services on my home network. I used port 443 for https traffic and configured an nginx reverse proxy on the container the traffic was forwarded to. 
+ Thankfully I had ssl certificates generated for full protection from cloudflare, so that nginx would only accept traffic originating from cloudflare, because two days after I set this up, I am getting connection attempts from all over the world. I had over 700 unique attempts in the last 24 hours from the Us, France, Russia, India and China. 
+ I’ve check my logs, and I don’t think that any of them got passed my initial login page. Still, it freaked me out quite a bit so I closed my port. I am wondering if anyone else has had similar experience with exposing their home network to the internet?
+    submitted by    /u/physicsguy21  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blue Origin has a secret project named “Jarvis” to compete with SpaceX]]></title>
+        <id>https://arstechnica.com/?p=1782777</id>
+        <link href="https://arstechnica.com/?p=1782777"/>
+        <updated>2021-07-27T13:00:52.000Z</updated>
+        <summary type="html"><![CDATA[“This is the difference between taking a profit and a loss on New Glenn launches."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software to track your monthly spemdings]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oslqoq/software_to_track_your_monthly_spemdings/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oslqoq/software_to_track_your_monthly_spemdings/"/>
+        <updated>2021-07-27T12:19:31.000Z</updated>
+        <summary type="html"><![CDATA[Hey guys, i am searching for a selfhosted open-source software where i can add each bill i pay (Food, clothes and so on) to track monthly/yearly spendings and so on. 
+ Atm i am using firefly, but there i can only add repeating bills.
+ Is there such a project - if not i then i will try to build such a thing.
+    submitted by    /u/-AdmiralThrawn-  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ia there an alternative for distill.io?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oslh95/ia_there_an_alternative_for_distillio/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oslh95/ia_there_an_alternative_for_distillio/"/>
+        <updated>2021-07-27T12:01:39.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/slumdogbi  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NPM Acces logs?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osl98s/npm_acces_logs/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osl98s/npm_acces_logs/"/>
+        <updated>2021-07-27T11:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Hello everybody,
+ I wanted to add acces logs to NPM, but found very little info and I can't seem to find a way to do it. Do you guys have an idear/know how to do this?
+ Edit: So it turns out it's outputted to /data/logs
+    submitted by    /u/Stetsed  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global vs. Local Styling In Next.js]]></title>
+        <id>https://smashingmagazine.com/2021/07/global-local-styling-nextjs/</id>
+        <link href="https://smashingmagazine.com/2021/07/global-local-styling-nextjs/"/>
+        <updated>2021-07-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexander Dubovoy)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go set up "GoAccess" on the access logs of your main reverse proxy. You wont regret seeing those juicy stats :)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oskfpd/go_set_up_goaccess_on_the_access_logs_of_your/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oskfpd/go_set_up_goaccess_on_the_access_logs_of_your/"/>
+        <updated>2021-07-27T10:44:20.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/Alfagun74  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Help with wireguard reverse proxy]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osjt90/help_with_wireguard_reverse_proxy/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osjt90/help_with_wireguard_reverse_proxy/"/>
+        <updated>2021-07-27T09:52:34.000Z</updated>
+        <summary type="html"><![CDATA[What I already have is this:
+ example.com (VPS) 10.0.0.1 <--- wireguard ---> 10.0.0.2 home server 
+ The VPS is running ufw with the following rule in the nat table: 
+ -A PREROUTING -i eth0 -p tcp -m tcp --dport 80 -j DNAT --to-destination 10.0.0.2 
+ I can curl example.com to access the website hosted on the home server, but not from the VPS. Essentially, packets headed to and originating from example.com are not forwarded to 10.0.0.2. Just to be clear, curl 10.0.0.2 from the VPS works fine.
+ Why is it so, and how can I fix it?
+    submitted by    /u/pyz3n  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basic Nas software]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osidq7/basic_nas_software/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osidq7/basic_nas_software/"/>
+        <updated>2021-07-27T07:49:44.000Z</updated>
+        <summary type="html"><![CDATA[I've tried next cloud but I found it to slow and it did a lot of things that I didn't really need (eg calendar, message ext...). I just want to be able to mount a directory to a network and access it from the internet. 
+ I'm a bit of a noob but I think I've gotten an idea about how docker works so something that can run on docker would be preferable.
+    submitted by    /u/fish4203  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instant messaging platform]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oshyx5/instant_messaging_platform/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oshyx5/instant_messaging_platform/"/>
+        <updated>2021-07-27T07:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Hello, hope everybody is doing well. What are the logistics to hosting your own iMessage? Could this be achieved by hosting a Matrix, XMPP, Rocket.chat, or Zulip server? I’m looking for something where you could also text people with iMessage and not just my platform. Is this possible?
+    submitted by    /u/Other_Account_2507  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[portainer behind nginx proxy manager]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oshjy0/portainer_behind_nginx_proxy_manager/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oshjy0/portainer_behind_nginx_proxy_manager/"/>
+        <updated>2021-07-27T06:37:39.000Z</updated>
+        <summary type="html"><![CDATA[I'd like to set up portainer to be at https://portainer.mydomain.com using nginx proxy manager, however I'm having trouble getting the websockets and API URI to work.
+ Does anyone have this setup running and could you help me out please?
+ p.s. this is not a question on the merits of exposing portainer to the internet. I'm well aware of the risks and I'd like to limit the discussion to how to actually achieve this please.
+    submitted by    /u/Mouseon  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selfhosted social media scraping tool]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/oshfkq/selfhosted_social_media_scraping_tool/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/oshfkq/selfhosted_social_media_scraping_tool/"/>
+        <updated>2021-07-27T06:27:18.000Z</updated>
+        <summary type="html"><![CDATA[I've been using Nextcloud Contacts for a while and really like the concept.
+ For a while now, I've been searching for a tool to sync data from my social media accounts (Facebook, Instagram, Linkedin etc.) to fill vCard fields like the current company they work at.
+ I haven't just found a tool which would allow me to do this, I've seen Facebook exports etc. which are more manual approaches, whereas I would like this solution to be automated.
+ Thank you in advance!
+    submitted by    /u/latemanism  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evernote Alternatives?]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osef8b/evernote_alternatives/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osef8b/evernote_alternatives/"/>
+        <updated>2021-07-27T02:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Can anyone recommend a good Evernote alternative? I set up wiki.js but while it is a great looking wiki I really need something closer to Evernote to keep track of my build notes in. I need the ability for images, code blocks, encrypted notes, ability to mask/encrypt text in a note, etc. Wiki.js is a fantastic wiki but more overhead in creating each page than I want for notes. If you happen to be building a wiki, that’s my number one pick though.
+    submitted by    /u/4AwkwardTriangle4  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inspired by many posts on this subreddit: My dashboard (Homer)]]></title>
+        <id>https://www.reddit.com/r/selfhosted/comments/osdv4o/inspired_by_many_posts_on_this_subreddit_my/</id>
+        <link href="https://www.reddit.com/r/selfhosted/comments/osdv4o/inspired_by_many_posts_on_this_subreddit_my/"/>
+        <updated>2021-07-27T02:17:55.000Z</updated>
+        <summary type="html"><![CDATA[submitted by    /u/tman5400  
+ [link]   [comments]]]></summary>
+        <author>
+            <name>Self-Hosted Alternatives to Popular Services</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel’s foundry roadmap lays out the post-nanometer “Angstrom” era]]></title>
+        <id>https://arstechnica.com/?p=1783201</id>
+        <link href="https://arstechnica.com/?p=1783201"/>
+        <updated>2021-07-27T01:15:23.000Z</updated>
+        <summary type="html"><![CDATA[Could the "Intel 20A" process node (that's 20 Angstroms) rival TSMC and Samsung?]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Looking to Frankenstein a cloud solution]]></title>
         <id>https://www.reddit.com/r/selfhosted/comments/osbvjh/looking_to_frankenstein_a_cloud_solution/</id>
@@ -13426,269 +13932,6 @@ Both are essentially database-backed systems for managing data. HubSpot is both,
 The post Scaling Organizations Should Consider Building a Website Backed by a CRM Platform appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TastyIgniter v3.0.4 released]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o9iksl/tastyigniter_v304_released/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o9iksl/tastyigniter_v304_released/"/>
-        <updated>2021-06-28T11:44:46.000Z</updated>
-        <summary type="html"><![CDATA[After many many months of development, TastyIgniter is available as a stable online food ordering and management software for restaurants!
- ​
- https://forum.tastyigniter.com/d/2520-tastyigniter-v304-suya-released
-    submitted by    /u/sampoyigi  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[can someone recommend me a self hosted photo backup app?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o9hl91/can_someone_recommend_me_a_self_hosted_photo/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o9hl91/can_someone_recommend_me_a_self_hosted_photo/"/>
-        <updated>2021-06-28T10:33:17.000Z</updated>
-        <summary type="html"><![CDATA[if possible, one that:
-  
-runs on linux
- is not too resoures intensive
- does not require port forwarding
- does not rely on any server except my own pc
- encrypted
- has an android app
-  
-   submitted by    /u/Hananelroe  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Custom Emmet Snippets In VS Code]]></title>
-        <id>https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/</id>
-        <link href="https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/"/>
-        <updated>2021-06-28T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Manuel Matuzović)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On-road and off-road in the all-new Ford Bronco]]></title>
-        <id>https://arstechnica.com/?p=1776585</id>
-        <link href="https://arstechnica.com/?p=1776585"/>
-        <updated>2021-06-28T10:00:54.000Z</updated>
-        <summary type="html"><![CDATA[There's a dizzying combination of configurations, but they all feel unstoppable.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homer Dashboard - Login option?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o9gdk1/homer_dashboard_login_option/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o9gdk1/homer_dashboard_login_option/"/>
-        <updated>2021-06-28T08:58:25.000Z</updated>
-        <summary type="html"><![CDATA[I'm currently using Homer as the dashboard on my homepage, but I would like to require a password to access it. Is this a possible option? Any responses would be appreciated.
-    submitted by    /u/Fit_Back_1948  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Released: Selfhosted server independent imap smtp out-of-office autoreply]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o9fd7f/released_selfhosted_server_independent_imap_smtp/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o9fd7f/released_selfhosted_server_independent_imap_smtp/"/>
-        <updated>2021-06-28T07:34:10.000Z</updated>
-        <summary type="html"><![CDATA[praul/autoreply
- https://preview.redd.it/r2yftz94my771.png?width=766&format=png&auto=webp&s=2542b2cab8aa8527d9754e03a87affe0a4520824
- Follow up to: https://www.reddit.com/r/selfhosted/comments/o7ham9/selfhosted_imapsmtp_autoresponder/
- Background: I have several mail accounts, that don't support proper out-of-office / vacation notices. I was pretty sure, I would find an easy imap&smtp-based solution that could run on my own server. I did find.... nothing.
- Well not quite, I did find a gist on github, that essentally gave me a solid foundation to push this further myself.
- Long story short, here is: praul/autoreply (https://github.com/praul/autoreply)
- You can run this in a docker-container or baremetal on python. It supports multiple mail accounts, date-time ranges and re-reply timeouts.
- …]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FireFly III Personal Finance Manager Install Guide, for those that asked :)]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o9dmae/firefly_iii_personal_finance_manager_install/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o9dmae/firefly_iii_personal_finance_manager_install/"/>
-        <updated>2021-06-28T05:17:54.000Z</updated>
-        <summary type="html"><![CDATA[submitted by    /u/CrestedCracker  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video series I'm doing on selfhosting]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o9bfki/video_series_im_doing_on_selfhosting/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o9bfki/video_series_im_doing_on_selfhosting/"/>
-        <updated>2021-06-28T02:51:41.000Z</updated>
-        <summary type="html"><![CDATA[It's something I'm trying out to get people not technically inclined to get more into self-hosting. I'm open to criticism... honestly looking for feedback and to improve here.
- Starting with OMV: https://www.youtube.com/watch?v=txYRFjuxxbs
- Setting up DokuWiki: https://www.youtube.com/watch?v=CzdJvD0Vg2Q
- If this isn't welcome, I'm sorry, just delete it.
-    submitted by    /u/thebottle  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linuxserver.io]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o9930e/linuxserverio/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o9930e/linuxserverio/"/>
-        <updated>2021-06-28T00:22:11.000Z</updated>
-        <summary type="html"><![CDATA[I've pulled a couple of the docker images hosted on Linuxserver.io and they seem pretty decent. I was going to install a few more, but I thought I would ask here first if anyone has had any discussion experience, positive or negative, with Linuxserver.io. 
- https://www.linuxserver.io/
- It's straight docker builds. I usually like to pull from repositories but these docker images sure do make it easy.
-    submitted by    /u/CDarwin7  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arr's Control Panel]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o97l56/arrs_control_panel/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o97l56/arrs_control_panel/"/>
-        <updated>2021-06-27T22:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Is anyone aware of a Docker container with a single Control Panel to Manage Radarr/ Sonarr/ Lidarr Etc.
- I know there are Dashboards. but looking for away to be able to Manage them on one interface
-    submitted by    /u/Snoo71600  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self hosted package tracking suggestions?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o97apc/self_hosted_package_tracking_suggestions/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o97apc/self_hosted_package_tracking_suggestions/"/>
-        <updated>2021-06-27T22:36:15.000Z</updated>
-        <summary type="html"><![CDATA[Are there any self hosted package tracking solutions that folks can suggest? Something where I can plug in a tracking number regardless of carrier, and it tracks it through completion? There are alternatives for android like Shop or OneTracker, but those all require creating accounts or permissions to reading emails, both of which i am trying to avoid. Ideally, looking for a self host-able webapp.
-    submitted by    /u/securisec  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Requesting people's experience going from Google to bitwarden]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o95wdb/requesting_peoples_experience_going_from_google/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o95wdb/requesting_peoples_experience_going_from_google/"/>
-        <updated>2021-06-27T21:19:49.000Z</updated>
-        <summary type="html"><![CDATA[I'm hoping to get people's experiences from moving from Google password manager to Bitwarden.
- I currently use Google password manager for pretty much everything as I use Chrome desktop and own a Android phone.
- On my Google account I have setup 2FA and account activity, however, I have a concern that all the security of my accounts purely rely on no one getting access to my Google account. 
- Would using Bitwarden really elevate that? And is it worth the risk moving it from a reliable cloud service to a self hosted system?
-    submitted by    /u/DaB0om  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[unbound dns super slow on raspberry pi 4 b 4gb]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o95f24/unbound_dns_super_slow_on_raspberry_pi_4_b_4gb/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o95f24/unbound_dns_super_slow_on_raspberry_pi_4_b_4gb/"/>
-        <updated>2021-06-27T20:54:04.000Z</updated>
-        <summary type="html"><![CDATA[so i self hosted unbound on a raspberry pi 4 model b 4gb and when i set the dns server as my dns youtube works fine on my phone (since its not related to dns) but when i search for something or i wanna load a site it doesnt work if i browse the web on the raspberry pi everything works fine and it even shows its forwarded to localhost on the pi hole website
-    submitted by    /u/throwaway564464  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Has anyone successfully installed MonicaCRM in Docker (using Portainer)?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o945on/has_anyone_successfully_installed_monicacrm_in/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o945on/has_anyone_successfully_installed_monicacrm_in/"/>
-        <updated>2021-06-27T19:46:11.000Z</updated>
-        <summary type="html"><![CDATA[UPDATE: Got it to work, the YAML I used for my stack is in the comments. 
- Link to MonicaCRM
- The specific issue I'm having is any docker-compose file you make doesn't seem to matter when it comes to MySQL credentials. The app appears to be obsessed with having the db username has 'homestead'. I have no idea why, I've asked on the 'Dockerholics' group on Facebook and nobody seems to know.
- However, I've seen that someone of you have managed to install it? Could you shine some light on it?
- This is my YAML for the stack, the only thing I've changed is the app secret. I've tried changing the MySQL credentials to various things but the log still outputs this:
- "MySQL Connection Error: (1045) Access denied for user 'homestead'@'172.24.0.3' (using password: YES)"
-    submitted by    /u/FlyingSquidwolf  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Which file server do you prefer ?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o91t0c/which_file_server_do_you_prefer/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o91t0c/which_file_server_do_you_prefer/"/>
-        <updated>2021-06-27T17:41:21.000Z</updated>
-        <summary type="html"><![CDATA[You can explain what you choose and why in comment, it will be very helpful for me :)
- View Poll
-    submitted by    /u/XDavidT  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Personal Money Management software that is Self Hosted?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o90y2f/personal_money_management_software_that_is_self/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o90y2f/personal_money_management_software_that_is_self/"/>
-        <updated>2021-06-27T16:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Hi, i'm looking for money management that is self hosted, and preferably that can read automatically if possible bank accounts and tie into them somehow. 
- I've found a few older posts and look at some software but they appear to be very much geared toward businesses. I also looked at Firefly but it seems to be very manual on the imports. If there isn't really anything that can do automatic imports and I have to go manual route that's fine, just not sure if there is anything better then firefly. 
- Thanks!!
-    submitted by    /u/DeathGhost  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hypnos - The selfhosted Audio Cloud reaches Alpha]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o8zvcl/hypnos_the_selfhosted_audio_cloud_reaches_alpha/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o8zvcl/hypnos_the_selfhosted_audio_cloud_reaches_alpha/"/>
-        <updated>2021-06-27T16:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Hello Everyone,
- for a long Time I searched for a self hosted solution for my Song collection. I was with none of the options I tried really happy. So I decided to develop my own one.
- Hypnos - The selfhosted audio cloud
- Hypnos reads your Songs from a local folder. It uses the Metadata in the files and can use the cover art in the same folder as the Songs/Album. It is 100% free (GPL3) software. Including the javascript(LibreJS compatible). It consists of a back-end service written in rust called Soil and a Typescript front-end called Solanum.
- Your songs will transparently be transcoded to a format that your Browser will understand if required.
- While Hypnos is still very primitive in many areas (no playlist, no user management, etc..) the core feature browsing an playing your Music works.
- I'm posting this here in case some of you find Hypnos interesting/useful.
-    submitted by    /u/Serranya  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Constant Contact Alternative]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o8xhgh/constant_contact_alternative/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o8xhgh/constant_contact_alternative/"/>
-        <updated>2021-06-27T13:52:23.000Z</updated>
-        <summary type="html"><![CDATA[I am looking for a self hosted solution similar to Constant Contact.
-    submitted by    /u/oneslorunner  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anyone using Outline with local auth?]]></title>
-        <id>https://www.reddit.com/r/selfhosted/comments/o8xenq/anyone_using_outline_with_local_auth/</id>
-        <link href="https://www.reddit.com/r/selfhosted/comments/o8xenq/anyone_using_outline_with_local_auth/"/>
-        <updated>2021-06-27T13:47:47.000Z</updated>
-        <summary type="html"><![CDATA[Hello,
- Has anyone managed to set up Outline using any form of a local auth, such as LDAP, by any chance? If so, I'd appreciate some help.
- Thanks!
-    submitted by    /u/zkvvoob  
- [link]   [comments]]]></summary>
-        <author>
-            <name>Self-Hosted Alternatives to Popular Services</name>
         </author>
     </entry>
 </feed>

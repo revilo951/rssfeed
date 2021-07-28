@@ -6,6 +6,204 @@
       "siteUrl": "https://www.reddit.com/r/selfhosted/",
       "articles": [
         {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osyopi/whats_required_to_run_ubuntu_server_for_self/",
+          "author": null,
+          "description": "I found a pc in a thrift store, it’s either 2nd gen i3.Will this be enough to run ubuntu server edition and run a next-cloud bit-warder off it? Or should i look for an upgrade?\n It has 4gb of ram, 500 gb hdd. I know ram should be enough. I’m not sure about the processor power.\n This is step 2 of degoogle-ing\n    submitted by    /u/buttler69  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osyopi/whats_required_to_run_ubuntu_server_for_self/",
+          "publishedOn": "2021-07-28T00:14:15.000Z",
+          "wordCount": 240,
+          "title": "What’s required to run ubuntu server for self hosting (bitwarden and next cloud)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osxxdw/i_have_a_web_domain_that_i_want_to_use_for_email/",
+          "author": null,
+          "description": "I want to use microsoft because i dont really want to self host, and because it has good calendar and email web service. but I want to be able to use my custom domain name to send and receive emails. can i do this without making an outlook account first?\n    submitted by    /u/futurepersonified  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osxxdw/i_have_a_web_domain_that_i_want_to_use_for_email/",
+          "publishedOn": "2021-07-27T23:31:04.000Z",
+          "wordCount": 279,
+          "title": "I have a web domain that I want to use for email, with the ability to make aliases (site1/2/3@domain.com), is it possible to do this with Microsoft 365 as the \"front end\"?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osvkb8/homer_dashboard_does_one_must_edit_the_config/",
+          "author": null,
+          "description": "is the only way to add/remove items on the dashboard is to manually edit the config file? Is there a way in the GUI?\n    submitted by    /u/ionet  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osvkb8/homer_dashboard_does_one_must_edit_the_config/",
+          "publishedOn": "2021-07-27T21:23:34.000Z",
+          "wordCount": 191,
+          "title": "Homer dashboard: does one must edit the config file every time?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osuola/a_word_of_caution_about_that_unique_top_level/",
+          "author": null,
+          "description": "Though my last name is not all that common (ranks in the 7000-8000 in world popularity), it is by no means rare. That is why I was super stoked when I picked up lastname.family top level domain... It was something that I can use, keep, give to my kids and pass on....\n I have been attempting to migrate everything to it and ditch Gmail which I have had for ~17 years. This is where the largest problem has arisen.\n Many companies computer systems do not yet accept a .family email address\n So far I have been forced to keep in my old email on file with several larger banks, utility companies and some web services. I am only on day 1 and I have seen about a 25% rejection rate. Not good. \n I can only hope over time this will be corrected.\n    submitted by    /u/yellowfin35  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osuola/a_word_of_caution_about_that_unique_top_level/",
+          "publishedOn": "2021-07-27T20:36:50.000Z",
+          "wordCount": 927,
+          "title": "A word of caution about that unique top level domain"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ossv4m/i_host_at_home_then_reverse_proxy_from_my_isp/",
+          "author": null,
+          "description": "I have been loving the ease with which Inlets sets up and tears down publicly accessible tunnels from my DigitalOcean VMs to my home servers.\n TIL that I can also run the exit server as a container on k8s.... I'm hoping that will make it easier to run `stg` and `dev` instances in parallel.\n https://inlets.dev/blog/2021/07/27/monthly-subscription.html\n    submitted by    /u/MaximumIndication495  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ossv4m/i_host_at_home_then_reverse_proxy_from_my_isp/",
+          "publishedOn": "2021-07-27T18:55:12.000Z",
+          "wordCount": 304,
+          "title": "I host at home, then reverse proxy from my ISP using Inlets Pro"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osss2f/how_to_update_internet_disconnected_devices_on/",
+          "author": null,
+          "description": "submitted by    /u/artemis057  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osss2f/how_to_update_internet_disconnected_devices_on/",
+          "publishedOn": "2021-07-27T18:50:28.000Z",
+          "wordCount": 300,
+          "title": "How to update internet disconnected devices on homes network?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osqo8c/planing_of_home_serverhosting_network_gameserver/",
+          "author": null,
+          "description": "Hi\n so i am currently redoing my Network / planing my new one, but need quite some help bc it gets complicated.\n Scenario:\n I got two ISPs/Wan connections (one from my normal ISP and another one from a community Project via Airfiber). Loadbalance & Failover would be nice.\n I use the network for my private network and homelab stuff and I also want to be able to host some public gameservers for my gaming org (currently running in the cloud) but also want to maintain a high security level for my private stuff.\n Pls keep in mind for my plan below that i also do a lot of experimenting/ messing around with my UDM Pro and everything behind so i quite often have downtime, which would be bad for the public Gameservers. Therefore my the \"server-network\" must be able to run independent of the UDM Pro…",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osqo8c/planing_of_home_serverhosting_network_gameserver/",
+          "publishedOn": "2021-07-27T16:55:19.000Z",
+          "wordCount": 520,
+          "title": "Planing of Home & Server-Hosting Network (Gameserver selfhosting) | Need Advice/Help :)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osq5e4/home_presence_tracking_mobile_phone/",
+          "author": null,
+          "description": "Title says it all, a way to track who is at home using thé wifi connection\n    submitted by    /u/zierbeek  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osq5e4/home_presence_tracking_mobile_phone/",
+          "publishedOn": "2021-07-27T16:25:32.000Z",
+          "wordCount": 406,
+          "title": "Home presence tracking mobile phone"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/ospkfg/self_hosted_torrent_search_engine_and_downloader/",
+          "author": null,
+          "description": "Hi, question is in the title. Anything you can suggest / use? Thanks\n    submitted by    /u/Sky_Linx  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/ospkfg/self_hosted_torrent_search_engine_and_downloader/",
+          "publishedOn": "2021-07-27T15:54:24.000Z",
+          "wordCount": 203,
+          "title": "Self hosted torrent search engine and downloader"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osot8h/selfhost_cloud_ssh_clients/",
+          "author": null,
+          "description": "Hi,\n I'm looking for a self-host solution for a web-based cloud SSH client, similar to SHELLNGN Pro.\n The general idea is to have secured access instantly to my servers without remembering their profiles and setting up ssh key. I don't want to install anything on the servers for many reasons, so any remote control software is not what I need.\n Does anyone have any suggestions?\n Thank you.\n    submitted by    /u/drizzleV  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osot8h/selfhost_cloud_ssh_clients/",
+          "publishedOn": "2021-07-27T15:15:21.000Z",
+          "wordCount": 364,
+          "title": "Self-host cloud SSH clients"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osn9nq/lots_of_access_attempts_after_exposing_my/",
+          "author": null,
+          "description": "Hi, long time fan of this sub. I recently set up a domain name and a cloudflare account so that I could expose some services on my home network. I used port 443 for https traffic and configured an nginx reverse proxy on the container the traffic was forwarded to. \n Thankfully I had ssl certificates generated for full protection from cloudflare, so that nginx would only accept traffic originating from cloudflare, because two days after I set this up, I am getting connection attempts from all over the world. I had over 700 unique attempts in the last 24 hours from the Us, France, Russia, India and China. \n I’ve check my logs, and I don’t think that any of them got passed my initial login page. Still, it freaked me out quite a bit so I closed my port. I am wondering if anyone else has had similar experience with exposing their home network to the internet?\n    submitted by    /u/physicsguy21  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osn9nq/lots_of_access_attempts_after_exposing_my/",
+          "publishedOn": "2021-07-27T13:53:31.000Z",
+          "wordCount": 808,
+          "title": "Lots of access attempts after exposing my services on port 443"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oslqoq/software_to_track_your_monthly_spemdings/",
+          "author": null,
+          "description": "Hey guys, i am searching for a selfhosted open-source software where i can add each bill i pay (Food, clothes and so on) to track monthly/yearly spendings and so on. \n Atm i am using firefly, but there i can only add repeating bills.\n Is there such a project - if not i then i will try to build such a thing.\n    submitted by    /u/-AdmiralThrawn-  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oslqoq/software_to_track_your_monthly_spemdings/",
+          "publishedOn": "2021-07-27T12:19:31.000Z",
+          "wordCount": 351,
+          "title": "Software to track your monthly spemdings"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oslh95/ia_there_an_alternative_for_distillio/",
+          "author": null,
+          "description": "submitted by    /u/slumdogbi  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oslh95/ia_there_an_alternative_for_distillio/",
+          "publishedOn": "2021-07-27T12:01:39.000Z",
+          "wordCount": 157,
+          "title": "Ia there an alternative for distill.io?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osl98s/npm_acces_logs/",
+          "author": null,
+          "description": "Hello everybody,\n I wanted to add acces logs to NPM, but found very little info and I can't seem to find a way to do it. Do you guys have an idear/know how to do this?\n Edit: So it turns out it's outputted to /data/logs\n    submitted by    /u/Stetsed  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osl98s/npm_acces_logs/",
+          "publishedOn": "2021-07-27T11:46:27.000Z",
+          "wordCount": 148,
+          "title": "NPM Acces logs?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oskfpd/go_set_up_goaccess_on_the_access_logs_of_your/",
+          "author": null,
+          "description": "submitted by    /u/Alfagun74  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oskfpd/go_set_up_goaccess_on_the_access_logs_of_your/",
+          "publishedOn": "2021-07-27T10:44:20.000Z",
+          "wordCount": 988,
+          "title": "Go set up \"GoAccess\" on the access logs of your main reverse proxy. You wont regret seeing those juicy stats :)"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osjt90/help_with_wireguard_reverse_proxy/",
+          "author": null,
+          "description": "What I already have is this:\n example.com (VPS) 10.0.0.1 <--- wireguard ---> 10.0.0.2 home server \n The VPS is running ufw with the following rule in the nat table: \n -A PREROUTING -i eth0 -p tcp -m tcp --dport 80 -j DNAT --to-destination 10.0.0.2 \n I can curl example.com to access the website hosted on the home server, but not from the VPS. Essentially, packets headed to and originating from example.com are not forwarded to 10.0.0.2. Just to be clear, curl 10.0.0.2 from the VPS works fine.\n Why is it so, and how can I fix it?\n    submitted by    /u/pyz3n  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osjt90/help_with_wireguard_reverse_proxy/",
+          "publishedOn": "2021-07-27T09:52:34.000Z",
+          "wordCount": 310,
+          "title": "Help with wireguard reverse proxy"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osidq7/basic_nas_software/",
+          "author": null,
+          "description": "I've tried next cloud but I found it to slow and it did a lot of things that I didn't really need (eg calendar, message ext...). I just want to be able to mount a directory to a network and access it from the internet. \n I'm a bit of a noob but I think I've gotten an idea about how docker works so something that can run on docker would be preferable.\n    submitted by    /u/fish4203  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osidq7/basic_nas_software/",
+          "publishedOn": "2021-07-27T07:49:44.000Z",
+          "wordCount": 315,
+          "title": "Basic Nas software"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oshyx5/instant_messaging_platform/",
+          "author": null,
+          "description": "Hello, hope everybody is doing well. What are the logistics to hosting your own iMessage? Could this be achieved by hosting a Matrix, XMPP, Rocket.chat, or Zulip server? I’m looking for something where you could also text people with iMessage and not just my platform. Is this possible?\n    submitted by    /u/Other_Account_2507  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oshyx5/instant_messaging_platform/",
+          "publishedOn": "2021-07-27T07:12:57.000Z",
+          "wordCount": 235,
+          "title": "Instant messaging platform"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oshjy0/portainer_behind_nginx_proxy_manager/",
+          "author": null,
+          "description": "I'd like to set up portainer to be at https://portainer.mydomain.com using nginx proxy manager, however I'm having trouble getting the websockets and API URI to work.\n Does anyone have this setup running and could you help me out please?\n p.s. this is not a question on the merits of exposing portainer to the internet. I'm well aware of the risks and I'd like to limit the discussion to how to actually achieve this please.\n    submitted by    /u/Mouseon  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oshjy0/portainer_behind_nginx_proxy_manager/",
+          "publishedOn": "2021-07-27T06:37:39.000Z",
+          "wordCount": 283,
+          "title": "portainer behind nginx proxy manager"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/oshfkq/selfhosted_social_media_scraping_tool/",
+          "author": null,
+          "description": "I've been using Nextcloud Contacts for a while and really like the concept.\n For a while now, I've been searching for a tool to sync data from my social media accounts (Facebook, Instagram, Linkedin etc.) to fill vCard fields like the current company they work at.\n I haven't just found a tool which would allow me to do this, I've seen Facebook exports etc. which are more manual approaches, whereas I would like this solution to be automated.\n Thank you in advance!\n    submitted by    /u/latemanism  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/oshfkq/selfhosted_social_media_scraping_tool/",
+          "publishedOn": "2021-07-27T06:27:18.000Z",
+          "wordCount": 214,
+          "title": "Selfhosted social media scraping tool"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osef8b/evernote_alternatives/",
+          "author": null,
+          "description": "Can anyone recommend a good Evernote alternative? I set up wiki.js but while it is a great looking wiki I really need something closer to Evernote to keep track of my build notes in. I need the ability for images, code blocks, encrypted notes, ability to mask/encrypt text in a note, etc. Wiki.js is a fantastic wiki but more overhead in creating each page than I want for notes. If you happen to be building a wiki, that’s my number one pick though.\n    submitted by    /u/4AwkwardTriangle4  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osef8b/evernote_alternatives/",
+          "publishedOn": "2021-07-27T02:52:24.000Z",
+          "wordCount": 384,
+          "title": "Evernote Alternatives?"
+        },
+        {
+          "id": "https://www.reddit.com/r/selfhosted/comments/osdv4o/inspired_by_many_posts_on_this_subreddit_my/",
+          "author": null,
+          "description": "submitted by    /u/tman5400  \n [link]   [comments]",
+          "link": "https://www.reddit.com/r/selfhosted/comments/osdv4o/inspired_by_many_posts_on_this_subreddit_my/",
+          "publishedOn": "2021-07-27T02:17:55.000Z",
+          "wordCount": 323,
+          "title": "Inspired by many posts on this subreddit: My dashboard (Homer)"
+        },
+        {
           "id": "https://www.reddit.com/r/selfhosted/comments/osbvjh/looking_to_frankenstein_a_cloud_solution/",
           "author": null,
           "description": "My current cloud setup is just using Nextcloud. However I'm wanting to expand my horizons on this, mainly because of some smaller annoying issues with it related to sync. Conflicts that keep appearing, unable to ignore a specific folder from syncing (without it deleting it - ignore file doesn't work).\n Originally I used Nextcloud since it has lots of cool features with the apps, and I really like the calendar sync, but that I should be able to move if I switch.\n I really like Syncthing, and was thinking of maybe using that as a \"backend\", and then search for something I can put in front of it for accessing on remote machines, and also for sharing files.\n Have seen Seafile which looks promising, but I'd like to have more control over permissions and users etc. - and really just wanna hear what options I got.\n Are there any solutions that would work well? For example I'd set it up to look/use the directory that Syncthing is syncing then.\n Any ideas?\n    submitted by    /u/mikkel1156  \n [link]   [comments]",
@@ -5143,159 +5341,6 @@
           "publishedOn": "2021-06-28T14:44:59.000Z",
           "wordCount": 365,
           "title": "Anyone managed running a google docs replacement on Rpi+RaspberryOS 64bits ?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o9iksl/tastyigniter_v304_released/",
-          "author": null,
-          "description": "After many many months of development, TastyIgniter is available as a stable online food ordering and management software for restaurants!\n ​\n https://forum.tastyigniter.com/d/2520-tastyigniter-v304-suya-released\n    submitted by    /u/sampoyigi  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o9iksl/tastyigniter_v304_released/",
-          "publishedOn": "2021-06-28T11:44:46.000Z",
-          "wordCount": 169,
-          "title": "TastyIgniter v3.0.4 released"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o9hl91/can_someone_recommend_me_a_self_hosted_photo/",
-          "author": null,
-          "description": "if possible, one that:\n  \nruns on linux\n is not too resoures intensive\n does not require port forwarding\n does not rely on any server except my own pc\n encrypted\n has an android app\n  \n   submitted by    /u/Hananelroe  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o9hl91/can_someone_recommend_me_a_self_hosted_photo/",
-          "publishedOn": "2021-06-28T10:33:17.000Z",
-          "wordCount": 367,
-          "title": "can someone recommend me a self hosted photo backup app?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o9gdk1/homer_dashboard_login_option/",
-          "author": null,
-          "description": "I'm currently using Homer as the dashboard on my homepage, but I would like to require a password to access it. Is this a possible option? Any responses would be appreciated.\n    submitted by    /u/Fit_Back_1948  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o9gdk1/homer_dashboard_login_option/",
-          "publishedOn": "2021-06-28T08:58:25.000Z",
-          "wordCount": 251,
-          "title": "Homer Dashboard - Login option?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o9fd7f/released_selfhosted_server_independent_imap_smtp/",
-          "author": null,
-          "description": "praul/autoreply\n https://preview.redd.it/r2yftz94my771.png?width=766&format=png&auto=webp&s=2542b2cab8aa8527d9754e03a87affe0a4520824\n Follow up to: https://www.reddit.com/r/selfhosted/comments/o7ham9/selfhosted_imapsmtp_autoresponder/\n Background: I have several mail accounts, that don't support proper out-of-office / vacation notices. I was pretty sure, I would find an easy imap&smtp-based solution that could run on my own server. I did find.... nothing.\n Well not quite, I did find a gist on github, that essentally gave me a solid foundation to push this further myself.\n Long story short, here is: praul/autoreply (https://github.com/praul/autoreply)\n You can run this in a docker-container or baremetal on python. It supports multiple mail accounts, date-time ranges and re-reply timeouts.\n …",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o9fd7f/released_selfhosted_server_independent_imap_smtp/",
-          "publishedOn": "2021-06-28T07:34:10.000Z",
-          "wordCount": 624,
-          "title": "Released: Selfhosted server independent imap smtp out-of-office autoreply"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o9dmae/firefly_iii_personal_finance_manager_install/",
-          "author": null,
-          "description": "submitted by    /u/CrestedCracker  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o9dmae/firefly_iii_personal_finance_manager_install/",
-          "publishedOn": "2021-06-28T05:17:54.000Z",
-          "wordCount": 257,
-          "title": "FireFly III Personal Finance Manager Install Guide, for those that asked :)"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o9bfki/video_series_im_doing_on_selfhosting/",
-          "author": null,
-          "description": "It's something I'm trying out to get people not technically inclined to get more into self-hosting. I'm open to criticism... honestly looking for feedback and to improve here.\n Starting with OMV: https://www.youtube.com/watch?v=txYRFjuxxbs\n Setting up DokuWiki: https://www.youtube.com/watch?v=CzdJvD0Vg2Q\n If this isn't welcome, I'm sorry, just delete it.\n    submitted by    /u/thebottle  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o9bfki/video_series_im_doing_on_selfhosting/",
-          "publishedOn": "2021-06-28T02:51:41.000Z",
-          "wordCount": 514,
-          "title": "Video series I'm doing on selfhosting"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o9930e/linuxserverio/",
-          "author": null,
-          "description": "I've pulled a couple of the docker images hosted on Linuxserver.io and they seem pretty decent. I was going to install a few more, but I thought I would ask here first if anyone has had any discussion experience, positive or negative, with Linuxserver.io. \n https://www.linuxserver.io/\n It's straight docker builds. I usually like to pull from repositories but these docker images sure do make it easy.\n    submitted by    /u/CDarwin7  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o9930e/linuxserverio/",
-          "publishedOn": "2021-06-28T00:22:11.000Z",
-          "wordCount": 174,
-          "title": "Linuxserver.io"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o97l56/arrs_control_panel/",
-          "author": null,
-          "description": "Is anyone aware of a Docker container with a single Control Panel to Manage Radarr/ Sonarr/ Lidarr Etc.\n I know there are Dashboards. but looking for away to be able to Manage them on one interface\n    submitted by    /u/Snoo71600  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o97l56/arrs_control_panel/",
-          "publishedOn": "2021-06-27T22:53:01.000Z",
-          "wordCount": 152,
-          "title": "Arr's Control Panel"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o97apc/self_hosted_package_tracking_suggestions/",
-          "author": null,
-          "description": "Are there any self hosted package tracking solutions that folks can suggest? Something where I can plug in a tracking number regardless of carrier, and it tracks it through completion? There are alternatives for android like Shop or OneTracker, but those all require creating accounts or permissions to reading emails, both of which i am trying to avoid. Ideally, looking for a self host-able webapp.\n    submitted by    /u/securisec  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o97apc/self_hosted_package_tracking_suggestions/",
-          "publishedOn": "2021-06-27T22:36:15.000Z",
-          "wordCount": 356,
-          "title": "Self hosted package tracking suggestions?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o95wdb/requesting_peoples_experience_going_from_google/",
-          "author": null,
-          "description": "I'm hoping to get people's experiences from moving from Google password manager to Bitwarden.\n I currently use Google password manager for pretty much everything as I use Chrome desktop and own a Android phone.\n On my Google account I have setup 2FA and account activity, however, I have a concern that all the security of my accounts purely rely on no one getting access to my Google account. \n Would using Bitwarden really elevate that? And is it worth the risk moving it from a reliable cloud service to a self hosted system?\n    submitted by    /u/DaB0om  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o95wdb/requesting_peoples_experience_going_from_google/",
-          "publishedOn": "2021-06-27T21:19:49.000Z",
-          "wordCount": 668,
-          "title": "Requesting people's experience going from Google to bitwarden"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o95f24/unbound_dns_super_slow_on_raspberry_pi_4_b_4gb/",
-          "author": null,
-          "description": "so i self hosted unbound on a raspberry pi 4 model b 4gb and when i set the dns server as my dns youtube works fine on my phone (since its not related to dns) but when i search for something or i wanna load a site it doesnt work if i browse the web on the raspberry pi everything works fine and it even shows its forwarded to localhost on the pi hole website\n    submitted by    /u/throwaway564464  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o95f24/unbound_dns_super_slow_on_raspberry_pi_4_b_4gb/",
-          "publishedOn": "2021-06-27T20:54:04.000Z",
-          "wordCount": 254,
-          "title": "unbound dns super slow on raspberry pi 4 b 4gb"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o945on/has_anyone_successfully_installed_monicacrm_in/",
-          "author": null,
-          "description": "UPDATE: Got it to work, the YAML I used for my stack is in the comments. \n Link to MonicaCRM\n The specific issue I'm having is any docker-compose file you make doesn't seem to matter when it comes to MySQL credentials. The app appears to be obsessed with having the db username has 'homestead'. I have no idea why, I've asked on the 'Dockerholics' group on Facebook and nobody seems to know.\n However, I've seen that someone of you have managed to install it? Could you shine some light on it?\n This is my YAML for the stack, the only thing I've changed is the app secret. I've tried changing the MySQL credentials to various things but the log still outputs this:\n \"MySQL Connection Error: (1045) Access denied for user 'homestead'@'172.24.0.3' (using password: YES)\"\n    submitted by    /u/FlyingSquidwolf  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o945on/has_anyone_successfully_installed_monicacrm_in/",
-          "publishedOn": "2021-06-27T19:46:11.000Z",
-          "wordCount": 268,
-          "title": "Has anyone successfully installed MonicaCRM in Docker (using Portainer)?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o91t0c/which_file_server_do_you_prefer/",
-          "author": null,
-          "description": "You can explain what you choose and why in comment, it will be very helpful for me :)\n View Poll\n    submitted by    /u/XDavidT  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o91t0c/which_file_server_do_you_prefer/",
-          "publishedOn": "2021-06-27T17:41:21.000Z",
-          "wordCount": 240,
-          "title": "Which file server do you prefer ?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o90y2f/personal_money_management_software_that_is_self/",
-          "author": null,
-          "description": "Hi, i'm looking for money management that is self hosted, and preferably that can read automatically if possible bank accounts and tie into them somehow. \n I've found a few older posts and look at some software but they appear to be very much geared toward businesses. I also looked at Firefly but it seems to be very manual on the imports. If there isn't really anything that can do automatic imports and I have to go manual route that's fine, just not sure if there is anything better then firefly. \n Thanks!!\n    submitted by    /u/DeathGhost  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o90y2f/personal_money_management_software_that_is_self/",
-          "publishedOn": "2021-06-27T16:56:08.000Z",
-          "wordCount": 912,
-          "title": "Personal Money Management software that is Self Hosted?"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o8zvcl/hypnos_the_selfhosted_audio_cloud_reaches_alpha/",
-          "author": null,
-          "description": "Hello Everyone,\n for a long Time I searched for a self hosted solution for my Song collection. I was with none of the options I tried really happy. So I decided to develop my own one.\n Hypnos - The selfhosted audio cloud\n Hypnos reads your Songs from a local folder. It uses the Metadata in the files and can use the cover art in the same folder as the Songs/Album. It is 100% free (GPL3) software. Including the javascript(LibreJS compatible). It consists of a back-end service written in rust called Soil and a Typescript front-end called Solanum.\n Your songs will transparently be transcoded to a format that your Browser will understand if required.\n While Hypnos is still very primitive in many areas (no playlist, no user management, etc..) the core feature browsing an playing your Music works.\n I'm posting this here in case some of you find Hypnos interesting/useful.\n    submitted by    /u/Serranya  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o8zvcl/hypnos_the_selfhosted_audio_cloud_reaches_alpha/",
-          "publishedOn": "2021-06-27T16:00:26.000Z",
-          "wordCount": 404,
-          "title": "Hypnos - The selfhosted Audio Cloud reaches Alpha"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o8xhgh/constant_contact_alternative/",
-          "author": null,
-          "description": "I am looking for a self hosted solution similar to Constant Contact.\n    submitted by    /u/oneslorunner  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o8xhgh/constant_contact_alternative/",
-          "publishedOn": "2021-06-27T13:52:23.000Z",
-          "wordCount": 131,
-          "title": "Constant Contact Alternative"
-        },
-        {
-          "id": "https://www.reddit.com/r/selfhosted/comments/o8xenq/anyone_using_outline_with_local_auth/",
-          "author": null,
-          "description": "Hello,\n Has anyone managed to set up Outline using any form of a local auth, such as LDAP, by any chance? If so, I'd appreciate some help.\n Thanks!\n    submitted by    /u/zkvvoob  \n [link]   [comments]",
-          "link": "https://www.reddit.com/r/selfhosted/comments/o8xenq/anyone_using_outline_with_local_auth/",
-          "publishedOn": "2021-06-27T13:47:47.000Z",
-          "wordCount": 313,
-          "title": "Anyone using Outline with local auth?"
         }
       ]
     },
@@ -5310,6 +5355,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=345169",
+          "author": "Chris Coyier",
+          "description": "I got together with Tim Kadlec from over at WebPageTest the other day to use do a bit of performance testing on CSS-Tricks. Essentially use the tool, poke around, and identify performance pain points to work on. You can watch …\nThe post Learnings From a WebPageTest Session on CSS-Tricks appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/learnings-from-a-webpagetest-session-on-css-tricks/",
+          "publishedOn": "2021-07-27T23:18:33.000Z",
+          "wordCount": 1430,
+          "title": "Learnings From a WebPageTest Session on CSS-Tricks"
+        },
+        {
+          "id": "https://css-tricks.com/?p=345400",
+          "author": "Chris Coyier",
+          "description": "Hemanth HM very succinctly shows off ES2021 features. Gosh it doesn’t feel like that long ago that all we could talk about is ES2015, and now that’s over a half-decade behind us. \nThere are new things like “arbitrarily chuck underscores …\nThe post ES2021 Features appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://h3manth.com/ES2021/",
+          "publishedOn": "2021-07-27T23:18:12.000Z",
+          "wordCount": 316,
+          "title": "ES2021 Features"
+        },
+        {
+          "id": "https://css-tricks.com/?p=344815",
+          "author": "Ollie Williams",
+          "description": "Now that cross-browser support is at a tipping point, it’s a good time to take a look at logical properties and values. If you’re creating a website in multiple languages, logical properties and values are incredibly useful. Even if you’re …\nThe post CSS Logical Properties and Values appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/css-logical-properties-and-values/",
+          "publishedOn": "2021-07-27T15:02:43.000Z",
+          "wordCount": 2605,
+          "title": "CSS Logical Properties and Values"
+        },
         {
           "id": "https://css-tricks.com/?p=345297",
           "author": "Chris Coyier",
@@ -5822,6 +5894,20 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
+          "author": "hello@smashingmagazine.com (Alexander Dubovoy)",
+          "description": "Next.js has strong opinions about how to organize JavaScript but not CSS. How can we develop patterns that encourage best CSS practices while also following the framework’s logic? The answer is surprisingly simple — to write well-structured CSS that balances global and local styling concerns.",
+          "link": "https://smashingmagazine.com/2021/07/global-local-styling-nextjs/",
+          "publishedOn": "2021-07-27T11:00:00.000Z",
+          "wordCount": 3560,
+          "title": "Global vs. Local Styling In Next.js",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a1756133-541e-429d-82dd-fb6f3988ef56/global-local-styling-nextjs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/",
           "author": "hello@smashingmagazine.com (Paul Scanlon)",
           "description": "Gatsby recently announced the launch of “functions”. In this article, Paul Scanlon explains how to get the current location of the International Space Station (ISS) as it orbits the Earth in real-time using [Gatsby Functions](https://www.gatsbyjs.com/docs/reference/functions/) and then display it on a 3D interactive globe using [React Three Fibre](https://github.com/pmndrs/react-three-fiber).",
@@ -6156,20 +6242,6 @@
             "length": "0",
             "type": "image/jpg"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "author": "hello@smashingmagazine.com (Manuel Matuzović)",
-          "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
-          "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2474,
-          "title": "Creating Custom Emmet Snippets In VS Code",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -6178,6 +6250,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60ffec493306a507d1bf98f4",
+          "author": null,
+          "description": "Loops let you control the logic and flow structures of your programs.  Specifically, a for loop lets you execute a block of similar code operations, over and over again, until a condition is met.  You repeat certain code instructions for a set of values you determine, and you perform actions",
+          "link": "https://www.freecodecamp.org/news/python-for-loop-example-and-tutorial/",
+          "publishedOn": "2021-07-27T22:36:10.000Z",
+          "wordCount": 1528,
+          "title": "Python For Loop – Example and Tutorial"
+        },
+        {
+          "id": "60ff23533306a507d1bf9345",
+          "author": null,
+          "description": "In this post, we’ll look at 4 different ways to flatten a dict in Python. For each method I’ll point out the pros and cons, and I'll give a quick performance analysis. For this tutorial, I ran all examples on Python 3.7. Why Should You Know How",
+          "link": "https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/",
+          "publishedOn": "2021-07-27T19:59:00.000Z",
+          "wordCount": 1729,
+          "title": "How to Flatten a Dictionary in Python in 4 Different Ways"
+        },
+        {
+          "id": "60dabcb327f80207bcdbb316",
+          "author": null,
+          "description": "CMSs are pretty hard to ignore because they're everywhere on the internet. WordPress, for example, powers nearly 40% of the internet today.  In this article, we'll cover what CMSs are and why you should care about them. I'll also introduce you to a new type of CMS that seems to",
+          "link": "https://www.freecodecamp.org/news/what-is-headless-cms-explained/",
+          "publishedOn": "2021-07-27T17:53:47.000Z",
+          "wordCount": 1363,
+          "title": "Headless CMS Explained – What it is and When You Should Use it"
+        },
+        {
+          "id": "60fa5ec41d2b080797b81bf8",
+          "author": null,
+          "description": "In JavaScript, we use an Object to store multiple values as a complex data structure. You create an object with a pair of curly braces {}.  An object can have one or more properties. Each of the properties is a key-value pair separated by a colon(:). The key must be a",
+          "link": "https://www.freecodecamp.org/news/javascript-immutability-frozen-objects-with-examples/",
+          "publishedOn": "2021-07-27T15:49:00.000Z",
+          "wordCount": 1704,
+          "title": "JavaScript Immutability – Frozen Objects in JS Explained with Examples"
+        },
+        {
+          "id": "60fbe07822b0e2078fcd09bc",
+          "author": null,
+          "description": "In Python, a string is a sequence of characters that may contain special characters or alphanumeric characters. An example of a string is \"we meet on Friday at 08:00 am\". And you can access specific sub-parts of the string commonly known as substrings. We can define a substring as",
+          "link": "https://www.freecodecamp.org/news/python-substring-how-to-slice-a-string/",
+          "publishedOn": "2021-07-27T15:24:00.000Z",
+          "wordCount": 974,
+          "title": "Python Substring – How to Slice a String"
+        },
         {
           "id": "60fc070722b0e2078fcd0ae1",
           "author": null,
@@ -6905,6 +7022,114 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index/",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1783549",
+          "author": "John Timmer",
+          "description": "Most honeycombs are perfect hexagons—but bees manage complex exceptions.",
+          "link": "https://arstechnica.com/?p=1783549",
+          "publishedOn": "2021-07-27T23:12:58.000Z",
+          "wordCount": 1197,
+          "title": "Mergers, twists, and pentagons: The architecture of honeycombs"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783524",
+          "author": "Samuel Axon",
+          "description": "But the company warned of coming iPhone and iPad supply constraints.",
+          "link": "https://arstechnica.com/?p=1783524",
+          "publishedOn": "2021-07-27T22:10:27.000Z",
+          "wordCount": 801,
+          "title": "Apple reports a 50% year-over-year jump in iPhone sales"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783521",
+          "author": "Beth Mole",
+          "description": "Fully vaccinated people should mask up in high-transmission areas, schools.",
+          "link": "https://arstechnica.com/?p=1783521",
+          "publishedOn": "2021-07-27T20:56:57.000Z",
+          "wordCount": 1256,
+          "title": "CDC mask reversal: Vaccinated should wear masks in many settings amid surge"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783333",
+          "author": "Jennifer Ouellette",
+          "description": "A gang of mini Stay-Puft marshmallow men in a Walmart steals the show.",
+          "link": "https://arstechnica.com/?p=1783333",
+          "publishedOn": "2021-07-27T20:09:00.000Z",
+          "wordCount": 1358,
+          "title": "New Ghostbusters: Afterlife trailer teases return of lots of familiar faces"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783404",
+          "author": "Kyle Orland",
+          "description": "Organizers seek movement on diversity, pay transparency, arbitration clauses.",
+          "link": "https://arstechnica.com/?p=1783404",
+          "publishedOn": "2021-07-27T19:36:15.000Z",
+          "wordCount": 1391,
+          "title": "Activision Blizzard “Walkout for Equality” to protest management inaction"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783431",
+          "author": "Jon Brodkin",
+          "description": "Starlink and other ISPs may have to give up money that Pai shouldn't have awarded.",
+          "link": "https://arstechnica.com/?p=1783431",
+          "publishedOn": "2021-07-27T19:17:00.000Z",
+          "wordCount": 1963,
+          "title": "Ajit Pai apparently mismanaged $9 billion fund—new FCC boss starts “cleanup”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783100",
+          "author": "Ron Amadeo",
+          "description": "GCP offers a stability promise that the rest of the company could learn from.",
+          "link": "https://arstechnica.com/?p=1783100",
+          "publishedOn": "2021-07-27T19:01:12.000Z",
+          "wordCount": 1244,
+          "title": "Google Cloud offers a model for fixing Google’s product-killing reputation"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783379",
+          "author": "Tim De Chant",
+          "description": "Toyota has stepped up lobbying to preserve its investments in hybrids, hydrogen.",
+          "link": "https://arstechnica.com/?p=1783379",
+          "publishedOn": "2021-07-27T18:30:49.000Z",
+          "wordCount": 1445,
+          "title": "Toyota bet wrong on EVs, so now it’s lobbying to slow the transition"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783373",
+          "author": "Sam Machkovech",
+          "description": "All Quest 2 systems pulled from shelves ahead of August price, storage refresh.",
+          "link": "https://arstechnica.com/?p=1783373",
+          "publishedOn": "2021-07-27T18:24:40.000Z",
+          "wordCount": 1124,
+          "title": "Facebook recalls 4 million Quest 2 VR face liners over “rashes and hives”"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783255",
+          "author": "Jim Salter",
+          "description": "Framework's laptop isn't just repairable—it's a solid laptop in its own right.",
+          "link": "https://arstechnica.com/?p=1783255",
+          "publishedOn": "2021-07-27T16:45:53.000Z",
+          "wordCount": 2299,
+          "title": "Review: Framework’s lightweight modular laptop is a winner"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1782777",
+          "author": "Eric Berger",
+          "description": "“This is the difference between taking a profit and a loss on New Glenn launches.\"",
+          "link": "https://arstechnica.com/?p=1782777",
+          "publishedOn": "2021-07-27T13:00:52.000Z",
+          "wordCount": 1398,
+          "title": "Blue Origin has a secret project named “Jarvis” to compete with SpaceX"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1783201",
+          "author": "Ron Amadeo",
+          "description": "Could the \"Intel 20A\" process node (that's 20 Angstroms) rival TSMC and Samsung?",
+          "link": "https://arstechnica.com/?p=1783201",
+          "publishedOn": "2021-07-27T01:15:23.000Z",
+          "wordCount": 1095,
+          "title": "Intel’s foundry roadmap lays out the post-nanometer “Angstrom” era"
+        },
         {
           "id": "https://arstechnica.com/?p=1783237",
           "author": "Beth Mole",
@@ -9739,15 +9964,6 @@
           "publishedOn": "2021-06-28T15:00:16.000Z",
           "wordCount": 1433,
           "title": "Newly discovered supernova may be same type as the one observed in 1054"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1776585",
-          "author": "Jonathan M. Gitlin",
-          "description": "There's a dizzying combination of configurations, but they all feel unstoppable.",
-          "link": "https://arstechnica.com/?p=1776585",
-          "publishedOn": "2021-06-28T10:00:54.000Z",
-          "wordCount": 1150,
-          "title": "On-road and off-road in the all-new Ford Bronco"
         }
       ]
     }
